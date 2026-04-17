@@ -1,3 +1,4 @@
+
 .inventory-root {
     flex-grow: 1;
     background-color: rgb(13, 11, 10);
@@ -63,8 +64,6 @@
     border-top-right-radius: 3px;
     border-bottom-left-radius: 0;
     border-bottom-right-radius: 0;
-    transition-property: background-color, border-color;
-    transition-duration: 0.1s;
 }
 
 .tab-icon {
@@ -87,14 +86,6 @@
     cursor: link;
 }
 
-.tab:hover .tab-icon {
-    color: rgb(201, 168, 76);
-}
-
-.tab:hover .tab-label {
-    color: rgb(201, 168, 76);
-}
-
 .selected-tab {
     background-color: rgb(46, 34, 16);
     border-color: rgb(201, 168, 76);
@@ -103,19 +94,17 @@
     border-bottom-width: 0;
 }
 
-.selected-tab .tab-icon {
+.selected-tab > .tab-icon {
     color: rgb(240, 208, 128);
 }
 
-.selected-tab .tab-label {
+.selected-tab > .tab-label {
     color: rgb(240, 208, 128);
 }
 
 .separator {
     height: 2px;
     background-color: rgb(107, 83, 32);
-    margin-left: 0;
-    margin-right: 0;
 }
 
 .content-area {
@@ -133,7 +122,9 @@
     flex-direction: column;
 }
 
-
+.unselected-content {
+    display: none;
+}
 
 .content-title {
     color: rgb(201, 168, 76);
@@ -149,6 +140,27 @@
     margin-bottom: 8px;
 }
 
+.styled-button {
+    background-color: rgb(42, 30, 10);
+    color: rgb(201, 168, 76);
+    border-color: rgb(107, 83, 32);
+    border-width: 2px;
+    margin-top: 8px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-left: 16px;
+    padding-right: 16px;
+    font-size: 13px;
+    letter-spacing: 1px;
+    -unity-font-style: bold;
+}
 
+.styled-button:hover {
+    background-color: rgb(58, 42, 16);
+    border-color: rgb(201, 168, 76);
+}
 
-
+.styled-foldout {
+    color: rgb(176, 160, 128);
+    margin-top: 8px;
+}
