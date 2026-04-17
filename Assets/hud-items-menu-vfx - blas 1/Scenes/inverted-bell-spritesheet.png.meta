@@ -1,0 +1,2171 @@
+fileFormatVersion: 2
+guid: 75adc4256b97a534da8d8812c504922a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8513028301595529140
+    second: inverted-bell-spritesheet_0
+  - first:
+      213: 1591995838305422306
+    second: inverted-bell-spritesheet_1
+  - first:
+      213: -2549296652230070272
+    second: inverted-bell-spritesheet_2
+  - first:
+      213: 2694103555003994462
+    second: inverted-bell-spritesheet_3
+  - first:
+      213: 5989496370576941749
+    second: inverted-bell-spritesheet_4
+  - first:
+      213: -3726381570820257880
+    second: inverted-bell-spritesheet_5
+  - first:
+      213: -6238994675550973696
+    second: inverted-bell-spritesheet_6
+  - first:
+      213: 9188578953655646947
+    second: inverted-bell-spritesheet_7
+  - first:
+      213: -7275946355843220579
+    second: inverted-bell-spritesheet_8
+  - first:
+      213: 2306875008062139159
+    second: inverted-bell-spritesheet_9
+  - first:
+      213: 8772467428722068859
+    second: inverted-bell-spritesheet_10
+  - first:
+      213: 6338675817727785017
+    second: inverted-bell-spritesheet_11
+  - first:
+      213: 7924833848356136234
+    second: inverted-bell-spritesheet_12
+  - first:
+      213: 6612104018575246280
+    second: inverted-bell-spritesheet_13
+  - first:
+      213: 2514362229285598594
+    second: inverted-bell-spritesheet_14
+  - first:
+      213: 7117398700436157184
+    second: inverted-bell-spritesheet_15
+  - first:
+      213: -6206977752700602658
+    second: inverted-bell-spritesheet_16
+  - first:
+      213: 6440519234240239442
+    second: inverted-bell-spritesheet_17
+  - first:
+      213: -6380503138622577217
+    second: inverted-bell-spritesheet_18
+  - first:
+      213: 6710505384748286348
+    second: inverted-bell-spritesheet_19
+  - first:
+      213: -8983653565688332532
+    second: inverted-bell-spritesheet_20
+  - first:
+      213: 2896662760055138397
+    second: inverted-bell-spritesheet_21
+  - first:
+      213: 8959559000389959221
+    second: inverted-bell-spritesheet_22
+  - first:
+      213: 3783888267935672955
+    second: inverted-bell-spritesheet_23
+  - first:
+      213: 1228351965739896216
+    second: inverted-bell-spritesheet_24
+  - first:
+      213: 7702481301754993062
+    second: inverted-bell-spritesheet_25
+  - first:
+      213: -7771764958416095625
+    second: inverted-bell-spritesheet_26
+  - first:
+      213: 4149455867739555812
+    second: inverted-bell-spritesheet_27
+  - first:
+      213: 8929167893606383590
+    second: inverted-bell-spritesheet_28
+  - first:
+      213: -8118908036865548898
+    second: inverted-bell-spritesheet_29
+  - first:
+      213: -7091697029276339191
+    second: inverted-bell-spritesheet_30
+  - first:
+      213: 2644747228404668113
+    second: inverted-bell-spritesheet_31
+  - first:
+      213: -3891905453223327134
+    second: inverted-bell-spritesheet_32
+  - first:
+      213: -3878521690383773829
+    second: inverted-bell-spritesheet_33
+  - first:
+      213: -1624037954129494201
+    second: inverted-bell-spritesheet_34
+  - first:
+      213: -529102426528177457
+    second: inverted-bell-spritesheet_35
+  - first:
+      213: 2939821547463428507
+    second: inverted-bell-spritesheet_36
+  - first:
+      213: 5138456486919997313
+    second: inverted-bell-spritesheet_37
+  - first:
+      213: 4559960881925193074
+    second: inverted-bell-spritesheet_38
+  - first:
+      213: 7497975489609016084
+    second: inverted-bell-spritesheet_39
+  - first:
+      213: 5228938119639325324
+    second: inverted-bell-spritesheet_40
+  - first:
+      213: 7422070496215161644
+    second: inverted-bell-spritesheet_41
+  - first:
+      213: -7525122370394877762
+    second: inverted-bell-spritesheet_42
+  - first:
+      213: -3541028743319694977
+    second: inverted-bell-spritesheet_43
+  - first:
+      213: -2841713995685343540
+    second: inverted-bell-spritesheet_44
+  - first:
+      213: 2328909179590008306
+    second: inverted-bell-spritesheet_45
+  - first:
+      213: 3755387641244932533
+    second: inverted-bell-spritesheet_46
+  - first:
+      213: -1856837927483141188
+    second: inverted-bell-spritesheet_47
+  - first:
+      213: 3219845452078506095
+    second: inverted-bell-spritesheet_48
+  - first:
+      213: -8153580714026171727
+    second: inverted-bell-spritesheet_49
+  - first:
+      213: -8657953595081766959
+    second: inverted-bell-spritesheet_50
+  - first:
+      213: 780031685141905044
+    second: inverted-bell-spritesheet_51
+  - first:
+      213: -3190330545842768042
+    second: inverted-bell-spritesheet_52
+  - first:
+      213: 6257078040356495995
+    second: inverted-bell-spritesheet_53
+  - first:
+      213: 365139790298087950
+    second: inverted-bell-spritesheet_54
+  - first:
+      213: 6313972456789563753
+    second: inverted-bell-spritesheet_55
+  - first:
+      213: -4280547711901531182
+    second: inverted-bell-spritesheet_56
+  - first:
+      213: 306723610629414138
+    second: inverted-bell-spritesheet_57
+  - first:
+      213: 8722210990503400904
+    second: inverted-bell-spritesheet_58
+  - first:
+      213: -3731107156058305344
+    second: inverted-bell-spritesheet_59
+  - first:
+      213: -7874977637444857095
+    second: inverted-bell-spritesheet_60
+  - first:
+      213: 7918018381797246375
+    second: inverted-bell-spritesheet_61
+  - first:
+      213: 850540280332464796
+    second: inverted-bell-spritesheet_62
+  - first:
+      213: 1247922815616699634
+    second: inverted-bell-spritesheet_63
+  - first:
+      213: -4969955522764759204
+    second: inverted-bell-spritesheet_64
+  - first:
+      213: -3076203298694750454
+    second: inverted-bell-spritesheet_65
+  - first:
+      213: -5080446407661694114
+    second: inverted-bell-spritesheet_66
+  - first:
+      213: -3164916102679048350
+    second: inverted-bell-spritesheet_67
+  - first:
+      213: -8755775740973384115
+    second: inverted-bell-spritesheet_68
+  - first:
+      213: 9022337598025207608
+    second: inverted-bell-spritesheet_69
+  - first:
+      213: -7149009876592259512
+    second: inverted-bell-spritesheet_70
+  - first:
+      213: 4107616600428328807
+    second: inverted-bell-spritesheet_71
+  - first:
+      213: 148296970832108201
+    second: inverted-bell-spritesheet_72
+  - first:
+      213: -7618215927765793801
+    second: inverted-bell-spritesheet_73
+  - first:
+      213: -6622337822201174872
+    second: inverted-bell-spritesheet_74
+  - first:
+      213: -1023899731918829692
+    second: inverted-bell-spritesheet_75
+  - first:
+      213: -3946859091979380992
+    second: inverted-bell-spritesheet_76
+  - first:
+      213: 1643891089810404966
+    second: inverted-bell-spritesheet_77
+  - first:
+      213: -960163189887065524
+    second: inverted-bell-spritesheet_78
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: inverted-bell-spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1001
+        width: 66
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bfc277e22a542670800000000000000
+      internalID: 8513028301595529140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inverted-bell-spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1000
+        width: 66
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eb481ab7c7e71610800000000000000
+      internalID: 1591995838305422306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inverted-bell-spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 976
+        width: 136
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 000fbb893341f9cd0800000000000000
+      internalID: -2549296652230070272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inverted-bell-spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1000
+        width: 66
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e515128c8e0636520800000000000000
+      internalID: 2694103555003994462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inverted-bell-spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1000
+        width: 66
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b2eabf1737fe1350800000000000000
+      internalID: 5989496370576941749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inverted-bell-spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 997
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a742bd54bb394cc0800000000000000
+      internalID: -3726381570820257880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inverted-bell-spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 977
+        width: 53
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0011b30f563aa69a0800000000000000
+      internalID: -6238994675550973696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inverted-bell-spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 988
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ea764b00e3648f70800000000000000
+      internalID: 9188578953655646947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inverted-bell-spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 989
+        width: 130
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9bba27c655a60b90800000000000000
+      internalID: -7275946355843220579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inverted-bell-spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 993
+        width: 70
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71b25c4f89aa30020800000000000000
+      internalID: 2306875008062139159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inverted-bell-spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 990
+        width: 138
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7dc9acd5a01eb970800000000000000
+      internalID: 8772467428722068859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inverted-bell-spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 979
+        width: 66
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 938f50e821087f750800000000000000
+      internalID: 6338675817727785017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inverted-bell-spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 979
+        width: 65
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a256243c56aaafd60800000000000000
+      internalID: 7924833848356136234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inverted-bell-spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 967
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c34c1d8299e2cb50800000000000000
+      internalID: 6612104018575246280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inverted-bell-spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 969
+        width: 114
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2853a39302fc4e220800000000000000
+      internalID: 2514362229285598594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inverted-bell-spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 940
+        width: 69
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 003f250986416c260800000000000000
+      internalID: 7117398700436157184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inverted-bell-spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 947
+        width: 64
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed63781be926cd9a0800000000000000
+      internalID: -6206977752700602658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inverted-bell-spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 956
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 257d5f5ce12516950800000000000000
+      internalID: 6440519234240239442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inverted-bell-spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 933
+        width: 130
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb5e2266336e377a0800000000000000
+      internalID: -6380503138622577217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inverted-bell-spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 956
+        width: 66
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c818449f711802d50800000000000000
+      internalID: 6710505384748286348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inverted-bell-spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 949
+        width: 69
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0fb9ffeda6a35380800000000000000
+      internalID: -8983653565688332532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inverted-bell-spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 966
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d58603fde63033820800000000000000
+      internalID: 2896662760055138397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inverted-bell-spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 964
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53eb56ae07fb65c70800000000000000
+      internalID: 8959559000389959221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inverted-bell-spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 947
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7ae210f452138430800000000000000
+      internalID: 3783888267935672955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inverted-bell-spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 902
+        width: 42
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89d4411da9bfb0110800000000000000
+      internalID: 1228351965739896216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inverted-bell-spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 902
+        width: 11
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a9d1383fe5b4ea60800000000000000
+      internalID: 7702481301754993062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inverted-bell-spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 946
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 776b7c762f4252490800000000000000
+      internalID: -7771764958416095625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inverted-bell-spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 947
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e7c6cf7024d59930800000000000000
+      internalID: 4149455867739555812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inverted-bell-spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 949
+        width: 73
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ef3b36f3e6caeb70800000000000000
+      internalID: 8929167893606383590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inverted-bell-spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 932
+        width: 35
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9d90920828d35f80800000000000000
+      internalID: -8118908036865548898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inverted-bell-spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 904
+        width: 109
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9047a43102b359d90800000000000000
+      internalID: -7091697029276339191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inverted-bell-spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 913
+        width: 8
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d652cd779704b420800000000000000
+      internalID: 2644747228404668113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inverted-bell-spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 912
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26ac7394c9c2df9c0800000000000000
+      internalID: -3891905453223327134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inverted-bell-spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 897
+        width: 63
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7f07076219bc2ac0800000000000000
+      internalID: -3878521690383773829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inverted-bell-spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 911
+        width: 56
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74ffb52d5124679e0800000000000000
+      internalID: -1624037954129494201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inverted-bell-spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 911
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc2adf8752048a8f0800000000000000
+      internalID: -529102426528177457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inverted-bell-spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 865
+        width: 37
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b99c89f1f185cc820800000000000000
+      internalID: 2939821547463428507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inverted-bell-spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 863
+        width: 59
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1870bac33f67f4740800000000000000
+      internalID: 5138456486919997313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inverted-bell-spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 897
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27df3dc234c384f30800000000000000
+      internalID: 4559960881925193074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inverted-bell-spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 846
+        width: 66
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4132bb85bf82e0860800000000000000
+      internalID: 7497975489609016084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inverted-bell-spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 766
+        width: 18
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8ad995048be09840800000000000000
+      internalID: 5228938119639325324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inverted-bell-spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 850
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2bdfc0eacd700760800000000000000
+      internalID: 7422070496215161644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inverted-bell-spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 881
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb0944de215619790800000000000000
+      internalID: -7525122370394877762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inverted-bell-spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 768
+        width: 79
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f715bfe7e1dbbdec0800000000000000
+      internalID: -3541028743319694977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inverted-bell-spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 808
+        width: 61
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cce4bed4d243098d0800000000000000
+      internalID: -2841713995685343540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inverted-bell-spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 857
+        width: 69
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fddb9b4f82f15020800000000000000
+      internalID: 2328909179590008306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inverted-bell-spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 841
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b9db4ea921dd1430800000000000000
+      internalID: 3755387641244932533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inverted-bell-spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 819
+        width: 95
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb315ee2ebf2b36e0800000000000000
+      internalID: -1856837927483141188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inverted-bell-spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 784
+        width: 131
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f60ebc211603fac20800000000000000
+      internalID: 3219845452078506095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inverted-bell-spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 773
+        width: 18
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b28ef44a89a8de80800000000000000
+      internalID: -8153580714026171727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inverted-bell-spritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 772
+        width: 17
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d7c55bb315c8d780800000000000000
+      internalID: -8657953595081766959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inverted-bell-spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 822
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49ebe625faa33da00800000000000000
+      internalID: 780031685141905044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inverted-bell-spritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 816
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 657b6fa854ba9b3d0800000000000000
+      internalID: -3190330545842768042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inverted-bell-spritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 546
+        width: 34
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b72a857835b95d650800000000000000
+      internalID: 6257078040356495995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inverted-bell-spritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 798
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e02041664bc311500800000000000000
+      internalID: 365139790298087950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inverted-bell-spritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 715
+        width: 54
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 969da802f7cbf9750800000000000000
+      internalID: 6313972456789563753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inverted-bell-spritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 719
+        width: 24
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d38ffb09807894c0800000000000000
+      internalID: -4280547711901531182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inverted-bell-spritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 728
+        width: 62
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afc9acfaf73b14400800000000000000
+      internalID: 306723610629414138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inverted-bell-spritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 713
+        width: 37
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c596f00fa48b0970800000000000000
+      internalID: 8722210990503400904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inverted-bell-spritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 737
+        width: 66
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cc0a305fc1783cc0800000000000000
+      internalID: -3731107156058305344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inverted-bell-spritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 669
+        width: 67
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f254f9ef8576b290800000000000000
+      internalID: -7874977637444857095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inverted-bell-spritesheet_61
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 646
+        width: 45
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a5c90c44c372ed60800000000000000
+      internalID: 7918018381797246375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inverted-bell-spritesheet_62
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 684
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c92b06ce0e9bdcb00800000000000000
+      internalID: 850540280332464796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inverted-bell-spritesheet_63
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 645
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fc40f36033815110800000000000000
+      internalID: 1247922815616699634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inverted-bell-spritesheet_64
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 674
+        width: 66
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5f9d14b8cb270bb0800000000000000
+      internalID: -4969955522764759204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inverted-bell-spritesheet_65
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 686
+        width: 66
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0f1a64f5612f45d0800000000000000
+      internalID: -3076203298694750454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inverted-bell-spritesheet_66
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 652
+        width: 66
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e535aead8e0ae79b0800000000000000
+      internalID: -5080446407661694114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inverted-bell-spritesheet_67
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 650
+        width: 66
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26fc6e3b295f314d0800000000000000
+      internalID: -3164916102679048350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inverted-bell-spritesheet_68
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 400
+        width: 34
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4e7c4a8a5c3d7680800000000000000
+      internalID: -8755775740973384115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inverted-bell-spritesheet_69
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 624
+        width: 65
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83f81f53e38c53d70800000000000000
+      internalID: 9022337598025207608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inverted-bell-spritesheet_70
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 577
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84e85f1f46d99cc90800000000000000
+      internalID: -7149009876592259512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inverted-bell-spritesheet_71
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 633
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7673706f88f210930800000000000000
+      internalID: 4107616600428328807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inverted-bell-spritesheet_72
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 633
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aad6bb2f4bde0200800000000000000
+      internalID: 148296970832108201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inverted-bell-spritesheet_73
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 633
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f30c4b0af8a64690800000000000000
+      internalID: -7618215927765793801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inverted-bell-spritesheet_74
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 633
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a4a01d56dab814a0800000000000000
+      internalID: -6622337822201174872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inverted-bell-spritesheet_75
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 564
+        width: 88
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4874c516e906ac1f0800000000000000
+      internalID: -1023899731918829692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inverted-bell-spritesheet_76
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 370
+        width: 140
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0075c043190f939c0800000000000000
+      internalID: -3946859091979380992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inverted-bell-spritesheet_77
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 364
+        width: 192
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66634998c3640d610800000000000000
+      internalID: 1643891089810404966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inverted-bell-spritesheet_78
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3
+        width: 476
+        height: 362
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c42206c7aa0dca2f0800000000000000
+      internalID: -960163189887065524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      inverted-bell-spritesheet_0: 8513028301595529140
+      inverted-bell-spritesheet_1: 1591995838305422306
+      inverted-bell-spritesheet_10: 8772467428722068859
+      inverted-bell-spritesheet_11: 6338675817727785017
+      inverted-bell-spritesheet_12: 7924833848356136234
+      inverted-bell-spritesheet_13: 6612104018575246280
+      inverted-bell-spritesheet_14: 2514362229285598594
+      inverted-bell-spritesheet_15: 7117398700436157184
+      inverted-bell-spritesheet_16: -6206977752700602658
+      inverted-bell-spritesheet_17: 6440519234240239442
+      inverted-bell-spritesheet_18: -6380503138622577217
+      inverted-bell-spritesheet_19: 6710505384748286348
+      inverted-bell-spritesheet_2: -2549296652230070272
+      inverted-bell-spritesheet_20: -8983653565688332532
+      inverted-bell-spritesheet_21: 2896662760055138397
+      inverted-bell-spritesheet_22: 8959559000389959221
+      inverted-bell-spritesheet_23: 3783888267935672955
+      inverted-bell-spritesheet_24: 1228351965739896216
+      inverted-bell-spritesheet_25: 7702481301754993062
+      inverted-bell-spritesheet_26: -7771764958416095625
+      inverted-bell-spritesheet_27: 4149455867739555812
+      inverted-bell-spritesheet_28: 8929167893606383590
+      inverted-bell-spritesheet_29: -8118908036865548898
+      inverted-bell-spritesheet_3: 2694103555003994462
+      inverted-bell-spritesheet_30: -7091697029276339191
+      inverted-bell-spritesheet_31: 2644747228404668113
+      inverted-bell-spritesheet_32: -3891905453223327134
+      inverted-bell-spritesheet_33: -3878521690383773829
+      inverted-bell-spritesheet_34: -1624037954129494201
+      inverted-bell-spritesheet_35: -529102426528177457
+      inverted-bell-spritesheet_36: 2939821547463428507
+      inverted-bell-spritesheet_37: 5138456486919997313
+      inverted-bell-spritesheet_38: 4559960881925193074
+      inverted-bell-spritesheet_39: 7497975489609016084
+      inverted-bell-spritesheet_4: 5989496370576941749
+      inverted-bell-spritesheet_40: 5228938119639325324
+      inverted-bell-spritesheet_41: 7422070496215161644
+      inverted-bell-spritesheet_42: -7525122370394877762
+      inverted-bell-spritesheet_43: -3541028743319694977
+      inverted-bell-spritesheet_44: -2841713995685343540
+      inverted-bell-spritesheet_45: 2328909179590008306
+      inverted-bell-spritesheet_46: 3755387641244932533
+      inverted-bell-spritesheet_47: -1856837927483141188
+      inverted-bell-spritesheet_48: 3219845452078506095
+      inverted-bell-spritesheet_49: -8153580714026171727
+      inverted-bell-spritesheet_5: -3726381570820257880
+      inverted-bell-spritesheet_50: -8657953595081766959
+      inverted-bell-spritesheet_51: 780031685141905044
+      inverted-bell-spritesheet_52: -3190330545842768042
+      inverted-bell-spritesheet_53: 6257078040356495995
+      inverted-bell-spritesheet_54: 365139790298087950
+      inverted-bell-spritesheet_55: 6313972456789563753
+      inverted-bell-spritesheet_56: -4280547711901531182
+      inverted-bell-spritesheet_57: 306723610629414138
+      inverted-bell-spritesheet_58: 8722210990503400904
+      inverted-bell-spritesheet_59: -3731107156058305344
+      inverted-bell-spritesheet_6: -6238994675550973696
+      inverted-bell-spritesheet_60: -7874977637444857095
+      inverted-bell-spritesheet_61: 7918018381797246375
+      inverted-bell-spritesheet_62: 850540280332464796
+      inverted-bell-spritesheet_63: 1247922815616699634
+      inverted-bell-spritesheet_64: -4969955522764759204
+      inverted-bell-spritesheet_65: -3076203298694750454
+      inverted-bell-spritesheet_66: -5080446407661694114
+      inverted-bell-spritesheet_67: -3164916102679048350
+      inverted-bell-spritesheet_68: -8755775740973384115
+      inverted-bell-spritesheet_69: 9022337598025207608
+      inverted-bell-spritesheet_7: 9188578953655646947
+      inverted-bell-spritesheet_70: -7149009876592259512
+      inverted-bell-spritesheet_71: 4107616600428328807
+      inverted-bell-spritesheet_72: 148296970832108201
+      inverted-bell-spritesheet_73: -7618215927765793801
+      inverted-bell-spritesheet_74: -6622337822201174872
+      inverted-bell-spritesheet_75: -1023899731918829692
+      inverted-bell-spritesheet_76: -3946859091979380992
+      inverted-bell-spritesheet_77: 1643891089810404966
+      inverted-bell-spritesheet_78: -960163189887065524
+      inverted-bell-spritesheet_8: -7275946355843220579
+      inverted-bell-spritesheet_9: 2306875008062139159
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

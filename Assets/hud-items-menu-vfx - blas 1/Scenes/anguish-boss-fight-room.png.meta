@@ -1,0 +1,663 @@
+fileFormatVersion: 2
+guid: 6c8b14374e313604c934483721b75e57
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8245674192214028430
+    second: anguish-boss-fight-room_0
+  - first:
+      213: -462634140647435333
+    second: anguish-boss-fight-room_1
+  - first:
+      213: -2996727457705788740
+    second: anguish-boss-fight-room_2
+  - first:
+      213: -1949676231332477365
+    second: anguish-boss-fight-room_3
+  - first:
+      213: -3188281307822203117
+    second: anguish-boss-fight-room_4
+  - first:
+      213: -1582540846149539931
+    second: anguish-boss-fight-room_5
+  - first:
+      213: -8914945303589599280
+    second: anguish-boss-fight-room_6
+  - first:
+      213: -8223651170463886687
+    second: anguish-boss-fight-room_7
+  - first:
+      213: -6420394089243424310
+    second: anguish-boss-fight-room_8
+  - first:
+      213: -7543201542881373562
+    second: anguish-boss-fight-room_9
+  - first:
+      213: -518223716499056582
+    second: anguish-boss-fight-room_10
+  - first:
+      213: -5003432855456581287
+    second: anguish-boss-fight-room_11
+  - first:
+      213: 8920119247036439299
+    second: anguish-boss-fight-room_12
+  - first:
+      213: 5377564649405689685
+    second: anguish-boss-fight-room_13
+  - first:
+      213: 4565293146340140501
+    second: anguish-boss-fight-room_14
+  - first:
+      213: -4793281135139315275
+    second: anguish-boss-fight-room_15
+  - first:
+      213: 2596755127577762981
+    second: anguish-boss-fight-room_16
+  - first:
+      213: 1415902059877863583
+    second: anguish-boss-fight-room_17
+  - first:
+      213: 7815893218768371500
+    second: anguish-boss-fight-room_18
+  - first:
+      213: 2839908673554949753
+    second: anguish-boss-fight-room_19
+  - first:
+      213: 7942777826788197464
+    second: anguish-boss-fight-room_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: anguish-boss-fight-room_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 169
+        width: 82
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27f0a77720b719d80800000000000000
+      internalID: -8245674192214028430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anguish-boss-fight-room_1
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 383
+        width: 201
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb3ddb143b46499f0800000000000000
+      internalID: -462634140647435333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anguish-boss-fight-room_2
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 370
+        width: 201
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cba79ca214c7966d0800000000000000
+      internalID: -2996727457705788740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anguish-boss-fight-room_3
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 258
+        width: 57
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b46c7642ccb51f4e0800000000000000
+      internalID: -1949676231332477365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anguish-boss-fight-room_4
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 293
+        width: 40
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31f5d33fa03f0c3d0800000000000000
+      internalID: -3188281307822203117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anguish-boss-fight-room_5
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 322
+        width: 29
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a7e5be2c7fa90ae0800000000000000
+      internalID: -1582540846149539931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anguish-boss-fight-room_6
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 193
+        width: 65
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d74183da70c74480800000000000000
+      internalID: -8914945303589599280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anguish-boss-fight-room_7
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 319
+        width: 81
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a256cbc4d8bfdd80800000000000000
+      internalID: -8223651170463886687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anguish-boss-fight-room_8
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 346
+        width: 41
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac9c0a0b79d26e6a0800000000000000
+      internalID: -6420394089243424310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anguish-boss-fight-room_9
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 353
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 682906f892a215790800000000000000
+      internalID: -7543201542881373562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anguish-boss-fight-room_10
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 325
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3814e78646eec8f0800000000000000
+      internalID: -518223716499056582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anguish-boss-fight-room_11
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 325
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 959fdf8c35c309ab0800000000000000
+      internalID: -5003432855456581287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anguish-boss-fight-room_12
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 291
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30b5bb1c131aacb70800000000000000
+      internalID: 8920119247036439299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anguish-boss-fight-room_13
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 307
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55f268c9e82f0aa40800000000000000
+      internalID: 5377564649405689685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anguish-boss-fight-room_14
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 303
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d5212bbded2b5f30800000000000000
+      internalID: 4565293146340140501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anguish-boss-fight-room_15
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 287
+        width: 54
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b1a0771438da7db0800000000000000
+      internalID: -4793281135139315275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anguish-boss-fight-room_16
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 301
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ac52f3c707890420800000000000000
+      internalID: 2596755127577762981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anguish-boss-fight-room_17
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 289
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9093c3fb6b46a310800000000000000
+      internalID: 1415902059877863583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anguish-boss-fight-room_18
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 253
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2fb21bd871a77c60800000000000000
+      internalID: 7815893218768371500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anguish-boss-fight-room_19
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 254
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9762bc164e1696720800000000000000
+      internalID: 2839908673554949753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anguish-boss-fight-room_20
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 197
+        width: 201
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8544f8fc95a6a3e60800000000000000
+      internalID: 7942777826788197464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      anguish-boss-fight-room_0: -8245674192214028430
+      anguish-boss-fight-room_1: -462634140647435333
+      anguish-boss-fight-room_10: -518223716499056582
+      anguish-boss-fight-room_11: -5003432855456581287
+      anguish-boss-fight-room_12: 8920119247036439299
+      anguish-boss-fight-room_13: 5377564649405689685
+      anguish-boss-fight-room_14: 4565293146340140501
+      anguish-boss-fight-room_15: -4793281135139315275
+      anguish-boss-fight-room_16: 2596755127577762981
+      anguish-boss-fight-room_17: 1415902059877863583
+      anguish-boss-fight-room_18: 7815893218768371500
+      anguish-boss-fight-room_19: 2839908673554949753
+      anguish-boss-fight-room_2: -2996727457705788740
+      anguish-boss-fight-room_20: 7942777826788197464
+      anguish-boss-fight-room_3: -1949676231332477365
+      anguish-boss-fight-room_4: -3188281307822203117
+      anguish-boss-fight-room_5: -1582540846149539931
+      anguish-boss-fight-room_6: -8914945303589599280
+      anguish-boss-fight-room_7: -8223651170463886687
+      anguish-boss-fight-room_8: -6420394089243424310
+      anguish-boss-fight-room_9: -7543201542881373562
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

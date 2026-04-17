@@ -1,0 +1,455 @@
+fileFormatVersion: 2
+guid: 501952e2ac15f414ba401891633dbd64
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8887123606735315412
+    second: miriam-challenges-spritesheet_0
+  - first:
+      213: -5793138523847438043
+    second: miriam-challenges-spritesheet_1
+  - first:
+      213: 2818937811126514915
+    second: miriam-challenges-spritesheet_2
+  - first:
+      213: 7949065755003900385
+    second: miriam-challenges-spritesheet_3
+  - first:
+      213: -3818292052891311284
+    second: miriam-challenges-spritesheet_4
+  - first:
+      213: 7797939078529869107
+    second: miriam-challenges-spritesheet_5
+  - first:
+      213: 2011287191744611833
+    second: miriam-challenges-spritesheet_6
+  - first:
+      213: -4432178437966266521
+    second: miriam-challenges-spritesheet_7
+  - first:
+      213: -4118670983512555855
+    second: miriam-challenges-spritesheet_8
+  - first:
+      213: -28809165180449783
+    second: miriam-challenges-spritesheet_9
+  - first:
+      213: -3937569249563664947
+    second: miriam-challenges-spritesheet_10
+  - first:
+      213: 5092919688088696874
+    second: miriam-challenges-spritesheet_11
+  - first:
+      213: -7518215819734955146
+    second: miriam-challenges-spritesheet_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: miriam-challenges-spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 982
+        width: 66
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d1627695d7655b70800000000000000
+      internalID: 8887123606735315412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miriam-challenges-spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 681
+        width: 247
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5215177b433aa9fa0800000000000000
+      internalID: -5793138523847438043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miriam-challenges-spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 982
+        width: 66
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e4fc1cf001ee1720800000000000000
+      internalID: 2818937811126514915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miriam-challenges-spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 987
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e1da3f2031c05e60800000000000000
+      internalID: 7949065755003900385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miriam-challenges-spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 617
+        width: 61
+        height: 362
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4367baab93b20bc0800000000000000
+      internalID: -3818292052891311284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miriam-challenges-spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 562
+        width: 20
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 335e8e3d648d73c60800000000000000
+      internalID: 7797939078529869107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miriam-challenges-spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 515
+        width: 66
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f50b3d6b0789eb10800000000000000
+      internalID: 2011287191744611833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miriam-challenges-spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 504
+        width: 87
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76fffdf713dbd72c0800000000000000
+      internalID: -4432178437966266521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miriam-challenges-spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 527
+        width: 62
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1be7609ef8a87d6c0800000000000000
+      internalID: -4118670983512555855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miriam-challenges-spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 504
+        width: 87
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90cc4278736a99ff0800000000000000
+      internalID: -28809165180449783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miriam-challenges-spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 527
+        width: 62
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcd914131a1fa59c0800000000000000
+      internalID: -3937569249563664947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miriam-challenges-spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 527
+        width: 62
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a28be1e097fada640800000000000000
+      internalID: 5092919688088696874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miriam-challenges-spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 504
+        width: 87
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67bc9ff8b8ee9a790800000000000000
+      internalID: -7518215819734955146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      miriam-challenges-spritesheet_0: 8887123606735315412
+      miriam-challenges-spritesheet_1: -5793138523847438043
+      miriam-challenges-spritesheet_10: -3937569249563664947
+      miriam-challenges-spritesheet_11: 5092919688088696874
+      miriam-challenges-spritesheet_12: -7518215819734955146
+      miriam-challenges-spritesheet_2: 2818937811126514915
+      miriam-challenges-spritesheet_3: 7949065755003900385
+      miriam-challenges-spritesheet_4: -3818292052891311284
+      miriam-challenges-spritesheet_5: 7797939078529869107
+      miriam-challenges-spritesheet_6: 2011287191744611833
+      miriam-challenges-spritesheet_7: -4432178437966266521
+      miriam-challenges-spritesheet_8: -4118670983512555855
+      miriam-challenges-spritesheet_9: -28809165180449783
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

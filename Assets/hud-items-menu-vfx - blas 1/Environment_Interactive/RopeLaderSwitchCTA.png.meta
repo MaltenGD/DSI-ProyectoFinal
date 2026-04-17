@@ -1,0 +1,507 @@
+fileFormatVersion: 2
+guid: fde27cd63cf3a804487628e14299c819
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -765456051826882245
+    second: RopeLaderSwitchCTA_0
+  - first:
+      213: -2105160978721618334
+    second: RopeLaderSwitchCTA_1
+  - first:
+      213: -8708754032993809220
+    second: RopeLaderSwitchCTA_2
+  - first:
+      213: 5422311338909156027
+    second: RopeLaderSwitchCTA_3
+  - first:
+      213: 172011918312971326
+    second: RopeLaderSwitchCTA_4
+  - first:
+      213: 4639400134039060021
+    second: RopeLaderSwitchCTA_5
+  - first:
+      213: -7356769593839703584
+    second: RopeLaderSwitchCTA_6
+  - first:
+      213: -8696316547914522429
+    second: RopeLaderSwitchCTA_7
+  - first:
+      213: -3146079660887726765
+    second: RopeLaderSwitchCTA_8
+  - first:
+      213: 4550268724338998330
+    second: RopeLaderSwitchCTA_9
+  - first:
+      213: 6334519340095570423
+    second: RopeLaderSwitchCTA_10
+  - first:
+      213: 4137568706952954420
+    second: RopeLaderSwitchCTA_11
+  - first:
+      213: 5133321556809211255
+    second: RopeLaderSwitchCTA_12
+  - first:
+      213: -3086909365909543850
+    second: RopeLaderSwitchCTA_13
+  - first:
+      213: -1657273279774858458
+    second: RopeLaderSwitchCTA_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RopeLaderSwitchCTA_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 158
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b398fa3c6cd8065f0800000000000000
+      internalID: -765456051826882245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RopeLaderSwitchCTA_1
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 158
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 266c8445e37f8c2e0800000000000000
+      internalID: -2105160978721618334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RopeLaderSwitchCTA_2
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 158
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbc4723195a442780800000000000000
+      internalID: -8708754032993809220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RopeLaderSwitchCTA_3
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 158
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb2c0412f6bef3b40800000000000000
+      internalID: 5422311338909156027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RopeLaderSwitchCTA_4
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 106
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3c9d28adeb136200800000000000000
+      internalID: 172011918312971326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RopeLaderSwitchCTA_5
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 106
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53e3c4067d5726040800000000000000
+      internalID: 4639400134039060021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RopeLaderSwitchCTA_6
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 106
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e92ac0480187e990800000000000000
+      internalID: -7356769593839703584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RopeLaderSwitchCTA_7
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 106
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c0243bbc2a705780800000000000000
+      internalID: -8696316547914522429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RopeLaderSwitchCTA_8
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 54
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 355a4b19731e654d0800000000000000
+      internalID: -3146079660887726765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RopeLaderSwitchCTA_9
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 54
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3cbbc2eb4dc52f30800000000000000
+      internalID: 4550268724338998330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RopeLaderSwitchCTA_10
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 54
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f10d3137cbb8e750800000000000000
+      internalID: 6334519340095570423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RopeLaderSwitchCTA_11
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 54
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43204b331d89b6930800000000000000
+      internalID: 4137568706952954420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RopeLaderSwitchCTA_12
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 2
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77dd77722c83d3740800000000000000
+      internalID: 5133321556809211255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RopeLaderSwitchCTA_13
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 2
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 654a22f69481925d0800000000000000
+      internalID: -3086909365909543850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RopeLaderSwitchCTA_14
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 2
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 623e54f8bbe2009e0800000000000000
+      internalID: -1657273279774858458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      RopeLaderSwitchCTA_0: -765456051826882245
+      RopeLaderSwitchCTA_1: -2105160978721618334
+      RopeLaderSwitchCTA_10: 6334519340095570423
+      RopeLaderSwitchCTA_11: 4137568706952954420
+      RopeLaderSwitchCTA_12: 5133321556809211255
+      RopeLaderSwitchCTA_13: -3086909365909543850
+      RopeLaderSwitchCTA_14: -1657273279774858458
+      RopeLaderSwitchCTA_2: -8708754032993809220
+      RopeLaderSwitchCTA_3: 5422311338909156027
+      RopeLaderSwitchCTA_4: 172011918312971326
+      RopeLaderSwitchCTA_5: 4639400134039060021
+      RopeLaderSwitchCTA_6: -7356769593839703584
+      RopeLaderSwitchCTA_7: -8696316547914522429
+      RopeLaderSwitchCTA_8: -3146079660887726765
+      RopeLaderSwitchCTA_9: 4550268724338998330
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

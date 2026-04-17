@@ -1,0 +1,689 @@
+fileFormatVersion: 2
+guid: 2d0050966f0b5944d96149f78b6924ae
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4542938476190470254
+    second: FootStepSmallFire_0
+  - first:
+      213: 8765092078902437102
+    second: FootStepSmallFire_1
+  - first:
+      213: 2188303391804771192
+    second: FootStepSmallFire_2
+  - first:
+      213: -8894573836122466276
+    second: FootStepSmallFire_3
+  - first:
+      213: 3256905442157870940
+    second: FootStepSmallFire_4
+  - first:
+      213: 8805750776154471300
+    second: FootStepSmallFire_5
+  - first:
+      213: -568736562373439207
+    second: FootStepSmallFire_6
+  - first:
+      213: 5124732901148785446
+    second: FootStepSmallFire_7
+  - first:
+      213: -3660026179130477905
+    second: FootStepSmallFire_8
+  - first:
+      213: 3698893539545852303
+    second: FootStepSmallFire_9
+  - first:
+      213: 8957674543503069083
+    second: FootStepSmallFire_10
+  - first:
+      213: -4130695100527188857
+    second: FootStepSmallFire_11
+  - first:
+      213: -6938505029686350266
+    second: FootStepSmallFire_12
+  - first:
+      213: -6306478521307932384
+    second: FootStepSmallFire_13
+  - first:
+      213: 1999378767995556762
+    second: FootStepSmallFire_14
+  - first:
+      213: -995685445474741143
+    second: FootStepSmallFire_15
+  - first:
+      213: 5730013443896631233
+    second: FootStepSmallFire_16
+  - first:
+      213: 5791438346028556027
+    second: FootStepSmallFire_17
+  - first:
+      213: -6305964353481935334
+    second: FootStepSmallFire_18
+  - first:
+      213: -166122465228894836
+    second: FootStepSmallFire_19
+  - first:
+      213: -8369450015475688542
+    second: FootStepSmallFire_20
+  - first:
+      213: 2329903221239980542
+    second: FootStepSmallFire_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FootStepSmallFire_0
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 105
+        width: 10
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29f6632868d34f0c0800000000000000
+      internalID: -4542938476190470254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootStepSmallFire_1
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 105
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee4e19a6eccd3a970800000000000000
+      internalID: 8765092078902437102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootStepSmallFire_2
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 129
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87b4e49375a6e5e10800000000000000
+      internalID: 2188303391804771192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootStepSmallFire_3
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 105
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c18df65b830209480800000000000000
+      internalID: -8894573836122466276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootStepSmallFire_4
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 105
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5f3bda6e3ad23d20800000000000000
+      internalID: 3256905442157870940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootStepSmallFire_5
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 55
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48bbe411daf443a70800000000000000
+      internalID: 8805750776154471300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootStepSmallFire_6
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 56
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91154fc1c117b18f0800000000000000
+      internalID: -568736562373439207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootStepSmallFire_7
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 57
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62bfabdeb65be1740800000000000000
+      internalID: 5124732901148785446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootStepSmallFire_8
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 77
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa23c4ce499f43dc0800000000000000
+      internalID: -3660026179130477905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootStepSmallFire_9
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 58
+        width: 14
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f892e9e931c155330800000000000000
+      internalID: 3698893539545852303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootStepSmallFire_10
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 70
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9f4f0b998d005c70800000000000000
+      internalID: 8957674543503069083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootStepSmallFire_11
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 28
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78461a101b2dca6c0800000000000000
+      internalID: -4130695100527188857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootStepSmallFire_12
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 30
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64ea841ff6a75bf90800000000000000
+      internalID: -6938505029686350266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootStepSmallFire_13
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 22
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0295fc1b233ea78a0800000000000000
+      internalID: -6306478521307932384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootStepSmallFire_14
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 31
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9355d575683fbb10800000000000000
+      internalID: 1999378767995556762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootStepSmallFire_15
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 25
+        width: 7
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 964937adc5d9e22f0800000000000000
+      internalID: -995685445474741143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootStepSmallFire_16
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 9
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cfdba94ed8158f40800000000000000
+      internalID: 5730013443896631233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootStepSmallFire_17
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 22
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfe9b99cd725f5050800000000000000
+      internalID: 5791438346028556027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootStepSmallFire_18
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 22
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a16fe68b4d6bc78a0800000000000000
+      internalID: -6305964353481935334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootStepSmallFire_19
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 10
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8dc1de7f70d1bdf0800000000000000
+      internalID: -166122465228894836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootStepSmallFire_20
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 14
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ab1f2edd8db9db80800000000000000
+      internalID: -8369450015475688542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootStepSmallFire_21
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 17
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef12c07a2aa755020800000000000000
+      internalID: 2329903221239980542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      FootStepSmallFire_0: -4542938476190470254
+      FootStepSmallFire_1: 8765092078902437102
+      FootStepSmallFire_10: 8957674543503069083
+      FootStepSmallFire_11: -4130695100527188857
+      FootStepSmallFire_12: -6938505029686350266
+      FootStepSmallFire_13: -6306478521307932384
+      FootStepSmallFire_14: 1999378767995556762
+      FootStepSmallFire_15: -995685445474741143
+      FootStepSmallFire_16: 5730013443896631233
+      FootStepSmallFire_17: 5791438346028556027
+      FootStepSmallFire_18: -6305964353481935334
+      FootStepSmallFire_19: -166122465228894836
+      FootStepSmallFire_2: 2188303391804771192
+      FootStepSmallFire_20: -8369450015475688542
+      FootStepSmallFire_21: 2329903221239980542
+      FootStepSmallFire_3: -8894573836122466276
+      FootStepSmallFire_4: 3256905442157870940
+      FootStepSmallFire_5: 8805750776154471300
+      FootStepSmallFire_6: -568736562373439207
+      FootStepSmallFire_7: 5124732901148785446
+      FootStepSmallFire_8: -3660026179130477905
+      FootStepSmallFire_9: 3698893539545852303
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

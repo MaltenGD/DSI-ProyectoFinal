@@ -1,0 +1,663 @@
+fileFormatVersion: 2
+guid: 753a5bc7de763fd4d958f9abf6304fca
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3059707417380577998
+    second: ice-cave-room-spritesheet_0
+  - first:
+      213: 5897368845843699233
+    second: ice-cave-room-spritesheet_1
+  - first:
+      213: -1120540968937280528
+    second: ice-cave-room-spritesheet_2
+  - first:
+      213: -2832989869134182249
+    second: ice-cave-room-spritesheet_3
+  - first:
+      213: 727855688996341072
+    second: ice-cave-room-spritesheet_4
+  - first:
+      213: -7158681547422170851
+    second: ice-cave-room-spritesheet_5
+  - first:
+      213: 1285546155084482214
+    second: ice-cave-room-spritesheet_6
+  - first:
+      213: 7698980699824121647
+    second: ice-cave-room-spritesheet_7
+  - first:
+      213: 1373607525589108970
+    second: ice-cave-room-spritesheet_8
+  - first:
+      213: 1581523043386233028
+    second: ice-cave-room-spritesheet_9
+  - first:
+      213: -7584134444449698485
+    second: ice-cave-room-spritesheet_10
+  - first:
+      213: -1563602950007502481
+    second: ice-cave-room-spritesheet_11
+  - first:
+      213: 1399694046041091997
+    second: ice-cave-room-spritesheet_12
+  - first:
+      213: 820838359225701997
+    second: ice-cave-room-spritesheet_13
+  - first:
+      213: 8465467497687271496
+    second: ice-cave-room-spritesheet_14
+  - first:
+      213: 5620971619495989347
+    second: ice-cave-room-spritesheet_15
+  - first:
+      213: 3864096386558154308
+    second: ice-cave-room-spritesheet_16
+  - first:
+      213: -8615653827737019985
+    second: ice-cave-room-spritesheet_17
+  - first:
+      213: -1497652130437226736
+    second: ice-cave-room-spritesheet_18
+  - first:
+      213: -7477189193370467176
+    second: ice-cave-room-spritesheet_19
+  - first:
+      213: 3053427529852985631
+    second: ice-cave-room-spritesheet_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ice-cave-room-spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 886
+        width: 188
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec2e8916fa3467a20800000000000000
+      internalID: 3059707417380577998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-cave-room-spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 994
+        width: 55
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12618fd38b9a7d150800000000000000
+      internalID: 5897368845843699233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-cave-room-spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 614
+        width: 189
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fba836fce90370f0800000000000000
+      internalID: -1120540968937280528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-cave-room-spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 735
+        width: 237
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7980afd49b23fa8d0800000000000000
+      internalID: -2832989869134182249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-cave-room-spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 807
+        width: 184
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 055cf5e84ecd91a00800000000000000
+      internalID: 727855688996341072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-cave-room-spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 668
+        width: 323
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1102c99f0147ac90800000000000000
+      internalID: -7158681547422170851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-cave-room-spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 534
+        width: 188
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a60e2cba6d27d110800000000000000
+      internalID: 1285546155084482214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-cave-room-spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 533
+        width: 125
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f27ea91d72648da60800000000000000
+      internalID: 7698980699824121647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-cave-room-spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 353
+        width: 251
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae8ca8f44c8001310800000000000000
+      internalID: 1373607525589108970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-cave-room-spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 357
+        width: 341
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c0912524d2b2f510800000000000000
+      internalID: 1581523043386233028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-cave-room-spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 310
+        width: 271
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4d65cdb7edbfb690800000000000000
+      internalID: -7584134444449698485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-cave-room-spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 44
+        width: 224
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f69cc0bb667fc4ae0800000000000000
+      internalID: -1563602950007502481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-cave-room-spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 209
+        width: 175
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9f2288a156bc6310800000000000000
+      internalID: 1399694046041091997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-cave-room-spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 316
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6699a38324346b00800000000000000
+      internalID: 820838359225701997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-cave-room-spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 296
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 848c34156d16b7570800000000000000
+      internalID: 8465467497687271496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-cave-room-spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 4
+        width: 163
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3605c9028e3b10e40800000000000000
+      internalID: 5620971619495989347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-cave-room-spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 10
+        width: 177
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4465ba2d03700a530800000000000000
+      internalID: 3864096386558154308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-cave-room-spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 4
+        width: 66
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa9100acd7c0f6880800000000000000
+      internalID: -8615653827737019985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-cave-room-spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 4
+        width: 66
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01f9e208255473be0800000000000000
+      internalID: -1497652130437226736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-cave-room-spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 62
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89483c26b00bb3890800000000000000
+      internalID: -7477189193370467176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-cave-room-spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 4
+        width: 109
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1129402924ff5a20800000000000000
+      internalID: 3053427529852985631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ice-cave-room-spritesheet_0: 3059707417380577998
+      ice-cave-room-spritesheet_1: 5897368845843699233
+      ice-cave-room-spritesheet_10: -7584134444449698485
+      ice-cave-room-spritesheet_11: -1563602950007502481
+      ice-cave-room-spritesheet_12: 1399694046041091997
+      ice-cave-room-spritesheet_13: 820838359225701997
+      ice-cave-room-spritesheet_14: 8465467497687271496
+      ice-cave-room-spritesheet_15: 5620971619495989347
+      ice-cave-room-spritesheet_16: 3864096386558154308
+      ice-cave-room-spritesheet_17: -8615653827737019985
+      ice-cave-room-spritesheet_18: -1497652130437226736
+      ice-cave-room-spritesheet_19: -7477189193370467176
+      ice-cave-room-spritesheet_2: -1120540968937280528
+      ice-cave-room-spritesheet_20: 3053427529852985631
+      ice-cave-room-spritesheet_3: -2832989869134182249
+      ice-cave-room-spritesheet_4: 727855688996341072
+      ice-cave-room-spritesheet_5: -7158681547422170851
+      ice-cave-room-spritesheet_6: 1285546155084482214
+      ice-cave-room-spritesheet_7: 7698980699824121647
+      ice-cave-room-spritesheet_8: 1373607525589108970
+      ice-cave-room-spritesheet_9: 1581523043386233028
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

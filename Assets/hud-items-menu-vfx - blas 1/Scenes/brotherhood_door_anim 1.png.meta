@@ -1,0 +1,507 @@
+fileFormatVersion: 2
+guid: eb26dfd7143e0394e8ef097202e24ee5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8876102923944727831
+    second: brotherhood_door_anim 1_0
+  - first:
+      213: -525365052183597627
+    second: brotherhood_door_anim 1_1
+  - first:
+      213: -1690649780494644705
+    second: brotherhood_door_anim 1_2
+  - first:
+      213: 6678407132399268668
+    second: brotherhood_door_anim 1_3
+  - first:
+      213: 7112492926595385594
+    second: brotherhood_door_anim 1_4
+  - first:
+      213: -6646182226053541982
+    second: brotherhood_door_anim 1_5
+  - first:
+      213: -841057368195496890
+    second: brotherhood_door_anim 1_6
+  - first:
+      213: -2355837407379813772
+    second: brotherhood_door_anim 1_7
+  - first:
+      213: -8043524207462133459
+    second: brotherhood_door_anim 1_8
+  - first:
+      213: -7098089230565124162
+    second: brotherhood_door_anim 1_9
+  - first:
+      213: -1229308544398622691
+    second: brotherhood_door_anim 1_10
+  - first:
+      213: -5829043373324421112
+    second: brotherhood_door_anim 1_11
+  - first:
+      213: 1041486350338399764
+    second: brotherhood_door_anim 1_12
+  - first:
+      213: -8503045191445135205
+    second: brotherhood_door_anim 1_13
+  - first:
+      213: -5297907810361988551
+    second: brotherhood_door_anim 1_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: brotherhood_door_anim 1_0
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 255
+        width: 76
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 715188be4904e2b70800000000000000
+      internalID: 8876102923944727831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brotherhood_door_anim 1_1
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 255
+        width: 76
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cd213fb44785b8f0800000000000000
+      internalID: -525365052183597627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brotherhood_door_anim 1_2
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 255
+        width: 76
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1a460a6bfa9988e0800000000000000
+      internalID: -1690649780494644705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brotherhood_door_anim 1_3
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 255
+        width: 76
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c33f71837e77eac50800000000000000
+      internalID: 6678407132399268668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brotherhood_door_anim 1_4
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 255
+        width: 76
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af8423512a6a4b260800000000000000
+      internalID: 7112492926595385594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brotherhood_door_anim 1_5
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 255
+        width: 76
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2af40977a7404c3a0800000000000000
+      internalID: -6646182226053541982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brotherhood_door_anim 1_6
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 255
+        width: 76
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6448bfc97c6f354f0800000000000000
+      internalID: -841057368195496890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brotherhood_door_anim 1_7
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 255
+        width: 76
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47a8c881c526e4fd0800000000000000
+      internalID: -2355837407379813772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brotherhood_door_anim 1_8
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 0
+        width: 76
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d21d6f78959af5090800000000000000
+      internalID: -8043524207462133459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brotherhood_door_anim 1_9
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 0
+        width: 76
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb7d32cb3758e7d90800000000000000
+      internalID: -7098089230565124162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brotherhood_door_anim 1_10
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 76
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1084cb546e90fee0800000000000000
+      internalID: -1229308544398622691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brotherhood_door_anim 1_11
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 0
+        width: 76
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80837a08fe31b1fa0800000000000000
+      internalID: -5829043373324421112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brotherhood_door_anim 1_12
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 0
+        width: 76
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41e965e415a147e00800000000000000
+      internalID: 1041486350338399764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brotherhood_door_anim 1_13
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 0
+        width: 76
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b90c1de037d1ff980800000000000000
+      internalID: -8503045191445135205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brotherhood_door_anim 1_14
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 0
+        width: 76
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93a2b9e7aec0a76b0800000000000000
+      internalID: -5297907810361988551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      brotherhood_door_anim 1_0: 8876102923944727831
+      brotherhood_door_anim 1_1: -525365052183597627
+      brotherhood_door_anim 1_10: -1229308544398622691
+      brotherhood_door_anim 1_11: -5829043373324421112
+      brotherhood_door_anim 1_12: 1041486350338399764
+      brotherhood_door_anim 1_13: -8503045191445135205
+      brotherhood_door_anim 1_14: -5297907810361988551
+      brotherhood_door_anim 1_2: -1690649780494644705
+      brotherhood_door_anim 1_3: 6678407132399268668
+      brotherhood_door_anim 1_4: 7112492926595385594
+      brotherhood_door_anim 1_5: -6646182226053541982
+      brotherhood_door_anim 1_6: -841057368195496890
+      brotherhood_door_anim 1_7: -2355837407379813772
+      brotherhood_door_anim 1_8: -8043524207462133459
+      brotherhood_door_anim 1_9: -7098089230565124162
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

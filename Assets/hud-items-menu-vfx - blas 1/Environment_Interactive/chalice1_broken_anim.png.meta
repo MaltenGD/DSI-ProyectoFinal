@@ -1,0 +1,1833 @@
+fileFormatVersion: 2
+guid: fe98fa16ad7d00445ae6fee4e3a67906
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4405549097644483842
+    second: chalice1_broken_anim_0
+  - first:
+      213: 9191558946301874391
+    second: chalice1_broken_anim_1
+  - first:
+      213: 7397973387664758981
+    second: chalice1_broken_anim_2
+  - first:
+      213: -8061622897384962868
+    second: chalice1_broken_anim_3
+  - first:
+      213: -8916660031918828065
+    second: chalice1_broken_anim_4
+  - first:
+      213: -8270099139074005787
+    second: chalice1_broken_anim_5
+  - first:
+      213: 2306036700088163971
+    second: chalice1_broken_anim_6
+  - first:
+      213: -7819556257393988815
+    second: chalice1_broken_anim_7
+  - first:
+      213: -515289474300125370
+    second: chalice1_broken_anim_8
+  - first:
+      213: 8333752401074711608
+    second: chalice1_broken_anim_9
+  - first:
+      213: 8554491887635940903
+    second: chalice1_broken_anim_10
+  - first:
+      213: 5831015414894530657
+    second: chalice1_broken_anim_11
+  - first:
+      213: 7151682063408987500
+    second: chalice1_broken_anim_12
+  - first:
+      213: 99532586370815545
+    second: chalice1_broken_anim_13
+  - first:
+      213: 7161710995862621494
+    second: chalice1_broken_anim_14
+  - first:
+      213: 6270164412551991272
+    second: chalice1_broken_anim_15
+  - first:
+      213: 1208264967263548655
+    second: chalice1_broken_anim_16
+  - first:
+      213: 11279452143561092
+    second: chalice1_broken_anim_17
+  - first:
+      213: -1427136668018877429
+    second: chalice1_broken_anim_18
+  - first:
+      213: -6035262048812441004
+    second: chalice1_broken_anim_19
+  - first:
+      213: -5154200102645781340
+    second: chalice1_broken_anim_20
+  - first:
+      213: 5588960263056473038
+    second: chalice1_broken_anim_21
+  - first:
+      213: 1809132681450036243
+    second: chalice1_broken_anim_22
+  - first:
+      213: -9134539740983492405
+    second: chalice1_broken_anim_23
+  - first:
+      213: 7305641319889239666
+    second: chalice1_broken_anim_24
+  - first:
+      213: 1017820143072734258
+    second: chalice1_broken_anim_25
+  - first:
+      213: -1295199975702338462
+    second: chalice1_broken_anim_26
+  - first:
+      213: -5267301356073167275
+    second: chalice1_broken_anim_27
+  - first:
+      213: 8043495948553385792
+    second: chalice1_broken_anim_28
+  - first:
+      213: -8005783879705347803
+    second: chalice1_broken_anim_29
+  - first:
+      213: 7943151439152423907
+    second: chalice1_broken_anim_30
+  - first:
+      213: 1399393727199261089
+    second: chalice1_broken_anim_31
+  - first:
+      213: -699228579178520422
+    second: chalice1_broken_anim_32
+  - first:
+      213: 2187805526926782902
+    second: chalice1_broken_anim_33
+  - first:
+      213: 1488115411869266097
+    second: chalice1_broken_anim_34
+  - first:
+      213: 6302905616503158988
+    second: chalice1_broken_anim_35
+  - first:
+      213: -306033386906567841
+    second: chalice1_broken_anim_36
+  - first:
+      213: -1789237861223960531
+    second: chalice1_broken_anim_37
+  - first:
+      213: 8800711706778882109
+    second: chalice1_broken_anim_38
+  - first:
+      213: -2751962413698697970
+    second: chalice1_broken_anim_39
+  - first:
+      213: 5719500234560017182
+    second: chalice1_broken_anim_40
+  - first:
+      213: 1896013667537464894
+    second: chalice1_broken_anim_41
+  - first:
+      213: -7983414274203826204
+    second: chalice1_broken_anim_42
+  - first:
+      213: -5807053279027754564
+    second: chalice1_broken_anim_43
+  - first:
+      213: 6958179438306191403
+    second: chalice1_broken_anim_44
+  - first:
+      213: 4516228124409364777
+    second: chalice1_broken_anim_45
+  - first:
+      213: 5899667464961621527
+    second: chalice1_broken_anim_46
+  - first:
+      213: 4794816305455259641
+    second: chalice1_broken_anim_47
+  - first:
+      213: 5656858808692527207
+    second: chalice1_broken_anim_48
+  - first:
+      213: 1386921655265144503
+    second: chalice1_broken_anim_49
+  - first:
+      213: -249749336076121750
+    second: chalice1_broken_anim_50
+  - first:
+      213: -8246146080063184144
+    second: chalice1_broken_anim_51
+  - first:
+      213: 1430966997292466422
+    second: chalice1_broken_anim_52
+  - first:
+      213: -837493895238183706
+    second: chalice1_broken_anim_53
+  - first:
+      213: -7937508655940783452
+    second: chalice1_broken_anim_54
+  - first:
+      213: -8592143906667271603
+    second: chalice1_broken_anim_55
+  - first:
+      213: 5853165273721519599
+    second: chalice1_broken_anim_56
+  - first:
+      213: -8396457508805498627
+    second: chalice1_broken_anim_57
+  - first:
+      213: 613433519507631040
+    second: chalice1_broken_anim_58
+  - first:
+      213: -5709434922615884346
+    second: chalice1_broken_anim_59
+  - first:
+      213: 7010484262744162826
+    second: chalice1_broken_anim_60
+  - first:
+      213: 2560777465865425051
+    second: chalice1_broken_anim_61
+  - first:
+      213: 4659152018688978354
+    second: chalice1_broken_anim_62
+  - first:
+      213: 326653658510209110
+    second: chalice1_broken_anim_63
+  - first:
+      213: -638107652892374943
+    second: chalice1_broken_anim_64
+  - first:
+      213: 918694179749685690
+    second: chalice1_broken_anim_65
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: chalice1_broken_anim_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 187
+        width: 43
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efa9b52ff685cd2c0800000000000000
+      internalID: -4405549097644483842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chalice1_broken_anim_1
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 206
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d01366a92afe8f70800000000000000
+      internalID: 9191558946301874391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chalice1_broken_anim_2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 191
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c81d859991eaa660800000000000000
+      internalID: 7397973387664758981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chalice1_broken_anim_3
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 184
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc4c638efac5f1090800000000000000
+      internalID: -8061622897384962868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chalice1_broken_anim_4
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 179
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd51e8681f8a14480800000000000000
+      internalID: -8916660031918828065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chalice1_broken_anim_5
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 187
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e4ea3e56a4ba3d80800000000000000
+      internalID: -8270099139074005787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chalice1_broken_anim_6
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 177
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38ed4cb2920b00020800000000000000
+      internalID: 2306036700088163971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chalice1_broken_anim_7
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 182
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13b29d0830b5b7390800000000000000
+      internalID: -7819556257393988815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chalice1_broken_anim_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 174
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64fd7d704f259d8f0800000000000000
+      internalID: -515289474300125370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chalice1_broken_anim_9
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 154
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83ced1897af67a370800000000000000
+      internalID: 8333752401074711608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chalice1_broken_anim_10
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 175
+        width: 35
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72640845c09a7b670800000000000000
+      internalID: 8554491887635940903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chalice1_broken_anim_11
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 164
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1609d9430adebe050800000000000000
+      internalID: 5831015414894530657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chalice1_broken_anim_12
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 165
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6d760802f0ef3360800000000000000
+      internalID: 7151682063408987500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chalice1_broken_anim_13
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 163
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93655362c5c916100800000000000000
+      internalID: 99532586370815545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chalice1_broken_anim_14
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 173
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63d8664d432836360800000000000000
+      internalID: 7161710995862621494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chalice1_broken_anim_15
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 161
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ef057dff49140750800000000000000
+      internalID: 6270164412551991272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chalice1_broken_anim_16
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 157
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe4fa48069e94c010800000000000000
+      internalID: 1208264967263548655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chalice1_broken_anim_17
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 158
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 489274a1a92182000800000000000000
+      internalID: 11279452143561092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chalice1_broken_anim_18
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 159
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0cdcc003cac13ce0800000000000000
+      internalID: -1427136668018877429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chalice1_broken_anim_19
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 124
+        width: 52
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 452632e84217e3ca0800000000000000
+      internalID: -6035262048812441004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chalice1_broken_anim_20
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 142
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ac2484905a9878b0800000000000000
+      internalID: -5154200102645781340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chalice1_broken_anim_21
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 125
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecb31476fb9ff8d40800000000000000
+      internalID: 5588960263056473038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chalice1_broken_anim_22
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 144
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31c116da6945b1910800000000000000
+      internalID: 1809132681450036243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chalice1_broken_anim_23
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 141
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc08dff90889b3180800000000000000
+      internalID: -9134539740983492405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chalice1_broken_anim_24
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 139
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27ef960d21ad26560800000000000000
+      internalID: 7305641319889239666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chalice1_broken_anim_25
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 125
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23c66190706002e00800000000000000
+      internalID: 1017820143072734258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chalice1_broken_anim_26
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 113
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 264ea2ffb76860ee0800000000000000
+      internalID: -1295199975702338462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chalice1_broken_anim_27
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 111
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5565352f259c6e6b0800000000000000
+      internalID: -5267301356073167275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chalice1_broken_anim_28
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 123
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04771dde2fc30af60800000000000000
+      internalID: 8043495948553385792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chalice1_broken_anim_29
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 123
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5293d955afdb5e090800000000000000
+      internalID: -8005783879705347803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chalice1_broken_anim_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 103
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e320d7362ebb3e60800000000000000
+      internalID: 7943151439152423907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chalice1_broken_anim_31
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 80
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a13f9a3e25ab6310800000000000000
+      internalID: 1399393727199261089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chalice1_broken_anim_32
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 105
+        width: 33
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a906349df47db46f0800000000000000
+      internalID: -699228579178520422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chalice1_broken_anim_33
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 105
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b17b160985ac5e10800000000000000
+      internalID: 2187805526926782902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chalice1_broken_anim_34
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 106
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b0704d2519d6a410800000000000000
+      internalID: 1488115411869266097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chalice1_broken_anim_35
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 109
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc83c74934b687750800000000000000
+      internalID: 6302905616503158988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chalice1_broken_anim_36
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 104
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5b360c8140c0cbf0800000000000000
+      internalID: -306033386906567841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chalice1_broken_anim_37
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 87
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d20f01f15a95b27e0800000000000000
+      internalID: -1789237861223960531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chalice1_broken_anim_38
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 90
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d305d2d4ba8622a70800000000000000
+      internalID: 8800711706778882109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chalice1_broken_anim_39
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 90
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e053348e3c01fc9d0800000000000000
+      internalID: -2751962413698697970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chalice1_broken_anim_40
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 93
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1396bdf82fbf5f40800000000000000
+      internalID: 5719500234560017182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chalice1_broken_anim_41
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 96
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3e2bd6926eff4a10800000000000000
+      internalID: 1896013667537464894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chalice1_broken_anim_42
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 93
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e74c4bf307353190800000000000000
+      internalID: -7983414274203826204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chalice1_broken_anim_43
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 68
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb988cf4fc3396fa0800000000000000
+      internalID: -5807053279027754564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chalice1_broken_anim_44
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 70
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b28eaa7455b609060800000000000000
+      internalID: 6958179438306191403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chalice1_broken_anim_45
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 72
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9218c081d8ddcae30800000000000000
+      internalID: 4516228124409364777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chalice1_broken_anim_46
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 80
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71e77f53d44dfd150800000000000000
+      internalID: 5899667464961621527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chalice1_broken_anim_47
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 70
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ff59e9960c9a8240800000000000000
+      internalID: 4794816305455259641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chalice1_broken_anim_48
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 48
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76058ac7d13318e40800000000000000
+      internalID: 5656858808692527207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chalice1_broken_anim_49
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 50
+        width: 27
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7be2061b5e55f3310800000000000000
+      internalID: 1386921655265144503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chalice1_broken_anim_50
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 49
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a690b445d46b88cf0800000000000000
+      internalID: -249749336076121750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chalice1_broken_anim_51
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 53
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f2aad384ddcf8d80800000000000000
+      internalID: -8246146080063184144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chalice1_broken_anim_52
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 42
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f0cce607e0dbd310800000000000000
+      internalID: 1430966997292466422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chalice1_broken_anim_53
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 53
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e415c05dbf9064f0800000000000000
+      internalID: -837493895238183706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chalice1_broken_anim_54
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 53
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a2bf01aeed48d190800000000000000
+      internalID: -7937508655940783452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chalice1_broken_anim_55
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 32
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4a6f08d3a292c880800000000000000
+      internalID: -8592143906667271603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chalice1_broken_anim_56
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 25
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fedb2d71ece9a3150800000000000000
+      internalID: 5853165273721519599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chalice1_broken_anim_57
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 32
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df8acffc16ac97b80800000000000000
+      internalID: -8396457508805498627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chalice1_broken_anim_58
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 0
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cbe19f298a538800800000000000000
+      internalID: 613433519507631040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chalice1_broken_anim_59
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 0
+        width: 57
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c53541103304c0b0800000000000000
+      internalID: -5709434922615884346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chalice1_broken_anim_60
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 0
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0205583b4e3a4160800000000000000
+      internalID: 7010484262744162826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chalice1_broken_anim_61
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b90dbb1a985b98320800000000000000
+      internalID: 2560777465865425051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chalice1_broken_anim_62
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 11
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bd20846312a8a040800000000000000
+      internalID: 4659152018688978354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chalice1_broken_anim_63
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 19
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 650351095c1888400800000000000000
+      internalID: 326653658510209110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chalice1_broken_anim_64
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 0
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16844e4787cf427f0800000000000000
+      internalID: -638107652892374943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chalice1_broken_anim_65
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 9
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab9e2313d7bdfbc00800000000000000
+      internalID: 918694179749685690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      chalice1_broken_anim_0: -4405549097644483842
+      chalice1_broken_anim_1: 9191558946301874391
+      chalice1_broken_anim_10: 8554491887635940903
+      chalice1_broken_anim_11: 5831015414894530657
+      chalice1_broken_anim_12: 7151682063408987500
+      chalice1_broken_anim_13: 99532586370815545
+      chalice1_broken_anim_14: 7161710995862621494
+      chalice1_broken_anim_15: 6270164412551991272
+      chalice1_broken_anim_16: 1208264967263548655
+      chalice1_broken_anim_17: 11279452143561092
+      chalice1_broken_anim_18: -1427136668018877429
+      chalice1_broken_anim_19: -6035262048812441004
+      chalice1_broken_anim_2: 7397973387664758981
+      chalice1_broken_anim_20: -5154200102645781340
+      chalice1_broken_anim_21: 5588960263056473038
+      chalice1_broken_anim_22: 1809132681450036243
+      chalice1_broken_anim_23: -9134539740983492405
+      chalice1_broken_anim_24: 7305641319889239666
+      chalice1_broken_anim_25: 1017820143072734258
+      chalice1_broken_anim_26: -1295199975702338462
+      chalice1_broken_anim_27: -5267301356073167275
+      chalice1_broken_anim_28: 8043495948553385792
+      chalice1_broken_anim_29: -8005783879705347803
+      chalice1_broken_anim_3: -8061622897384962868
+      chalice1_broken_anim_30: 7943151439152423907
+      chalice1_broken_anim_31: 1399393727199261089
+      chalice1_broken_anim_32: -699228579178520422
+      chalice1_broken_anim_33: 2187805526926782902
+      chalice1_broken_anim_34: 1488115411869266097
+      chalice1_broken_anim_35: 6302905616503158988
+      chalice1_broken_anim_36: -306033386906567841
+      chalice1_broken_anim_37: -1789237861223960531
+      chalice1_broken_anim_38: 8800711706778882109
+      chalice1_broken_anim_39: -2751962413698697970
+      chalice1_broken_anim_4: -8916660031918828065
+      chalice1_broken_anim_40: 5719500234560017182
+      chalice1_broken_anim_41: 1896013667537464894
+      chalice1_broken_anim_42: -7983414274203826204
+      chalice1_broken_anim_43: -5807053279027754564
+      chalice1_broken_anim_44: 6958179438306191403
+      chalice1_broken_anim_45: 4516228124409364777
+      chalice1_broken_anim_46: 5899667464961621527
+      chalice1_broken_anim_47: 4794816305455259641
+      chalice1_broken_anim_48: 5656858808692527207
+      chalice1_broken_anim_49: 1386921655265144503
+      chalice1_broken_anim_5: -8270099139074005787
+      chalice1_broken_anim_50: -249749336076121750
+      chalice1_broken_anim_51: -8246146080063184144
+      chalice1_broken_anim_52: 1430966997292466422
+      chalice1_broken_anim_53: -837493895238183706
+      chalice1_broken_anim_54: -7937508655940783452
+      chalice1_broken_anim_55: -8592143906667271603
+      chalice1_broken_anim_56: 5853165273721519599
+      chalice1_broken_anim_57: -8396457508805498627
+      chalice1_broken_anim_58: 613433519507631040
+      chalice1_broken_anim_59: -5709434922615884346
+      chalice1_broken_anim_6: 2306036700088163971
+      chalice1_broken_anim_60: 7010484262744162826
+      chalice1_broken_anim_61: 2560777465865425051
+      chalice1_broken_anim_62: 4659152018688978354
+      chalice1_broken_anim_63: 326653658510209110
+      chalice1_broken_anim_64: -638107652892374943
+      chalice1_broken_anim_65: 918694179749685690
+      chalice1_broken_anim_7: -7819556257393988815
+      chalice1_broken_anim_8: -515289474300125370
+      chalice1_broken_anim_9: 8333752401074711608
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1495 @@
+fileFormatVersion: 2
+guid: b5f5499c2a327044381b30bece964d1d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3649863351994627762
+    second: archcathedral-spritesheet_0
+  - first:
+      213: -3591526914618884347
+    second: archcathedral-spritesheet_1
+  - first:
+      213: 8856020419305527917
+    second: archcathedral-spritesheet_2
+  - first:
+      213: -7066097127742364879
+    second: archcathedral-spritesheet_3
+  - first:
+      213: -3234461359337035669
+    second: archcathedral-spritesheet_4
+  - first:
+      213: -3620150967228406216
+    second: archcathedral-spritesheet_5
+  - first:
+      213: 3019772766064677966
+    second: archcathedral-spritesheet_6
+  - first:
+      213: -2818399341606145932
+    second: archcathedral-spritesheet_7
+  - first:
+      213: 408474252317337305
+    second: archcathedral-spritesheet_8
+  - first:
+      213: -5972399402776803875
+    second: archcathedral-spritesheet_9
+  - first:
+      213: -95389267676901497
+    second: archcathedral-spritesheet_10
+  - first:
+      213: 7555839644057519302
+    second: archcathedral-spritesheet_11
+  - first:
+      213: 1720973037533359108
+    second: archcathedral-spritesheet_12
+  - first:
+      213: 3530690463642158841
+    second: archcathedral-spritesheet_13
+  - first:
+      213: -5486008729295429389
+    second: archcathedral-spritesheet_14
+  - first:
+      213: -4602078550281709677
+    second: archcathedral-spritesheet_15
+  - first:
+      213: -5658230789737729467
+    second: archcathedral-spritesheet_16
+  - first:
+      213: -8865341952302390278
+    second: archcathedral-spritesheet_17
+  - first:
+      213: -1735478574260546263
+    second: archcathedral-spritesheet_18
+  - first:
+      213: 8105988504244734357
+    second: archcathedral-spritesheet_19
+  - first:
+      213: 2589175699382452290
+    second: archcathedral-spritesheet_20
+  - first:
+      213: -8081771988665841948
+    second: archcathedral-spritesheet_21
+  - first:
+      213: 7134065048366307277
+    second: archcathedral-spritesheet_22
+  - first:
+      213: 5512314556506935040
+    second: archcathedral-spritesheet_23
+  - first:
+      213: 8151367298652755782
+    second: archcathedral-spritesheet_24
+  - first:
+      213: -6134175655272763151
+    second: archcathedral-spritesheet_25
+  - first:
+      213: 4527128923812165146
+    second: archcathedral-spritesheet_26
+  - first:
+      213: 1760382820461399310
+    second: archcathedral-spritesheet_27
+  - first:
+      213: 3758264549675569424
+    second: archcathedral-spritesheet_28
+  - first:
+      213: 7386308144780259181
+    second: archcathedral-spritesheet_29
+  - first:
+      213: 1201084334795430502
+    second: archcathedral-spritesheet_30
+  - first:
+      213: 1428034821239015301
+    second: archcathedral-spritesheet_31
+  - first:
+      213: -7901223835275562656
+    second: archcathedral-spritesheet_32
+  - first:
+      213: -3754259637376750001
+    second: archcathedral-spritesheet_33
+  - first:
+      213: -5848426525124824888
+    second: archcathedral-spritesheet_34
+  - first:
+      213: 7629979345774591186
+    second: archcathedral-spritesheet_35
+  - first:
+      213: 986802695890053799
+    second: archcathedral-spritesheet_36
+  - first:
+      213: -7476809332369968857
+    second: archcathedral-spritesheet_37
+  - first:
+      213: 628721665832597051
+    second: archcathedral-spritesheet_38
+  - first:
+      213: -8976517091517701662
+    second: archcathedral-spritesheet_39
+  - first:
+      213: 183030250796509491
+    second: archcathedral-spritesheet_40
+  - first:
+      213: -3345011729452646495
+    second: archcathedral-spritesheet_41
+  - first:
+      213: -3926679075998995224
+    second: archcathedral-spritesheet_42
+  - first:
+      213: 3807288058346558500
+    second: archcathedral-spritesheet_43
+  - first:
+      213: -4580900901613677406
+    second: archcathedral-spritesheet_44
+  - first:
+      213: 1615002306429921016
+    second: archcathedral-spritesheet_45
+  - first:
+      213: 2867758918959094869
+    second: archcathedral-spritesheet_46
+  - first:
+      213: -6824157839300127427
+    second: archcathedral-spritesheet_47
+  - first:
+      213: 1351619215750573855
+    second: archcathedral-spritesheet_48
+  - first:
+      213: 2959414713140395141
+    second: archcathedral-spritesheet_49
+  - first:
+      213: 2855823532078669149
+    second: archcathedral-spritesheet_50
+  - first:
+      213: -6044315904037919882
+    second: archcathedral-spritesheet_51
+  - first:
+      213: -3965567816010595204
+    second: archcathedral-spritesheet_52
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: archcathedral-spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 831
+        width: 130
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b63b5e716be6a230800000000000000
+      internalID: 3649863351994627762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archcathedral-spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 922
+        width: 90
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50ff2e4cc45582ec0800000000000000
+      internalID: -3591526914618884347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archcathedral-spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 927
+        width: 90
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6adf4076a7e6ea70800000000000000
+      internalID: 8856020419305527917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archcathedral-spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 775
+        width: 242
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1332280a91e20fd90800000000000000
+      internalID: -7066097127742364879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archcathedral-spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 85
+        width: 428
+        height: 938
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b682df4d782ec13d0800000000000000
+      internalID: -3234461359337035669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archcathedral-spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 842
+        width: 64
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 836601d20e3a2cdc0800000000000000
+      internalID: -3620150967228406216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archcathedral-spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 843
+        width: 64
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e441fafc45368e920800000000000000
+      internalID: 3019772766064677966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archcathedral-spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 747
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 470fe583bb803e8d0800000000000000
+      internalID: -2818399341606145932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archcathedral-spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 747
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d6a4451b213ba500800000000000000
+      internalID: 408474252317337305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archcathedral-spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 754
+        width: 79
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd5cbb4e266cd1da0800000000000000
+      internalID: -5972399402776803875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archcathedral-spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 753
+        width: 79
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78fcbb867fb1daef0800000000000000
+      internalID: -95389267676901497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archcathedral-spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 443
+        width: 242
+        height: 328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c4ccdbaf1cbbd860800000000000000
+      internalID: 7555839644057519302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archcathedral-spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 570
+        width: 256
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40c633a0cdf12e710800000000000000
+      internalID: 1720973037533359108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archcathedral-spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 661
+        width: 28
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f6004135488ff030800000000000000
+      internalID: 3530690463642158841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archcathedral-spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 674
+        width: 28
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f067a77028cdd3b0800000000000000
+      internalID: -5486008729295429389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archcathedral-spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 569
+        width: 25
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 397930ef0f12220c0800000000000000
+      internalID: -4602078550281709677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archcathedral-spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 507
+        width: 23
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5423188431de971b0800000000000000
+      internalID: -5658230789737729467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archcathedral-spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 372
+        width: 196
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af3e5a8077af7f480800000000000000
+      internalID: -8865341952302390278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archcathedral-spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 372
+        width: 115
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92516e18e675ae7e0800000000000000
+      internalID: -1735478574260546263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archcathedral-spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 463
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59948e4e8914e7070800000000000000
+      internalID: 8105988504244734357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archcathedral-spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 395
+        width: 15
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 240c3ce94999ee320800000000000000
+      internalID: 2589175699382452290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archcathedral-spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 103
+        width: 259
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e6ced30237c7df80800000000000000
+      internalID: -8081771988665841948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archcathedral-spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 307
+        width: 66
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc757641d5a410360800000000000000
+      internalID: 7134065048366307277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archcathedral-spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 307
+        width: 130
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00f8fc632ecaf7c40800000000000000
+      internalID: 5512314556506935040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archcathedral-spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 307
+        width: 67
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 647deedce597f1170800000000000000
+      internalID: 8151367298652755782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archcathedral-spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 11
+        width: 52
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f03e95edb70fdaa0800000000000000
+      internalID: -6134175655272763151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archcathedral-spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 171
+        width: 48
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a16783c35c793de30800000000000000
+      internalID: 4527128923812165146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archcathedral-spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 279
+        width: 91
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0d4d4a29d22e6810800000000000000
+      internalID: 1760382820461399310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archcathedral-spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 220
+        width: 113
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0111b5f12b9082430800000000000000
+      internalID: 3758264549675569424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archcathedral-spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 27
+        width: 52
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6fa3339f10718660800000000000000
+      internalID: 7386308144780259181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archcathedral-spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 256
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66a94c0c6db1ba010800000000000000
+      internalID: 1201084334795430502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archcathedral-spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 158
+        width: 67
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58707d69a1661d310800000000000000
+      internalID: 1428034821239015301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archcathedral-spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 171
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 061fc87c8c6395290800000000000000
+      internalID: -7901223835275562656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archcathedral-spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 190
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4e629f20c036ebc0800000000000000
+      internalID: -3754259637376750001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archcathedral-spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 133
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c076facf0736dea0800000000000000
+      internalID: -5848426525124824888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archcathedral-spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 151
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dc36742ac123e960800000000000000
+      internalID: 7629979345774591186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archcathedral-spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 104
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aaace7d2d3d1bd00800000000000000
+      internalID: 986802695890053799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archcathedral-spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 140
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72133caa6890d3890800000000000000
+      internalID: -7476809332369968857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archcathedral-spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 47
+        width: 66
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b363b82260ba9b800800000000000000
+      internalID: 628721665832597051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archcathedral-spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 40
+        width: 66
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e16ddfc3410d6380800000000000000
+      internalID: -8976517091517701662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archcathedral-spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 85
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33960e91b014a8200800000000000000
+      internalID: 183030250796509491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archcathedral-spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 116
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1afb5700e812491d0800000000000000
+      internalID: -3345011729452646495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archcathedral-spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 67
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ecee105f22a189c0800000000000000
+      internalID: -3926679075998995224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archcathedral-spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 23
+        width: 113
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4245553315436d430800000000000000
+      internalID: 3807288058346558500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archcathedral-spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 27
+        width: 68
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a4dc0096ee5d60c0800000000000000
+      internalID: -4580900901613677406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archcathedral-spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 6
+        width: 152
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f621328a04a96610800000000000000
+      internalID: 1615002306429921016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archcathedral-spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 54
+        width: 120
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55cd302fa835cc720800000000000000
+      internalID: 2867758918959094869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archcathedral-spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 62
+        width: 73
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d359151e998bb41a0800000000000000
+      internalID: -6824157839300127427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archcathedral-spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 39
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1fa76af38ae1c210800000000000000
+      internalID: 1351619215750573855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archcathedral-spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 17
+        width: 26
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58c3ccf7004f11920800000000000000
+      internalID: 2959414713140395141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archcathedral-spritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 32
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5d10c22f5ce1a720800000000000000
+      internalID: 2855823532078669149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archcathedral-spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 0
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 673639d95b64e1ca0800000000000000
+      internalID: -6044315904037919882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archcathedral-spritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 10
+        width: 51
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7487f1f41977f8c0800000000000000
+      internalID: -3965567816010595204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      archcathedral-spritesheet_0: 3649863351994627762
+      archcathedral-spritesheet_1: -3591526914618884347
+      archcathedral-spritesheet_10: -95389267676901497
+      archcathedral-spritesheet_11: 7555839644057519302
+      archcathedral-spritesheet_12: 1720973037533359108
+      archcathedral-spritesheet_13: 3530690463642158841
+      archcathedral-spritesheet_14: -5486008729295429389
+      archcathedral-spritesheet_15: -4602078550281709677
+      archcathedral-spritesheet_16: -5658230789737729467
+      archcathedral-spritesheet_17: -8865341952302390278
+      archcathedral-spritesheet_18: -1735478574260546263
+      archcathedral-spritesheet_19: 8105988504244734357
+      archcathedral-spritesheet_2: 8856020419305527917
+      archcathedral-spritesheet_20: 2589175699382452290
+      archcathedral-spritesheet_21: -8081771988665841948
+      archcathedral-spritesheet_22: 7134065048366307277
+      archcathedral-spritesheet_23: 5512314556506935040
+      archcathedral-spritesheet_24: 8151367298652755782
+      archcathedral-spritesheet_25: -6134175655272763151
+      archcathedral-spritesheet_26: 4527128923812165146
+      archcathedral-spritesheet_27: 1760382820461399310
+      archcathedral-spritesheet_28: 3758264549675569424
+      archcathedral-spritesheet_29: 7386308144780259181
+      archcathedral-spritesheet_3: -7066097127742364879
+      archcathedral-spritesheet_30: 1201084334795430502
+      archcathedral-spritesheet_31: 1428034821239015301
+      archcathedral-spritesheet_32: -7901223835275562656
+      archcathedral-spritesheet_33: -3754259637376750001
+      archcathedral-spritesheet_34: -5848426525124824888
+      archcathedral-spritesheet_35: 7629979345774591186
+      archcathedral-spritesheet_36: 986802695890053799
+      archcathedral-spritesheet_37: -7476809332369968857
+      archcathedral-spritesheet_38: 628721665832597051
+      archcathedral-spritesheet_39: -8976517091517701662
+      archcathedral-spritesheet_4: -3234461359337035669
+      archcathedral-spritesheet_40: 183030250796509491
+      archcathedral-spritesheet_41: -3345011729452646495
+      archcathedral-spritesheet_42: -3926679075998995224
+      archcathedral-spritesheet_43: 3807288058346558500
+      archcathedral-spritesheet_44: -4580900901613677406
+      archcathedral-spritesheet_45: 1615002306429921016
+      archcathedral-spritesheet_46: 2867758918959094869
+      archcathedral-spritesheet_47: -6824157839300127427
+      archcathedral-spritesheet_48: 1351619215750573855
+      archcathedral-spritesheet_49: 2959414713140395141
+      archcathedral-spritesheet_5: -3620150967228406216
+      archcathedral-spritesheet_50: 2855823532078669149
+      archcathedral-spritesheet_51: -6044315904037919882
+      archcathedral-spritesheet_52: -3965567816010595204
+      archcathedral-spritesheet_6: 3019772766064677966
+      archcathedral-spritesheet_7: -2818399341606145932
+      archcathedral-spritesheet_8: 408474252317337305
+      archcathedral-spritesheet_9: -5972399402776803875
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

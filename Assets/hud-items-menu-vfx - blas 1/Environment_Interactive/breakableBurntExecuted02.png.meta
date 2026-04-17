@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 033740219854da24c9651fec0ec3781a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2995532094247552709
+    second: breakableBurntExecuted02_0
+  - first:
+      213: -5866357777015541041
+    second: breakableBurntExecuted02_1
+  - first:
+      213: -6681614404865980948
+    second: breakableBurntExecuted02_2
+  - first:
+      213: -7814039156470089226
+    second: breakableBurntExecuted02_3
+  - first:
+      213: -4056664050695873645
+    second: breakableBurntExecuted02_4
+  - first:
+      213: 1108479714745711592
+    second: breakableBurntExecuted02_5
+  - first:
+      213: 1314422233639611357
+    second: breakableBurntExecuted02_6
+  - first:
+      213: 9097305135808163004
+    second: breakableBurntExecuted02_7
+  - first:
+      213: 2118038637474967803
+    second: breakableBurntExecuted02_8
+  - first:
+      213: -284576749647300358
+    second: breakableBurntExecuted02_9
+  - first:
+      213: 664909045153632449
+    second: breakableBurntExecuted02_10
+  - first:
+      213: -8891430980530265193
+    second: breakableBurntExecuted02_11
+  - first:
+      213: 3978285458168029691
+    second: breakableBurntExecuted02_12
+  - first:
+      213: -8517976289577090931
+    second: breakableBurntExecuted02_13
+  - first:
+      213: 6086330832707728117
+    second: breakableBurntExecuted02_14
+  - first:
+      213: 6226866376911479084
+    second: breakableBurntExecuted02_15
+  - first:
+      213: 6706355249162583728
+    second: breakableBurntExecuted02_16
+  - first:
+      213: 4456885519650354663
+    second: breakableBurntExecuted02_17
+  - first:
+      213: 8389167537127285704
+    second: breakableBurntExecuted02_18
+  - first:
+      213: 7352810256972358342
+    second: breakableBurntExecuted02_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: breakableBurntExecuted02_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 407
+        width: 36
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c648e69194429920800000000000000
+      internalID: 2995532094247552709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableBurntExecuted02_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 305
+        width: 36
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc273afdea2869ea0800000000000000
+      internalID: -5866357777015541041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableBurntExecuted02_2
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 309
+        width: 35
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce584d779132643a0800000000000000
+      internalID: -6681614404865980948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableBurntExecuted02_3
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 305
+        width: 66
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f97b99a9c4fe8390800000000000000
+      internalID: -7814039156470089226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableBurntExecuted02_4
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 407
+        width: 66
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39bdc2df985d3b7c0800000000000000
+      internalID: -4056664050695873645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableBurntExecuted02_5
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 305
+        width: 66
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ebf4267d6c126f00800000000000000
+      internalID: 1108479714745711592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableBurntExecuted02_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 203
+        width: 36
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddbe6f0be04cd3210800000000000000
+      internalID: 1314422233639611357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableBurntExecuted02_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 101
+        width: 70
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbcae2942de104e70800000000000000
+      internalID: 9097305135808163004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableBurntExecuted02_8
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 207
+        width: 35
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf07f3f3be8c46d10800000000000000
+      internalID: 2118038637474967803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableBurntExecuted02_9
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 203
+        width: 66
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af8ffe534fafc0cf0800000000000000
+      internalID: -284576749647300358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableBurntExecuted02_10
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 203
+        width: 66
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c09354f04b3a3900800000000000000
+      internalID: 664909045153632449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableBurntExecuted02_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 38
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 793279cc1aa4b9480800000000000000
+      internalID: -8891430980530265193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableBurntExecuted02_12
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 0
+        width: 36
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf1253ddb85b53730800000000000000
+      internalID: 3978285458168029691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableBurntExecuted02_13
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 0
+        width: 266
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d80ce8ed1b11ac980800000000000000
+      internalID: -8517976289577090931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableBurntExecuted02_14
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 0
+        width: 35
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f23d0545adf67450800000000000000
+      internalID: 6086330832707728117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableBurntExecuted02_15
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 0
+        width: 35
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c21e1ab7af54a6650800000000000000
+      internalID: 6226866376911479084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableBurntExecuted02_16
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 0
+        width: 35
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0be79eb3192c11d50800000000000000
+      internalID: 6706355249162583728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableBurntExecuted02_17
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 0
+        width: 35
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e5775b34c90add30800000000000000
+      internalID: 4456885519650354663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableBurntExecuted02_18
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 0
+        width: 43
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c3e5b36d6f4c6470800000000000000
+      internalID: 8389167537127285704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableBurntExecuted02_19
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 0
+        width: 142
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c2afabc8fd6a0660800000000000000
+      internalID: 7352810256972358342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      breakableBurntExecuted02_0: 2995532094247552709
+      breakableBurntExecuted02_1: -5866357777015541041
+      breakableBurntExecuted02_10: 664909045153632449
+      breakableBurntExecuted02_11: -8891430980530265193
+      breakableBurntExecuted02_12: 3978285458168029691
+      breakableBurntExecuted02_13: -8517976289577090931
+      breakableBurntExecuted02_14: 6086330832707728117
+      breakableBurntExecuted02_15: 6226866376911479084
+      breakableBurntExecuted02_16: 6706355249162583728
+      breakableBurntExecuted02_17: 4456885519650354663
+      breakableBurntExecuted02_18: 8389167537127285704
+      breakableBurntExecuted02_19: 7352810256972358342
+      breakableBurntExecuted02_2: -6681614404865980948
+      breakableBurntExecuted02_3: -7814039156470089226
+      breakableBurntExecuted02_4: -4056664050695873645
+      breakableBurntExecuted02_5: 1108479714745711592
+      breakableBurntExecuted02_6: 1314422233639611357
+      breakableBurntExecuted02_7: 9097305135808163004
+      breakableBurntExecuted02_8: 2118038637474967803
+      breakableBurntExecuted02_9: -284576749647300358
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

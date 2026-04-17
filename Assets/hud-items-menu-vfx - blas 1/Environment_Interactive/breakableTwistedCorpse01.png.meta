@@ -1,0 +1,429 @@
+fileFormatVersion: 2
+guid: cb8a235ecac2d6a4095effd23c94777b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6028472033922693397
+    second: breakableTwistedCorpse01_0
+  - first:
+      213: 4875612780311915954
+    second: breakableTwistedCorpse01_1
+  - first:
+      213: -4007650800760040313
+    second: breakableTwistedCorpse01_2
+  - first:
+      213: 3450143670703490255
+    second: breakableTwistedCorpse01_3
+  - first:
+      213: -8270543938006033703
+    second: breakableTwistedCorpse01_4
+  - first:
+      213: 5291098923444694629
+    second: breakableTwistedCorpse01_5
+  - first:
+      213: -8688675758289710980
+    second: breakableTwistedCorpse01_6
+  - first:
+      213: -5144641386445816600
+    second: breakableTwistedCorpse01_7
+  - first:
+      213: 4718720501748204940
+    second: breakableTwistedCorpse01_8
+  - first:
+      213: -5530583808174070812
+    second: breakableTwistedCorpse01_9
+  - first:
+      213: 7408790467791744648
+    second: breakableTwistedCorpse01_10
+  - first:
+      213: -3456398087269976830
+    second: breakableTwistedCorpse01_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: breakableTwistedCorpse01_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 255
+        width: 26
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 519b658ef5f69a350800000000000000
+      internalID: 6028472033922693397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableTwistedCorpse01_1
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 255
+        width: 26
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bda8d8ddf7a9a340800000000000000
+      internalID: 4875612780311915954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableTwistedCorpse01_2
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 255
+        width: 26
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78453e484d6f168c0800000000000000
+      internalID: -4007650800760040313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableTwistedCorpse01_3
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 255
+        width: 27
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc4085c836f51ef20800000000000000
+      internalID: 3450143670703490255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableTwistedCorpse01_4
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 255
+        width: 26
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dad3eb8b10293d80800000000000000
+      internalID: -8270543938006033703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableTwistedCorpse01_5
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 127
+        width: 27
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56e6f5bff62cd6940800000000000000
+      internalID: 5291098923444694629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableTwistedCorpse01_6
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 127
+        width: 26
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c701892be6f9b6780800000000000000
+      internalID: -8688675758289710980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableTwistedCorpse01_7
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 127
+        width: 27
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ecbf10aaef8a98b0800000000000000
+      internalID: -5144641386445816600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableTwistedCorpse01_8
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 127
+        width: 26
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c850e05ab434c7140800000000000000
+      internalID: 4718720501748204940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableTwistedCorpse01_9
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 127
+        width: 26
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e3e149245b6f33b0800000000000000
+      internalID: -5530583808174070812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableTwistedCorpse01_10
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 0
+        width: 26
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88ee6005daf41d660800000000000000
+      internalID: 7408790467791744648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableTwistedCorpse01_11
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 0
+        width: 26
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 205feed90486800d0800000000000000
+      internalID: -3456398087269976830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      breakableTwistedCorpse01_0: 6028472033922693397
+      breakableTwistedCorpse01_1: 4875612780311915954
+      breakableTwistedCorpse01_10: 7408790467791744648
+      breakableTwistedCorpse01_11: -3456398087269976830
+      breakableTwistedCorpse01_2: -4007650800760040313
+      breakableTwistedCorpse01_3: 3450143670703490255
+      breakableTwistedCorpse01_4: -8270543938006033703
+      breakableTwistedCorpse01_5: 5291098923444694629
+      breakableTwistedCorpse01_6: -8688675758289710980
+      breakableTwistedCorpse01_7: -5144641386445816600
+      breakableTwistedCorpse01_8: 4718720501748204940
+      breakableTwistedCorpse01_9: -5530583808174070812
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

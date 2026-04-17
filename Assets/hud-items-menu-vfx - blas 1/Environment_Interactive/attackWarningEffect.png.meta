@@ -1,0 +1,715 @@
+fileFormatVersion: 2
+guid: 76ef43ba730bf2b41bce2a42913c8f12
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3850802690799521473
+    second: attackWarningEffect_0
+  - first:
+      213: -654864989629566919
+    second: attackWarningEffect_1
+  - first:
+      213: 3270227452480012847
+    second: attackWarningEffect_2
+  - first:
+      213: -1664487438829921212
+    second: attackWarningEffect_3
+  - first:
+      213: 7868516012058549926
+    second: attackWarningEffect_4
+  - first:
+      213: 2746605587886806302
+    second: attackWarningEffect_5
+  - first:
+      213: 3168758557603686828
+    second: attackWarningEffect_6
+  - first:
+      213: 2953467459136577922
+    second: attackWarningEffect_7
+  - first:
+      213: 692243079391269672
+    second: attackWarningEffect_8
+  - first:
+      213: -8124727688233909900
+    second: attackWarningEffect_9
+  - first:
+      213: -3914132225024903846
+    second: attackWarningEffect_10
+  - first:
+      213: -7912905652234300636
+    second: attackWarningEffect_11
+  - first:
+      213: -7429193048587712229
+    second: attackWarningEffect_12
+  - first:
+      213: 3347463169899308649
+    second: attackWarningEffect_13
+  - first:
+      213: -7194799283849062877
+    second: attackWarningEffect_14
+  - first:
+      213: -4928784189362974520
+    second: attackWarningEffect_15
+  - first:
+      213: -6849791818594243956
+    second: attackWarningEffect_16
+  - first:
+      213: -1475617462887087020
+    second: attackWarningEffect_17
+  - first:
+      213: 5190666037776615725
+    second: attackWarningEffect_18
+  - first:
+      213: -1646921034640284643
+    second: attackWarningEffect_19
+  - first:
+      213: 991574887951553748
+    second: attackWarningEffect_20
+  - first:
+      213: -589418889339609563
+    second: attackWarningEffect_21
+  - first:
+      213: -4100333787622861500
+    second: attackWarningEffect_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: attackWarningEffect_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 537
+        width: 257
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ce493515acc07530800000000000000
+      internalID: 3850802690799521473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attackWarningEffect_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 537
+        width: 128
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9303a45f2c379e6f0800000000000000
+      internalID: -654864989629566919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attackWarningEffect_2
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 537
+        width: 128
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f224dc7aa8e226d20800000000000000
+      internalID: 3270227452480012847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attackWarningEffect_3
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 538
+        width: 124
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44c51734e7d86e8e0800000000000000
+      internalID: -1664487438829921212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attackWarningEffect_4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 410
+        width: 124
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ae1930bf95923d60800000000000000
+      internalID: 7868516012058549926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attackWarningEffect_5
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 410
+        width: 122
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e159814ea37ed1620800000000000000
+      internalID: 2746605587886806302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attackWarningEffect_6
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 410
+        width: 122
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca962fc8e11b9fb20800000000000000
+      internalID: 3168758557603686828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attackWarningEffect_7
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 411
+        width: 120
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 281e2858103dcf820800000000000000
+      internalID: 2953467459136577922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attackWarningEffect_8
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 411
+        width: 120
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 823d65db9675b9900800000000000000
+      internalID: 692243079391269672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attackWarningEffect_9
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 284
+        width: 114
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4718906d63b2f3f80800000000000000
+      internalID: -8124727688233909900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attackWarningEffect_10
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 284
+        width: 114
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a553b73ba753ea9c0800000000000000
+      internalID: -3914132225024903846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attackWarningEffect_11
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 285
+        width: 106
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 423d461db36bf2290800000000000000
+      internalID: -7912905652234300636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attackWarningEffect_12
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 285
+        width: 106
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b19c02ba84436e890800000000000000
+      internalID: -7429193048587712229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attackWarningEffect_13
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 288
+        width: 101
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9662d847404947e20800000000000000
+      internalID: 3347463169899308649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attackWarningEffect_14
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 160
+        width: 101
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32611f7cb20f62c90800000000000000
+      internalID: -7194799283849062877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attackWarningEffect_15
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 161
+        width: 89
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c05572c4e0799bb0800000000000000
+      internalID: -4928784189362974520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attackWarningEffect_16
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 161
+        width: 89
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8a205bf1a6a0f0a0800000000000000
+      internalID: -6849791818594243956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attackWarningEffect_17
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 163
+        width: 73
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45480445cbd858be0800000000000000
+      internalID: -1475617462887087020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attackWarningEffect_18
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 163
+        width: 73
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d290c519243f80840800000000000000
+      internalID: 5190666037776615725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attackWarningEffect_19
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 35
+        width: 59
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d14a5257b06f429e0800000000000000
+      internalID: -1646921034640284643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attackWarningEffect_20
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 35
+        width: 59
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d4dc846b18c2cd00800000000000000
+      internalID: 991574887951553748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attackWarningEffect_21
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 36
+        width: 49
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52ed10d94a6f1d7f0800000000000000
+      internalID: -589418889339609563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attackWarningEffect_22
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 36
+        width: 167
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44515380520b817c0800000000000000
+      internalID: -4100333787622861500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      attackWarningEffect_0: 3850802690799521473
+      attackWarningEffect_1: -654864989629566919
+      attackWarningEffect_10: -3914132225024903846
+      attackWarningEffect_11: -7912905652234300636
+      attackWarningEffect_12: -7429193048587712229
+      attackWarningEffect_13: 3347463169899308649
+      attackWarningEffect_14: -7194799283849062877
+      attackWarningEffect_15: -4928784189362974520
+      attackWarningEffect_16: -6849791818594243956
+      attackWarningEffect_17: -1475617462887087020
+      attackWarningEffect_18: 5190666037776615725
+      attackWarningEffect_19: -1646921034640284643
+      attackWarningEffect_2: 3270227452480012847
+      attackWarningEffect_20: 991574887951553748
+      attackWarningEffect_21: -589418889339609563
+      attackWarningEffect_22: -4100333787622861500
+      attackWarningEffect_3: -1664487438829921212
+      attackWarningEffect_4: 7868516012058549926
+      attackWarningEffect_5: 2746605587886806302
+      attackWarningEffect_6: 3168758557603686828
+      attackWarningEffect_7: 2953467459136577922
+      attackWarningEffect_8: 692243079391269672
+      attackWarningEffect_9: -8124727688233909900
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

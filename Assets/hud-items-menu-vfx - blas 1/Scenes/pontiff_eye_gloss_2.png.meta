@@ -1,0 +1,845 @@
+fileFormatVersion: 2
+guid: 200438e68f9ea02479eaaccce44639c1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7680464041167484966
+    second: pontiff_eye_gloss_2_0
+  - first:
+      213: 8530446979216151959
+    second: pontiff_eye_gloss_2_1
+  - first:
+      213: 1102671099596427456
+    second: pontiff_eye_gloss_2_2
+  - first:
+      213: -6840084142745598898
+    second: pontiff_eye_gloss_2_3
+  - first:
+      213: -4620455236463729600
+    second: pontiff_eye_gloss_2_4
+  - first:
+      213: 3568014569843813436
+    second: pontiff_eye_gloss_2_5
+  - first:
+      213: 7386397859490886324
+    second: pontiff_eye_gloss_2_6
+  - first:
+      213: 3974770672742773975
+    second: pontiff_eye_gloss_2_7
+  - first:
+      213: 5626841584525684412
+    second: pontiff_eye_gloss_2_8
+  - first:
+      213: -4778896130756707595
+    second: pontiff_eye_gloss_2_9
+  - first:
+      213: 149727954222421384
+    second: pontiff_eye_gloss_2_10
+  - first:
+      213: -840123970908910396
+    second: pontiff_eye_gloss_2_11
+  - first:
+      213: 8522207448124647311
+    second: pontiff_eye_gloss_2_12
+  - first:
+      213: -7318632215906361179
+    second: pontiff_eye_gloss_2_13
+  - first:
+      213: 296748238906918967
+    second: pontiff_eye_gloss_2_14
+  - first:
+      213: 8758812797922920917
+    second: pontiff_eye_gloss_2_15
+  - first:
+      213: 7322853053387844342
+    second: pontiff_eye_gloss_2_16
+  - first:
+      213: 6805669999474121850
+    second: pontiff_eye_gloss_2_17
+  - first:
+      213: 5830783958389777873
+    second: pontiff_eye_gloss_2_18
+  - first:
+      213: -6482603265655485034
+    second: pontiff_eye_gloss_2_19
+  - first:
+      213: -5883083745892293769
+    second: pontiff_eye_gloss_2_20
+  - first:
+      213: 4438228401622002898
+    second: pontiff_eye_gloss_2_21
+  - first:
+      213: 2715490612827014657
+    second: pontiff_eye_gloss_2_22
+  - first:
+      213: -2757341382264871992
+    second: pontiff_eye_gloss_2_23
+  - first:
+      213: 2176316192944135774
+    second: pontiff_eye_gloss_2_24
+  - first:
+      213: 933420858157898381
+    second: pontiff_eye_gloss_2_25
+  - first:
+      213: 316811452044387340
+    second: pontiff_eye_gloss_2_26
+  - first:
+      213: -5627872257756505985
+    second: pontiff_eye_gloss_2_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pontiff_eye_gloss_2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 870
+        width: 134
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad70d0cb5a2896590800000000000000
+      internalID: -7680464041167484966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pontiff_eye_gloss_2_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 716
+        width: 134
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7959b73d45c326670800000000000000
+      internalID: 8530446979216151959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pontiff_eye_gloss_2_2
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 870
+        width: 135
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c0d88bd5897d4f00800000000000000
+      internalID: 1102671099596427456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pontiff_eye_gloss_2_3
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 716
+        width: 135
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e44cdd566b32311a0800000000000000
+      internalID: -6840084142745598898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pontiff_eye_gloss_2_4
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 870
+        width: 135
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0446cf15178d0efb0800000000000000
+      internalID: -4620455236463729600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pontiff_eye_gloss_2_5
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 716
+        width: 135
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3c65fcd852248130800000000000000
+      internalID: 3568014569843813436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pontiff_eye_gloss_2_6
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 870
+        width: 135
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b2f8a8e7b1c18660800000000000000
+      internalID: 7386397859490886324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pontiff_eye_gloss_2_7
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 716
+        width: 135
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d4397c1ed8392730800000000000000
+      internalID: 3974770672742773975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pontiff_eye_gloss_2_8
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 870
+        width: 135
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbeac0ddb9e861e40800000000000000
+      internalID: 5626841584525684412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pontiff_eye_gloss_2_9
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 716
+        width: 135
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5faf1cbe943fdadb0800000000000000
+      internalID: -4778896130756707595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pontiff_eye_gloss_2_10
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 870
+        width: 135
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8859f54f7c0f31200800000000000000
+      internalID: 149727954222421384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pontiff_eye_gloss_2_11
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 716
+        width: 135
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cc0faa13b74754f0800000000000000
+      internalID: -840123970908910396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pontiff_eye_gloss_2_12
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 870
+        width: 135
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8768af7586f44670800000000000000
+      internalID: 8522207448124647311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pontiff_eye_gloss_2_13
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 716
+        width: 135
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a0eb2186cefe6a90800000000000000
+      internalID: -7318632215906361179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pontiff_eye_gloss_2_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 562
+        width: 134
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73805c773f24e1400800000000000000
+      internalID: 296748238906918967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pontiff_eye_gloss_2_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 408
+        width: 134
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d9475265dd8d8970800000000000000
+      internalID: 8758812797922920917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pontiff_eye_gloss_2_16
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 562
+        width: 135
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fa219dcd0000a560800000000000000
+      internalID: 7322853053387844342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pontiff_eye_gloss_2_17
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 408
+        width: 135
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7c10397ec8927e50800000000000000
+      internalID: 6805669999474121850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pontiff_eye_gloss_2_18
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 562
+        width: 135
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d56ed90e1b1be050800000000000000
+      internalID: 5830783958389777873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pontiff_eye_gloss_2_19
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 408
+        width: 135
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69d41da1daa2906a0800000000000000
+      internalID: -6482603265655485034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pontiff_eye_gloss_2_20
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 562
+        width: 135
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7732736c0861b5ea0800000000000000
+      internalID: -5883083745892293769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pontiff_eye_gloss_2_21
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 408
+        width: 135
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dcaabe6731c79d30800000000000000
+      internalID: 4438228401622002898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pontiff_eye_gloss_2_22
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 562
+        width: 135
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1064678335c5fa520800000000000000
+      internalID: 2715490612827014657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pontiff_eye_gloss_2_23
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 408
+        width: 135
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c32e913f94fbb9d0800000000000000
+      internalID: -2757341382264871992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pontiff_eye_gloss_2_24
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 562
+        width: 135
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5e9d5ffb04d33e10800000000000000
+      internalID: 2176316192944135774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pontiff_eye_gloss_2_25
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 408
+        width: 135
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8a1174335d24fc00800000000000000
+      internalID: 933420858157898381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pontiff_eye_gloss_2_26
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 562
+        width: 135
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c04a1eb465a856400800000000000000
+      internalID: 316811452044387340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pontiff_eye_gloss_2_27
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 408
+        width: 135
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f78d523dff7c5e1b0800000000000000
+      internalID: -5627872257756505985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      pontiff_eye_gloss_2_0: -7680464041167484966
+      pontiff_eye_gloss_2_1: 8530446979216151959
+      pontiff_eye_gloss_2_10: 149727954222421384
+      pontiff_eye_gloss_2_11: -840123970908910396
+      pontiff_eye_gloss_2_12: 8522207448124647311
+      pontiff_eye_gloss_2_13: -7318632215906361179
+      pontiff_eye_gloss_2_14: 296748238906918967
+      pontiff_eye_gloss_2_15: 8758812797922920917
+      pontiff_eye_gloss_2_16: 7322853053387844342
+      pontiff_eye_gloss_2_17: 6805669999474121850
+      pontiff_eye_gloss_2_18: 5830783958389777873
+      pontiff_eye_gloss_2_19: -6482603265655485034
+      pontiff_eye_gloss_2_2: 1102671099596427456
+      pontiff_eye_gloss_2_20: -5883083745892293769
+      pontiff_eye_gloss_2_21: 4438228401622002898
+      pontiff_eye_gloss_2_22: 2715490612827014657
+      pontiff_eye_gloss_2_23: -2757341382264871992
+      pontiff_eye_gloss_2_24: 2176316192944135774
+      pontiff_eye_gloss_2_25: 933420858157898381
+      pontiff_eye_gloss_2_26: 316811452044387340
+      pontiff_eye_gloss_2_27: -5627872257756505985
+      pontiff_eye_gloss_2_3: -6840084142745598898
+      pontiff_eye_gloss_2_4: -4620455236463729600
+      pontiff_eye_gloss_2_5: 3568014569843813436
+      pontiff_eye_gloss_2_6: 7386397859490886324
+      pontiff_eye_gloss_2_7: 3974770672742773975
+      pontiff_eye_gloss_2_8: 5626841584525684412
+      pontiff_eye_gloss_2_9: -4778896130756707595
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

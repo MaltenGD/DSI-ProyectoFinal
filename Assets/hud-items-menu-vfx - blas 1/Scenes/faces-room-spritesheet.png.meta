@@ -1,0 +1,689 @@
+fileFormatVersion: 2
+guid: 959f8222812a9a6458ba91169ae9c909
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2858947812381479345
+    second: faces-room-spritesheet_0
+  - first:
+      213: 3001458819940767714
+    second: faces-room-spritesheet_1
+  - first:
+      213: -9196241035550588945
+    second: faces-room-spritesheet_2
+  - first:
+      213: 209430593492250787
+    second: faces-room-spritesheet_3
+  - first:
+      213: -1008791571075246680
+    second: faces-room-spritesheet_4
+  - first:
+      213: 4521917993962749188
+    second: faces-room-spritesheet_5
+  - first:
+      213: 4227719328029517211
+    second: faces-room-spritesheet_6
+  - first:
+      213: -2922859838159116169
+    second: faces-room-spritesheet_7
+  - first:
+      213: -5909500130288651332
+    second: faces-room-spritesheet_8
+  - first:
+      213: -5234275087122159616
+    second: faces-room-spritesheet_9
+  - first:
+      213: -3650906929869704926
+    second: faces-room-spritesheet_10
+  - first:
+      213: -1740332787463931198
+    second: faces-room-spritesheet_11
+  - first:
+      213: 4844792017646919436
+    second: faces-room-spritesheet_12
+  - first:
+      213: -543498608840592296
+    second: faces-room-spritesheet_13
+  - first:
+      213: 5579845092288735426
+    second: faces-room-spritesheet_14
+  - first:
+      213: 1608525209247088855
+    second: faces-room-spritesheet_15
+  - first:
+      213: 574229098040465878
+    second: faces-room-spritesheet_16
+  - first:
+      213: -1667623799555584187
+    second: faces-room-spritesheet_17
+  - first:
+      213: -12732441115913882
+    second: faces-room-spritesheet_18
+  - first:
+      213: 8578715727769902052
+    second: faces-room-spritesheet_19
+  - first:
+      213: 574246365212568229
+    second: faces-room-spritesheet_20
+  - first:
+      213: -961029567754206586
+    second: faces-room-spritesheet_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: faces-room-spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 957
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4e2f9bac1af258d0800000000000000
+      internalID: -2858947812381479345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: faces-room-spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 957
+        width: 66
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e75882f4e257a920800000000000000
+      internalID: 3001458819940767714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: faces-room-spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 957
+        width: 66
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feff22f7083606080800000000000000
+      internalID: -9196241035550588945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: faces-room-spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 919
+        width: 101
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a07432e30c08e200800000000000000
+      internalID: 209430593492250787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: faces-room-spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 829
+        width: 227
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a5d6a1396d0002f0800000000000000
+      internalID: -1008791571075246680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: faces-room-spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 889
+        width: 177
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40db895157411ce30800000000000000
+      internalID: 4521917993962749188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: faces-room-spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 926
+        width: 163
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b95a0455450ebaa30800000000000000
+      internalID: 4227719328029517211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: faces-room-spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 978
+        width: 91
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7782542967aef67d0800000000000000
+      internalID: -2922859838159116169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: faces-room-spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 720
+        width: 116
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb3350ef0fc3dfda0800000000000000
+      internalID: -5909500130288651332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: faces-room-spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 722
+        width: 76
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00828676a8e1c57b0800000000000000
+      internalID: -5234275087122159616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: faces-room-spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 920
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 221ba199d7f555dc0800000000000000
+      internalID: -3650906929869704926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: faces-room-spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 852
+        width: 80
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ca3f3cec8819d7e0800000000000000
+      internalID: -1740332787463931198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: faces-room-spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 884
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0f1e76dba82c3340800000000000000
+      internalID: 4844792017646919436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: faces-room-spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 718
+        width: 105
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 854332415ea1578f0800000000000000
+      internalID: -543498608840592296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: faces-room-spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 776
+        width: 383
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c8a3935c879f6d40800000000000000
+      internalID: 5579845092288735426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: faces-room-spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 773
+        width: 280
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d00f6dc721a25610800000000000000
+      internalID: 1608525209247088855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: faces-room-spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 720
+        width: 475
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d91560825218f700800000000000000
+      internalID: 574229098040465878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: faces-room-spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 727
+        width: 175
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54f80806df86bd8e0800000000000000
+      internalID: -1667623799555584187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: faces-room-spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 403
+        width: 587
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 661992a89e3c2dff0800000000000000
+      internalID: -12732441115913882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: faces-room-spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 671
+        width: 170
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eb18ce9088bd0770800000000000000
+      internalID: 8578715727769902052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: faces-room-spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 599
+        width: 165
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aaed04d60228f700800000000000000
+      internalID: 574246365212568229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: faces-room-spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 85
+        width: 625
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6820d5b23bcb9a2f0800000000000000
+      internalID: -961029567754206586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      faces-room-spritesheet_0: -2858947812381479345
+      faces-room-spritesheet_1: 3001458819940767714
+      faces-room-spritesheet_10: -3650906929869704926
+      faces-room-spritesheet_11: -1740332787463931198
+      faces-room-spritesheet_12: 4844792017646919436
+      faces-room-spritesheet_13: -543498608840592296
+      faces-room-spritesheet_14: 5579845092288735426
+      faces-room-spritesheet_15: 1608525209247088855
+      faces-room-spritesheet_16: 574229098040465878
+      faces-room-spritesheet_17: -1667623799555584187
+      faces-room-spritesheet_18: -12732441115913882
+      faces-room-spritesheet_19: 8578715727769902052
+      faces-room-spritesheet_2: -9196241035550588945
+      faces-room-spritesheet_20: 574246365212568229
+      faces-room-spritesheet_21: -961029567754206586
+      faces-room-spritesheet_3: 209430593492250787
+      faces-room-spritesheet_4: -1008791571075246680
+      faces-room-spritesheet_5: 4521917993962749188
+      faces-room-spritesheet_6: 4227719328029517211
+      faces-room-spritesheet_7: -2922859838159116169
+      faces-room-spritesheet_8: -5909500130288651332
+      faces-room-spritesheet_9: -5234275087122159616
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,663 @@
+fileFormatVersion: 2
+guid: 1686ab79a80599c4783d52abb7490e1f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2738334742697254153
+    second: gallery-of-albores-spritesheet_0
+  - first:
+      213: -5852455517382419800
+    second: gallery-of-albores-spritesheet_1
+  - first:
+      213: 801484751974565900
+    second: gallery-of-albores-spritesheet_2
+  - first:
+      213: -3665688516388261051
+    second: gallery-of-albores-spritesheet_3
+  - first:
+      213: 4964363821898784151
+    second: gallery-of-albores-spritesheet_4
+  - first:
+      213: -3719246957166029420
+    second: gallery-of-albores-spritesheet_5
+  - first:
+      213: 3476848604665943140
+    second: gallery-of-albores-spritesheet_6
+  - first:
+      213: 134563274124672525
+    second: gallery-of-albores-spritesheet_7
+  - first:
+      213: -3211563580539284413
+    second: gallery-of-albores-spritesheet_8
+  - first:
+      213: 266175711382967210
+    second: gallery-of-albores-spritesheet_9
+  - first:
+      213: 8383156594959639502
+    second: gallery-of-albores-spritesheet_10
+  - first:
+      213: -4900798013569537942
+    second: gallery-of-albores-spritesheet_11
+  - first:
+      213: -2013037689777228552
+    second: gallery-of-albores-spritesheet_12
+  - first:
+      213: 8506836302514761183
+    second: gallery-of-albores-spritesheet_13
+  - first:
+      213: -4393737441523227300
+    second: gallery-of-albores-spritesheet_14
+  - first:
+      213: -5094854865436031042
+    second: gallery-of-albores-spritesheet_15
+  - first:
+      213: -4518194194115948910
+    second: gallery-of-albores-spritesheet_16
+  - first:
+      213: -4386667499584136160
+    second: gallery-of-albores-spritesheet_17
+  - first:
+      213: -3348067234000563965
+    second: gallery-of-albores-spritesheet_18
+  - first:
+      213: 4677930182032489563
+    second: gallery-of-albores-spritesheet_19
+  - first:
+      213: 4002198881623908098
+    second: gallery-of-albores-spritesheet_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gallery-of-albores-spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 659
+        width: 642
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90d949ea0f4800620800000000000000
+      internalID: 2738334742697254153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gallery-of-albores-spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 658
+        width: 63
+        height: 362
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aa55aee6b6e7cea0800000000000000
+      internalID: -5852455517382419800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gallery-of-albores-spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 808
+        width: 95
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c08065ea2227f1b00800000000000000
+      internalID: 801484751974565900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gallery-of-albores-spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 700
+        width: 24
+        height: 317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 543f27b47bbd02dc0800000000000000
+      internalID: -3665688516388261051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gallery-of-albores-spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 629
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79dd31cf796f4e440800000000000000
+      internalID: 4964363821898784151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gallery-of-albores-spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 609
+        width: 17
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4959a2e0994926cc0800000000000000
+      internalID: -3719246957166029420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gallery-of-albores-spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 627
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4641de2826f304030800000000000000
+      internalID: 3476848604665943140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gallery-of-albores-spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 401
+        width: 189
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0eb30ab5901ed100800000000000000
+      internalID: 134563274124672525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gallery-of-albores-spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 634
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 344df5860fb3e63d0800000000000000
+      internalID: -3211563580539284413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gallery-of-albores-spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 644
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa391d43665a1b300800000000000000
+      internalID: 266175711382967210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gallery-of-albores-spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 398
+        width: 188
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec3ea0bd184f65470800000000000000
+      internalID: 8383156594959639502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gallery-of-albores-spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 632
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a686f351c2edcfbb0800000000000000
+      internalID: -4900798013569537942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gallery-of-albores-spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 620
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f4fa5df2e04014e0800000000000000
+      internalID: -2013037689777228552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gallery-of-albores-spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 607
+        width: 44
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdd2ac5cb8a5e0670800000000000000
+      internalID: 8506836302514761183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gallery-of-albores-spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 598
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c55aca1731f4603c0800000000000000
+      internalID: -4393737441523227300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gallery-of-albores-spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 588
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb7c38b5e707b49b0800000000000000
+      internalID: -5094854865436031042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gallery-of-albores-spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 407
+        width: 45
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29e8c71a1562c41c0800000000000000
+      internalID: -4518194194115948910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gallery-of-albores-spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 412
+        width: 40
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02c5983962d6f13c0800000000000000
+      internalID: -4386667499584136160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gallery-of-albores-spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 412
+        width: 40
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3019549e6964981d0800000000000000
+      internalID: -3348067234000563965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gallery-of-albores-spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 407
+        width: 45
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5cff1047b85be040800000000000000
+      internalID: 4677930182032489563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gallery-of-albores-spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 369
+        width: 230
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20f98a3adaaaa8730800000000000000
+      internalID: 4002198881623908098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      gallery-of-albores-spritesheet_0: 2738334742697254153
+      gallery-of-albores-spritesheet_1: -5852455517382419800
+      gallery-of-albores-spritesheet_10: 8383156594959639502
+      gallery-of-albores-spritesheet_11: -4900798013569537942
+      gallery-of-albores-spritesheet_12: -2013037689777228552
+      gallery-of-albores-spritesheet_13: 8506836302514761183
+      gallery-of-albores-spritesheet_14: -4393737441523227300
+      gallery-of-albores-spritesheet_15: -5094854865436031042
+      gallery-of-albores-spritesheet_16: -4518194194115948910
+      gallery-of-albores-spritesheet_17: -4386667499584136160
+      gallery-of-albores-spritesheet_18: -3348067234000563965
+      gallery-of-albores-spritesheet_19: 4677930182032489563
+      gallery-of-albores-spritesheet_2: 801484751974565900
+      gallery-of-albores-spritesheet_20: 4002198881623908098
+      gallery-of-albores-spritesheet_3: -3665688516388261051
+      gallery-of-albores-spritesheet_4: 4964363821898784151
+      gallery-of-albores-spritesheet_5: -3719246957166029420
+      gallery-of-albores-spritesheet_6: 3476848604665943140
+      gallery-of-albores-spritesheet_7: 134563274124672525
+      gallery-of-albores-spritesheet_8: -3211563580539284413
+      gallery-of-albores-spritesheet_9: 266175711382967210
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

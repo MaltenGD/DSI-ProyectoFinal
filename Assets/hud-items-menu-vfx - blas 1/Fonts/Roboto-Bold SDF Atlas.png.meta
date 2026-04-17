@@ -1,0 +1,2639 @@
+fileFormatVersion: 2
+guid: ccf39fd5a6daacd48828f4674447621b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1744759648839031194
+    second: Roboto-Bold SDF Atlas_0
+  - first:
+      213: 3357207366249748110
+    second: Roboto-Bold SDF Atlas_1
+  - first:
+      213: -7197479318358298942
+    second: Roboto-Bold SDF Atlas_2
+  - first:
+      213: -7767090719662341959
+    second: Roboto-Bold SDF Atlas_3
+  - first:
+      213: 3808239968789190193
+    second: Roboto-Bold SDF Atlas_4
+  - first:
+      213: -3422478491129239252
+    second: Roboto-Bold SDF Atlas_5
+  - first:
+      213: -6716915895730799117
+    second: Roboto-Bold SDF Atlas_6
+  - first:
+      213: 2877912977062904405
+    second: Roboto-Bold SDF Atlas_7
+  - first:
+      213: -578983611199041686
+    second: Roboto-Bold SDF Atlas_8
+  - first:
+      213: -5551868296533424111
+    second: Roboto-Bold SDF Atlas_9
+  - first:
+      213: 1955066928576970466
+    second: Roboto-Bold SDF Atlas_10
+  - first:
+      213: 4716617571297321583
+    second: Roboto-Bold SDF Atlas_11
+  - first:
+      213: 4970274716515469638
+    second: Roboto-Bold SDF Atlas_12
+  - first:
+      213: 916892395508938859
+    second: Roboto-Bold SDF Atlas_13
+  - first:
+      213: -1364191120534729949
+    second: Roboto-Bold SDF Atlas_14
+  - first:
+      213: -20577752873579066
+    second: Roboto-Bold SDF Atlas_15
+  - first:
+      213: -764060040138575038
+    second: Roboto-Bold SDF Atlas_16
+  - first:
+      213: -6697564869744181979
+    second: Roboto-Bold SDF Atlas_17
+  - first:
+      213: -1783011881285937004
+    second: Roboto-Bold SDF Atlas_18
+  - first:
+      213: 2011425225991018252
+    second: Roboto-Bold SDF Atlas_19
+  - first:
+      213: 5642019091845128204
+    second: Roboto-Bold SDF Atlas_20
+  - first:
+      213: 1154337656742413627
+    second: Roboto-Bold SDF Atlas_21
+  - first:
+      213: -405853805906681754
+    second: Roboto-Bold SDF Atlas_22
+  - first:
+      213: 3793618109895291541
+    second: Roboto-Bold SDF Atlas_23
+  - first:
+      213: -2599099922109913812
+    second: Roboto-Bold SDF Atlas_24
+  - first:
+      213: 7413022054587675176
+    second: Roboto-Bold SDF Atlas_25
+  - first:
+      213: 852633800769632626
+    second: Roboto-Bold SDF Atlas_26
+  - first:
+      213: 3846849096301928488
+    second: Roboto-Bold SDF Atlas_27
+  - first:
+      213: -6639148979775040967
+    second: Roboto-Bold SDF Atlas_28
+  - first:
+      213: 6342221107100780829
+    second: Roboto-Bold SDF Atlas_29
+  - first:
+      213: -4715908331713634701
+    second: Roboto-Bold SDF Atlas_30
+  - first:
+      213: 3843347339992621335
+    second: Roboto-Bold SDF Atlas_31
+  - first:
+      213: -7775737830343351223
+    second: Roboto-Bold SDF Atlas_32
+  - first:
+      213: 5921186254222017016
+    second: Roboto-Bold SDF Atlas_33
+  - first:
+      213: -7787544052797390675
+    second: Roboto-Bold SDF Atlas_34
+  - first:
+      213: -8978914822367128427
+    second: Roboto-Bold SDF Atlas_35
+  - first:
+      213: -652094451586067166
+    second: Roboto-Bold SDF Atlas_36
+  - first:
+      213: 6048530573715767602
+    second: Roboto-Bold SDF Atlas_37
+  - first:
+      213: -7777617921381582599
+    second: Roboto-Bold SDF Atlas_38
+  - first:
+      213: 7836267332484293864
+    second: Roboto-Bold SDF Atlas_39
+  - first:
+      213: 3894959214428654362
+    second: Roboto-Bold SDF Atlas_40
+  - first:
+      213: 6747568248694152723
+    second: Roboto-Bold SDF Atlas_41
+  - first:
+      213: 723176528735449465
+    second: Roboto-Bold SDF Atlas_42
+  - first:
+      213: -3422475786301330124
+    second: Roboto-Bold SDF Atlas_43
+  - first:
+      213: -3679310531234270443
+    second: Roboto-Bold SDF Atlas_44
+  - first:
+      213: -8945608899468256650
+    second: Roboto-Bold SDF Atlas_45
+  - first:
+      213: 3669477311751499272
+    second: Roboto-Bold SDF Atlas_46
+  - first:
+      213: -5658382162187203603
+    second: Roboto-Bold SDF Atlas_47
+  - first:
+      213: 1052056200873840876
+    second: Roboto-Bold SDF Atlas_48
+  - first:
+      213: 4149813877452306968
+    second: Roboto-Bold SDF Atlas_49
+  - first:
+      213: -9045133022763369690
+    second: Roboto-Bold SDF Atlas_50
+  - first:
+      213: -5185426800050629328
+    second: Roboto-Bold SDF Atlas_51
+  - first:
+      213: 4401576410969729469
+    second: Roboto-Bold SDF Atlas_52
+  - first:
+      213: -1227363636035786539
+    second: Roboto-Bold SDF Atlas_53
+  - first:
+      213: -2360683544579415962
+    second: Roboto-Bold SDF Atlas_54
+  - first:
+      213: -270245633796700831
+    second: Roboto-Bold SDF Atlas_55
+  - first:
+      213: 8163867283360702820
+    second: Roboto-Bold SDF Atlas_56
+  - first:
+      213: 8563293424120851750
+    second: Roboto-Bold SDF Atlas_57
+  - first:
+      213: -7724274798266465880
+    second: Roboto-Bold SDF Atlas_58
+  - first:
+      213: 3931755492846340780
+    second: Roboto-Bold SDF Atlas_59
+  - first:
+      213: 354551139406520975
+    second: Roboto-Bold SDF Atlas_60
+  - first:
+      213: 7731856664826557464
+    second: Roboto-Bold SDF Atlas_61
+  - first:
+      213: -7518495723859464018
+    second: Roboto-Bold SDF Atlas_62
+  - first:
+      213: 1752947713108671390
+    second: Roboto-Bold SDF Atlas_63
+  - first:
+      213: -9018564602022083741
+    second: Roboto-Bold SDF Atlas_64
+  - first:
+      213: 5308370247466108819
+    second: Roboto-Bold SDF Atlas_65
+  - first:
+      213: 4867072575374676589
+    second: Roboto-Bold SDF Atlas_66
+  - first:
+      213: -2957210183368189658
+    second: Roboto-Bold SDF Atlas_67
+  - first:
+      213: 4040192196886929116
+    second: Roboto-Bold SDF Atlas_68
+  - first:
+      213: -1952123548697311405
+    second: Roboto-Bold SDF Atlas_69
+  - first:
+      213: -1913780895696085598
+    second: Roboto-Bold SDF Atlas_70
+  - first:
+      213: 1466128634215230947
+    second: Roboto-Bold SDF Atlas_71
+  - first:
+      213: 8510433763880423500
+    second: Roboto-Bold SDF Atlas_72
+  - first:
+      213: -7496101055608452205
+    second: Roboto-Bold SDF Atlas_73
+  - first:
+      213: -6492470129653322323
+    second: Roboto-Bold SDF Atlas_74
+  - first:
+      213: 6949297836319429441
+    second: Roboto-Bold SDF Atlas_75
+  - first:
+      213: 2906751748327001341
+    second: Roboto-Bold SDF Atlas_76
+  - first:
+      213: 1801863797560407952
+    second: Roboto-Bold SDF Atlas_77
+  - first:
+      213: -3317839466447667672
+    second: Roboto-Bold SDF Atlas_78
+  - first:
+      213: 7938569081502108672
+    second: Roboto-Bold SDF Atlas_79
+  - first:
+      213: 6806112376807167681
+    second: Roboto-Bold SDF Atlas_80
+  - first:
+      213: -1393545580124813001
+    second: Roboto-Bold SDF Atlas_81
+  - first:
+      213: 7990726085260687353
+    second: Roboto-Bold SDF Atlas_82
+  - first:
+      213: 6499066009877295262
+    second: Roboto-Bold SDF Atlas_83
+  - first:
+      213: 2453866976296506358
+    second: Roboto-Bold SDF Atlas_84
+  - first:
+      213: -8163351920338838325
+    second: Roboto-Bold SDF Atlas_85
+  - first:
+      213: -8443832643474768707
+    second: Roboto-Bold SDF Atlas_86
+  - first:
+      213: 2788368519655402941
+    second: Roboto-Bold SDF Atlas_87
+  - first:
+      213: 316141879382657166
+    second: Roboto-Bold SDF Atlas_88
+  - first:
+      213: -3092608133227791700
+    second: Roboto-Bold SDF Atlas_89
+  - first:
+      213: -7591296764590332450
+    second: Roboto-Bold SDF Atlas_90
+  - first:
+      213: 3194227507579292400
+    second: Roboto-Bold SDF Atlas_91
+  - first:
+      213: -6201447661647026879
+    second: Roboto-Bold SDF Atlas_92
+  - first:
+      213: -3607585831680335788
+    second: Roboto-Bold SDF Atlas_93
+  - first:
+      213: 8370135996221442235
+    second: Roboto-Bold SDF Atlas_94
+  - first:
+      213: -6417255467715390106
+    second: Roboto-Bold SDF Atlas_95
+  - first:
+      213: -3891220537202506631
+    second: Roboto-Bold SDF Atlas_96
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Roboto-Bold SDF Atlas_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 981
+        width: 103
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a995c7f08a1a63810800000000000000
+      internalID: 1744759648839031194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roboto-Bold SDF Atlas_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 822
+        width: 63
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8614a6ff42379e20800000000000000
+      internalID: 3357207366249748110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roboto-Bold SDF Atlas_2
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 946
+        width: 85
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ce680f91ba6d1c90800000000000000
+      internalID: -7197479318358298942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roboto-Bold SDF Atlas_3
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 946
+        width: 78
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b00b4c6420c53490800000000000000
+      internalID: -7767090719662341959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roboto-Bold SDF Atlas_4
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 946
+        width: 84
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 136df1f131699d430800000000000000
+      internalID: 3808239968789190193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roboto-Bold SDF Atlas_5
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 932
+        width: 83
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c29a3d402f9e080d0800000000000000
+      internalID: -3422478491129239252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roboto-Bold SDF Atlas_6
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 932
+        width: 82
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fd7ac0a498b8c2a0800000000000000
+      internalID: -6716915895730799117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roboto-Bold SDF Atlas_7
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 926
+        width: 124
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5524254da9660f720800000000000000
+      internalID: 2877912977062904405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roboto-Bold SDF Atlas_8
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 863
+        width: 91
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6f45b3297907f7f0800000000000000
+      internalID: -578983611199041686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roboto-Bold SDF Atlas_9
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 861
+        width: 96
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1184f59033dc3f2b0800000000000000
+      internalID: -5551868296533424111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roboto-Bold SDF Atlas_10
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 814
+        width: 90
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eeb1fd530bc12b10800000000000000
+      internalID: 1955066928576970466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roboto-Bold SDF Atlas_11
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 814
+        width: 84
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f62ea8ef0bac47140800000000000000
+      internalID: 4716617571297321583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roboto-Bold SDF Atlas_12
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 814
+        width: 72
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64982026586f9f440800000000000000
+      internalID: 4970274716515469638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roboto-Bold SDF Atlas_13
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 806
+        width: 109
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b68319b96c479bc00800000000000000
+      internalID: 916892395508938859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roboto-Bold SDF Atlas_14
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 800
+        width: 107
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32b09c6576b611de0800000000000000
+      internalID: -1364191120534729949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roboto-Bold SDF Atlas_15
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 737
+        width: 93
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cdc1bd84a4e6bff0800000000000000
+      internalID: -20577752873579066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roboto-Bold SDF Atlas_16
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 727
+        width: 88
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 243387011738565f0800000000000000
+      internalID: -764060040138575038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roboto-Bold SDF Atlas_17
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 852
+        width: 128
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52d33c67c387d03a0800000000000000
+      internalID: -6697564869744181979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roboto-Bold SDF Atlas_18
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 848
+        width: 112
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49896a904287147e0800000000000000
+      internalID: -1783011881285937004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roboto-Bold SDF Atlas_19
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 738
+        width: 98
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c07547706940aeb10800000000000000
+      internalID: 2011425225991018252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roboto-Bold SDF Atlas_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 660
+        width: 58
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c00a669a87a7c4e40800000000000000
+      internalID: 5642019091845128204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roboto-Bold SDF Atlas_21
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 776
+        width: 57
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b350dfc9bf7050010800000000000000
+      internalID: 1154337656742413627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roboto-Bold SDF Atlas_22
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 634
+        width: 112
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66021342d1e1e5af0800000000000000
+      internalID: -405853805906681754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roboto-Bold SDF Atlas_23
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 776
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5923ccd4293a5a430800000000000000
+      internalID: 3793618109895291541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roboto-Bold SDF Atlas_24
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 776
+        width: 61
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c25a4e634642eebd0800000000000000
+      internalID: -2599099922109913812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roboto-Bold SDF Atlas_25
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 755
+        width: 46
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 822b5d3684850e660800000000000000
+      internalID: 7413022054587675176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roboto-Bold SDF Atlas_26
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 749
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2797d52ace925db00800000000000000
+      internalID: 852633800769632626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roboto-Bold SDF Atlas_27
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 749
+        width: 60
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 820eb912fd0c26530800000000000000
+      internalID: 3846849096301928488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roboto-Bold SDF Atlas_28
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 749
+        width: 100
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9329c99bd210dd3a0800000000000000
+      internalID: -6639148979775040967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roboto-Bold SDF Atlas_29
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 725
+        width: 113
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d190abf8e78140850800000000000000
+      internalID: 6342221107100780829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roboto-Bold SDF Atlas_30
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 623
+        width: 79
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37e57e6bb5abd8eb0800000000000000
+      internalID: -4715908331713634701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roboto-Bold SDF Atlas_31
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 623
+        width: 115
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 711e3b4fa00565530800000000000000
+      internalID: 3843347339992621335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roboto-Bold SDF Atlas_32
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 611
+        width: 101
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94461d314a7071490800000000000000
+      internalID: -7775737830343351223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roboto-Bold SDF Atlas_33
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 611
+        width: 93
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f144d3c6874c2250800000000000000
+      internalID: 5921186254222017016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roboto-Bold SDF Atlas_34
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 602
+        width: 90
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da04e44b1f51de390800000000000000
+      internalID: -7787544052797390675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roboto-Bold SDF Atlas_35
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 602
+        width: 146
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59451589a8c746380800000000000000
+      internalID: -8978914822367128427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roboto-Bold SDF Atlas_36
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 671
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 225953d1d8b43f6f0800000000000000
+      internalID: -652094451586067166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roboto-Bold SDF Atlas_37
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 615
+        width: 100
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2310b63a282b0f350800000000000000
+      internalID: 6048530573715767602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roboto-Bold SDF Atlas_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 496
+        width: 51
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f8b65545b9501490800000000000000
+      internalID: -7777617921381582599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roboto-Bold SDF Atlas_39
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 491
+        width: 33
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e469bdde9300cc60800000000000000
+      internalID: 7836267332484293864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roboto-Bold SDF Atlas_40
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 491
+        width: 90
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1b87a6e4ccad0630800000000000000
+      internalID: 3894959214428654362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roboto-Bold SDF Atlas_41
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 541
+        width: 81
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31e9e11729d24ad50800000000000000
+      internalID: 6747568248694152723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roboto-Bold SDF Atlas_42
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 511
+        width: 93
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9713d29a83d390a00800000000000000
+      internalID: 723176528735449465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roboto-Bold SDF Atlas_43
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 511
+        width: 91
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43d2229c76ce080d0800000000000000
+      internalID: -3422475786301330124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roboto-Bold SDF Atlas_44
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 609
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5137d6fc09670fcc0800000000000000
+      internalID: -3679310531234270443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roboto-Bold SDF Atlas_45
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 512
+        width: 85
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67a1f9f0a10dad380800000000000000
+      internalID: -8945608899468256650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roboto-Bold SDF Atlas_46
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 492
+        width: 100
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80ead4e5c2a9ce230800000000000000
+      internalID: 3669477311751499272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roboto-Bold SDF Atlas_47
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 452
+        width: 41
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: debcc6327636971b0800000000000000
+      internalID: -5658382162187203603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roboto-Bold SDF Atlas_48
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 413
+        width: 90
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce015d86a87a99e00800000000000000
+      internalID: 1052056200873840876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roboto-Bold SDF Atlas_49
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 385
+        width: 102
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81af7812cb9179930800000000000000
+      internalID: 4149813877452306968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roboto-Bold SDF Atlas_50
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 377
+        width: 93
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62bb800607b397280800000000000000
+      internalID: -9045133022763369690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roboto-Bold SDF Atlas_51
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 502
+        width: 88
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03511368cc9a908b0800000000000000
+      internalID: -5185426800050629328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roboto-Bold SDF Atlas_52
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 377
+        width: 90
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db9e69bdc6a851d30800000000000000
+      internalID: 4401576410969729469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roboto-Bold SDF Atlas_53
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 502
+        width: 88
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d8eadf964787fee0800000000000000
+      internalID: -1227363636035786539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roboto-Bold SDF Atlas_54
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 492
+        width: 86
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 660eb3ad2da2d3fd0800000000000000
+      internalID: -2360683544579415962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roboto-Bold SDF Atlas_55
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 434
+        width: 63
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16582732705ef3cf0800000000000000
+      internalID: -270245633796700831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roboto-Bold SDF Atlas_56
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 414
+        width: 88
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 461e52a4a02eb4170800000000000000
+      internalID: 8163867283360702820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roboto-Bold SDF Atlas_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 332
+        width: 51
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62d692cbffde6d670800000000000000
+      internalID: 8563293424120851750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roboto-Bold SDF Atlas_58
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 332
+        width: 63
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a143d5fefcddc490800000000000000
+      internalID: -7724274798266465880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roboto-Bold SDF Atlas_59
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 321
+        width: 92
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caa0cc61ac6609630800000000000000
+      internalID: 3931755492846340780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roboto-Bold SDF Atlas_60
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 369
+        width: 92
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f82290ff16e9be400800000000000000
+      internalID: 354551139406520975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roboto-Bold SDF Atlas_61
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 453
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8143939eba21d4b60800000000000000
+      internalID: 7731856664826557464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roboto-Bold SDF Atlas_62
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 369
+        width: 100
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea0301e49ffe8a790800000000000000
+      internalID: -7518495723859464018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roboto-Bold SDF Atlas_63
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 284
+        width: 90
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9bfca558a8b35810800000000000000
+      internalID: 1752947713108671390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roboto-Bold SDF Atlas_64
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 259
+        width: 103
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 363cf80e64f97d280800000000000000
+      internalID: -9018564602022083741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roboto-Bold SDF Atlas_65
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 252
+        width: 104
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39748787d9e1ba940800000000000000
+      internalID: 5308370247466108819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roboto-Bold SDF Atlas_66
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 246
+        width: 94
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d62d04f68b05b8340800000000000000
+      internalID: 4867072575374676589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roboto-Bold SDF Atlas_67
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 246
+        width: 88
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 629db269101e5f6d0800000000000000
+      internalID: -2957210183368189658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roboto-Bold SDF Atlas_68
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 369
+        width: 46
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cde10cfa565a11830800000000000000
+      internalID: 4040192196886929116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roboto-Bold SDF Atlas_69
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 317
+        width: 67
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 357c83aa9f9a8e4e0800000000000000
+      internalID: -1952123548697311405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roboto-Bold SDF Atlas_70
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 316
+        width: 88
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ad1b1e3a62e075e0800000000000000
+      internalID: -1913780895696085598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roboto-Bold SDF Atlas_71
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 246
+        width: 103
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ed6d65993cb85410800000000000000
+      internalID: 1466128634215230947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roboto-Bold SDF Atlas_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 166
+        width: 60
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4055940b622b1670800000000000000
+      internalID: 8510433763880423500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roboto-Bold SDF Atlas_73
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 166
+        width: 91
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39b07045ecf78f790800000000000000
+      internalID: -7496101055608452205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roboto-Bold SDF Atlas_74
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 153
+        width: 88
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daded2fc0dc16e5a0800000000000000
+      internalID: -6492470129653322323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roboto-Bold SDF Atlas_75
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 131
+        width: 94
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 143d53c209dd07060800000000000000
+      internalID: 6949297836319429441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roboto-Bold SDF Atlas_76
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 126
+        width: 91
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfcc641805bd65820800000000000000
+      internalID: 2906751748327001341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roboto-Bold SDF Atlas_77
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 123
+        width: 96
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0977933c391810910800000000000000
+      internalID: 1801863797560407952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roboto-Bold SDF Atlas_78
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 123
+        width: 92
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82e7d9c759aa4f1d0800000000000000
+      internalID: -3317839466447667672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roboto-Bold SDF Atlas_79
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 123
+        width: 41
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00c05dfe4867b2e60800000000000000
+      internalID: 7938569081502108672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roboto-Bold SDF Atlas_80
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 123
+        width: 41
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c61bf8752b247e50800000000000000
+      internalID: 6806112376807167681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roboto-Bold SDF Atlas_81
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 220
+        width: 93
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 739485e9da129ace0800000000000000
+      internalID: -1393545580124813001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roboto-Bold SDF Atlas_82
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 123
+        width: 93
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f73961b903c4ee60800000000000000
+      internalID: 7990726085260687353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roboto-Bold SDF Atlas_83
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 123
+        width: 131
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e903d8a3a12513a50800000000000000
+      internalID: 6499066009877295262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roboto-Bold SDF Atlas_84
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 221
+        width: 92
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f317388303ed0220800000000000000
+      internalID: 2453866976296506358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roboto-Bold SDF Atlas_85
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 123
+        width: 104
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcc53b30ea2f5be80800000000000000
+      internalID: -8163351920338838325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roboto-Bold SDF Atlas_86
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 61
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbcb6d6b2fa71da80800000000000000
+      internalID: -8443832643474768707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roboto-Bold SDF Atlas_87
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 0
+        width: 140
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbd21fc256642b620800000000000000
+      internalID: 2788368519655402941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roboto-Bold SDF Atlas_88
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 41
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e884a334d59236400800000000000000
+      internalID: 316141879382657166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roboto-Bold SDF Atlas_89
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 90
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caa3975c949d415d0800000000000000
+      internalID: -3092608133227791700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roboto-Bold SDF Atlas_90
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 0
+        width: 91
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed5650220db46a690800000000000000
+      internalID: -7591296764590332450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roboto-Bold SDF Atlas_91
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 0
+        width: 112
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fa8b019efc245c20800000000000000
+      internalID: 3194227507579292400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roboto-Bold SDF Atlas_92
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 0
+        width: 106
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1452a5a553800f9a0800000000000000
+      internalID: -6201447661647026879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roboto-Bold SDF Atlas_93
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 0
+        width: 100
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45026f5ccc74fedc0800000000000000
+      internalID: -3607585831680335788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roboto-Bold SDF Atlas_94
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 0
+        width: 62
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb84d787752b82470800000000000000
+      internalID: 8370135996221442235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roboto-Bold SDF Atlas_95
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 0
+        width: 110
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66514e5f62451f6a0800000000000000
+      internalID: -6417255467715390106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roboto-Bold SDF Atlas_96
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 0
+        width: 104
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9740759b98b9ff9c0800000000000000
+      internalID: -3891220537202506631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Roboto-Bold SDF Atlas_0: 1744759648839031194
+      Roboto-Bold SDF Atlas_1: 3357207366249748110
+      Roboto-Bold SDF Atlas_10: 1955066928576970466
+      Roboto-Bold SDF Atlas_11: 4716617571297321583
+      Roboto-Bold SDF Atlas_12: 4970274716515469638
+      Roboto-Bold SDF Atlas_13: 916892395508938859
+      Roboto-Bold SDF Atlas_14: -1364191120534729949
+      Roboto-Bold SDF Atlas_15: -20577752873579066
+      Roboto-Bold SDF Atlas_16: -764060040138575038
+      Roboto-Bold SDF Atlas_17: -6697564869744181979
+      Roboto-Bold SDF Atlas_18: -1783011881285937004
+      Roboto-Bold SDF Atlas_19: 2011425225991018252
+      Roboto-Bold SDF Atlas_2: -7197479318358298942
+      Roboto-Bold SDF Atlas_20: 5642019091845128204
+      Roboto-Bold SDF Atlas_21: 1154337656742413627
+      Roboto-Bold SDF Atlas_22: -405853805906681754
+      Roboto-Bold SDF Atlas_23: 3793618109895291541
+      Roboto-Bold SDF Atlas_24: -2599099922109913812
+      Roboto-Bold SDF Atlas_25: 7413022054587675176
+      Roboto-Bold SDF Atlas_26: 852633800769632626
+      Roboto-Bold SDF Atlas_27: 3846849096301928488
+      Roboto-Bold SDF Atlas_28: -6639148979775040967
+      Roboto-Bold SDF Atlas_29: 6342221107100780829
+      Roboto-Bold SDF Atlas_3: -7767090719662341959
+      Roboto-Bold SDF Atlas_30: -4715908331713634701
+      Roboto-Bold SDF Atlas_31: 3843347339992621335
+      Roboto-Bold SDF Atlas_32: -7775737830343351223
+      Roboto-Bold SDF Atlas_33: 5921186254222017016
+      Roboto-Bold SDF Atlas_34: -7787544052797390675
+      Roboto-Bold SDF Atlas_35: -8978914822367128427
+      Roboto-Bold SDF Atlas_36: -652094451586067166
+      Roboto-Bold SDF Atlas_37: 6048530573715767602
+      Roboto-Bold SDF Atlas_38: -7777617921381582599
+      Roboto-Bold SDF Atlas_39: 7836267332484293864
+      Roboto-Bold SDF Atlas_4: 3808239968789190193
+      Roboto-Bold SDF Atlas_40: 3894959214428654362
+      Roboto-Bold SDF Atlas_41: 6747568248694152723
+      Roboto-Bold SDF Atlas_42: 723176528735449465
+      Roboto-Bold SDF Atlas_43: -3422475786301330124
+      Roboto-Bold SDF Atlas_44: -3679310531234270443
+      Roboto-Bold SDF Atlas_45: -8945608899468256650
+      Roboto-Bold SDF Atlas_46: 3669477311751499272
+      Roboto-Bold SDF Atlas_47: -5658382162187203603
+      Roboto-Bold SDF Atlas_48: 1052056200873840876
+      Roboto-Bold SDF Atlas_49: 4149813877452306968
+      Roboto-Bold SDF Atlas_5: -3422478491129239252
+      Roboto-Bold SDF Atlas_50: -9045133022763369690
+      Roboto-Bold SDF Atlas_51: -5185426800050629328
+      Roboto-Bold SDF Atlas_52: 4401576410969729469
+      Roboto-Bold SDF Atlas_53: -1227363636035786539
+      Roboto-Bold SDF Atlas_54: -2360683544579415962
+      Roboto-Bold SDF Atlas_55: -270245633796700831
+      Roboto-Bold SDF Atlas_56: 8163867283360702820
+      Roboto-Bold SDF Atlas_57: 8563293424120851750
+      Roboto-Bold SDF Atlas_58: -7724274798266465880
+      Roboto-Bold SDF Atlas_59: 3931755492846340780
+      Roboto-Bold SDF Atlas_6: -6716915895730799117
+      Roboto-Bold SDF Atlas_60: 354551139406520975
+      Roboto-Bold SDF Atlas_61: 7731856664826557464
+      Roboto-Bold SDF Atlas_62: -7518495723859464018
+      Roboto-Bold SDF Atlas_63: 1752947713108671390
+      Roboto-Bold SDF Atlas_64: -9018564602022083741
+      Roboto-Bold SDF Atlas_65: 5308370247466108819
+      Roboto-Bold SDF Atlas_66: 4867072575374676589
+      Roboto-Bold SDF Atlas_67: -2957210183368189658
+      Roboto-Bold SDF Atlas_68: 4040192196886929116
+      Roboto-Bold SDF Atlas_69: -1952123548697311405
+      Roboto-Bold SDF Atlas_7: 2877912977062904405
+      Roboto-Bold SDF Atlas_70: -1913780895696085598
+      Roboto-Bold SDF Atlas_71: 1466128634215230947
+      Roboto-Bold SDF Atlas_72: 8510433763880423500
+      Roboto-Bold SDF Atlas_73: -7496101055608452205
+      Roboto-Bold SDF Atlas_74: -6492470129653322323
+      Roboto-Bold SDF Atlas_75: 6949297836319429441
+      Roboto-Bold SDF Atlas_76: 2906751748327001341
+      Roboto-Bold SDF Atlas_77: 1801863797560407952
+      Roboto-Bold SDF Atlas_78: -3317839466447667672
+      Roboto-Bold SDF Atlas_79: 7938569081502108672
+      Roboto-Bold SDF Atlas_8: -578983611199041686
+      Roboto-Bold SDF Atlas_80: 6806112376807167681
+      Roboto-Bold SDF Atlas_81: -1393545580124813001
+      Roboto-Bold SDF Atlas_82: 7990726085260687353
+      Roboto-Bold SDF Atlas_83: 6499066009877295262
+      Roboto-Bold SDF Atlas_84: 2453866976296506358
+      Roboto-Bold SDF Atlas_85: -8163351920338838325
+      Roboto-Bold SDF Atlas_86: -8443832643474768707
+      Roboto-Bold SDF Atlas_87: 2788368519655402941
+      Roboto-Bold SDF Atlas_88: 316141879382657166
+      Roboto-Bold SDF Atlas_89: -3092608133227791700
+      Roboto-Bold SDF Atlas_9: -5551868296533424111
+      Roboto-Bold SDF Atlas_90: -7591296764590332450
+      Roboto-Bold SDF Atlas_91: 3194227507579292400
+      Roboto-Bold SDF Atlas_92: -6201447661647026879
+      Roboto-Bold SDF Atlas_93: -3607585831680335788
+      Roboto-Bold SDF Atlas_94: 8370135996221442235
+      Roboto-Bold SDF Atlas_95: -6417255467715390106
+      Roboto-Bold SDF Atlas_96: -3891220537202506631
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

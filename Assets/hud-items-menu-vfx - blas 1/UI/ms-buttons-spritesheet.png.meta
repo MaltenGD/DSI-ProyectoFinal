@@ -1,0 +1,429 @@
+fileFormatVersion: 2
+guid: 105445813fc1bc843ab669f5ea6ccf3c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2035455906601940600
+    second: ms-buttons-spritesheet_0
+  - first:
+      213: 6707530567775216265
+    second: ms-buttons-spritesheet_1
+  - first:
+      213: 6593352436235037114
+    second: ms-buttons-spritesheet_2
+  - first:
+      213: -1805194171192740471
+    second: ms-buttons-spritesheet_3
+  - first:
+      213: 3870713524164094755
+    second: ms-buttons-spritesheet_4
+  - first:
+      213: -1530247016367966383
+    second: ms-buttons-spritesheet_5
+  - first:
+      213: -1170409083258036177
+    second: ms-buttons-spritesheet_6
+  - first:
+      213: 8368096429619222905
+    second: ms-buttons-spritesheet_7
+  - first:
+      213: 1363084985215092008
+    second: ms-buttons-spritesheet_8
+  - first:
+      213: -8208953595756637476
+    second: ms-buttons-spritesheet_9
+  - first:
+      213: -4730382618610743045
+    second: ms-buttons-spritesheet_10
+  - first:
+      213: 8854713562105987809
+    second: ms-buttons-spritesheet_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ms-buttons-spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 108
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 876bafcdc546f3c10800000000000000
+      internalID: 2035455906601940600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ms-buttons-spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 90
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 982e05c638fe51d50800000000000000
+      internalID: 6707530567775216265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ms-buttons-spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 108
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab9eeb09b1b408b50800000000000000
+      internalID: 6593352436235037114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ms-buttons-spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 90
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98573733779a2f6e0800000000000000
+      internalID: -1805194171192740471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ms-buttons-spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 108
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32be91b317987b530800000000000000
+      internalID: 3870713524164094755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ms-buttons-spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 108
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15739ca327873cae0800000000000000
+      internalID: -1530247016367966383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ms-buttons-spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 51
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f20a38ec32fd1cfe0800000000000000
+      internalID: -1170409083258036177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ms-buttons-spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 71
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9791baddd53712470800000000000000
+      internalID: 8368096429619222905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ms-buttons-spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 51
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8250a667296aae210800000000000000
+      internalID: 1363084985215092008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ms-buttons-spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 71
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd292439230f31e80800000000000000
+      internalID: -8208953595756637476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ms-buttons-spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 51
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf8460e221e4a5eb0800000000000000
+      internalID: -4730382618610743045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ms-buttons-spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 51
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e24929021342ea70800000000000000
+      internalID: 8854713562105987809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ms-buttons-spritesheet_0: 2035455906601940600
+      ms-buttons-spritesheet_1: 6707530567775216265
+      ms-buttons-spritesheet_10: -4730382618610743045
+      ms-buttons-spritesheet_11: 8854713562105987809
+      ms-buttons-spritesheet_2: 6593352436235037114
+      ms-buttons-spritesheet_3: -1805194171192740471
+      ms-buttons-spritesheet_4: 3870713524164094755
+      ms-buttons-spritesheet_5: -1530247016367966383
+      ms-buttons-spritesheet_6: -1170409083258036177
+      ms-buttons-spritesheet_7: 8368096429619222905
+      ms-buttons-spritesheet_8: 1363084985215092008
+      ms-buttons-spritesheet_9: -8208953595756637476
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

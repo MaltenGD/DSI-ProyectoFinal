@@ -1,0 +1,1677 @@
+fileFormatVersion: 2
+guid: 90497a3c0aaf2f842be7e9badfa30cdb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8648240596957419832
+    second: lake-spritesheet_0
+  - first:
+      213: 5790096748137806429
+    second: lake-spritesheet_1
+  - first:
+      213: 487949687253263068
+    second: lake-spritesheet_2
+  - first:
+      213: 2496255759830233770
+    second: lake-spritesheet_3
+  - first:
+      213: 2226802178228320877
+    second: lake-spritesheet_4
+  - first:
+      213: 9085909206684193420
+    second: lake-spritesheet_5
+  - first:
+      213: -409118211363146603
+    second: lake-spritesheet_6
+  - first:
+      213: -3369301086678837821
+    second: lake-spritesheet_7
+  - first:
+      213: -7572618681037095086
+    second: lake-spritesheet_8
+  - first:
+      213: -1173460056765669754
+    second: lake-spritesheet_9
+  - first:
+      213: 2239255207358937272
+    second: lake-spritesheet_10
+  - first:
+      213: -981291584161732140
+    second: lake-spritesheet_11
+  - first:
+      213: -8595385030423734352
+    second: lake-spritesheet_12
+  - first:
+      213: -1809978689076744279
+    second: lake-spritesheet_13
+  - first:
+      213: -381950379614965588
+    second: lake-spritesheet_14
+  - first:
+      213: -2774006533076588092
+    second: lake-spritesheet_15
+  - first:
+      213: -3397270235763948903
+    second: lake-spritesheet_16
+  - first:
+      213: -7595256005708476369
+    second: lake-spritesheet_17
+  - first:
+      213: -3200718383089503405
+    second: lake-spritesheet_18
+  - first:
+      213: 3110277826173802894
+    second: lake-spritesheet_19
+  - first:
+      213: -5692052691173526955
+    second: lake-spritesheet_20
+  - first:
+      213: -5729611593422358368
+    second: lake-spritesheet_21
+  - first:
+      213: 1903418969689890836
+    second: lake-spritesheet_22
+  - first:
+      213: -650222179187918025
+    second: lake-spritesheet_23
+  - first:
+      213: -7497641228537919751
+    second: lake-spritesheet_24
+  - first:
+      213: 7903553623905064849
+    second: lake-spritesheet_25
+  - first:
+      213: 3954786007092291419
+    second: lake-spritesheet_26
+  - first:
+      213: -5942510779560857039
+    second: lake-spritesheet_27
+  - first:
+      213: -4214360507839264272
+    second: lake-spritesheet_28
+  - first:
+      213: 7061729623075254771
+    second: lake-spritesheet_29
+  - first:
+      213: -8272219013717340913
+    second: lake-spritesheet_30
+  - first:
+      213: 3580165206516940885
+    second: lake-spritesheet_31
+  - first:
+      213: 6865112602627082426
+    second: lake-spritesheet_32
+  - first:
+      213: -8634151241483986164
+    second: lake-spritesheet_33
+  - first:
+      213: -8011925301798602012
+    second: lake-spritesheet_34
+  - first:
+      213: 1565825259794781430
+    second: lake-spritesheet_35
+  - first:
+      213: 9211950770243408456
+    second: lake-spritesheet_36
+  - first:
+      213: -3513126077166322013
+    second: lake-spritesheet_37
+  - first:
+      213: 1024252250048363294
+    second: lake-spritesheet_38
+  - first:
+      213: 1563318458062811548
+    second: lake-spritesheet_39
+  - first:
+      213: -6587842209507524965
+    second: lake-spritesheet_40
+  - first:
+      213: 5847426825504345539
+    second: lake-spritesheet_41
+  - first:
+      213: 3599795904952447741
+    second: lake-spritesheet_42
+  - first:
+      213: 8164499266866321929
+    second: lake-spritesheet_43
+  - first:
+      213: 9156006056568925430
+    second: lake-spritesheet_44
+  - first:
+      213: 154731460299132981
+    second: lake-spritesheet_45
+  - first:
+      213: 2754101462744997721
+    second: lake-spritesheet_46
+  - first:
+      213: 5178738912888532250
+    second: lake-spritesheet_47
+  - first:
+      213: 8712871341548570761
+    second: lake-spritesheet_48
+  - first:
+      213: 2668347394244079896
+    second: lake-spritesheet_49
+  - first:
+      213: 8656508276306003788
+    second: lake-spritesheet_50
+  - first:
+      213: 8444526186591443311
+    second: lake-spritesheet_51
+  - first:
+      213: -278885722201381769
+    second: lake-spritesheet_52
+  - first:
+      213: -6679588748444829744
+    second: lake-spritesheet_53
+  - first:
+      213: 6992074103640907061
+    second: lake-spritesheet_54
+  - first:
+      213: 6415527968538653795
+    second: lake-spritesheet_55
+  - first:
+      213: -1269918505618776790
+    second: lake-spritesheet_56
+  - first:
+      213: 260926180692139156
+    second: lake-spritesheet_57
+  - first:
+      213: -1811326880858974116
+    second: lake-spritesheet_58
+  - first:
+      213: 2097191859668321245
+    second: lake-spritesheet_59
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: lake-spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 983
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83952c9a009b40870800000000000000
+      internalID: 8648240596957419832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lake-spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 975
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5af5efa05e8a5050800000000000000
+      internalID: 5790096748137806429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lake-spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 976
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd26ef0c7ab85c600800000000000000
+      internalID: 487949687253263068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lake-spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 983
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa23439436b74a220800000000000000
+      internalID: 2496255759830233770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lake-spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 998
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6a7d5278c037ee10800000000000000
+      internalID: 2226802178228320877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lake-spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 981
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c82dcd5c842a71e70800000000000000
+      internalID: 9085909206684193420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lake-spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 955
+        width: 31
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5947e848725825af0800000000000000
+      internalID: -409118211363146603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lake-spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 951
+        width: 42
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c59b235386dd31d0800000000000000
+      internalID: -3369301086678837821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lake-spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 969
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25ffb495e67a8e690800000000000000
+      internalID: -7572618681037095086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lake-spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 961
+        width: 26
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68e5f5eab4807bfe0800000000000000
+      internalID: -1173460056765669754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lake-spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 902
+        width: 78
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b8b21c3fbe631f10800000000000000
+      internalID: 2239255207358937272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lake-spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 891
+        width: 167
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d9a5f8d080c162f0800000000000000
+      internalID: -981291584161732140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lake-spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 980
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b712e9eade07b880800000000000000
+      internalID: -8595385030423734352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lake-spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 975
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9afad82d8f9a1e6e0800000000000000
+      internalID: -1809978689076744279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lake-spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 970
+        width: 11
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca07935472a03baf0800000000000000
+      internalID: -381950379614965588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lake-spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 953
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c96b5761cfb089d0800000000000000
+      internalID: -2774006533076588092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lake-spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 956
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 992484758b87ad0d0800000000000000
+      internalID: -3397270235763948903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lake-spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 956
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f20189977ea389690800000000000000
+      internalID: -7595256005708476369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lake-spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 956
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35333e5b693c493d0800000000000000
+      internalID: -3200718383089503405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lake-spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 957
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e891dd5343de92b20800000000000000
+      internalID: 3110277826173802894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lake-spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 944
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 552bbc33c34c101b0800000000000000
+      internalID: -5692052691173526955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lake-spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 911
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a8b911dc945c70b0800000000000000
+      internalID: -5729611593422358368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lake-spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 914
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4102b1bd77d4a6a10800000000000000
+      internalID: 1903418969689890836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lake-spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 915
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73b7c608f52f9f6f0800000000000000
+      internalID: -650222179187918025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lake-spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 910
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f68cafd60703f790800000000000000
+      internalID: -7497641228537919751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lake-spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 919
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 197dc1865201fad60800000000000000
+      internalID: 7903553623905064849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lake-spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 920
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b57eb6b8be832e630800000000000000
+      internalID: 3954786007092291419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lake-spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 865
+        width: 31
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13278564ee5f78da0800000000000000
+      internalID: -5942510779560857039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lake-spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 866
+        width: 42
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f94ece52759385c0800000000000000
+      internalID: -4214360507839264272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lake-spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 866
+        width: 26
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f1f0437dad400260800000000000000
+      internalID: 7061729623075254771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lake-spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 866
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0d452792ac233d80800000000000000
+      internalID: -8272219013717340913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lake-spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 899
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 550c7ab694d4fa130800000000000000
+      internalID: 3580165206516940885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lake-spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 866
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab805a60a87c54f50800000000000000
+      internalID: 6865112602627082426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lake-spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 865
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0b595a01355d2880800000000000000
+      internalID: -8634151241483986164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lake-spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 873
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ea7453136cefc090800000000000000
+      internalID: -8011925301798602012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lake-spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 891
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f4d66617cdeab510800000000000000
+      internalID: 1565825259794781430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lake-spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 891
+        width: 11
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8429eb42b6c67df70800000000000000
+      internalID: 9211950770243408456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lake-spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 875
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aef657327ede3fc0800000000000000
+      internalID: -3513126077166322013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lake-spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 868
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1bf684aeffd63e00800000000000000
+      internalID: 1024252250048363294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lake-spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 867
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9135a3dad502b510800000000000000
+      internalID: 1563318458062811548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lake-spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 790
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9ebaf11a684394a0800000000000000
+      internalID: -6587842209507524965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lake-spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 790
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cdc64087bb362150800000000000000
+      internalID: 5847426825504345539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lake-spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 356
+        width: 429
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df2b8929d4b05f130800000000000000
+      internalID: 3599795904952447741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lake-spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 696
+        width: 151
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90a118a63d02e4170800000000000000
+      internalID: 8164499266866321929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lake-spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 706
+        width: 106
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fcad137ffaa01f70800000000000000
+      internalID: 9156006056568925430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lake-spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 720
+        width: 24
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53015be7177b52200800000000000000
+      internalID: 154731460299132981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lake-spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 725
+        width: 46
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95f9c4240b8883620800000000000000
+      internalID: 2754101462744997721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lake-spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 684
+        width: 27
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1da6376a939ed740800000000000000
+      internalID: 5178738912888532250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lake-spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 674
+        width: 57
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9880fa682565ae870800000000000000
+      internalID: 8712871341548570761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lake-spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 648
+        width: 27
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 811f14b41dfd70520800000000000000
+      internalID: 2668347394244079896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lake-spritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 627
+        width: 57
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c47c274c968122870800000000000000
+      internalID: 8656508276306003788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lake-spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 554
+        width: 151
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f69544063dbf03570800000000000000
+      internalID: 8444526186591443311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lake-spritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 606
+        width: 106
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 774224bc9e2312cf0800000000000000
+      internalID: -278885722201381769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lake-spritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 615
+        width: 24
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d7ff3b5c655d43a0800000000000000
+      internalID: -6679588748444829744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lake-spritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 599
+        width: 46
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53d59b60a56d80160800000000000000
+      internalID: 6992074103640907061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lake-spritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 47
+        width: 257
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 364745b42b8880950800000000000000
+      internalID: 6415527968538653795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lake-spritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 296
+        width: 28
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2dd5e2f8d7506ee0800000000000000
+      internalID: -1269918505618776790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lake-spritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 101
+        width: 259
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49c11c89afefe9300800000000000000
+      internalID: 260926180692139156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lake-spritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 338
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c58d8467ccfdcd6e0800000000000000
+      internalID: -1811326880858974116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lake-spritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 97
+        width: 28
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd30f5d82e8ba1d10800000000000000
+      internalID: 2097191859668321245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      lake-spritesheet_0: 8648240596957419832
+      lake-spritesheet_1: 5790096748137806429
+      lake-spritesheet_10: 2239255207358937272
+      lake-spritesheet_11: -981291584161732140
+      lake-spritesheet_12: -8595385030423734352
+      lake-spritesheet_13: -1809978689076744279
+      lake-spritesheet_14: -381950379614965588
+      lake-spritesheet_15: -2774006533076588092
+      lake-spritesheet_16: -3397270235763948903
+      lake-spritesheet_17: -7595256005708476369
+      lake-spritesheet_18: -3200718383089503405
+      lake-spritesheet_19: 3110277826173802894
+      lake-spritesheet_2: 487949687253263068
+      lake-spritesheet_20: -5692052691173526955
+      lake-spritesheet_21: -5729611593422358368
+      lake-spritesheet_22: 1903418969689890836
+      lake-spritesheet_23: -650222179187918025
+      lake-spritesheet_24: -7497641228537919751
+      lake-spritesheet_25: 7903553623905064849
+      lake-spritesheet_26: 3954786007092291419
+      lake-spritesheet_27: -5942510779560857039
+      lake-spritesheet_28: -4214360507839264272
+      lake-spritesheet_29: 7061729623075254771
+      lake-spritesheet_3: 2496255759830233770
+      lake-spritesheet_30: -8272219013717340913
+      lake-spritesheet_31: 3580165206516940885
+      lake-spritesheet_32: 6865112602627082426
+      lake-spritesheet_33: -8634151241483986164
+      lake-spritesheet_34: -8011925301798602012
+      lake-spritesheet_35: 1565825259794781430
+      lake-spritesheet_36: 9211950770243408456
+      lake-spritesheet_37: -3513126077166322013
+      lake-spritesheet_38: 1024252250048363294
+      lake-spritesheet_39: 1563318458062811548
+      lake-spritesheet_4: 2226802178228320877
+      lake-spritesheet_40: -6587842209507524965
+      lake-spritesheet_41: 5847426825504345539
+      lake-spritesheet_42: 3599795904952447741
+      lake-spritesheet_43: 8164499266866321929
+      lake-spritesheet_44: 9156006056568925430
+      lake-spritesheet_45: 154731460299132981
+      lake-spritesheet_46: 2754101462744997721
+      lake-spritesheet_47: 5178738912888532250
+      lake-spritesheet_48: 8712871341548570761
+      lake-spritesheet_49: 2668347394244079896
+      lake-spritesheet_5: 9085909206684193420
+      lake-spritesheet_50: 8656508276306003788
+      lake-spritesheet_51: 8444526186591443311
+      lake-spritesheet_52: -278885722201381769
+      lake-spritesheet_53: -6679588748444829744
+      lake-spritesheet_54: 6992074103640907061
+      lake-spritesheet_55: 6415527968538653795
+      lake-spritesheet_56: -1269918505618776790
+      lake-spritesheet_57: 260926180692139156
+      lake-spritesheet_58: -1811326880858974116
+      lake-spritesheet_59: 2097191859668321245
+      lake-spritesheet_6: -409118211363146603
+      lake-spritesheet_7: -3369301086678837821
+      lake-spritesheet_8: -7572618681037095086
+      lake-spritesheet_9: -1173460056765669754
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

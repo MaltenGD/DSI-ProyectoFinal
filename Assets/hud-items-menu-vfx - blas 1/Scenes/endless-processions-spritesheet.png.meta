@@ -1,0 +1,715 @@
+fileFormatVersion: 2
+guid: 33cf69863f71d524e8edcfd635d1467f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6756379528869795067
+    second: endless-processions-spritesheet_0
+  - first:
+      213: 5401451126807629074
+    second: endless-processions-spritesheet_1
+  - first:
+      213: -4290967932774377252
+    second: endless-processions-spritesheet_2
+  - first:
+      213: -3611964292626936823
+    second: endless-processions-spritesheet_3
+  - first:
+      213: -3286282198935405940
+    second: endless-processions-spritesheet_4
+  - first:
+      213: 5531515723378375492
+    second: endless-processions-spritesheet_5
+  - first:
+      213: -7258788514520947630
+    second: endless-processions-spritesheet_6
+  - first:
+      213: -8427954190080970566
+    second: endless-processions-spritesheet_7
+  - first:
+      213: 7987896211363161358
+    second: endless-processions-spritesheet_8
+  - first:
+      213: 1708151970021490773
+    second: endless-processions-spritesheet_9
+  - first:
+      213: 5571644401792286279
+    second: endless-processions-spritesheet_10
+  - first:
+      213: -4073525817216105278
+    second: endless-processions-spritesheet_11
+  - first:
+      213: 2064910326586354481
+    second: endless-processions-spritesheet_12
+  - first:
+      213: -6240257549491511139
+    second: endless-processions-spritesheet_13
+  - first:
+      213: 7177841458921813806
+    second: endless-processions-spritesheet_14
+  - first:
+      213: -8215063927285065984
+    second: endless-processions-spritesheet_15
+  - first:
+      213: 8583053573262403663
+    second: endless-processions-spritesheet_16
+  - first:
+      213: 8765761266717619233
+    second: endless-processions-spritesheet_17
+  - first:
+      213: 9206710544773245026
+    second: endless-processions-spritesheet_18
+  - first:
+      213: 6641399585418769333
+    second: endless-processions-spritesheet_19
+  - first:
+      213: 4442254164639185019
+    second: endless-processions-spritesheet_20
+  - first:
+      213: -8404089699642555017
+    second: endless-processions-spritesheet_21
+  - first:
+      213: 4183964100685324155
+    second: endless-processions-spritesheet_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: endless-processions-spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 661
+        width: 691
+        height: 362
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50baef58d948c32a0800000000000000
+      internalID: -6756379528869795067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endless-processions-spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 943
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21d80058e2fc5fa40800000000000000
+      internalID: 5401451126807629074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endless-processions-spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 943
+        width: 66
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd81460566b6374c0800000000000000
+      internalID: -4290967932774377252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endless-processions-spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 943
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90c8394ec99bfddc0800000000000000
+      internalID: -3611964292626936823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endless-processions-spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 894
+        width: 11
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8af3c460c7c462d0800000000000000
+      internalID: -3286282198935405940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endless-processions-spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 894
+        width: 8
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44bb4714e34e3cc40800000000000000
+      internalID: 5531515723378375492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endless-processions-spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 832
+        width: 298
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2542b440e4a934b90800000000000000
+      internalID: -7258788514520947630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endless-processions-spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 686
+        width: 78
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab075fc3154e90b80800000000000000
+      internalID: -8427954190080970566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endless-processions-spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 708
+        width: 73
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e056df45845bade60800000000000000
+      internalID: 7987896211363161358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endless-processions-spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 687
+        width: 78
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 550c383aa2394b710800000000000000
+      internalID: 1708151970021490773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endless-processions-spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 563
+        width: 480
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74e7f974015725d40800000000000000
+      internalID: 5571644401792286279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endless-processions-spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 580
+        width: 280
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c483790adde777c0800000000000000
+      internalID: -4073525817216105278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endless-processions-spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 436
+        width: 538
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13b273d600908ac10800000000000000
+      internalID: 2064910326586354481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endless-processions-spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 262
+        width: 661
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d90eb9f22d62669a0800000000000000
+      internalID: -6240257549491511139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endless-processions-spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 194
+        width: 661
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e273b1de6c0dc9360800000000000000
+      internalID: 7177841458921813806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endless-processions-spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 144
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0075c0722ea3efd80800000000000000
+      internalID: -8215063927285065984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endless-processions-spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 159
+        width: 66
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f48e37affb12d1770800000000000000
+      internalID: 8583053573262403663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endless-processions-spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 154
+        width: 54
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 124f498dd6d36a970800000000000000
+      internalID: 8765761266717619233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endless-processions-spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 147
+        width: 53
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2686d03167ec4cf70800000000000000
+      internalID: 9206710544773245026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endless-processions-spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 117
+        width: 61
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b3ff4c3cbdfa2c50800000000000000
+      internalID: 6641399585418769333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endless-processions-spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 118
+        width: 66
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b78715d60ae06ad30800000000000000
+      internalID: 4442254164639185019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endless-processions-spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 118
+        width: 66
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7754948e1fcae5b80800000000000000
+      internalID: -8404089699642555017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endless-processions-spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 116
+        width: 56
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7fd5569e2d601a30800000000000000
+      internalID: 4183964100685324155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      endless-processions-spritesheet_0: -6756379528869795067
+      endless-processions-spritesheet_1: 5401451126807629074
+      endless-processions-spritesheet_10: 5571644401792286279
+      endless-processions-spritesheet_11: -4073525817216105278
+      endless-processions-spritesheet_12: 2064910326586354481
+      endless-processions-spritesheet_13: -6240257549491511139
+      endless-processions-spritesheet_14: 7177841458921813806
+      endless-processions-spritesheet_15: -8215063927285065984
+      endless-processions-spritesheet_16: 8583053573262403663
+      endless-processions-spritesheet_17: 8765761266717619233
+      endless-processions-spritesheet_18: 9206710544773245026
+      endless-processions-spritesheet_19: 6641399585418769333
+      endless-processions-spritesheet_2: -4290967932774377252
+      endless-processions-spritesheet_20: 4442254164639185019
+      endless-processions-spritesheet_21: -8404089699642555017
+      endless-processions-spritesheet_22: 4183964100685324155
+      endless-processions-spritesheet_3: -3611964292626936823
+      endless-processions-spritesheet_4: -3286282198935405940
+      endless-processions-spritesheet_5: 5531515723378375492
+      endless-processions-spritesheet_6: -7258788514520947630
+      endless-processions-spritesheet_7: -8427954190080970566
+      endless-processions-spritesheet_8: 7987896211363161358
+      endless-processions-spritesheet_9: 1708151970021490773
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

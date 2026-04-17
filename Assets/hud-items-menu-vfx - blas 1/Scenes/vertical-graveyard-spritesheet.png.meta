@@ -1,0 +1,2067 @@
+fileFormatVersion: 2
+guid: 3e1eb4bcb31ff2444b69ee0f7dae103a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6348503808770654799
+    second: vertical-graveyard-spritesheet_0
+  - first:
+      213: 8616530377342034338
+    second: vertical-graveyard-spritesheet_1
+  - first:
+      213: 9217264019553405147
+    second: vertical-graveyard-spritesheet_2
+  - first:
+      213: 528448087071284204
+    second: vertical-graveyard-spritesheet_3
+  - first:
+      213: -6086681211470808299
+    second: vertical-graveyard-spritesheet_4
+  - first:
+      213: -5910780808050093113
+    second: vertical-graveyard-spritesheet_5
+  - first:
+      213: 8912466723485627557
+    second: vertical-graveyard-spritesheet_6
+  - first:
+      213: 5990865104208348562
+    second: vertical-graveyard-spritesheet_7
+  - first:
+      213: 6374594181366782312
+    second: vertical-graveyard-spritesheet_8
+  - first:
+      213: -1796270435449014117
+    second: vertical-graveyard-spritesheet_9
+  - first:
+      213: 1100521104912685979
+    second: vertical-graveyard-spritesheet_10
+  - first:
+      213: -7395152246051574834
+    second: vertical-graveyard-spritesheet_11
+  - first:
+      213: -7538176952190606284
+    second: vertical-graveyard-spritesheet_12
+  - first:
+      213: 2404011222066597213
+    second: vertical-graveyard-spritesheet_13
+  - first:
+      213: 8031757054060463713
+    second: vertical-graveyard-spritesheet_14
+  - first:
+      213: -7585285922746393373
+    second: vertical-graveyard-spritesheet_15
+  - first:
+      213: -5001350390542163920
+    second: vertical-graveyard-spritesheet_16
+  - first:
+      213: 5869135313512643698
+    second: vertical-graveyard-spritesheet_17
+  - first:
+      213: 8579686520278586814
+    second: vertical-graveyard-spritesheet_18
+  - first:
+      213: -7832181393886692351
+    second: vertical-graveyard-spritesheet_19
+  - first:
+      213: 5479957707001047412
+    second: vertical-graveyard-spritesheet_20
+  - first:
+      213: 6430115016844263144
+    second: vertical-graveyard-spritesheet_21
+  - first:
+      213: 1163269455262233640
+    second: vertical-graveyard-spritesheet_22
+  - first:
+      213: -8231836077704122474
+    second: vertical-graveyard-spritesheet_23
+  - first:
+      213: -3773171424124161704
+    second: vertical-graveyard-spritesheet_24
+  - first:
+      213: -9162178789002015520
+    second: vertical-graveyard-spritesheet_25
+  - first:
+      213: 7861129516215054216
+    second: vertical-graveyard-spritesheet_26
+  - first:
+      213: 2233244982226054551
+    second: vertical-graveyard-spritesheet_27
+  - first:
+      213: 5772413386189831449
+    second: vertical-graveyard-spritesheet_28
+  - first:
+      213: -6813035681466783494
+    second: vertical-graveyard-spritesheet_29
+  - first:
+      213: 1492453723959488131
+    second: vertical-graveyard-spritesheet_30
+  - first:
+      213: -3725313928163771073
+    second: vertical-graveyard-spritesheet_31
+  - first:
+      213: -7741733403229762408
+    second: vertical-graveyard-spritesheet_32
+  - first:
+      213: 815673199420296213
+    second: vertical-graveyard-spritesheet_33
+  - first:
+      213: 5237183504949605779
+    second: vertical-graveyard-spritesheet_34
+  - first:
+      213: 3586923780668030102
+    second: vertical-graveyard-spritesheet_35
+  - first:
+      213: 4102291050407971989
+    second: vertical-graveyard-spritesheet_36
+  - first:
+      213: 1274360114160758806
+    second: vertical-graveyard-spritesheet_37
+  - first:
+      213: -7001586427997278642
+    second: vertical-graveyard-spritesheet_38
+  - first:
+      213: 8469200810221344673
+    second: vertical-graveyard-spritesheet_39
+  - first:
+      213: 5448628006165481433
+    second: vertical-graveyard-spritesheet_40
+  - first:
+      213: 753659720414589236
+    second: vertical-graveyard-spritesheet_41
+  - first:
+      213: -848515242651111850
+    second: vertical-graveyard-spritesheet_42
+  - first:
+      213: -5592308996280862738
+    second: vertical-graveyard-spritesheet_43
+  - first:
+      213: 14592469879014236
+    second: vertical-graveyard-spritesheet_44
+  - first:
+      213: -5417874865979467589
+    second: vertical-graveyard-spritesheet_45
+  - first:
+      213: -7896328616918562874
+    second: vertical-graveyard-spritesheet_46
+  - first:
+      213: -3831184777630782783
+    second: vertical-graveyard-spritesheet_47
+  - first:
+      213: 1027856593070072677
+    second: vertical-graveyard-spritesheet_48
+  - first:
+      213: -7240495960722005196
+    second: vertical-graveyard-spritesheet_49
+  - first:
+      213: 8720484830286507430
+    second: vertical-graveyard-spritesheet_50
+  - first:
+      213: 1389061512721196674
+    second: vertical-graveyard-spritesheet_51
+  - first:
+      213: -654505625840157484
+    second: vertical-graveyard-spritesheet_52
+  - first:
+      213: 2861170911721153780
+    second: vertical-graveyard-spritesheet_53
+  - first:
+      213: -4968756719925750140
+    second: vertical-graveyard-spritesheet_54
+  - first:
+      213: 237280155702407217
+    second: vertical-graveyard-spritesheet_55
+  - first:
+      213: -8101525795063555992
+    second: vertical-graveyard-spritesheet_56
+  - first:
+      213: 8665747691969471080
+    second: vertical-graveyard-spritesheet_57
+  - first:
+      213: 6652698838029610309
+    second: vertical-graveyard-spritesheet_58
+  - first:
+      213: 5394477239122056030
+    second: vertical-graveyard-spritesheet_59
+  - first:
+      213: -8434151337774800445
+    second: vertical-graveyard-spritesheet_60
+  - first:
+      213: 7252503138911624839
+    second: vertical-graveyard-spritesheet_61
+  - first:
+      213: -6523734693591482901
+    second: vertical-graveyard-spritesheet_62
+  - first:
+      213: -105803424189526944
+    second: vertical-graveyard-spritesheet_63
+  - first:
+      213: 1534113931837354035
+    second: vertical-graveyard-spritesheet_64
+  - first:
+      213: 8337863816145081749
+    second: vertical-graveyard-spritesheet_65
+  - first:
+      213: -1660648054765192231
+    second: vertical-graveyard-spritesheet_66
+  - first:
+      213: 3977705878796567596
+    second: vertical-graveyard-spritesheet_67
+  - first:
+      213: -2172199988938681084
+    second: vertical-graveyard-spritesheet_68
+  - first:
+      213: 1921105560424110218
+    second: vertical-graveyard-spritesheet_69
+  - first:
+      213: -7404903759139028139
+    second: vertical-graveyard-spritesheet_70
+  - first:
+      213: -6400738238052703191
+    second: vertical-graveyard-spritesheet_71
+  - first:
+      213: 6425967966929334621
+    second: vertical-graveyard-spritesheet_72
+  - first:
+      213: -7431152245143217059
+    second: vertical-graveyard-spritesheet_73
+  - first:
+      213: -3095335563493958682
+    second: vertical-graveyard-spritesheet_74
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: vertical-graveyard-spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 983
+        width: 71
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f424df8049a6a1850800000000000000
+      internalID: 6348503808770654799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vertical-graveyard-spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 990
+        width: 66
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a1a5d1d9b0149770800000000000000
+      internalID: 8616530377342034338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vertical-graveyard-spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 992
+        width: 66
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd848766acc4aef70800000000000000
+      internalID: 9217264019553405147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vertical-graveyard-spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 988
+        width: 74
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceb5e104cbc655700800000000000000
+      internalID: 528448087071284204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vertical-graveyard-spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 997
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51bfc31dfa3c78ba0800000000000000
+      internalID: -6086681211470808299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vertical-graveyard-spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 996
+        width: 46
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c35af6fb20b8fda0800000000000000
+      internalID: -5910780808050093113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vertical-graveyard-spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 997
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a4b9d5c3417fab70800000000000000
+      internalID: 8912466723485627557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vertical-graveyard-spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 989
+        width: 118
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2954f914214d32350800000000000000
+      internalID: 5990865104208348562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vertical-graveyard-spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 989
+        width: 86
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86993a742ab177850800000000000000
+      internalID: 6374594181366782312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vertical-graveyard-spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 759
+        width: 103
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9876865e8d5217e0800000000000000
+      internalID: -1796270435449014117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vertical-graveyard-spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 705
+        width: 279
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9b14263d16d54f00800000000000000
+      internalID: 1100521104912685979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vertical-graveyard-spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 949
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecbe922a6342f5990800000000000000
+      internalID: -7395152246051574834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vertical-graveyard-spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 957
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43464ae3004036790800000000000000
+      internalID: -7538176952190606284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vertical-graveyard-spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 951
+        width: 66
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5d055f2873cc5120800000000000000
+      internalID: 2404011222066597213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vertical-graveyard-spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 942
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16603819c78867f60800000000000000
+      internalID: 8031757054060463713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vertical-graveyard-spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 934
+        width: 46
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ec1eee44a6abb690800000000000000
+      internalID: -7585285922746393373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vertical-graveyard-spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 951
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 030297e6152a79ab0800000000000000
+      internalID: -5001350390542163920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vertical-graveyard-spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 953
+        width: 66
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27c3f9cb87b537150800000000000000
+      internalID: 5869135313512643698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vertical-graveyard-spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 955
+        width: 13
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb5996dde6b211770800000000000000
+      internalID: 8579686520278586814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vertical-graveyard-spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 921
+        width: 20
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10cb5f8d4808e4390800000000000000
+      internalID: -7832181393886692351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vertical-graveyard-spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 973
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47926fd1088bc0c40800000000000000
+      internalID: 5479957707001047412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vertical-graveyard-spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 973
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ee38e32a8b5c3950800000000000000
+      internalID: 6430115016844263144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vertical-graveyard-spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 946
+        width: 181
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 824b7f20863c42010800000000000000
+      internalID: 1163269455262233640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vertical-graveyard-spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 926
+        width: 52
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69f633393b4a2cd80800000000000000
+      internalID: -8231836077704122474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vertical-graveyard-spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 906
+        width: 34
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 851bc64b49003abc0800000000000000
+      internalID: -3773171424124161704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vertical-graveyard-spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 951
+        width: 36
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ec8ae84fe669d080800000000000000
+      internalID: -9162178789002015520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vertical-graveyard-spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 882
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88f265b15a7581d60800000000000000
+      internalID: 7861129516215054216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vertical-graveyard-spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 882
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79de106aa741efe10800000000000000
+      internalID: 2233244982226054551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vertical-graveyard-spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 921
+        width: 36
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91dfd84246bbb1050800000000000000
+      internalID: 5772413386189831449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vertical-graveyard-spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 917
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af86c1c052c3371a0800000000000000
+      internalID: -6813035681466783494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vertical-graveyard-spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 903
+        width: 99
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38e605c21c246b410800000000000000
+      internalID: 1492453723959488131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vertical-graveyard-spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 924
+        width: 60
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3dbbfa48b60d4cc0800000000000000
+      internalID: -3725313928163771073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vertical-graveyard-spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 919
+        width: 58
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89cc6babc76df8490800000000000000
+      internalID: -7741733403229762408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vertical-graveyard-spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 812
+        width: 74
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51cc048047ad15b00800000000000000
+      internalID: 815673199420296213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vertical-graveyard-spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 883
+        width: 61
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3957e0466a63ea840800000000000000
+      internalID: 5237183504949605779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vertical-graveyard-spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 883
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69c7e179c2057c130800000000000000
+      internalID: 3586923780668030102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vertical-graveyard-spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 903
+        width: 33
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59cc4d8b9f34ee830800000000000000
+      internalID: 4102291050407971989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vertical-graveyard-spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 905
+        width: 42
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6107a70a5cf6fa110800000000000000
+      internalID: 1274360114160758806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vertical-graveyard-spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 908
+        width: 20
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4ea60f5d3e55de90800000000000000
+      internalID: -7001586427997278642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vertical-graveyard-spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 903
+        width: 35
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a791b0e345a88570800000000000000
+      internalID: 8469200810221344673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vertical-graveyard-spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 832
+        width: 49
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d70db4bd4a6d9b40800000000000000
+      internalID: 5448628006165481433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vertical-graveyard-spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 882
+        width: 49
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 431f4dcc589857a00800000000000000
+      internalID: 753659720414589236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vertical-graveyard-spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 885
+        width: 47
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65ea647e1e77934f0800000000000000
+      internalID: -848515242651111850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vertical-graveyard-spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 814
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee73572e8902462b0800000000000000
+      internalID: -5592308996280862738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vertical-graveyard-spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 814
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c53c88726c7d33000800000000000000
+      internalID: 14592469879014236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vertical-graveyard-spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 842
+        width: 66
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb8d6c7b387dfc4b0800000000000000
+      internalID: -5417874865979467589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vertical-graveyard-spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 855
+        width: 7
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c741de95fa9a6290800000000000000
+      internalID: -7896328616918562874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vertical-graveyard-spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 849
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1caee644eb5e4dac0800000000000000
+      internalID: -3831184777630782783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vertical-graveyard-spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 853
+        width: 8
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5632cf5202ea34e00800000000000000
+      internalID: 1027856593070072677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vertical-graveyard-spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 830
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 433a3871947948b90800000000000000
+      internalID: -7240495960722005196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vertical-graveyard-spritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 847
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ade86200c2650970800000000000000
+      internalID: 8720484830286507430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vertical-graveyard-spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 745
+        width: 53
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 286e9e41610f64310800000000000000
+      internalID: 1389061512721196674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vertical-graveyard-spritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 749
+        width: 31
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dc7d4cd99abae6f0800000000000000
+      internalID: -654505625840157484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vertical-graveyard-spritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 739
+        width: 82
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f4e1daf8cbe4b720800000000000000
+      internalID: 2861170911721153780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vertical-graveyard-spritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 808
+        width: 43
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4869d7db61e6b0bb0800000000000000
+      internalID: -4968756719925750140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vertical-graveyard-spritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 765
+        width: 37
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13034e06b0dfa4300800000000000000
+      internalID: 237280155702407217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vertical-graveyard-spritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 781
+        width: 96
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 868929e8639919f80800000000000000
+      internalID: -8101525795063555992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vertical-graveyard-spritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 778
+        width: 56
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 862600ddc9be24870800000000000000
+      internalID: 8665747691969471080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vertical-graveyard-spritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 677
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54da86e7852235c50800000000000000
+      internalID: 6652698838029610309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vertical-graveyard-spritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 683
+        width: 37
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e53dcc2c7780dda40800000000000000
+      internalID: 5394477239122056030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vertical-graveyard-spritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 685
+        width: 49
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c12c0a5b00e3fa80800000000000000
+      internalID: -8434151337774800445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vertical-graveyard-spritesheet_61
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 695
+        width: 66
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78e9b3fed2116a460800000000000000
+      internalID: 7252503138911624839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vertical-graveyard-spritesheet_62
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 535
+        width: 128
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bed76934cd90775a0800000000000000
+      internalID: -6523734693591482901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vertical-graveyard-spritesheet_63
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 530
+        width: 94
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06cc925a85c188ef0800000000000000
+      internalID: -105803424189526944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vertical-graveyard-spritesheet_64
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 639
+        width: 107
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 330b4203e744a4510800000000000000
+      internalID: 1534113931837354035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vertical-graveyard-spritesheet_65
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 579
+        width: 90
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59519e207fa06b370800000000000000
+      internalID: 8337863816145081749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vertical-graveyard-spritesheet_66
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 726
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dbf6c6846134f8e0800000000000000
+      internalID: -1660648054765192231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vertical-graveyard-spritesheet_67
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 609
+        width: 61
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2407a60c66a33730800000000000000
+      internalID: 3977705878796567596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vertical-graveyard-spritesheet_68
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 614
+        width: 35
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 405d33e6e9bcad1e0800000000000000
+      internalID: -2172199988938681084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vertical-graveyard-spritesheet_69
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 646
+        width: 64
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a885b19245329aa10800000000000000
+      internalID: 1921105560424110218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vertical-graveyard-spritesheet_70
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 545
+        width: 240
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5534090934f7c3990800000000000000
+      internalID: -7404903759139028139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vertical-graveyard-spritesheet_71
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 535
+        width: 52
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 924eb9c2c720c27a0800000000000000
+      internalID: -6400738238052703191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vertical-graveyard-spritesheet_72
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 547
+        width: 45
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d51bcd6d1df9d2950800000000000000
+      internalID: 6425967966929334621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vertical-graveyard-spritesheet_73
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 546
+        width: 46
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5c546ca76e3fd890800000000000000
+      internalID: -7431152245143217059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vertical-graveyard-spritesheet_74
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 10
+        width: 795
+        height: 470
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eb1f4d64b82b05d0800000000000000
+      internalID: -3095335563493958682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      vertical-graveyard-spritesheet_0: 6348503808770654799
+      vertical-graveyard-spritesheet_1: 8616530377342034338
+      vertical-graveyard-spritesheet_10: 1100521104912685979
+      vertical-graveyard-spritesheet_11: -7395152246051574834
+      vertical-graveyard-spritesheet_12: -7538176952190606284
+      vertical-graveyard-spritesheet_13: 2404011222066597213
+      vertical-graveyard-spritesheet_14: 8031757054060463713
+      vertical-graveyard-spritesheet_15: -7585285922746393373
+      vertical-graveyard-spritesheet_16: -5001350390542163920
+      vertical-graveyard-spritesheet_17: 5869135313512643698
+      vertical-graveyard-spritesheet_18: 8579686520278586814
+      vertical-graveyard-spritesheet_19: -7832181393886692351
+      vertical-graveyard-spritesheet_2: 9217264019553405147
+      vertical-graveyard-spritesheet_20: 5479957707001047412
+      vertical-graveyard-spritesheet_21: 6430115016844263144
+      vertical-graveyard-spritesheet_22: 1163269455262233640
+      vertical-graveyard-spritesheet_23: -8231836077704122474
+      vertical-graveyard-spritesheet_24: -3773171424124161704
+      vertical-graveyard-spritesheet_25: -9162178789002015520
+      vertical-graveyard-spritesheet_26: 7861129516215054216
+      vertical-graveyard-spritesheet_27: 2233244982226054551
+      vertical-graveyard-spritesheet_28: 5772413386189831449
+      vertical-graveyard-spritesheet_29: -6813035681466783494
+      vertical-graveyard-spritesheet_3: 528448087071284204
+      vertical-graveyard-spritesheet_30: 1492453723959488131
+      vertical-graveyard-spritesheet_31: -3725313928163771073
+      vertical-graveyard-spritesheet_32: -7741733403229762408
+      vertical-graveyard-spritesheet_33: 815673199420296213
+      vertical-graveyard-spritesheet_34: 5237183504949605779
+      vertical-graveyard-spritesheet_35: 3586923780668030102
+      vertical-graveyard-spritesheet_36: 4102291050407971989
+      vertical-graveyard-spritesheet_37: 1274360114160758806
+      vertical-graveyard-spritesheet_38: -7001586427997278642
+      vertical-graveyard-spritesheet_39: 8469200810221344673
+      vertical-graveyard-spritesheet_4: -6086681211470808299
+      vertical-graveyard-spritesheet_40: 5448628006165481433
+      vertical-graveyard-spritesheet_41: 753659720414589236
+      vertical-graveyard-spritesheet_42: -848515242651111850
+      vertical-graveyard-spritesheet_43: -5592308996280862738
+      vertical-graveyard-spritesheet_44: 14592469879014236
+      vertical-graveyard-spritesheet_45: -5417874865979467589
+      vertical-graveyard-spritesheet_46: -7896328616918562874
+      vertical-graveyard-spritesheet_47: -3831184777630782783
+      vertical-graveyard-spritesheet_48: 1027856593070072677
+      vertical-graveyard-spritesheet_49: -7240495960722005196
+      vertical-graveyard-spritesheet_5: -5910780808050093113
+      vertical-graveyard-spritesheet_50: 8720484830286507430
+      vertical-graveyard-spritesheet_51: 1389061512721196674
+      vertical-graveyard-spritesheet_52: -654505625840157484
+      vertical-graveyard-spritesheet_53: 2861170911721153780
+      vertical-graveyard-spritesheet_54: -4968756719925750140
+      vertical-graveyard-spritesheet_55: 237280155702407217
+      vertical-graveyard-spritesheet_56: -8101525795063555992
+      vertical-graveyard-spritesheet_57: 8665747691969471080
+      vertical-graveyard-spritesheet_58: 6652698838029610309
+      vertical-graveyard-spritesheet_59: 5394477239122056030
+      vertical-graveyard-spritesheet_6: 8912466723485627557
+      vertical-graveyard-spritesheet_60: -8434151337774800445
+      vertical-graveyard-spritesheet_61: 7252503138911624839
+      vertical-graveyard-spritesheet_62: -6523734693591482901
+      vertical-graveyard-spritesheet_63: -105803424189526944
+      vertical-graveyard-spritesheet_64: 1534113931837354035
+      vertical-graveyard-spritesheet_65: 8337863816145081749
+      vertical-graveyard-spritesheet_66: -1660648054765192231
+      vertical-graveyard-spritesheet_67: 3977705878796567596
+      vertical-graveyard-spritesheet_68: -2172199988938681084
+      vertical-graveyard-spritesheet_69: 1921105560424110218
+      vertical-graveyard-spritesheet_7: 5990865104208348562
+      vertical-graveyard-spritesheet_70: -7404903759139028139
+      vertical-graveyard-spritesheet_71: -6400738238052703191
+      vertical-graveyard-spritesheet_72: 6425967966929334621
+      vertical-graveyard-spritesheet_73: -7431152245143217059
+      vertical-graveyard-spritesheet_74: -3095335563493958682
+      vertical-graveyard-spritesheet_8: 6374594181366782312
+      vertical-graveyard-spritesheet_9: -1796270435449014117
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

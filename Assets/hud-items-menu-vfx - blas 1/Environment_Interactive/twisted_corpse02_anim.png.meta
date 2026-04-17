@@ -1,0 +1,507 @@
+fileFormatVersion: 2
+guid: 98e21687ff07cf94eb8b40e061a44be7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3233047862462976403
+    second: twisted_corpse02_anim_0
+  - first:
+      213: -6890363413081704626
+    second: twisted_corpse02_anim_1
+  - first:
+      213: 5353444395355956031
+    second: twisted_corpse02_anim_2
+  - first:
+      213: 2465325295408530841
+    second: twisted_corpse02_anim_3
+  - first:
+      213: 7697357392855327339
+    second: twisted_corpse02_anim_4
+  - first:
+      213: 7817158065333829919
+    second: twisted_corpse02_anim_5
+  - first:
+      213: 8254227770320571784
+    second: twisted_corpse02_anim_6
+  - first:
+      213: 7049404202284297359
+    second: twisted_corpse02_anim_7
+  - first:
+      213: -2365324063957983779
+    second: twisted_corpse02_anim_8
+  - first:
+      213: 2689274765049960749
+    second: twisted_corpse02_anim_9
+  - first:
+      213: -6303036991757901407
+    second: twisted_corpse02_anim_10
+  - first:
+      213: 8062705563997311290
+    second: twisted_corpse02_anim_11
+  - first:
+      213: -6722474980212738224
+    second: twisted_corpse02_anim_12
+  - first:
+      213: -7935033298266316128
+    second: twisted_corpse02_anim_13
+  - first:
+      213: -7537189516784120263
+    second: twisted_corpse02_anim_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: twisted_corpse02_anim_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 86
+        width: 30
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39111f7c6e71edc20800000000000000
+      internalID: 3233047862462976403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: twisted_corpse02_anim_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 31
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e47bae58bf28060a0800000000000000
+      internalID: -6890363413081704626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: twisted_corpse02_anim_2
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 86
+        width: 31
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f336ff550514b4a40800000000000000
+      internalID: 5353444395355956031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: twisted_corpse02_anim_3
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 0
+        width: 31
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9954c985b48963220800000000000000
+      internalID: 2465325295408530841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: twisted_corpse02_anim_4
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 86
+        width: 28
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b626e5634c182da60800000000000000
+      internalID: 7697357392855327339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: twisted_corpse02_anim_5
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 0
+        width: 30
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f118d45e7df1c7c60800000000000000
+      internalID: 7817158065333829919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: twisted_corpse02_anim_6
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 86
+        width: 28
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88d4f11ac68ec8270800000000000000
+      internalID: 8254227770320571784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: twisted_corpse02_anim_7
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 0
+        width: 30
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8c2d4bc5c384d160800000000000000
+      internalID: 7049404202284297359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: twisted_corpse02_anim_8
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 86
+        width: 28
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dddd91dbb4eac2fd0800000000000000
+      internalID: -2365324063957983779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: twisted_corpse02_anim_9
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 0
+        width: 30
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2999328629325520800000000000000
+      internalID: 2689274765049960749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: twisted_corpse02_anim_10
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 86
+        width: 28
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a1af1c304d1788a0800000000000000
+      internalID: -6303036991757901407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: twisted_corpse02_anim_11
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 0
+        width: 29
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3110ae0efb74ef60800000000000000
+      internalID: 8062705563997311290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: twisted_corpse02_anim_12
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 0
+        width: 29
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 057f7f86f98f4b2a0800000000000000
+      internalID: -6722474980212738224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: twisted_corpse02_anim_13
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 0
+        width: 29
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a2a0ffb14911e190800000000000000
+      internalID: -7935033298266316128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: twisted_corpse02_anim_14
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 0
+        width: 29
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93ec8477116866790800000000000000
+      internalID: -7537189516784120263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      twisted_corpse02_anim_0: 3233047862462976403
+      twisted_corpse02_anim_1: -6890363413081704626
+      twisted_corpse02_anim_10: -6303036991757901407
+      twisted_corpse02_anim_11: 8062705563997311290
+      twisted_corpse02_anim_12: -6722474980212738224
+      twisted_corpse02_anim_13: -7935033298266316128
+      twisted_corpse02_anim_14: -7537189516784120263
+      twisted_corpse02_anim_2: 5353444395355956031
+      twisted_corpse02_anim_3: 2465325295408530841
+      twisted_corpse02_anim_4: 7697357392855327339
+      twisted_corpse02_anim_5: 7817158065333829919
+      twisted_corpse02_anim_6: 8254227770320571784
+      twisted_corpse02_anim_7: 7049404202284297359
+      twisted_corpse02_anim_8: -2365324063957983779
+      twisted_corpse02_anim_9: 2689274765049960749
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

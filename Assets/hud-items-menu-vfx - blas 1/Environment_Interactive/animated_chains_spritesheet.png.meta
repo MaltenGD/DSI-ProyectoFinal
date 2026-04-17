@@ -1,0 +1,507 @@
+fileFormatVersion: 2
+guid: cd103ab75a9ce0040b3e15a4bc94dfca
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5350930143520502368
+    second: animated_chains_spritesheet_0
+  - first:
+      213: 6480519169373103401
+    second: animated_chains_spritesheet_1
+  - first:
+      213: 5732914359225186109
+    second: animated_chains_spritesheet_2
+  - first:
+      213: -5273774108789077841
+    second: animated_chains_spritesheet_3
+  - first:
+      213: -5555586455446569094
+    second: animated_chains_spritesheet_4
+  - first:
+      213: -1949226675157949570
+    second: animated_chains_spritesheet_5
+  - first:
+      213: -8285490381311678455
+    second: animated_chains_spritesheet_6
+  - first:
+      213: -5700269668623342121
+    second: animated_chains_spritesheet_7
+  - first:
+      213: 324484369994134556
+    second: animated_chains_spritesheet_8
+  - first:
+      213: 7239554707843052244
+    second: animated_chains_spritesheet_9
+  - first:
+      213: -7297334040133732846
+    second: animated_chains_spritesheet_10
+  - first:
+      213: -5668945875587891072
+    second: animated_chains_spritesheet_11
+  - first:
+      213: -3716332896689722961
+    second: animated_chains_spritesheet_12
+  - first:
+      213: -5122343251968796897
+    second: animated_chains_spritesheet_13
+  - first:
+      213: 7009610793359796429
+    second: animated_chains_spritesheet_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: animated_chains_spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 503
+        width: 34
+        height: 521
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06238767d92524a40800000000000000
+      internalID: 5350930143520502368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated_chains_spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 503
+        width: 35
+        height: 521
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 925e79a69dd6fe950800000000000000
+      internalID: 6480519169373103401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated_chains_spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 503
+        width: 36
+        height: 521
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d377a554c376f8f40800000000000000
+      internalID: 5732914359225186109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated_chains_spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 503
+        width: 36
+        height: 521
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa889f3c36acfc6b0800000000000000
+      internalID: -5273774108789077841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated_chains_spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 503
+        width: 35
+        height: 521
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7fb224bd8796e2b0800000000000000
+      internalID: -5555586455446569094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated_chains_spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 503
+        width: 35
+        height: 521
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e73ae789aa4f2f4e0800000000000000
+      internalID: -1949226675157949570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated_chains_spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 503
+        width: 35
+        height: 521
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90860088566040d80800000000000000
+      internalID: -8285490381311678455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated_chains_spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 503
+        width: 35
+        height: 521
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d5a5cd00f294e0b0800000000000000
+      internalID: -5700269668623342121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated_chains_spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 503
+        width: 35
+        height: 521
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c14baa8b0dcc08400800000000000000
+      internalID: 324484369994134556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated_chains_spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 503
+        width: 35
+        height: 521
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d2fdf466a0187460800000000000000
+      internalID: 7239554707843052244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated_chains_spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 503
+        width: 35
+        height: 521
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 216767a7a59aaba90800000000000000
+      internalID: -7297334040133732846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated_chains_spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 503
+        width: 35
+        height: 521
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0800ba2f2cbd351b0800000000000000
+      internalID: -5668945875587891072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated_chains_spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 503
+        width: 36
+        height: 521
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa9e5b1abeeec6cc0800000000000000
+      internalID: -3716332896689722961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated_chains_spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 503
+        width: 36
+        height: 521
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f17d7c0a3f7c9e8b0800000000000000
+      internalID: -5122343251968796897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated_chains_spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 503
+        width: 35
+        height: 521
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc864f7c0e3274160800000000000000
+      internalID: 7009610793359796429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      animated_chains_spritesheet_0: 5350930143520502368
+      animated_chains_spritesheet_1: 6480519169373103401
+      animated_chains_spritesheet_10: -7297334040133732846
+      animated_chains_spritesheet_11: -5668945875587891072
+      animated_chains_spritesheet_12: -3716332896689722961
+      animated_chains_spritesheet_13: -5122343251968796897
+      animated_chains_spritesheet_14: 7009610793359796429
+      animated_chains_spritesheet_2: 5732914359225186109
+      animated_chains_spritesheet_3: -5273774108789077841
+      animated_chains_spritesheet_4: -5555586455446569094
+      animated_chains_spritesheet_5: -1949226675157949570
+      animated_chains_spritesheet_6: -8285490381311678455
+      animated_chains_spritesheet_7: -5700269668623342121
+      animated_chains_spritesheet_8: 324484369994134556
+      animated_chains_spritesheet_9: 7239554707843052244
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1885 @@
+fileFormatVersion: 2
+guid: 6485ac6475995f140935bf5fe1da296b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -745163693100931096
+    second: cave_spritesheet_0
+  - first:
+      213: -6825579270507270041
+    second: cave_spritesheet_1
+  - first:
+      213: 1148416723352781750
+    second: cave_spritesheet_2
+  - first:
+      213: -711942616546543431
+    second: cave_spritesheet_3
+  - first:
+      213: 6494039148746667786
+    second: cave_spritesheet_4
+  - first:
+      213: -1702234798641910879
+    second: cave_spritesheet_5
+  - first:
+      213: -2696366033845907910
+    second: cave_spritesheet_6
+  - first:
+      213: -3157577660728405659
+    second: cave_spritesheet_7
+  - first:
+      213: 4651143660103828532
+    second: cave_spritesheet_8
+  - first:
+      213: 1528043594732864084
+    second: cave_spritesheet_9
+  - first:
+      213: 1611474473059878381
+    second: cave_spritesheet_10
+  - first:
+      213: 556820272950435051
+    second: cave_spritesheet_11
+  - first:
+      213: -7624471231178876126
+    second: cave_spritesheet_12
+  - first:
+      213: 1729685224729599780
+    second: cave_spritesheet_13
+  - first:
+      213: -1809721387869117338
+    second: cave_spritesheet_14
+  - first:
+      213: -4422604541195388508
+    second: cave_spritesheet_15
+  - first:
+      213: 1848521994033516479
+    second: cave_spritesheet_16
+  - first:
+      213: 5085761257465943780
+    second: cave_spritesheet_17
+  - first:
+      213: 770831662813431081
+    second: cave_spritesheet_18
+  - first:
+      213: 1901432835531071940
+    second: cave_spritesheet_19
+  - first:
+      213: -5545906652388821633
+    second: cave_spritesheet_20
+  - first:
+      213: 5351499299676829053
+    second: cave_spritesheet_21
+  - first:
+      213: 3029276553724783736
+    second: cave_spritesheet_22
+  - first:
+      213: -8523322184429456113
+    second: cave_spritesheet_23
+  - first:
+      213: -6857591225045725832
+    second: cave_spritesheet_24
+  - first:
+      213: -7559961517497416755
+    second: cave_spritesheet_25
+  - first:
+      213: -1211626388625157390
+    second: cave_spritesheet_26
+  - first:
+      213: -5916285064509039291
+    second: cave_spritesheet_27
+  - first:
+      213: -5752110441712779601
+    second: cave_spritesheet_28
+  - first:
+      213: -8220330962040054909
+    second: cave_spritesheet_29
+  - first:
+      213: 469606602297674089
+    second: cave_spritesheet_30
+  - first:
+      213: -3197826984773280294
+    second: cave_spritesheet_31
+  - first:
+      213: -5574810567441980111
+    second: cave_spritesheet_32
+  - first:
+      213: -4753430199619176457
+    second: cave_spritesheet_33
+  - first:
+      213: -6869447198684452146
+    second: cave_spritesheet_34
+  - first:
+      213: -8625670103918564390
+    second: cave_spritesheet_35
+  - first:
+      213: -5744801561396483247
+    second: cave_spritesheet_36
+  - first:
+      213: 3374808127675843042
+    second: cave_spritesheet_37
+  - first:
+      213: 5339258887687973878
+    second: cave_spritesheet_38
+  - first:
+      213: 8170992944791013431
+    second: cave_spritesheet_39
+  - first:
+      213: 7956989433717304301
+    second: cave_spritesheet_40
+  - first:
+      213: -2953531432617602225
+    second: cave_spritesheet_41
+  - first:
+      213: 2365604060951570727
+    second: cave_spritesheet_42
+  - first:
+      213: -7925848535475478789
+    second: cave_spritesheet_43
+  - first:
+      213: 8096590283771562364
+    second: cave_spritesheet_44
+  - first:
+      213: -6150005133016749331
+    second: cave_spritesheet_45
+  - first:
+      213: 5839997941173131363
+    second: cave_spritesheet_46
+  - first:
+      213: -7289369114634055719
+    second: cave_spritesheet_47
+  - first:
+      213: -8872419240942503356
+    second: cave_spritesheet_48
+  - first:
+      213: -4970862889781312649
+    second: cave_spritesheet_49
+  - first:
+      213: -1065458632766873256
+    second: cave_spritesheet_50
+  - first:
+      213: -5022955203413781982
+    second: cave_spritesheet_51
+  - first:
+      213: 1252119683107387864
+    second: cave_spritesheet_52
+  - first:
+      213: 5790467600555230061
+    second: cave_spritesheet_53
+  - first:
+      213: -6270512853822942154
+    second: cave_spritesheet_54
+  - first:
+      213: 6271292057811324542
+    second: cave_spritesheet_55
+  - first:
+      213: 4757759785182312542
+    second: cave_spritesheet_56
+  - first:
+      213: 2164186926927243724
+    second: cave_spritesheet_57
+  - first:
+      213: 4487754931676404817
+    second: cave_spritesheet_58
+  - first:
+      213: 7249486468720546409
+    second: cave_spritesheet_59
+  - first:
+      213: 1981300556303715993
+    second: cave_spritesheet_60
+  - first:
+      213: 5642992844977060852
+    second: cave_spritesheet_61
+  - first:
+      213: -779757481567432681
+    second: cave_spritesheet_62
+  - first:
+      213: 3057528424698215816
+    second: cave_spritesheet_63
+  - first:
+      213: 3148266195617814462
+    second: cave_spritesheet_64
+  - first:
+      213: -7821009494309833512
+    second: cave_spritesheet_65
+  - first:
+      213: -2524980055352769330
+    second: cave_spritesheet_66
+  - first:
+      213: -8941519454864614913
+    second: cave_spritesheet_67
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cave_spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 949
+        width: 133
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e76335b195a8a5f0800000000000000
+      internalID: -745163693100931096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 952
+        width: 69
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 760f42321dba641a0800000000000000
+      internalID: -6825579270507270041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 949
+        width: 35
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b38f81eceeffef00800000000000000
+      internalID: 1148416723352781750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 977
+        width: 20
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b8f74856fbae16f0800000000000000
+      internalID: -711942616546543431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 955
+        width: 100
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a07768ae2367f1a50800000000000000
+      internalID: 6494039148746667786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 953
+        width: 147
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1abe3ae28727068e0800000000000000
+      internalID: -1702234798641910879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 924
+        width: 114
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3e8f20d065949ad0800000000000000
+      internalID: -2696366033845907910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 969
+        width: 82
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 561139dd8d70e24d0800000000000000
+      internalID: -3157577660728405659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 953
+        width: 153
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4348ccb148e2c8040800000000000000
+      internalID: 4651143660103828532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 988
+        width: 85
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4520d51bd83b43510800000000000000
+      internalID: 1528043594732864084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 952
+        width: 109
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de5085bce7b1d5610800000000000000
+      internalID: 1611474473059878381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 890
+        width: 80
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bec52fc86193ab700800000000000000
+      internalID: 556820272950435051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 882
+        width: 74
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22bd569bfcf603690800000000000000
+      internalID: -7624471231178876126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 847
+        width: 51
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42fdf313c83110810800000000000000
+      internalID: 1729685224729599780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 893
+        width: 102
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66462ad6cf392e6e0800000000000000
+      internalID: -1809721387869117338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 703
+        width: 173
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a9f40c0a90cf92c0800000000000000
+      internalID: -4422604541195388508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 922
+        width: 37
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbf4ddda5f447a910800000000000000
+      internalID: 1848521994033516479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 936
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e693bb0be0449640800000000000000
+      internalID: 5085761257465943780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 936
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9254e93305b82ba00800000000000000
+      internalID: 770831662813431081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 870
+        width: 138
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c1e716f61f336a10800000000000000
+      internalID: 1901432835531071940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 904
+        width: 73
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7573ea784bf803b0800000000000000
+      internalID: -5545906652388821633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 837
+        width: 107
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d753df47248544a40800000000000000
+      internalID: 5351499299676829053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 850
+        width: 23
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87c6f2fc9f62a0a20800000000000000
+      internalID: 3029276553724783736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 896
+        width: 13
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0530eab1a317b980800000000000000
+      internalID: -8523322184429456113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 862
+        width: 20
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87d40582d11f4d0a0800000000000000
+      internalID: -6857591225045725832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 914
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc381f1ed0f951790800000000000000
+      internalID: -7559961517497416755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 914
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f2128118307f2fe0800000000000000
+      internalID: -1211626388625157390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 859
+        width: 59
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54d5df3641225eda0800000000000000
+      internalID: -5916285064509039291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 832
+        width: 68
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faef4ec77066c20b0800000000000000
+      internalID: -5752110441712779601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 840
+        width: 73
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38b157f0b848bed80800000000000000
+      internalID: -8220330962040054909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 851
+        width: 13
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 969812a77b0648600800000000000000
+      internalID: 469606602297674089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 847
+        width: 34
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: add1e67dc490f93d0800000000000000
+      internalID: -3197826984773280294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 874
+        width: 84
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 135e685535b42a2b0800000000000000
+      internalID: -5574810567441980111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 814
+        width: 59
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f7b51f0b6c680eb0800000000000000
+      internalID: -4753430199619176457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 798
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eca6c1f2b22daa0a0800000000000000
+      internalID: -6869447198684452146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 809
+        width: 45
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adb2a32cdb67b4880800000000000000
+      internalID: -8625670103918564390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 820
+        width: 73
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15b6adbca6d5640b0800000000000000
+      internalID: -5744801561396483247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 687
+        width: 166
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e148339c1ab5de20800000000000000
+      internalID: 3374808127675843042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 813
+        width: 129
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fb2d747babd81a40800000000000000
+      internalID: 5339258887687973878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 807
+        width: 93
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 738cd70aac2356170800000000000000
+      internalID: 8170992944791013431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 720
+        width: 57
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deba1466bb7ec6e60800000000000000
+      internalID: 7956989433717304301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 713
+        width: 50
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4390ed7fc2f207d0800000000000000
+      internalID: -2953531432617602225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 720
+        width: 132
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7296d342c5054d020800000000000000
+      internalID: 2365604060951570727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 720
+        width: 81
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfe1f6bffbab10290800000000000000
+      internalID: -7925848535475478789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 729
+        width: 100
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c79451c27fddc5070800000000000000
+      internalID: 8096590283771562364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 727
+        width: 71
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dea25b76aeac6aaa0800000000000000
+      internalID: -6150005133016749331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 776
+        width: 54
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36813a49f27db0150800000000000000
+      internalID: 5839997941173131363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 747
+        width: 87
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9df88853965f6da90800000000000000
+      internalID: -7289369114634055719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 415
+        width: 88
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44af74d55b5ded480800000000000000
+      internalID: -8872419240942503356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 470
+        width: 217
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 773c96bd982f30bb0800000000000000
+      internalID: -4970862889781312649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_spritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 479
+        width: 64
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 851ae0fb40bb631f0800000000000000
+      internalID: -1065458632766873256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 561
+        width: 366
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22252d1fad0ea4ab0800000000000000
+      internalID: -5022955203413781982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_spritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 472
+        width: 97
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d9f3efb73c606110800000000000000
+      internalID: 1252119683107387864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_spritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 436
+        width: 225
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d63c08e7a9fdb5050800000000000000
+      internalID: 5790467600555230061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_spritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 464
+        width: 57
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 634dc5438c9aaf8a0800000000000000
+      internalID: -6270512853822942154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_spritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 380
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7e829c56ea180750800000000000000
+      internalID: 6271292057811324542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_spritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 380
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e583e622155f60240800000000000000
+      internalID: 4757759785182312542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_spritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 380
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc9ea0f2b8cb80e10800000000000000
+      internalID: 2164186926927243724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_spritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 276
+        width: 430
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15c549d4555b74e30800000000000000
+      internalID: 4487754931676404817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_spritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 391
+        width: 133
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 962d61ca8895b9460800000000000000
+      internalID: 7249486468720546409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_spritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 341
+        width: 73
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99e44cbcb5efe7b10800000000000000
+      internalID: 1981300556303715993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_spritesheet_61
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 347
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fbbdea3810ff4e40800000000000000
+      internalID: 5642992844977060852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_spritesheet_62
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 347
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 710583ca3bebd25f0800000000000000
+      internalID: -779757481567432681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_spritesheet_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 31
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88dfbcc17e58e6a20800000000000000
+      internalID: 3057528424698215816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_spritesheet_64
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 329
+        width: 57
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb79b28bc63e0bb20800000000000000
+      internalID: 3148266195617814462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_spritesheet_65
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 318
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d474ba6d41367390800000000000000
+      internalID: -7821009494309833512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_spritesheet_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 180
+        width: 123
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec480cf740875fcd0800000000000000
+      internalID: -2524980055352769330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_spritesheet_67
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 101
+        width: 213
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff9dc841e6759e380800000000000000
+      internalID: -8941519454864614913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      cave_spritesheet_0: -745163693100931096
+      cave_spritesheet_1: -6825579270507270041
+      cave_spritesheet_10: 1611474473059878381
+      cave_spritesheet_11: 556820272950435051
+      cave_spritesheet_12: -7624471231178876126
+      cave_spritesheet_13: 1729685224729599780
+      cave_spritesheet_14: -1809721387869117338
+      cave_spritesheet_15: -4422604541195388508
+      cave_spritesheet_16: 1848521994033516479
+      cave_spritesheet_17: 5085761257465943780
+      cave_spritesheet_18: 770831662813431081
+      cave_spritesheet_19: 1901432835531071940
+      cave_spritesheet_2: 1148416723352781750
+      cave_spritesheet_20: -5545906652388821633
+      cave_spritesheet_21: 5351499299676829053
+      cave_spritesheet_22: 3029276553724783736
+      cave_spritesheet_23: -8523322184429456113
+      cave_spritesheet_24: -6857591225045725832
+      cave_spritesheet_25: -7559961517497416755
+      cave_spritesheet_26: -1211626388625157390
+      cave_spritesheet_27: -5916285064509039291
+      cave_spritesheet_28: -5752110441712779601
+      cave_spritesheet_29: -8220330962040054909
+      cave_spritesheet_3: -711942616546543431
+      cave_spritesheet_30: 469606602297674089
+      cave_spritesheet_31: -3197826984773280294
+      cave_spritesheet_32: -5574810567441980111
+      cave_spritesheet_33: -4753430199619176457
+      cave_spritesheet_34: -6869447198684452146
+      cave_spritesheet_35: -8625670103918564390
+      cave_spritesheet_36: -5744801561396483247
+      cave_spritesheet_37: 3374808127675843042
+      cave_spritesheet_38: 5339258887687973878
+      cave_spritesheet_39: 8170992944791013431
+      cave_spritesheet_4: 6494039148746667786
+      cave_spritesheet_40: 7956989433717304301
+      cave_spritesheet_41: -2953531432617602225
+      cave_spritesheet_42: 2365604060951570727
+      cave_spritesheet_43: -7925848535475478789
+      cave_spritesheet_44: 8096590283771562364
+      cave_spritesheet_45: -6150005133016749331
+      cave_spritesheet_46: 5839997941173131363
+      cave_spritesheet_47: -7289369114634055719
+      cave_spritesheet_48: -8872419240942503356
+      cave_spritesheet_49: -4970862889781312649
+      cave_spritesheet_5: -1702234798641910879
+      cave_spritesheet_50: -1065458632766873256
+      cave_spritesheet_51: -5022955203413781982
+      cave_spritesheet_52: 1252119683107387864
+      cave_spritesheet_53: 5790467600555230061
+      cave_spritesheet_54: -6270512853822942154
+      cave_spritesheet_55: 6271292057811324542
+      cave_spritesheet_56: 4757759785182312542
+      cave_spritesheet_57: 2164186926927243724
+      cave_spritesheet_58: 4487754931676404817
+      cave_spritesheet_59: 7249486468720546409
+      cave_spritesheet_6: -2696366033845907910
+      cave_spritesheet_60: 1981300556303715993
+      cave_spritesheet_61: 5642992844977060852
+      cave_spritesheet_62: -779757481567432681
+      cave_spritesheet_63: 3057528424698215816
+      cave_spritesheet_64: 3148266195617814462
+      cave_spritesheet_65: -7821009494309833512
+      cave_spritesheet_66: -2524980055352769330
+      cave_spritesheet_67: -8941519454864614913
+      cave_spritesheet_7: -3157577660728405659
+      cave_spritesheet_8: 4651143660103828532
+      cave_spritesheet_9: 1528043594732864084
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

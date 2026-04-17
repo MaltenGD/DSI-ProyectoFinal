@@ -1,0 +1,3263 @@
+fileFormatVersion: 2
+guid: eb9001f9651a816449c8af7b4fb2b055
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6263111470602003919
+    second: auroraGuardianAppear_0
+  - first:
+      213: -7072236586546307046
+    second: auroraGuardianAppear_1
+  - first:
+      213: -4564266496347999834
+    second: auroraGuardianAppear_2
+  - first:
+      213: 3028890051525725280
+    second: auroraGuardianAppear_3
+  - first:
+      213: 5119755813494324612
+    second: auroraGuardianAppear_4
+  - first:
+      213: 4847639963634080946
+    second: auroraGuardianAppear_5
+  - first:
+      213: -6420321744890244971
+    second: auroraGuardianAppear_6
+  - first:
+      213: 7673677102557659657
+    second: auroraGuardianAppear_7
+  - first:
+      213: -2103519406975864374
+    second: auroraGuardianAppear_8
+  - first:
+      213: 4282451571341698999
+    second: auroraGuardianAppear_9
+  - first:
+      213: 6988331424643752619
+    second: auroraGuardianAppear_10
+  - first:
+      213: 6384962096320800501
+    second: auroraGuardianAppear_11
+  - first:
+      213: 2525486227628261992
+    second: auroraGuardianAppear_12
+  - first:
+      213: 208712937122014947
+    second: auroraGuardianAppear_13
+  - first:
+      213: 7756533980183946748
+    second: auroraGuardianAppear_14
+  - first:
+      213: 4128965785752017090
+    second: auroraGuardianAppear_15
+  - first:
+      213: 7138750729041352597
+    second: auroraGuardianAppear_16
+  - first:
+      213: 680610244310357192
+    second: auroraGuardianAppear_17
+  - first:
+      213: 8767640980374761364
+    second: auroraGuardianAppear_18
+  - first:
+      213: -4356853078014342880
+    second: auroraGuardianAppear_19
+  - first:
+      213: 6627988481163349083
+    second: auroraGuardianAppear_20
+  - first:
+      213: 7096104459579897378
+    second: auroraGuardianAppear_21
+  - first:
+      213: 862552004599337298
+    second: auroraGuardianAppear_22
+  - first:
+      213: -4655571785105186432
+    second: auroraGuardianAppear_23
+  - first:
+      213: -7016317294496476462
+    second: auroraGuardianAppear_24
+  - first:
+      213: -8087265572248528819
+    second: auroraGuardianAppear_25
+  - first:
+      213: 7867060239653679329
+    second: auroraGuardianAppear_26
+  - first:
+      213: -4450008514645099561
+    second: auroraGuardianAppear_27
+  - first:
+      213: 7979853061461934524
+    second: auroraGuardianAppear_28
+  - first:
+      213: -130100211210307728
+    second: auroraGuardianAppear_29
+  - first:
+      213: -8514173727239018587
+    second: auroraGuardianAppear_30
+  - first:
+      213: -3363133385800346932
+    second: auroraGuardianAppear_31
+  - first:
+      213: 5225673523548396724
+    second: auroraGuardianAppear_32
+  - first:
+      213: -4691893681732687141
+    second: auroraGuardianAppear_33
+  - first:
+      213: 5898255840671515227
+    second: auroraGuardianAppear_34
+  - first:
+      213: -3442038685973604390
+    second: auroraGuardianAppear_35
+  - first:
+      213: -5456178384972603471
+    second: auroraGuardianAppear_36
+  - first:
+      213: 2656241526526653559
+    second: auroraGuardianAppear_37
+  - first:
+      213: 8520825847073037435
+    second: auroraGuardianAppear_38
+  - first:
+      213: -8722114849956657047
+    second: auroraGuardianAppear_39
+  - first:
+      213: 5903815834138395480
+    second: auroraGuardianAppear_40
+  - first:
+      213: 6934923596056445718
+    second: auroraGuardianAppear_41
+  - first:
+      213: -3328352736518191670
+    second: auroraGuardianAppear_42
+  - first:
+      213: -4412937896963899091
+    second: auroraGuardianAppear_43
+  - first:
+      213: -5844333684448262172
+    second: auroraGuardianAppear_44
+  - first:
+      213: -5481994839908371095
+    second: auroraGuardianAppear_45
+  - first:
+      213: 7236158933287798906
+    second: auroraGuardianAppear_46
+  - first:
+      213: -8730184682487746626
+    second: auroraGuardianAppear_47
+  - first:
+      213: -6201003861938490937
+    second: auroraGuardianAppear_48
+  - first:
+      213: 6235650080512073769
+    second: auroraGuardianAppear_49
+  - first:
+      213: -6018507547907326473
+    second: auroraGuardianAppear_50
+  - first:
+      213: -7900429760812539586
+    second: auroraGuardianAppear_51
+  - first:
+      213: 5320317975767518596
+    second: auroraGuardianAppear_52
+  - first:
+      213: -4288430725947949117
+    second: auroraGuardianAppear_53
+  - first:
+      213: 4274249761941741518
+    second: auroraGuardianAppear_54
+  - first:
+      213: -5889455863697592141
+    second: auroraGuardianAppear_55
+  - first:
+      213: 1428616386805619057
+    second: auroraGuardianAppear_56
+  - first:
+      213: 7394455856052413933
+    second: auroraGuardianAppear_57
+  - first:
+      213: 28436678469566959
+    second: auroraGuardianAppear_58
+  - first:
+      213: -1329129382920526533
+    second: auroraGuardianAppear_59
+  - first:
+      213: -8049752794531864339
+    second: auroraGuardianAppear_60
+  - first:
+      213: 628305125256613216
+    second: auroraGuardianAppear_61
+  - first:
+      213: -4561027378386054848
+    second: auroraGuardianAppear_62
+  - first:
+      213: 89385480145038424
+    second: auroraGuardianAppear_63
+  - first:
+      213: -2436493611769800565
+    second: auroraGuardianAppear_64
+  - first:
+      213: 1909488882228416179
+    second: auroraGuardianAppear_65
+  - first:
+      213: 3240803667219008523
+    second: auroraGuardianAppear_66
+  - first:
+      213: 270388825141559080
+    second: auroraGuardianAppear_67
+  - first:
+      213: -412396049448188606
+    second: auroraGuardianAppear_68
+  - first:
+      213: -5225609111515658508
+    second: auroraGuardianAppear_69
+  - first:
+      213: 32074211832973369
+    second: auroraGuardianAppear_70
+  - first:
+      213: -6638233953727537667
+    second: auroraGuardianAppear_71
+  - first:
+      213: -6964610779614040932
+    second: auroraGuardianAppear_72
+  - first:
+      213: -8227354233803503951
+    second: auroraGuardianAppear_73
+  - first:
+      213: 8423049453324570224
+    second: auroraGuardianAppear_74
+  - first:
+      213: -7285907466541425406
+    second: auroraGuardianAppear_75
+  - first:
+      213: 8890763222637527730
+    second: auroraGuardianAppear_76
+  - first:
+      213: -4481169180309020072
+    second: auroraGuardianAppear_77
+  - first:
+      213: 2904591298864893511
+    second: auroraGuardianAppear_78
+  - first:
+      213: -1385984549877531039
+    second: auroraGuardianAppear_79
+  - first:
+      213: -1094016189230892352
+    second: auroraGuardianAppear_80
+  - first:
+      213: 42087708314118151
+    second: auroraGuardianAppear_81
+  - first:
+      213: 4909974921468929396
+    second: auroraGuardianAppear_82
+  - first:
+      213: -2704049017779599679
+    second: auroraGuardianAppear_83
+  - first:
+      213: 8428626068529588471
+    second: auroraGuardianAppear_84
+  - first:
+      213: -1042091492981296099
+    second: auroraGuardianAppear_85
+  - first:
+      213: 8748795759507868015
+    second: auroraGuardianAppear_86
+  - first:
+      213: -6986090556754292459
+    second: auroraGuardianAppear_87
+  - first:
+      213: -3817997180321960536
+    second: auroraGuardianAppear_88
+  - first:
+      213: 7439917270418017490
+    second: auroraGuardianAppear_89
+  - first:
+      213: -2246245033783192625
+    second: auroraGuardianAppear_90
+  - first:
+      213: -6209763963394523468
+    second: auroraGuardianAppear_91
+  - first:
+      213: 80287682586866938
+    second: auroraGuardianAppear_92
+  - first:
+      213: -1727251551540529375
+    second: auroraGuardianAppear_93
+  - first:
+      213: 8629095030087090243
+    second: auroraGuardianAppear_94
+  - first:
+      213: -8692483906187563241
+    second: auroraGuardianAppear_95
+  - first:
+      213: 3959618656676189827
+    second: auroraGuardianAppear_96
+  - first:
+      213: -8452810931144893598
+    second: auroraGuardianAppear_97
+  - first:
+      213: -6822195526578034771
+    second: auroraGuardianAppear_98
+  - first:
+      213: -3947395703315240426
+    second: auroraGuardianAppear_99
+  - first:
+      213: -2353688690619361303
+    second: auroraGuardianAppear_100
+  - first:
+      213: -592369539009937582
+    second: auroraGuardianAppear_101
+  - first:
+      213: -7741711051597786595
+    second: auroraGuardianAppear_102
+  - first:
+      213: -5680298529213706011
+    second: auroraGuardianAppear_103
+  - first:
+      213: 6755299601137310510
+    second: auroraGuardianAppear_104
+  - first:
+      213: 4847387182691435315
+    second: auroraGuardianAppear_105
+  - first:
+      213: 2347664647161785219
+    second: auroraGuardianAppear_106
+  - first:
+      213: 3866154117352592192
+    second: auroraGuardianAppear_107
+  - first:
+      213: -2259933779020666092
+    second: auroraGuardianAppear_108
+  - first:
+      213: -6652288844982310871
+    second: auroraGuardianAppear_109
+  - first:
+      213: -5253019361579686881
+    second: auroraGuardianAppear_110
+  - first:
+      213: 2450946250475891588
+    second: auroraGuardianAppear_111
+  - first:
+      213: 2969806451325435362
+    second: auroraGuardianAppear_112
+  - first:
+      213: 3363149318184954553
+    second: auroraGuardianAppear_113
+  - first:
+      213: -5715658198731876395
+    second: auroraGuardianAppear_114
+  - first:
+      213: -4469137453670629865
+    second: auroraGuardianAppear_115
+  - first:
+      213: -8342379497169168367
+    second: auroraGuardianAppear_116
+  - first:
+      213: 5996724826714420203
+    second: auroraGuardianAppear_117
+  - first:
+      213: 8716719854236693902
+    second: auroraGuardianAppear_118
+  - first:
+      213: -1966466167730846935
+    second: auroraGuardianAppear_119
+  - first:
+      213: -6783328462503100417
+    second: auroraGuardianAppear_120
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: auroraGuardianAppear_0
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 754
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13ad7160d45f419a0800000000000000
+      internalID: -6263111470602003919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: auroraGuardianAppear_1
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 757
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a10e26b7b4e5add90800000000000000
+      internalID: -7072236586546307046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: auroraGuardianAppear_2
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 746
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a1f5f8ddc778a0c0800000000000000
+      internalID: -4564266496347999834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: auroraGuardianAppear_3
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 754
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06cc7e04477c80a20800000000000000
+      internalID: 3028890051525725280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: auroraGuardianAppear_4
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 743
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48df11869c60d0740800000000000000
+      internalID: 5119755813494324612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: auroraGuardianAppear_5
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 738
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bc956fecd6464340800000000000000
+      internalID: 4847639963634080946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: auroraGuardianAppear_6
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 750
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 590d91ca36f66e6a0800000000000000
+      internalID: -6420321744890244971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: auroraGuardianAppear_7
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 736
+        width: 34
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9028ffafaa06e7a60800000000000000
+      internalID: 7673677102557659657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: auroraGuardianAppear_8
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 735
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac130198e3ccec2e0800000000000000
+      internalID: -2103519406975864374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: auroraGuardianAppear_9
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 726
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b7a2a5c3035e6b30800000000000000
+      internalID: 4282451571341698999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: auroraGuardianAppear_10
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 731
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba2279aa76a8bf060800000000000000
+      internalID: 6988331424643752619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: auroraGuardianAppear_11
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 713
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f6e8879231fb9850800000000000000
+      internalID: 6384962096320800501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: auroraGuardianAppear_12
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 723
+        width: 37
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8628ceae7545c0320800000000000000
+      internalID: 2525486227628261992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: auroraGuardianAppear_13
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 708
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e6af2d7f4f75e200800000000000000
+      internalID: 208712937122014947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: auroraGuardianAppear_14
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 726
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf56c112f8eb4ab60800000000000000
+      internalID: 7756533980183946748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: auroraGuardianAppear_15
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 725
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c89d7581880d4930800000000000000
+      internalID: 4128965785752017090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: auroraGuardianAppear_16
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 707
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 597129027ffe11360800000000000000
+      internalID: 7138750729041352597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: auroraGuardianAppear_17
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 725
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c45c924963027900800000000000000
+      internalID: 680610244310357192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: auroraGuardianAppear_18
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 697
+        width: 38
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49f2569c40beca970800000000000000
+      internalID: 8767640980374761364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: auroraGuardianAppear_19
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 691
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 029436a85395983c0800000000000000
+      internalID: -4356853078014342880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: auroraGuardianAppear_20
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 700
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5c4f1338685bfb50800000000000000
+      internalID: 6627988481163349083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: auroraGuardianAppear_21
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 713
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2263352c86d6a7260800000000000000
+      internalID: 7096104459579897378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: auroraGuardianAppear_22
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 701
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 251d17a6a7668fb00800000000000000
+      internalID: 862552004599337298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: auroraGuardianAppear_23
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 701
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0816972b026146fb0800000000000000
+      internalID: -4655571785105186432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: auroraGuardianAppear_24
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 673
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d29b1e389801ae90800000000000000
+      internalID: -7016317294496476462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: auroraGuardianAppear_25
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 666
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4851e96fc244cf80800000000000000
+      internalID: -8087265572248528819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: auroraGuardianAppear_26
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 671
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e038234b996d2d60800000000000000
+      internalID: 7867060239653679329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: auroraGuardianAppear_27
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 685
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7db7d1545d46e32c0800000000000000
+      internalID: -4450008514645099561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: auroraGuardianAppear_28
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 692
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb1804094122ebe60800000000000000
+      internalID: 7979853061461934524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: auroraGuardianAppear_29
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 678
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0773b951c8ac13ef0800000000000000
+      internalID: -130100211210307728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: auroraGuardianAppear_30
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 684
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a764f7ea1497d980800000000000000
+      internalID: -8514173727239018587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: auroraGuardianAppear_31
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 690
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc21d171100c351d0800000000000000
+      internalID: -3363133385800346932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: auroraGuardianAppear_32
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 642
+        width: 81
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bc14430262558840800000000000000
+      internalID: 5225673523548396724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: auroraGuardianAppear_33
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 680
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bda6c602e8b03eeb0800000000000000
+      internalID: -4691893681732687141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: auroraGuardianAppear_34
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 688
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b524991df60dad150800000000000000
+      internalID: 5898255840671515227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: auroraGuardianAppear_35
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 681
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad714634d0c6b30d0800000000000000
+      internalID: -3442038685973604390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: auroraGuardianAppear_36
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 687
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bf1b8cbaa2c744b0800000000000000
+      internalID: -5456178384972603471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: auroraGuardianAppear_37
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 665
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7743342589ddcd420800000000000000
+      internalID: 2656241526526653559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: auroraGuardianAppear_38
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 672
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7c51cf66fd004670800000000000000
+      internalID: 8520825847073037435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: auroraGuardianAppear_39
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 675
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9688c2671c2d4f680800000000000000
+      internalID: -8722114849956657047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: auroraGuardianAppear_40
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 659
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 853452da8319ee150800000000000000
+      internalID: 5903815834138395480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: auroraGuardianAppear_41
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 667
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6134b6f844ccd3060800000000000000
+      internalID: 6934923596056445718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: auroraGuardianAppear_42
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 662
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac542ac02d05fc1d0800000000000000
+      internalID: -3328352736518191670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: auroraGuardianAppear_43
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 654
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d218b9b0d5812c2c0800000000000000
+      internalID: -4412937896963899091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: auroraGuardianAppear_44
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 642
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e78c958a71c4eea0800000000000000
+      internalID: -5844333684448262172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: auroraGuardianAppear_45
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 643
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 965bcbaecba0ce3b0800000000000000
+      internalID: -5481994839908371095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: auroraGuardianAppear_46
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 520
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7883e406300c6460800000000000000
+      internalID: 7236158933287798906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: auroraGuardianAppear_47
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 547
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebfe2c8294728d680800000000000000
+      internalID: -8730184682487746626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: auroraGuardianAppear_48
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 484
+        width: 49
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c1b45687db91f9a0800000000000000
+      internalID: -6201003861938490937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: auroraGuardianAppear_49
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 456
+        width: 67
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 920ee88d5ba798650800000000000000
+      internalID: 6235650080512073769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: auroraGuardianAppear_50
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 474
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fdf9f8c547f97ca0800000000000000
+      internalID: -6018507547907326473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: auroraGuardianAppear_51
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 477
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3128d5adf80c5290800000000000000
+      internalID: -7900429760812539586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: auroraGuardianAppear_52
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 485
+        width: 50
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48d8fbdb20195d940800000000000000
+      internalID: 5320317975767518596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: auroraGuardianAppear_53
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 472
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cf7000d9fe6c74c0800000000000000
+      internalID: -4288430725947949117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: auroraGuardianAppear_54
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 463
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecfd5d5338f215b30800000000000000
+      internalID: 4274249761941741518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: auroraGuardianAppear_55
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 480
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b0b6fb7813744ea0800000000000000
+      internalID: -5889455863697592141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: auroraGuardianAppear_56
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 485
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 179d9dfd80773d310800000000000000
+      internalID: 1428616386805619057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: auroraGuardianAppear_57
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 467
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de5af4f6c626e9660800000000000000
+      internalID: 7394455856052413933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: auroraGuardianAppear_58
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 478
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe145c62207056000800000000000000
+      internalID: 28436678469566959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: auroraGuardianAppear_59
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 472
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b35ec764edbfd8de0800000000000000
+      internalID: -1329129382920526533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: auroraGuardianAppear_60
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 468
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de068389b78894090800000000000000
+      internalID: -8049752794531864339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: auroraGuardianAppear_61
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 461
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06d4a79be2038b800800000000000000
+      internalID: 628305125256613216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: auroraGuardianAppear_62
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 464
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 041d774c3c9f3b0c0800000000000000
+      internalID: -4561027378386054848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: auroraGuardianAppear_63
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 460
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85c6f10ee9f8d3100800000000000000
+      internalID: 89385480145038424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: auroraGuardianAppear_64
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 469
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b88d3fc18f5df2ed0800000000000000
+      internalID: -2436493611769800565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: auroraGuardianAppear_65
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 470
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3be48cf750edf7a10800000000000000
+      internalID: 1909488882228416179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: auroraGuardianAppear_66
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 462
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0c4f5bc3c5a9fc20800000000000000
+      internalID: 3240803667219008523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: auroraGuardianAppear_67
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 456
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82f3cc1343d90c300800000000000000
+      internalID: 270388825141559080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: auroraGuardianAppear_68
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 461
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 245cddd5affd64af0800000000000000
+      internalID: -412396049448188606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: auroraGuardianAppear_69
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 474
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f680151338ea77b0800000000000000
+      internalID: -5225609111515658508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: auroraGuardianAppear_70
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 446
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93841c26353f17000800000000000000
+      internalID: 32074211832973369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: auroraGuardianAppear_71
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 467
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfd1224d36140e3a0800000000000000
+      internalID: -6638233953727537667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: auroraGuardianAppear_72
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 442
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9caf32656bb85f90800000000000000
+      internalID: -6964610779614040932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: auroraGuardianAppear_73
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 452
+        width: 28
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b606dc2ae092dd80800000000000000
+      internalID: -8227354233803503951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: auroraGuardianAppear_74
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 458
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07e85feb9dea4e470800000000000000
+      internalID: 8423049453324570224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: auroraGuardianAppear_75
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 464
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20d9e66f2c143ea90800000000000000
+      internalID: -7285907466541425406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: auroraGuardianAppear_76
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 458
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b2ca63bb06526b70800000000000000
+      internalID: 8890763222637527730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: auroraGuardianAppear_77
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 450
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 852a04d6f50bfc1c0800000000000000
+      internalID: -4481169180309020072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: auroraGuardianAppear_78
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 462
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74e488aa56e2f4820800000000000000
+      internalID: 2904591298864893511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: auroraGuardianAppear_79
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 455
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16ebe58256ef3cce0800000000000000
+      internalID: -1385984549877531039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: auroraGuardianAppear_80
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 458
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cabd5e721641d0f0800000000000000
+      internalID: -1094016189230892352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: auroraGuardianAppear_81
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 459
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70829773c86859000800000000000000
+      internalID: 42087708314118151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: auroraGuardianAppear_82
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 456
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4756b3a4d2cb32440800000000000000
+      internalID: 4909974921468929396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: auroraGuardianAppear_83
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 457
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c6c008beb9497ad0800000000000000
+      internalID: -2704049017779599679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: auroraGuardianAppear_84
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 446
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f8ad47a0ce78f470800000000000000
+      internalID: 8428626068529588471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: auroraGuardianAppear_85
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 442
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d14b461fe4fb981f0800000000000000
+      internalID: -1042091492981296099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: auroraGuardianAppear_86
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 440
+        width: 38
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6909e1e367f96970800000000000000
+      internalID: 8748795759507868015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: auroraGuardianAppear_87
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 447
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51113fb07ab6c0f90800000000000000
+      internalID: -6986090556754292459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: auroraGuardianAppear_88
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 448
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ad67790bcfb30bc0800000000000000
+      internalID: -3817997180321960536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: auroraGuardianAppear_89
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 446
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dc4f8dc655ef3760800000000000000
+      internalID: 7439917270418017490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: auroraGuardianAppear_90
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 452
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc31edafa0cb3d0e0800000000000000
+      internalID: -2246245033783192625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: auroraGuardianAppear_91
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 447
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bef8d6739c72d9a0800000000000000
+      internalID: -6209763963394523468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: auroraGuardianAppear_92
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 434
+        width: 39
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af4fd60d83d3d1100800000000000000
+      internalID: 80287682586866938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: auroraGuardianAppear_93
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 443
+        width: 22
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1273fa08dd19708e0800000000000000
+      internalID: -1727251551540529375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: auroraGuardianAppear_94
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 440
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3400e610634b0c770800000000000000
+      internalID: 8629095030087090243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: auroraGuardianAppear_95
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 441
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71fe3eb21f71e5780800000000000000
+      internalID: -8692483906187563241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: auroraGuardianAppear_96
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 444
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3869135703463f630800000000000000
+      internalID: 3959618656676189827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: auroraGuardianAppear_97
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 440
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26bd1973e3591ba80800000000000000
+      internalID: -8452810931144893598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: auroraGuardianAppear_98
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 435
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da7ae0a6051b251a0800000000000000
+      internalID: -6822195526578034771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: auroraGuardianAppear_99
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 442
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61aedf3a5880839c0800000000000000
+      internalID: -3947395703315240426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: auroraGuardianAppear_100
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 437
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e757c33b94065fd0800000000000000
+      internalID: -2353688690619361303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: auroraGuardianAppear_101
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 435
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25ffc83fa0b77c7f0800000000000000
+      internalID: -592369539009937582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: auroraGuardianAppear_102
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 243
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d125ccfd0daef8490800000000000000
+      internalID: -7741711051597786595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: auroraGuardianAppear_103
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 246
+        width: 129
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e01b0c45968b21b0800000000000000
+      internalID: -5680298529213706011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: auroraGuardianAppear_104
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 240
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2b90253235afbd50800000000000000
+      internalID: 6755299601137310510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: auroraGuardianAppear_105
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 245
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 333ca19c5f0654340800000000000000
+      internalID: 4847387182691435315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: auroraGuardianAppear_106
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 242
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38b22d1ee84949020800000000000000
+      internalID: 2347664647161785219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: auroraGuardianAppear_107
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 234
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04317bb9fa657a530800000000000000
+      internalID: 3866154117352592192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: auroraGuardianAppear_108
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 243
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41b219d933a13a0e0800000000000000
+      internalID: -2259933779020666092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: auroraGuardianAppear_109
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 249
+        width: 37
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92829837a825ea3a0800000000000000
+      internalID: -6652288844982310871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: auroraGuardianAppear_110
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 233
+        width: 107
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f142bcae8b68917b0800000000000000
+      internalID: -5253019361579686881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: auroraGuardianAppear_111
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 232
+        width: 200
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48be03f01a2830220800000000000000
+      internalID: 2450946250475891588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: auroraGuardianAppear_112
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 234
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ed7ae69b3fd63920800000000000000
+      internalID: 2969806451325435362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: auroraGuardianAppear_113
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 236
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bae2057c7e4cae20800000000000000
+      internalID: 3363149318184954553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: auroraGuardianAppear_114
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 233
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d7990fa627eda0b0800000000000000
+      internalID: -5715658198731876395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: auroraGuardianAppear_115
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 235
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71e71951a2f6af1c0800000000000000
+      internalID: -4469137453670629865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: auroraGuardianAppear_116
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 31
+        width: 203
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 118dab11c0ae93c80800000000000000
+      internalID: -8342379497169168367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: auroraGuardianAppear_117
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 43
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be334183575a83350800000000000000
+      internalID: 5996724826714420203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: auroraGuardianAppear_118
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 33
+        width: 211
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e857f56368208f870800000000000000
+      internalID: 8716719854236693902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: auroraGuardianAppear_119
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 46
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92344917075b5b4e0800000000000000
+      internalID: -1966466167730846935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: auroraGuardianAppear_120
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 45
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fffb4b5f3b6ccd1a0800000000000000
+      internalID: -6783328462503100417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      auroraGuardianAppear_0: -6263111470602003919
+      auroraGuardianAppear_1: -7072236586546307046
+      auroraGuardianAppear_10: 6988331424643752619
+      auroraGuardianAppear_100: -2353688690619361303
+      auroraGuardianAppear_101: -592369539009937582
+      auroraGuardianAppear_102: -7741711051597786595
+      auroraGuardianAppear_103: -5680298529213706011
+      auroraGuardianAppear_104: 6755299601137310510
+      auroraGuardianAppear_105: 4847387182691435315
+      auroraGuardianAppear_106: 2347664647161785219
+      auroraGuardianAppear_107: 3866154117352592192
+      auroraGuardianAppear_108: -2259933779020666092
+      auroraGuardianAppear_109: -6652288844982310871
+      auroraGuardianAppear_11: 6384962096320800501
+      auroraGuardianAppear_110: -5253019361579686881
+      auroraGuardianAppear_111: 2450946250475891588
+      auroraGuardianAppear_112: 2969806451325435362
+      auroraGuardianAppear_113: 3363149318184954553
+      auroraGuardianAppear_114: -5715658198731876395
+      auroraGuardianAppear_115: -4469137453670629865
+      auroraGuardianAppear_116: -8342379497169168367
+      auroraGuardianAppear_117: 5996724826714420203
+      auroraGuardianAppear_118: 8716719854236693902
+      auroraGuardianAppear_119: -1966466167730846935
+      auroraGuardianAppear_12: 2525486227628261992
+      auroraGuardianAppear_120: -6783328462503100417
+      auroraGuardianAppear_13: 208712937122014947
+      auroraGuardianAppear_14: 7756533980183946748
+      auroraGuardianAppear_15: 4128965785752017090
+      auroraGuardianAppear_16: 7138750729041352597
+      auroraGuardianAppear_17: 680610244310357192
+      auroraGuardianAppear_18: 8767640980374761364
+      auroraGuardianAppear_19: -4356853078014342880
+      auroraGuardianAppear_2: -4564266496347999834
+      auroraGuardianAppear_20: 6627988481163349083
+      auroraGuardianAppear_21: 7096104459579897378
+      auroraGuardianAppear_22: 862552004599337298
+      auroraGuardianAppear_23: -4655571785105186432
+      auroraGuardianAppear_24: -7016317294496476462
+      auroraGuardianAppear_25: -8087265572248528819
+      auroraGuardianAppear_26: 7867060239653679329
+      auroraGuardianAppear_27: -4450008514645099561
+      auroraGuardianAppear_28: 7979853061461934524
+      auroraGuardianAppear_29: -130100211210307728
+      auroraGuardianAppear_3: 3028890051525725280
+      auroraGuardianAppear_30: -8514173727239018587
+      auroraGuardianAppear_31: -3363133385800346932
+      auroraGuardianAppear_32: 5225673523548396724
+      auroraGuardianAppear_33: -4691893681732687141
+      auroraGuardianAppear_34: 5898255840671515227
+      auroraGuardianAppear_35: -3442038685973604390
+      auroraGuardianAppear_36: -5456178384972603471
+      auroraGuardianAppear_37: 2656241526526653559
+      auroraGuardianAppear_38: 8520825847073037435
+      auroraGuardianAppear_39: -8722114849956657047
+      auroraGuardianAppear_4: 5119755813494324612
+      auroraGuardianAppear_40: 5903815834138395480
+      auroraGuardianAppear_41: 6934923596056445718
+      auroraGuardianAppear_42: -3328352736518191670
+      auroraGuardianAppear_43: -4412937896963899091
+      auroraGuardianAppear_44: -5844333684448262172
+      auroraGuardianAppear_45: -5481994839908371095
+      auroraGuardianAppear_46: 7236158933287798906
+      auroraGuardianAppear_47: -8730184682487746626
+      auroraGuardianAppear_48: -6201003861938490937
+      auroraGuardianAppear_49: 6235650080512073769
+      auroraGuardianAppear_5: 4847639963634080946
+      auroraGuardianAppear_50: -6018507547907326473
+      auroraGuardianAppear_51: -7900429760812539586
+      auroraGuardianAppear_52: 5320317975767518596
+      auroraGuardianAppear_53: -4288430725947949117
+      auroraGuardianAppear_54: 4274249761941741518
+      auroraGuardianAppear_55: -5889455863697592141
+      auroraGuardianAppear_56: 1428616386805619057
+      auroraGuardianAppear_57: 7394455856052413933
+      auroraGuardianAppear_58: 28436678469566959
+      auroraGuardianAppear_59: -1329129382920526533
+      auroraGuardianAppear_6: -6420321744890244971
+      auroraGuardianAppear_60: -8049752794531864339
+      auroraGuardianAppear_61: 628305125256613216
+      auroraGuardianAppear_62: -4561027378386054848
+      auroraGuardianAppear_63: 89385480145038424
+      auroraGuardianAppear_64: -2436493611769800565
+      auroraGuardianAppear_65: 1909488882228416179
+      auroraGuardianAppear_66: 3240803667219008523
+      auroraGuardianAppear_67: 270388825141559080
+      auroraGuardianAppear_68: -412396049448188606
+      auroraGuardianAppear_69: -5225609111515658508
+      auroraGuardianAppear_7: 7673677102557659657
+      auroraGuardianAppear_70: 32074211832973369
+      auroraGuardianAppear_71: -6638233953727537667
+      auroraGuardianAppear_72: -6964610779614040932
+      auroraGuardianAppear_73: -8227354233803503951
+      auroraGuardianAppear_74: 8423049453324570224
+      auroraGuardianAppear_75: -7285907466541425406
+      auroraGuardianAppear_76: 8890763222637527730
+      auroraGuardianAppear_77: -4481169180309020072
+      auroraGuardianAppear_78: 2904591298864893511
+      auroraGuardianAppear_79: -1385984549877531039
+      auroraGuardianAppear_8: -2103519406975864374
+      auroraGuardianAppear_80: -1094016189230892352
+      auroraGuardianAppear_81: 42087708314118151
+      auroraGuardianAppear_82: 4909974921468929396
+      auroraGuardianAppear_83: -2704049017779599679
+      auroraGuardianAppear_84: 8428626068529588471
+      auroraGuardianAppear_85: -1042091492981296099
+      auroraGuardianAppear_86: 8748795759507868015
+      auroraGuardianAppear_87: -6986090556754292459
+      auroraGuardianAppear_88: -3817997180321960536
+      auroraGuardianAppear_89: 7439917270418017490
+      auroraGuardianAppear_9: 4282451571341698999
+      auroraGuardianAppear_90: -2246245033783192625
+      auroraGuardianAppear_91: -6209763963394523468
+      auroraGuardianAppear_92: 80287682586866938
+      auroraGuardianAppear_93: -1727251551540529375
+      auroraGuardianAppear_94: 8629095030087090243
+      auroraGuardianAppear_95: -8692483906187563241
+      auroraGuardianAppear_96: 3959618656676189827
+      auroraGuardianAppear_97: -8452810931144893598
+      auroraGuardianAppear_98: -6822195526578034771
+      auroraGuardianAppear_99: -3947395703315240426
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

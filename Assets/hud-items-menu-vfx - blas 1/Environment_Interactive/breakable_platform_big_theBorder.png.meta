@@ -1,0 +1,4589 @@
+fileFormatVersion: 2
+guid: 258284292dd36b443b2648492fa92e0d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9030155145297059816
+    second: breakable_platform_big_theBorder_0
+  - first:
+      213: 2397254379166745695
+    second: breakable_platform_big_theBorder_1
+  - first:
+      213: 344530253518246721
+    second: breakable_platform_big_theBorder_2
+  - first:
+      213: 4495418442287903320
+    second: breakable_platform_big_theBorder_3
+  - first:
+      213: 9160850565066124561
+    second: breakable_platform_big_theBorder_4
+  - first:
+      213: 8069380024074028137
+    second: breakable_platform_big_theBorder_5
+  - first:
+      213: 6432808649685245789
+    second: breakable_platform_big_theBorder_6
+  - first:
+      213: -821244980378810929
+    second: breakable_platform_big_theBorder_7
+  - first:
+      213: -366340221591411957
+    second: breakable_platform_big_theBorder_8
+  - first:
+      213: -6719753723055214515
+    second: breakable_platform_big_theBorder_9
+  - first:
+      213: 2437540506351785653
+    second: breakable_platform_big_theBorder_10
+  - first:
+      213: 2519223821286544072
+    second: breakable_platform_big_theBorder_11
+  - first:
+      213: -660559226137570976
+    second: breakable_platform_big_theBorder_12
+  - first:
+      213: -2238264999755979596
+    second: breakable_platform_big_theBorder_13
+  - first:
+      213: 7261792843040426096
+    second: breakable_platform_big_theBorder_14
+  - first:
+      213: 3488077795978879696
+    second: breakable_platform_big_theBorder_15
+  - first:
+      213: -4604379991065599839
+    second: breakable_platform_big_theBorder_16
+  - first:
+      213: -3138499825905332994
+    second: breakable_platform_big_theBorder_17
+  - first:
+      213: -8535569095513751736
+    second: breakable_platform_big_theBorder_18
+  - first:
+      213: -2389575782750771168
+    second: breakable_platform_big_theBorder_19
+  - first:
+      213: 5500354329468749621
+    second: breakable_platform_big_theBorder_20
+  - first:
+      213: -7453995514545194695
+    second: breakable_platform_big_theBorder_21
+  - first:
+      213: -5345897967316003680
+    second: breakable_platform_big_theBorder_22
+  - first:
+      213: -7475118056964870859
+    second: breakable_platform_big_theBorder_23
+  - first:
+      213: -1252920764157811434
+    second: breakable_platform_big_theBorder_24
+  - first:
+      213: 4680680773706636663
+    second: breakable_platform_big_theBorder_25
+  - first:
+      213: -7688205250050930941
+    second: breakable_platform_big_theBorder_26
+  - first:
+      213: 6147086513778579759
+    second: breakable_platform_big_theBorder_27
+  - first:
+      213: 8963956762031872520
+    second: breakable_platform_big_theBorder_28
+  - first:
+      213: 1546286755829060927
+    second: breakable_platform_big_theBorder_29
+  - first:
+      213: -6843973981946816349
+    second: breakable_platform_big_theBorder_30
+  - first:
+      213: -814115501455563105
+    second: breakable_platform_big_theBorder_31
+  - first:
+      213: -2009026100596608653
+    second: breakable_platform_big_theBorder_32
+  - first:
+      213: -8921317592080601860
+    second: breakable_platform_big_theBorder_33
+  - first:
+      213: -8374398835699196048
+    second: breakable_platform_big_theBorder_34
+  - first:
+      213: -1749808279350834636
+    second: breakable_platform_big_theBorder_35
+  - first:
+      213: -8359678782306528748
+    second: breakable_platform_big_theBorder_36
+  - first:
+      213: 7791488258760081010
+    second: breakable_platform_big_theBorder_37
+  - first:
+      213: 5658443354264181306
+    second: breakable_platform_big_theBorder_38
+  - first:
+      213: -1098728917836490630
+    second: breakable_platform_big_theBorder_39
+  - first:
+      213: 8235983372488658153
+    second: breakable_platform_big_theBorder_40
+  - first:
+      213: 1095835127388257261
+    second: breakable_platform_big_theBorder_41
+  - first:
+      213: -8283566317644421961
+    second: breakable_platform_big_theBorder_42
+  - first:
+      213: -7119075160660652517
+    second: breakable_platform_big_theBorder_43
+  - first:
+      213: 2559801928992853800
+    second: breakable_platform_big_theBorder_44
+  - first:
+      213: 6017298883871213912
+    second: breakable_platform_big_theBorder_45
+  - first:
+      213: -7390217036887191856
+    second: breakable_platform_big_theBorder_46
+  - first:
+      213: -9212898083376238828
+    second: breakable_platform_big_theBorder_47
+  - first:
+      213: -1311294526425869297
+    second: breakable_platform_big_theBorder_48
+  - first:
+      213: 2438622532428642642
+    second: breakable_platform_big_theBorder_49
+  - first:
+      213: -6802843045515819733
+    second: breakable_platform_big_theBorder_50
+  - first:
+      213: -6731777720600458375
+    second: breakable_platform_big_theBorder_51
+  - first:
+      213: -2524666157021995033
+    second: breakable_platform_big_theBorder_52
+  - first:
+      213: -4810919880496196303
+    second: breakable_platform_big_theBorder_53
+  - first:
+      213: -3432246266918246306
+    second: breakable_platform_big_theBorder_54
+  - first:
+      213: -1140308060720736601
+    second: breakable_platform_big_theBorder_55
+  - first:
+      213: -7378633466776663431
+    second: breakable_platform_big_theBorder_56
+  - first:
+      213: 7654980281230406107
+    second: breakable_platform_big_theBorder_57
+  - first:
+      213: 142916053425359025
+    second: breakable_platform_big_theBorder_58
+  - first:
+      213: -4306157969737195652
+    second: breakable_platform_big_theBorder_59
+  - first:
+      213: -6449302539086178537
+    second: breakable_platform_big_theBorder_60
+  - first:
+      213: -1759392027885488985
+    second: breakable_platform_big_theBorder_61
+  - first:
+      213: -6094727278360314020
+    second: breakable_platform_big_theBorder_62
+  - first:
+      213: -8282351351131522509
+    second: breakable_platform_big_theBorder_63
+  - first:
+      213: -7451715343744271555
+    second: breakable_platform_big_theBorder_64
+  - first:
+      213: 1900880507415541331
+    second: breakable_platform_big_theBorder_65
+  - first:
+      213: 8128135204899298943
+    second: breakable_platform_big_theBorder_66
+  - first:
+      213: -635444514530471551
+    second: breakable_platform_big_theBorder_67
+  - first:
+      213: 7451155333738848379
+    second: breakable_platform_big_theBorder_68
+  - first:
+      213: -969354713755525411
+    second: breakable_platform_big_theBorder_69
+  - first:
+      213: 8073317367564328911
+    second: breakable_platform_big_theBorder_70
+  - first:
+      213: 4963775749134850080
+    second: breakable_platform_big_theBorder_71
+  - first:
+      213: -5336102198125612521
+    second: breakable_platform_big_theBorder_72
+  - first:
+      213: -8198668444740158564
+    second: breakable_platform_big_theBorder_73
+  - first:
+      213: 4788931344877621579
+    second: breakable_platform_big_theBorder_74
+  - first:
+      213: 5643653053532699490
+    second: breakable_platform_big_theBorder_75
+  - first:
+      213: -5315777952717507204
+    second: breakable_platform_big_theBorder_76
+  - first:
+      213: 8548089711427119527
+    second: breakable_platform_big_theBorder_77
+  - first:
+      213: -8524727280890929472
+    second: breakable_platform_big_theBorder_78
+  - first:
+      213: 6356888167551401332
+    second: breakable_platform_big_theBorder_79
+  - first:
+      213: -828101357369365223
+    second: breakable_platform_big_theBorder_80
+  - first:
+      213: -9153779956735475709
+    second: breakable_platform_big_theBorder_81
+  - first:
+      213: -1887814264679164683
+    second: breakable_platform_big_theBorder_82
+  - first:
+      213: -6514732890716804291
+    second: breakable_platform_big_theBorder_83
+  - first:
+      213: 6989497209530425278
+    second: breakable_platform_big_theBorder_84
+  - first:
+      213: 1629351808413806401
+    second: breakable_platform_big_theBorder_85
+  - first:
+      213: -4006326790830112447
+    second: breakable_platform_big_theBorder_86
+  - first:
+      213: 703670219130373741
+    second: breakable_platform_big_theBorder_87
+  - first:
+      213: 9191761956031004520
+    second: breakable_platform_big_theBorder_88
+  - first:
+      213: -7423116324543875809
+    second: breakable_platform_big_theBorder_89
+  - first:
+      213: -2271259309065878633
+    second: breakable_platform_big_theBorder_90
+  - first:
+      213: 8329962245894220919
+    second: breakable_platform_big_theBorder_91
+  - first:
+      213: 1906323521445727399
+    second: breakable_platform_big_theBorder_92
+  - first:
+      213: -5150287908919638972
+    second: breakable_platform_big_theBorder_93
+  - first:
+      213: -9025109525824403257
+    second: breakable_platform_big_theBorder_94
+  - first:
+      213: 6328621340519723475
+    second: breakable_platform_big_theBorder_95
+  - first:
+      213: -905091337048939249
+    second: breakable_platform_big_theBorder_96
+  - first:
+      213: 9218104929485054888
+    second: breakable_platform_big_theBorder_97
+  - first:
+      213: -4921605811723485521
+    second: breakable_platform_big_theBorder_98
+  - first:
+      213: -8495769097471181437
+    second: breakable_platform_big_theBorder_99
+  - first:
+      213: -5283198683673249747
+    second: breakable_platform_big_theBorder_100
+  - first:
+      213: 8753883107365545126
+    second: breakable_platform_big_theBorder_101
+  - first:
+      213: 3567346169479245357
+    second: breakable_platform_big_theBorder_102
+  - first:
+      213: 7548396943983362034
+    second: breakable_platform_big_theBorder_103
+  - first:
+      213: -4465582519191058311
+    second: breakable_platform_big_theBorder_104
+  - first:
+      213: 6850966866523083227
+    second: breakable_platform_big_theBorder_105
+  - first:
+      213: 4147771547001833154
+    second: breakable_platform_big_theBorder_106
+  - first:
+      213: -6167852933748731519
+    second: breakable_platform_big_theBorder_107
+  - first:
+      213: 6973217595439815630
+    second: breakable_platform_big_theBorder_108
+  - first:
+      213: 1766202138085806479
+    second: breakable_platform_big_theBorder_109
+  - first:
+      213: 3505818229806393003
+    second: breakable_platform_big_theBorder_110
+  - first:
+      213: -2300082826499681058
+    second: breakable_platform_big_theBorder_111
+  - first:
+      213: -4376062902143043382
+    second: breakable_platform_big_theBorder_112
+  - first:
+      213: -8099600491228780782
+    second: breakable_platform_big_theBorder_113
+  - first:
+      213: 3535101722001947008
+    second: breakable_platform_big_theBorder_114
+  - first:
+      213: 8568641916086602376
+    second: breakable_platform_big_theBorder_115
+  - first:
+      213: 1123220118215875585
+    second: breakable_platform_big_theBorder_116
+  - first:
+      213: 7071131437732656285
+    second: breakable_platform_big_theBorder_117
+  - first:
+      213: 3167852744962542809
+    second: breakable_platform_big_theBorder_118
+  - first:
+      213: -5331308137819110198
+    second: breakable_platform_big_theBorder_119
+  - first:
+      213: 4202086232587966385
+    second: breakable_platform_big_theBorder_120
+  - first:
+      213: 2456359752752987890
+    second: breakable_platform_big_theBorder_121
+  - first:
+      213: -7123775425643183158
+    second: breakable_platform_big_theBorder_122
+  - first:
+      213: -821781038908828641
+    second: breakable_platform_big_theBorder_123
+  - first:
+      213: 4094617869507155486
+    second: breakable_platform_big_theBorder_124
+  - first:
+      213: -4386157514854530471
+    second: breakable_platform_big_theBorder_125
+  - first:
+      213: -7946601602399288675
+    second: breakable_platform_big_theBorder_126
+  - first:
+      213: -7976315768094156074
+    second: breakable_platform_big_theBorder_127
+  - first:
+      213: -4263761809522710138
+    second: breakable_platform_big_theBorder_128
+  - first:
+      213: 15673223415536396
+    second: breakable_platform_big_theBorder_129
+  - first:
+      213: -8745766660342679501
+    second: breakable_platform_big_theBorder_130
+  - first:
+      213: -6599842280277467440
+    second: breakable_platform_big_theBorder_131
+  - first:
+      213: -2010665976033496187
+    second: breakable_platform_big_theBorder_132
+  - first:
+      213: -4420793905246794580
+    second: breakable_platform_big_theBorder_133
+  - first:
+      213: -7247854055794217128
+    second: breakable_platform_big_theBorder_134
+  - first:
+      213: 550161848416662950
+    second: breakable_platform_big_theBorder_135
+  - first:
+      213: 8923540154062522
+    second: breakable_platform_big_theBorder_136
+  - first:
+      213: -8154807406524754643
+    second: breakable_platform_big_theBorder_137
+  - first:
+      213: 5885302958631541277
+    second: breakable_platform_big_theBorder_138
+  - first:
+      213: 2090588616751354084
+    second: breakable_platform_big_theBorder_139
+  - first:
+      213: 1479710923266951523
+    second: breakable_platform_big_theBorder_140
+  - first:
+      213: -6880124651867774734
+    second: breakable_platform_big_theBorder_141
+  - first:
+      213: -1085433254651813088
+    second: breakable_platform_big_theBorder_142
+  - first:
+      213: -406470352576409220
+    second: breakable_platform_big_theBorder_143
+  - first:
+      213: -5122400939982031145
+    second: breakable_platform_big_theBorder_144
+  - first:
+      213: 955529903710506781
+    second: breakable_platform_big_theBorder_145
+  - first:
+      213: 4436946387144190225
+    second: breakable_platform_big_theBorder_146
+  - first:
+      213: -5818494345459406023
+    second: breakable_platform_big_theBorder_147
+  - first:
+      213: 2443175017433489048
+    second: breakable_platform_big_theBorder_148
+  - first:
+      213: 1870749954314628969
+    second: breakable_platform_big_theBorder_149
+  - first:
+      213: -4982855961624331257
+    second: breakable_platform_big_theBorder_150
+  - first:
+      213: 3389301423092638146
+    second: breakable_platform_big_theBorder_151
+  - first:
+      213: 2344437144938403883
+    second: breakable_platform_big_theBorder_152
+  - first:
+      213: -8105550908890180930
+    second: breakable_platform_big_theBorder_153
+  - first:
+      213: 3550233280959430812
+    second: breakable_platform_big_theBorder_154
+  - first:
+      213: 682955870641793690
+    second: breakable_platform_big_theBorder_155
+  - first:
+      213: -5158260003508066767
+    second: breakable_platform_big_theBorder_156
+  - first:
+      213: -229866133784235619
+    second: breakable_platform_big_theBorder_157
+  - first:
+      213: -1684766437493814988
+    second: breakable_platform_big_theBorder_158
+  - first:
+      213: -1640097352689729746
+    second: breakable_platform_big_theBorder_159
+  - first:
+      213: 4433057057448865519
+    second: breakable_platform_big_theBorder_160
+  - first:
+      213: -505522964998858096
+    second: breakable_platform_big_theBorder_161
+  - first:
+      213: -2152531471203221439
+    second: breakable_platform_big_theBorder_162
+  - first:
+      213: -8294235955888353889
+    second: breakable_platform_big_theBorder_163
+  - first:
+      213: 3399830263620977408
+    second: breakable_platform_big_theBorder_164
+  - first:
+      213: 6523760635845752769
+    second: breakable_platform_big_theBorder_165
+  - first:
+      213: -3433130797420475402
+    second: breakable_platform_big_theBorder_166
+  - first:
+      213: -9018461797923815651
+    second: breakable_platform_big_theBorder_167
+  - first:
+      213: -2865645215602003012
+    second: breakable_platform_big_theBorder_168
+  - first:
+      213: -8310251893640903384
+    second: breakable_platform_big_theBorder_169
+  - first:
+      213: -299036713082488562
+    second: breakable_platform_big_theBorder_170
+  - first:
+      213: -5061768175676305600
+    second: breakable_platform_big_theBorder_171
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_0
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 970
+        width: 138
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8efd816c24e815d70800000000000000
+      internalID: 9030155145297059816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_1
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 969
+        width: 138
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f54cb7a1822c44120800000000000000
+      internalID: 2397254379166745695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_2
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 970
+        width: 138
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 143945fa07408c400800000000000000
+      internalID: 344530253518246721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_3
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 968
+        width: 138
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8527f49614fe26e30800000000000000
+      internalID: 4495418442287903320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_4
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 965
+        width: 138
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11de33b7d01e12f70800000000000000
+      internalID: 9160850565066124561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_5
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 833
+        width: 138
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 964c094e0623cff60800000000000000
+      internalID: 8069380024074028137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_6
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 828
+        width: 138
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5f9c88626de54950800000000000000
+      internalID: 6432808649685245789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_7
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 820
+        width: 138
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc5c2fe9a0a5a94f0800000000000000
+      internalID: -821244980378810929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_8
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 813
+        width: 138
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b032b19628f7aeaf0800000000000000
+      internalID: -366340221591411957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_9
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 807
+        width: 138
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d407f277793aeb2a0800000000000000
+      internalID: -6719753723055214515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_10
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 682
+        width: 138
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b659b60d22e3d120800000000000000
+      internalID: 2437540506351785653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_11
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 711
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c29c71d7b416f220800000000000000
+      internalID: 2519223821286544072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_12
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 676
+        width: 138
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06196f432e835d6f0800000000000000
+      internalID: -660559226137570976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_13
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 673
+        width: 138
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b4ea5077d510f0e0800000000000000
+      internalID: -2238264999755979596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_14
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 714
+        width: 138
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07806e9bd1217c460800000000000000
+      internalID: 7261792843040426096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_15
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 712
+        width: 139
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d2af3a5644286030800000000000000
+      internalID: 3488077795978879696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_16
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 701
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a06e9d0bc4f910c0800000000000000
+      internalID: -4604379991065599839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_17
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 702
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efc894d690fc174d0800000000000000
+      internalID: -3138499825905332994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_18
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 577
+        width: 142
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84fb91a81219b8980800000000000000
+      internalID: -8535569095513751736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_19
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 572
+        width: 144
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 028a3417c7586ded0800000000000000
+      internalID: -2389575782750771168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_20
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 566
+        width: 147
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53744cade1f255c40800000000000000
+      internalID: 5500354329468749621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_21
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 555
+        width: 129
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 939bd2e82961e8890800000000000000
+      internalID: -7453995514545194695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_22
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 600
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a495ac5f1e8fc5b0800000000000000
+      internalID: -5345897967316003680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_23
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 605
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53d20886bbb034890800000000000000
+      internalID: -7475118056964870859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_24
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 597
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 615a9a8043bbc9ee0800000000000000
+      internalID: -1252920764157811434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_25
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 563
+        width: 53
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77dd8c74d5e15f040800000000000000
+      internalID: 4680680773706636663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_26
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 563
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 307cb661f020e4590800000000000000
+      internalID: -7688205250050930941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_27
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 602
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f29dd599d96de4550800000000000000
+      internalID: 6147086513778579759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_28
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 605
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80aded69e2f566c70800000000000000
+      internalID: 8963956762031872520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_29
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 596
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f351512ac93857510800000000000000
+      internalID: 1546286755829060927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_30
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 589
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a85b02ace15501a0800000000000000
+      internalID: -6843973981946816349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_31
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 552
+        width: 60
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f962a99c34ea3b4f0800000000000000
+      internalID: -814115501455563105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_32
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 598
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3717371e7618e14e0800000000000000
+      internalID: -2009026100596608653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_33
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 596
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfca79bcaec113480800000000000000
+      internalID: -8921317592080601860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_34
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 566
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07f54bed0a828cb80800000000000000
+      internalID: -8374398835699196048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_35
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 559
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43a814c04ae67b7e0800000000000000
+      internalID: -1749808279350834636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_36
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 571
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 412df3060747cfb80800000000000000
+      internalID: -8359678782306528748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_37
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 565
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27e750f4a4de02c60800000000000000
+      internalID: 7791488258760081010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_38
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 561
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3a16904044d68e40800000000000000
+      internalID: 5658443354264181306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_39
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 572
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7818ebded780c0f0800000000000000
+      internalID: -1098728917836490630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_40
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 576
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ecc53dbd371c4270800000000000000
+      internalID: 8235983372488658153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_41
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 562
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deb3f5c0e30353f00800000000000000
+      internalID: 1095835127388257261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_42
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 558
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b4e963825cda0d80800000000000000
+      internalID: -8283566317644421961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_43
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 561
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1ec38f1cd6f33d90800000000000000
+      internalID: -7119075160660652517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_44
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 489
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82f8af0ca4e368320800000000000000
+      internalID: 2559801928992853800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_45
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 493
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8598f70347db18350800000000000000
+      internalID: 6017298883871213912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_46
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 490
+        width: 50
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0de8c4f82cca07990800000000000000
+      internalID: -7390217036887191856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_47
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 489
+        width: 29
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41f6b745106352080800000000000000
+      internalID: -9212898083376238828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_48
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 475
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f04d87463985dcde0800000000000000
+      internalID: -1311294526425869297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_49
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 472
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2593caad54ab7d120800000000000000
+      internalID: 2438622532428642642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_50
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 474
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b250b490b427791a0800000000000000
+      internalID: -6802843045515819733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_51
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 479
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97b88b064dbe392a0800000000000000
+      internalID: -6731777720600458375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_52
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 456
+        width: 64
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7efd046a18596fcd0800000000000000
+      internalID: -2524666157021995033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_53
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 464
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 135d828abdd2c3db0800000000000000
+      internalID: -4810919880496196303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_54
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 467
+        width: 46
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e586dae74363e50d0800000000000000
+      internalID: -3432246266918246306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_55
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 465
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a6d9324cdfcc20f0800000000000000
+      internalID: -1140308060720736601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_56
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 473
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97ac7f4a4f3d99990800000000000000
+      internalID: -7378633466776663431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_57
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 464
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd1bb590204fb3a60800000000000000
+      internalID: 7654980281230406107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_58
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 465
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b88e15b46dbbf100800000000000000
+      internalID: 142916053425359025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_59
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 464
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7fd81b34247d34c0800000000000000
+      internalID: -4306157969737195652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_60
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 455
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7175eb4b2897f76a0800000000000000
+      internalID: -6449302539086178537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_61
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 470
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a43b35b5426597e0800000000000000
+      internalID: -1759392027885488985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_62
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 467
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5f3372e4dd2b6ba0800000000000000
+      internalID: -6094727278360314020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_63
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 465
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33a34d2f35d2f0d80800000000000000
+      internalID: -8282351351131522509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_64
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 467
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3b7bc03060369890800000000000000
+      internalID: -7451715343744271555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_65
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 444
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 356b7fc00c8416a10800000000000000
+      internalID: 1900880507415541331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_66
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 469
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7e9e5677efecc070800000000000000
+      internalID: 8128135204899298943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_67
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 469
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 181d0fca4927e27f0800000000000000
+      internalID: -635444514530471551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_68
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 468
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b70e2c15c42d76760800000000000000
+      internalID: 7451155333738848379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_69
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 453
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dde504116092c82f0800000000000000
+      internalID: -969354713755525411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_70
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 461
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcfd9ac1f5f2a0070800000000000000
+      internalID: 8073317367564328911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_71
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 451
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02891ef9ebfd2e440800000000000000
+      internalID: 4963775749134850080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_72
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 456
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 712ba8b925b52f5b0800000000000000
+      internalID: -5336102198125612521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_73
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 457
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9bfe08ec7a783e80800000000000000
+      internalID: -8198668444740158564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_74
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 445
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b411a217fa3b57240800000000000000
+      internalID: 4788931344877621579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_75
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 447
+        width: 31
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26b7d530d88425e40800000000000000
+      internalID: 5643653053532699490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_76
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 442
+        width: 41
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c757b6fbd109a36b0800000000000000
+      internalID: -5315777952717507204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_77
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 438
+        width: 50
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a9e8c58d4ae0a670800000000000000
+      internalID: 8548089711427119527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_78
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 451
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ce1a6734b512b980800000000000000
+      internalID: -8524727280890929472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_79
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 442
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47df8cfab14383850800000000000000
+      internalID: 6356888167551401332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_80
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 437
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91deaf3f33ef184f0800000000000000
+      internalID: -828101357369365223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_81
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 453
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30001bec0ad37f080800000000000000
+      internalID: -9153779956735475709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_82
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 445
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f412e7ade22dc5e0800000000000000
+      internalID: -1887814264679164683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_83
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 435
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3b6542d3f40795a0800000000000000
+      internalID: -6514732890716804291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_84
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 453
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebf15ac1eaeaff060800000000000000
+      internalID: 6989497209530425278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_85
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 453
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14f25aa46de9c9610800000000000000
+      internalID: 1629351808413806401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_86
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 445
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 141c07a920ba668c0800000000000000
+      internalID: -4006326790830112447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_87
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 432
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d66894a0650f3c900800000000000000
+      internalID: 703670219130373741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_88
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 437
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86f7d298cc2bf8f70800000000000000
+      internalID: 9191761956031004520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_89
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 427
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f15b82d380bcbf890800000000000000
+      internalID: -7423116324543875809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_90
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 439
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 793445a21bdda70e0800000000000000
+      internalID: -2271259309065878633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_91
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 424
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77ca0f25788f99370800000000000000
+      internalID: 8329962245894220919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_92
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 437
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ac8eb2842f947a10800000000000000
+      internalID: 1906323521445727399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_93
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 431
+        width: 37
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4440bd92f608688b0800000000000000
+      internalID: -5150287908919638972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_94
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 443
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c80e3e04be50c280800000000000000
+      internalID: -9025109525824403257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_95
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 440
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d172a72497c3d750800000000000000
+      internalID: 6328621340519723475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_96
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 439
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f052aed69387073f0800000000000000
+      internalID: -905091337048939249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_97
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 434
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a3eb3008994def70800000000000000
+      internalID: 9218104929485054888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_98
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 424
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fae39bb0791f2bbb0800000000000000
+      internalID: -4921605811723485521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_99
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 431
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38d3d73b407f81a80800000000000000
+      internalID: -8495769097471181437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_100
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 434
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2838dde9ce4ea6b0800000000000000
+      internalID: -5283198683673249747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_101
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 436
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a4e0db5e4a0c7970800000000000000
+      internalID: 8753883107365545126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_102
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 436
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2e29a6c072c18130800000000000000
+      internalID: 3567346169479245357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_103
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 428
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ffb5c5070b41c860800000000000000
+      internalID: 7548396943983362034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_104
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 425
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9784c64cb501702c0800000000000000
+      internalID: -4465582519191058311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_105
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 422
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd1541f2116831f50800000000000000
+      internalID: 6850966866523083227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_106
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 417
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c644840f38df8930800000000000000
+      internalID: 4147771547001833154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_107
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 421
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1815e097f62676aa0800000000000000
+      internalID: -6167852933748731519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_108
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 428
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecb91b51578d5c060800000000000000
+      internalID: 6973217595439815630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_109
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 435
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f81d322ac7fc28810800000000000000
+      internalID: 1766202138085806479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_110
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 427
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba6e2bafa1b27a030800000000000000
+      internalID: 3505818229806393003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_111
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 428
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed4928c0bd67410e0800000000000000
+      internalID: -2300082826499681058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_112
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 407
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac8bff2d9f91543c0800000000000000
+      internalID: -4376062902143043382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_113
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 423
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 217aab94440789f80800000000000000
+      internalID: -8099600491228780782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_114
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 428
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0893cc059443f0130800000000000000
+      internalID: 3535101722001947008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_115
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 416
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88a4ddf8c6ee9e670800000000000000
+      internalID: 8568641916086602376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_116
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 425
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10c54d61fba769f00800000000000000
+      internalID: 1123220118215875585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_117
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 416
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d94f6220494b12260800000000000000
+      internalID: 7071131437732656285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_118
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 408
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dc0d3c994976fb20800000000000000
+      internalID: 3167852744962542809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_119
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 416
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac48421ce736306b0800000000000000
+      internalID: -5331308137819110198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_120
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 413
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b717f83a2fc05a30800000000000000
+      internalID: 4202086232587966385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_121
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 426
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fe78674e2eb61220800000000000000
+      internalID: 2456359752752987890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_122
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 422
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac381e66ef3432d90800000000000000
+      internalID: -7123775425643183158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_123
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 417
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1410b4cf727894f0800000000000000
+      internalID: -821781038908828641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_124
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 407
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e16d0f2124103d830800000000000000
+      internalID: 4094617869507155486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_125
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 414
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9528f26aafc3123c0800000000000000
+      internalID: -4386157514854530471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_126
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 417
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d92c07d02fff7b190800000000000000
+      internalID: -7946601602399288675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_127
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 410
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6da966ab11f6e4190800000000000000
+      internalID: -7976315768094156074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_128
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 404
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 689a580893314d4c0800000000000000
+      internalID: -4263761809522710138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_129
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 411
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0b1b22b6bea73000800000000000000
+      internalID: 15673223415536396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_130
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 418
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 338f1d93f8bc0a680800000000000000
+      internalID: -8745766660342679501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_131
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 410
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0de157ed966a864a0800000000000000
+      internalID: -6599842280277467440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_132
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 411
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5833f80a2fda814e0800000000000000
+      internalID: -2010665976033496187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_133
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 390
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cac8d849d5f26a2c0800000000000000
+      internalID: -4420793905246794580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_134
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 399
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85fe28413237a6b90800000000000000
+      internalID: -7247854055794217128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_135
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 393
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a5f8d7494192a700800000000000000
+      internalID: 550161848416662950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_136
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 391
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab6950999e3bf1000800000000000000
+      internalID: 8923540154062522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_137
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 399
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d251e5aaedd44de80800000000000000
+      internalID: -8154807406524754643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_138
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 396
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1ad9c4fbdbcca150800000000000000
+      internalID: 5885302958631541277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_139
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 337
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e090f04543430d10800000000000000
+      internalID: 2090588616751354084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_140
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 358
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 369879fae3df88410800000000000000
+      internalID: 1479710923266951523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_141
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 361
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f06303e413e480a0800000000000000
+      internalID: -6880124651867774734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_142
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 359
+        width: 50
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 023251da434cfe0f0800000000000000
+      internalID: -1085433254651813088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_143
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 358
+        width: 29
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7194fe2e5deb5af0800000000000000
+      internalID: -406470352576409220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_144
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 337
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d67e371c7399e8b0800000000000000
+      internalID: -5122400939982031145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_145
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 354
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1f8de28269b24d00800000000000000
+      internalID: 955529903710506781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_146
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 357
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 119ae2d2b33339d30800000000000000
+      internalID: 4436946387144190225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_147
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 355
+        width: 50
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93be543783e804fa0800000000000000
+      internalID: -5818494345459406023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_148
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 345
+        width: 44
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89e5b3edbb6e7e120800000000000000
+      internalID: 2443175017433489048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_149
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 330
+        width: 41
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96f608afb2d36f910800000000000000
+      internalID: 1870749954314628969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_150
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 349
+        width: 70
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70cb17837e659dab0800000000000000
+      internalID: -4982855961624331257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_151
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 345
+        width: 41
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c1a920efa7390f20800000000000000
+      internalID: 3389301423092638146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_152
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 330
+        width: 138
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b28d846792d198020800000000000000
+      internalID: 2344437144938403883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_153
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 345
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb291c6b46c438f80800000000000000
+      internalID: -8105550908890180930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_154
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 326
+        width: 31
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c904b5deb56f44130800000000000000
+      internalID: 3550233280959430812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_155
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 328
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9a2fd2feb85a7900800000000000000
+      internalID: 682955870641793690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_156
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 327
+        width: 111
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 136ebcf3bdd2a68b0800000000000000
+      internalID: -5158260003508066767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_157
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 329
+        width: 138
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d91f5ed18f95fccf0800000000000000
+      internalID: -229866133784235619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_158
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 322
+        width: 31
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4394ea3f9d18e98e0800000000000000
+      internalID: -1684766437493814988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_159
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 318
+        width: 41
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2fbed7b5243d39e0800000000000000
+      internalID: -1640097352689729746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_160
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 314
+        width: 50
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fee274a08e1658d30800000000000000
+      internalID: 4433057057448865519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_161
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 326
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09ad07daa850cf8f0800000000000000
+      internalID: -505522964998858096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_162
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 322
+        width: 41
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1404513180ca022e0800000000000000
+      internalID: -2152531471203221439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_163
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 318
+        width: 50
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9d8006c754f4ec80800000000000000
+      internalID: -8294235955888353889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_164
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 202
+        width: 138
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00340c79c9f9e2f20800000000000000
+      internalID: 3399830263620977408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_165
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 200
+        width: 138
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c73343ebbd098a50800000000000000
+      internalID: 6523760635845752769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_166
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 197
+        width: 138
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fb8c40bab11b50d0800000000000000
+      internalID: -3433130797420475402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_167
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 193
+        width: 138
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1ff152d6ccf7d280800000000000000
+      internalID: -9018461797923815651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_168
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 185
+        width: 138
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb3beb7fbde2b38d0800000000000000
+      internalID: -2865645215602003012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_169
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 48
+        width: 138
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 825448daeed0cac80800000000000000
+      internalID: -8310251893640903384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_170
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 36
+        width: 138
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e09faed91bb99dbf0800000000000000
+      internalID: -299036713082488562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_theBorder_171
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 74
+        width: 138
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04fcf61a9acf0c9b0800000000000000
+      internalID: -5061768175676305600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      breakable_platform_big_theBorder_0: 9030155145297059816
+      breakable_platform_big_theBorder_1: 2397254379166745695
+      breakable_platform_big_theBorder_10: 2437540506351785653
+      breakable_platform_big_theBorder_100: -5283198683673249747
+      breakable_platform_big_theBorder_101: 8753883107365545126
+      breakable_platform_big_theBorder_102: 3567346169479245357
+      breakable_platform_big_theBorder_103: 7548396943983362034
+      breakable_platform_big_theBorder_104: -4465582519191058311
+      breakable_platform_big_theBorder_105: 6850966866523083227
+      breakable_platform_big_theBorder_106: 4147771547001833154
+      breakable_platform_big_theBorder_107: -6167852933748731519
+      breakable_platform_big_theBorder_108: 6973217595439815630
+      breakable_platform_big_theBorder_109: 1766202138085806479
+      breakable_platform_big_theBorder_11: 2519223821286544072
+      breakable_platform_big_theBorder_110: 3505818229806393003
+      breakable_platform_big_theBorder_111: -2300082826499681058
+      breakable_platform_big_theBorder_112: -4376062902143043382
+      breakable_platform_big_theBorder_113: -8099600491228780782
+      breakable_platform_big_theBorder_114: 3535101722001947008
+      breakable_platform_big_theBorder_115: 8568641916086602376
+      breakable_platform_big_theBorder_116: 1123220118215875585
+      breakable_platform_big_theBorder_117: 7071131437732656285
+      breakable_platform_big_theBorder_118: 3167852744962542809
+      breakable_platform_big_theBorder_119: -5331308137819110198
+      breakable_platform_big_theBorder_12: -660559226137570976
+      breakable_platform_big_theBorder_120: 4202086232587966385
+      breakable_platform_big_theBorder_121: 2456359752752987890
+      breakable_platform_big_theBorder_122: -7123775425643183158
+      breakable_platform_big_theBorder_123: -821781038908828641
+      breakable_platform_big_theBorder_124: 4094617869507155486
+      breakable_platform_big_theBorder_125: -4386157514854530471
+      breakable_platform_big_theBorder_126: -7946601602399288675
+      breakable_platform_big_theBorder_127: -7976315768094156074
+      breakable_platform_big_theBorder_128: -4263761809522710138
+      breakable_platform_big_theBorder_129: 15673223415536396
+      breakable_platform_big_theBorder_13: -2238264999755979596
+      breakable_platform_big_theBorder_130: -8745766660342679501
+      breakable_platform_big_theBorder_131: -6599842280277467440
+      breakable_platform_big_theBorder_132: -2010665976033496187
+      breakable_platform_big_theBorder_133: -4420793905246794580
+      breakable_platform_big_theBorder_134: -7247854055794217128
+      breakable_platform_big_theBorder_135: 550161848416662950
+      breakable_platform_big_theBorder_136: 8923540154062522
+      breakable_platform_big_theBorder_137: -8154807406524754643
+      breakable_platform_big_theBorder_138: 5885302958631541277
+      breakable_platform_big_theBorder_139: 2090588616751354084
+      breakable_platform_big_theBorder_14: 7261792843040426096
+      breakable_platform_big_theBorder_140: 1479710923266951523
+      breakable_platform_big_theBorder_141: -6880124651867774734
+      breakable_platform_big_theBorder_142: -1085433254651813088
+      breakable_platform_big_theBorder_143: -406470352576409220
+      breakable_platform_big_theBorder_144: -5122400939982031145
+      breakable_platform_big_theBorder_145: 955529903710506781
+      breakable_platform_big_theBorder_146: 4436946387144190225
+      breakable_platform_big_theBorder_147: -5818494345459406023
+      breakable_platform_big_theBorder_148: 2443175017433489048
+      breakable_platform_big_theBorder_149: 1870749954314628969
+      breakable_platform_big_theBorder_15: 3488077795978879696
+      breakable_platform_big_theBorder_150: -4982855961624331257
+      breakable_platform_big_theBorder_151: 3389301423092638146
+      breakable_platform_big_theBorder_152: 2344437144938403883
+      breakable_platform_big_theBorder_153: -8105550908890180930
+      breakable_platform_big_theBorder_154: 3550233280959430812
+      breakable_platform_big_theBorder_155: 682955870641793690
+      breakable_platform_big_theBorder_156: -5158260003508066767
+      breakable_platform_big_theBorder_157: -229866133784235619
+      breakable_platform_big_theBorder_158: -1684766437493814988
+      breakable_platform_big_theBorder_159: -1640097352689729746
+      breakable_platform_big_theBorder_16: -4604379991065599839
+      breakable_platform_big_theBorder_160: 4433057057448865519
+      breakable_platform_big_theBorder_161: -505522964998858096
+      breakable_platform_big_theBorder_162: -2152531471203221439
+      breakable_platform_big_theBorder_163: -8294235955888353889
+      breakable_platform_big_theBorder_164: 3399830263620977408
+      breakable_platform_big_theBorder_165: 6523760635845752769
+      breakable_platform_big_theBorder_166: -3433130797420475402
+      breakable_platform_big_theBorder_167: -9018461797923815651
+      breakable_platform_big_theBorder_168: -2865645215602003012
+      breakable_platform_big_theBorder_169: -8310251893640903384
+      breakable_platform_big_theBorder_17: -3138499825905332994
+      breakable_platform_big_theBorder_170: -299036713082488562
+      breakable_platform_big_theBorder_171: -5061768175676305600
+      breakable_platform_big_theBorder_18: -8535569095513751736
+      breakable_platform_big_theBorder_19: -2389575782750771168
+      breakable_platform_big_theBorder_2: 344530253518246721
+      breakable_platform_big_theBorder_20: 5500354329468749621
+      breakable_platform_big_theBorder_21: -7453995514545194695
+      breakable_platform_big_theBorder_22: -5345897967316003680
+      breakable_platform_big_theBorder_23: -7475118056964870859
+      breakable_platform_big_theBorder_24: -1252920764157811434
+      breakable_platform_big_theBorder_25: 4680680773706636663
+      breakable_platform_big_theBorder_26: -7688205250050930941
+      breakable_platform_big_theBorder_27: 6147086513778579759
+      breakable_platform_big_theBorder_28: 8963956762031872520
+      breakable_platform_big_theBorder_29: 1546286755829060927
+      breakable_platform_big_theBorder_3: 4495418442287903320
+      breakable_platform_big_theBorder_30: -6843973981946816349
+      breakable_platform_big_theBorder_31: -814115501455563105
+      breakable_platform_big_theBorder_32: -2009026100596608653
+      breakable_platform_big_theBorder_33: -8921317592080601860
+      breakable_platform_big_theBorder_34: -8374398835699196048
+      breakable_platform_big_theBorder_35: -1749808279350834636
+      breakable_platform_big_theBorder_36: -8359678782306528748
+      breakable_platform_big_theBorder_37: 7791488258760081010
+      breakable_platform_big_theBorder_38: 5658443354264181306
+      breakable_platform_big_theBorder_39: -1098728917836490630
+      breakable_platform_big_theBorder_4: 9160850565066124561
+      breakable_platform_big_theBorder_40: 8235983372488658153
+      breakable_platform_big_theBorder_41: 1095835127388257261
+      breakable_platform_big_theBorder_42: -8283566317644421961
+      breakable_platform_big_theBorder_43: -7119075160660652517
+      breakable_platform_big_theBorder_44: 2559801928992853800
+      breakable_platform_big_theBorder_45: 6017298883871213912
+      breakable_platform_big_theBorder_46: -7390217036887191856
+      breakable_platform_big_theBorder_47: -9212898083376238828
+      breakable_platform_big_theBorder_48: -1311294526425869297
+      breakable_platform_big_theBorder_49: 2438622532428642642
+      breakable_platform_big_theBorder_5: 8069380024074028137
+      breakable_platform_big_theBorder_50: -6802843045515819733
+      breakable_platform_big_theBorder_51: -6731777720600458375
+      breakable_platform_big_theBorder_52: -2524666157021995033
+      breakable_platform_big_theBorder_53: -4810919880496196303
+      breakable_platform_big_theBorder_54: -3432246266918246306
+      breakable_platform_big_theBorder_55: -1140308060720736601
+      breakable_platform_big_theBorder_56: -7378633466776663431
+      breakable_platform_big_theBorder_57: 7654980281230406107
+      breakable_platform_big_theBorder_58: 142916053425359025
+      breakable_platform_big_theBorder_59: -4306157969737195652
+      breakable_platform_big_theBorder_6: 6432808649685245789
+      breakable_platform_big_theBorder_60: -6449302539086178537
+      breakable_platform_big_theBorder_61: -1759392027885488985
+      breakable_platform_big_theBorder_62: -6094727278360314020
+      breakable_platform_big_theBorder_63: -8282351351131522509
+      breakable_platform_big_theBorder_64: -7451715343744271555
+      breakable_platform_big_theBorder_65: 1900880507415541331
+      breakable_platform_big_theBorder_66: 8128135204899298943
+      breakable_platform_big_theBorder_67: -635444514530471551
+      breakable_platform_big_theBorder_68: 7451155333738848379
+      breakable_platform_big_theBorder_69: -969354713755525411
+      breakable_platform_big_theBorder_7: -821244980378810929
+      breakable_platform_big_theBorder_70: 8073317367564328911
+      breakable_platform_big_theBorder_71: 4963775749134850080
+      breakable_platform_big_theBorder_72: -5336102198125612521
+      breakable_platform_big_theBorder_73: -8198668444740158564
+      breakable_platform_big_theBorder_74: 4788931344877621579
+      breakable_platform_big_theBorder_75: 5643653053532699490
+      breakable_platform_big_theBorder_76: -5315777952717507204
+      breakable_platform_big_theBorder_77: 8548089711427119527
+      breakable_platform_big_theBorder_78: -8524727280890929472
+      breakable_platform_big_theBorder_79: 6356888167551401332
+      breakable_platform_big_theBorder_8: -366340221591411957
+      breakable_platform_big_theBorder_80: -828101357369365223
+      breakable_platform_big_theBorder_81: -9153779956735475709
+      breakable_platform_big_theBorder_82: -1887814264679164683
+      breakable_platform_big_theBorder_83: -6514732890716804291
+      breakable_platform_big_theBorder_84: 6989497209530425278
+      breakable_platform_big_theBorder_85: 1629351808413806401
+      breakable_platform_big_theBorder_86: -4006326790830112447
+      breakable_platform_big_theBorder_87: 703670219130373741
+      breakable_platform_big_theBorder_88: 9191761956031004520
+      breakable_platform_big_theBorder_89: -7423116324543875809
+      breakable_platform_big_theBorder_9: -6719753723055214515
+      breakable_platform_big_theBorder_90: -2271259309065878633
+      breakable_platform_big_theBorder_91: 8329962245894220919
+      breakable_platform_big_theBorder_92: 1906323521445727399
+      breakable_platform_big_theBorder_93: -5150287908919638972
+      breakable_platform_big_theBorder_94: -9025109525824403257
+      breakable_platform_big_theBorder_95: 6328621340519723475
+      breakable_platform_big_theBorder_96: -905091337048939249
+      breakable_platform_big_theBorder_97: 9218104929485054888
+      breakable_platform_big_theBorder_98: -4921605811723485521
+      breakable_platform_big_theBorder_99: -8495769097471181437
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: 04294784d0e46714f91f6f1a607ef54c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7918014653172016165
+    second: chest_opened_anim_0
+  - first:
+      213: -6541161696996591383
+    second: chest_opened_anim_1
+  - first:
+      213: -6915280815639515790
+    second: chest_opened_anim_2
+  - first:
+      213: -3872564440551711507
+    second: chest_opened_anim_3
+  - first:
+      213: 3698398447754099630
+    second: chest_opened_anim_4
+  - first:
+      213: -8223237508673382951
+    second: chest_opened_anim_5
+  - first:
+      213: -4081625046332758677
+    second: chest_opened_anim_6
+  - first:
+      213: -2593300603922274716
+    second: chest_opened_anim_7
+  - first:
+      213: -6892418097412750430
+    second: chest_opened_anim_8
+  - first:
+      213: -124165430706223945
+    second: chest_opened_anim_9
+  - first:
+      213: 529446033358799074
+    second: chest_opened_anim_10
+  - first:
+      213: -2866991990478483067
+    second: chest_opened_anim_11
+  - first:
+      213: -7074669195969962100
+    second: chest_opened_anim_12
+  - first:
+      213: -2796736931511009566
+    second: chest_opened_anim_13
+  - first:
+      213: -1781511296635796498
+    second: chest_opened_anim_14
+  - first:
+      213: -8302546262170324097
+    second: chest_opened_anim_15
+  - first:
+      213: -7725229939862470956
+    second: chest_opened_anim_16
+  - first:
+      213: 9015868458965111559
+    second: chest_opened_anim_17
+  - first:
+      213: -480532253969763497
+    second: chest_opened_anim_18
+  - first:
+      213: -9010441750443669020
+    second: chest_opened_anim_19
+  - first:
+      213: 7391482955754401908
+    second: chest_opened_anim_20
+  - first:
+      213: -9074126189831773878
+    second: chest_opened_anim_21
+  - first:
+      213: -6092603750637779786
+    second: chest_opened_anim_22
+  - first:
+      213: 8264566087812907283
+    second: chest_opened_anim_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: chest_opened_anim_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 524e7a8206072ed60800000000000000
+      internalID: 7918014653172016165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_opened_anim_1
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 224
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e87028d7102935a0800000000000000
+      internalID: -6541161696996591383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_opened_anim_2
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 0
+        width: 90
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27dabb5acbcf700a0800000000000000
+      internalID: -6915280815639515790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_opened_anim_3
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 0
+        width: 67
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dec1b17b823e14ac0800000000000000
+      internalID: -3872564440551711507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_opened_anim_4
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 0
+        width: 190
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eab3d341bc9535330800000000000000
+      internalID: 3698398447754099630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_opened_anim_5
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 209
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d5dadfed0131ed80800000000000000
+      internalID: -8223237508673382951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_opened_anim_6
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 152
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b65affe45a72b57c0800000000000000
+      internalID: -4081625046332758677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_opened_anim_7
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 145
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 466286337deb20cd0800000000000000
+      internalID: -2593300603922274716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_opened_anim_8
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 136
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a34d3c02463950a0800000000000000
+      internalID: -6892418097412750430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_opened_anim_9
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 139
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b44f59d230e64ef0800000000000000
+      internalID: -124165430706223945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_opened_anim_10
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 138
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e0471abc58f85700800000000000000
+      internalID: 529446033358799074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_opened_anim_11
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 125
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 581d3a189f56638d0800000000000000
+      internalID: -2866991990478483067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_opened_anim_12
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 93
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8fdfc679d9b1dd90800000000000000
+      internalID: -7074669195969962100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_opened_anim_13
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 98
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eef11b149eff29d0800000000000000
+      internalID: -2796736931511009566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_opened_anim_14
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 76
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee38da02aecc647e0800000000000000
+      internalID: -1781511296635796498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_opened_anim_15
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 65
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f733710d92e67cc80800000000000000
+      internalID: -8302546262170324097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_opened_anim_16
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 76
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4def84abc487ac490800000000000000
+      internalID: -7725229939862470956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_opened_anim_17
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 63
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7039346689cce1d70800000000000000
+      internalID: 9015868458965111559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_opened_anim_18
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 66
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 753b303067ec459f0800000000000000
+      internalID: -480532253969763497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_opened_anim_19
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 66
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e9c473a7fa74f280800000000000000
+      internalID: -9010441750443669020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_opened_anim_20
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 34
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47078152692d39660800000000000000
+      internalID: 7391482955754401908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_opened_anim_21
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 18
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a412200ae4a321280800000000000000
+      internalID: -9074126189831773878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_opened_anim_22
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 0
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b4c5063b29b27ba0800000000000000
+      internalID: -6092603750637779786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_opened_anim_23
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 1
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31104deb113a1b270800000000000000
+      internalID: 8264566087812907283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      chest_opened_anim_0: 7918014653172016165
+      chest_opened_anim_1: -6541161696996591383
+      chest_opened_anim_10: 529446033358799074
+      chest_opened_anim_11: -2866991990478483067
+      chest_opened_anim_12: -7074669195969962100
+      chest_opened_anim_13: -2796736931511009566
+      chest_opened_anim_14: -1781511296635796498
+      chest_opened_anim_15: -8302546262170324097
+      chest_opened_anim_16: -7725229939862470956
+      chest_opened_anim_17: 9015868458965111559
+      chest_opened_anim_18: -480532253969763497
+      chest_opened_anim_19: -9010441750443669020
+      chest_opened_anim_2: -6915280815639515790
+      chest_opened_anim_20: 7391482955754401908
+      chest_opened_anim_21: -9074126189831773878
+      chest_opened_anim_22: -6092603750637779786
+      chest_opened_anim_23: 8264566087812907283
+      chest_opened_anim_3: -3872564440551711507
+      chest_opened_anim_4: 3698398447754099630
+      chest_opened_anim_5: -8223237508673382951
+      chest_opened_anim_6: -4081625046332758677
+      chest_opened_anim_7: -2593300603922274716
+      chest_opened_anim_8: -6892418097412750430
+      chest_opened_anim_9: -124165430706223945
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

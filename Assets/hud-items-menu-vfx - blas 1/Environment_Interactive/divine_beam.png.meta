@@ -1,0 +1,559 @@
+fileFormatVersion: 2
+guid: 2791e8d80d8c83944a8e613347074a60
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6422424175473759251
+    second: divine_beam_0
+  - first:
+      213: 2983548217113354969
+    second: divine_beam_1
+  - first:
+      213: 4871797153510105099
+    second: divine_beam_2
+  - first:
+      213: 8101088474256367930
+    second: divine_beam_3
+  - first:
+      213: -5310903934015362058
+    second: divine_beam_4
+  - first:
+      213: -3720134465011242482
+    second: divine_beam_5
+  - first:
+      213: 1738678581154558609
+    second: divine_beam_6
+  - first:
+      213: 4824199210841810099
+    second: divine_beam_7
+  - first:
+      213: 8795673403791917699
+    second: divine_beam_8
+  - first:
+      213: -2860494543867227556
+    second: divine_beam_9
+  - first:
+      213: -3569738766558804698
+    second: divine_beam_10
+  - first:
+      213: -5785976689717732851
+    second: divine_beam_11
+  - first:
+      213: -2971508196780075706
+    second: divine_beam_12
+  - first:
+      213: 2820996998133295367
+    second: divine_beam_13
+  - first:
+      213: 554990612924978684
+    second: divine_beam_14
+  - first:
+      213: -3987088426828587759
+    second: divine_beam_15
+  - first:
+      213: 2246542341852294134
+    second: divine_beam_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: divine_beam_0
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1903
+        width: 15
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deb61086d37fed6a0800000000000000
+      internalID: -6422424175473759251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: divine_beam_1
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 1800
+        width: 271
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d2aa43cb41b76920800000000000000
+      internalID: 2983548217113354969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: divine_beam_2
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 0
+        width: 174
+        height: 2048
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b00aab003b91c9340800000000000000
+      internalID: 4871797153510105099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: divine_beam_3
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 1023
+        width: 20
+        height: 1025
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a31ef02cb09dc6070800000000000000
+      internalID: 8101088474256367930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: divine_beam_4
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 1023
+        width: 20
+        height: 1025
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fb2ac8a201eb46b0800000000000000
+      internalID: -5310903934015362058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: divine_beam_5
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 1806
+        width: 12
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0a21580a6d6f5cc0800000000000000
+      internalID: -3720134465011242482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: divine_beam_6
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 1884
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1923c4825f6012810800000000000000
+      internalID: 1738678581154558609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: divine_beam_7
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 0
+        width: 84
+        height: 1797
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b422ff5f9ff2f240800000000000000
+      internalID: 4824199210841810099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: divine_beam_8
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 518
+        width: 17
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3824e59fb52801a70800000000000000
+      internalID: 8795673403791917699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: divine_beam_9
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 0
+        width: 71
+        height: 1795
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c52d9de2e5b7d48d0800000000000000
+      internalID: -2860494543867227556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: divine_beam_10
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 520
+        width: 13
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 625425e418db57ec0800000000000000
+      internalID: -3569738766558804698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: divine_beam_11
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 520
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0a1faa2bd414bfa0800000000000000
+      internalID: -5785976689717732851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: divine_beam_12
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 0
+        width: 71
+        height: 1793
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64513cbe90513c6d0800000000000000
+      internalID: -2971508196780075706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: divine_beam_13
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 0
+        width: 69
+        height: 1793
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 709ad22d2d1362720800000000000000
+      internalID: 2820996998133295367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: divine_beam_14
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 0
+        width: 70
+        height: 1793
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf5d111a509b3b700800000000000000
+      internalID: 554990612924978684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: divine_beam_15
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 0
+        width: 72
+        height: 802
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11d9fc643340ba8c0800000000000000
+      internalID: -3987088426828587759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: divine_beam_16
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 1
+        width: 76
+        height: 887
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fbeaf27b525d2f10800000000000000
+      internalID: 2246542341852294134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      divine_beam_0: -6422424175473759251
+      divine_beam_1: 2983548217113354969
+      divine_beam_10: -3569738766558804698
+      divine_beam_11: -5785976689717732851
+      divine_beam_12: -2971508196780075706
+      divine_beam_13: 2820996998133295367
+      divine_beam_14: 554990612924978684
+      divine_beam_15: -3987088426828587759
+      divine_beam_16: 2246542341852294134
+      divine_beam_2: 4871797153510105099
+      divine_beam_3: 8101088474256367930
+      divine_beam_4: -5310903934015362058
+      divine_beam_5: -3720134465011242482
+      divine_beam_6: 1738678581154558609
+      divine_beam_7: 4824199210841810099
+      divine_beam_8: 8795673403791917699
+      divine_beam_9: -2860494543867227556
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

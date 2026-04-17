@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: 8895db3f045fd464bb157814afdbdea4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6660783025301804218
+    second: breakableSewerVessel_0
+  - first:
+      213: 9123595637286136945
+    second: breakableSewerVessel_1
+  - first:
+      213: -7952901661291351073
+    second: breakableSewerVessel_2
+  - first:
+      213: 4958073366821741275
+    second: breakableSewerVessel_3
+  - first:
+      213: 7927411305327760071
+    second: breakableSewerVessel_4
+  - first:
+      213: -3379572029557317552
+    second: breakableSewerVessel_5
+  - first:
+      213: 397955365677725579
+    second: breakableSewerVessel_6
+  - first:
+      213: -1638297596993303119
+    second: breakableSewerVessel_7
+  - first:
+      213: 306464223109365000
+    second: breakableSewerVessel_8
+  - first:
+      213: -4790555633401525533
+    second: breakableSewerVessel_9
+  - first:
+      213: -2246107591576768143
+    second: breakableSewerVessel_10
+  - first:
+      213: 2479507073781210687
+    second: breakableSewerVessel_11
+  - first:
+      213: 2829382170863359919
+    second: breakableSewerVessel_12
+  - first:
+      213: 3758037136990099022
+    second: breakableSewerVessel_13
+  - first:
+      213: -5991796639128907419
+    second: breakableSewerVessel_14
+  - first:
+      213: 3701893542511283842
+    second: breakableSewerVessel_15
+  - first:
+      213: -3820067065066555683
+    second: breakableSewerVessel_16
+  - first:
+      213: -205552252246934076
+    second: breakableSewerVessel_17
+  - first:
+      213: 4747180702959671001
+    second: breakableSewerVessel_18
+  - first:
+      213: -7981760126688949360
+    second: breakableSewerVessel_19
+  - first:
+      213: 6663172084317001845
+    second: breakableSewerVessel_20
+  - first:
+      213: 3331452194145259496
+    second: breakableSewerVessel_21
+  - first:
+      213: -7450803250362039835
+    second: breakableSewerVessel_22
+  - first:
+      213: 2133227312231411114
+    second: breakableSewerVessel_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: breakableSewerVessel_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 94
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64b2feaf0252093a0800000000000000
+      internalID: -6660783025301804218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableSewerVessel_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 77
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17c6ebaa4e58d9e70800000000000000
+      internalID: 9123595637286136945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableSewerVessel_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 79
+        width: 14
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd37d19431e91a190800000000000000
+      internalID: -7952901661291351073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableSewerVessel_3
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 70
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd22cb7457d9ec440800000000000000
+      internalID: 4958073366821741275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableSewerVessel_4
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 75
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c21a7ab492d30e60800000000000000
+      internalID: 7927411305327760071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableSewerVessel_5
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 58
+        width: 29
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 050e36515295911d0800000000000000
+      internalID: -3379572029557317552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableSewerVessel_6
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 74
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b877eafeb42d58500800000000000000
+      internalID: 397955365677725579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableSewerVessel_7
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 60
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bd86def3099349e0800000000000000
+      internalID: -1638297596993303119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableSewerVessel_8
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 44
+        width: 65
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80dbcc25697c04400800000000000000
+      internalID: 306464223109365000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableSewerVessel_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 36
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ea0b5a6807848db0800000000000000
+      internalID: -4790555633401525533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableSewerVessel_10
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 71
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17132ccbb0934d0e0800000000000000
+      internalID: -2246107591576768143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableSewerVessel_11
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 53
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3e1cceeb8af86220800000000000000
+      internalID: 2479507073781210687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableSewerVessel_12
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 0
+        width: 39
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa7522cf71cf34720800000000000000
+      internalID: 2829382170863359919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableSewerVessel_13
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 57
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e46550b7dda372430800000000000000
+      internalID: 3758037136990099022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableSewerVessel_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 561975ed3bcd8dca0800000000000000
+      internalID: -5991796639128907419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableSewerVessel_15
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 19
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28e82bd3094cf5330800000000000000
+      internalID: 3701893542511283842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableSewerVessel_16
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 21
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd6f9807e356cfac0800000000000000
+      internalID: -3820067065066555683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableSewerVessel_17
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 30
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cd3a0ec05bb52df0800000000000000
+      internalID: -205552252246934076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableSewerVessel_18
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 2
+        width: 39
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d6108c92bf51e140800000000000000
+      internalID: 4747180702959671001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableSewerVessel_19
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 46
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09b045634771b3190800000000000000
+      internalID: -7981760126688949360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableSewerVessel_20
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 17
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 578930b25b7587c50800000000000000
+      internalID: 6663172084317001845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableSewerVessel_21
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 0
+        width: 61
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ef493aae12bb3e20800000000000000
+      internalID: 3331452194145259496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableSewerVessel_22
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 3
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e148da7bed699890800000000000000
+      internalID: -7450803250362039835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableSewerVessel_23
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 0
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aade6ba20feba9d10800000000000000
+      internalID: 2133227312231411114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      breakableSewerVessel_0: -6660783025301804218
+      breakableSewerVessel_1: 9123595637286136945
+      breakableSewerVessel_10: -2246107591576768143
+      breakableSewerVessel_11: 2479507073781210687
+      breakableSewerVessel_12: 2829382170863359919
+      breakableSewerVessel_13: 3758037136990099022
+      breakableSewerVessel_14: -5991796639128907419
+      breakableSewerVessel_15: 3701893542511283842
+      breakableSewerVessel_16: -3820067065066555683
+      breakableSewerVessel_17: -205552252246934076
+      breakableSewerVessel_18: 4747180702959671001
+      breakableSewerVessel_19: -7981760126688949360
+      breakableSewerVessel_2: -7952901661291351073
+      breakableSewerVessel_20: 6663172084317001845
+      breakableSewerVessel_21: 3331452194145259496
+      breakableSewerVessel_22: -7450803250362039835
+      breakableSewerVessel_23: 2133227312231411114
+      breakableSewerVessel_3: 4958073366821741275
+      breakableSewerVessel_4: 7927411305327760071
+      breakableSewerVessel_5: -3379572029557317552
+      breakableSewerVessel_6: 397955365677725579
+      breakableSewerVessel_7: -1638297596993303119
+      breakableSewerVessel_8: 306464223109365000
+      breakableSewerVessel_9: -4790555633401525533
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

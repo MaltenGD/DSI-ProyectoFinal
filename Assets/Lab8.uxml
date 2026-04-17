@@ -1,0 +1,38 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/Lab8USS.uss?fileID=7433441132597879392&amp;guid=228c362468c2bc1478f1d75ce88d0bd8&amp;type=3#Lab8USS"/>
+    <ui:VisualElement name="Contenedor" class="inventory-root">
+        <ui:VisualElement name="TitleBar" class="title-bar">
+            <ui:Label name="InventoryTitle" text="a" class="title-label"/>
+        </ui:VisualElement>
+        <ui:VisualElement name="Pestanyas" class="tab-bar">
+            <ui:Label name="NavLeft" text="Q" class="nav-key"/>
+            <ui:VisualElement name="Azul-tab" class="tab">
+                <ui:Label text="1" class="tab-icon"/>
+                <ui:Label text="Azul" class="tab-label"/>
+            </ui:VisualElement>
+            <ui:VisualElement name="Verde-tab" class="tab">
+                <ui:Label text="2" class="tab-icon"/>
+                <ui:Label text="Verde" class="tab-label"/>
+            </ui:VisualElement>
+            <ui:VisualElement name="Ambar-tab" class="tab">
+                <ui:Label text="3" class="tab-icon"/>
+                <ui:Label text="Ámbar" class="tab-label"/>
+            </ui:VisualElement>
+            <ui:Label name="NavRight" text="E" class="nav-key"/>
+        </ui:VisualElement>
+        <ui:VisualElement name="Separator" class="separator"/>
+        <ui:VisualElement name="Contenido" class="content-area">
+            <ui:VisualElement name="Azul-content" class="content-panel">
+                <ui:Label text="Pestania con slider" class="content-title"/>
+                <ui:Slider label="Slider Azul" value="42" direction="Horizontal" class="styled-slider"/>
+            </ui:VisualElement>
+            <ui:VisualElement name="Verde-content" class="content-panel">
+                <ui:Label text="Pestania verde con boton" class="content-title"/>
+            </ui:VisualElement>
+            <ui:VisualElement name="Ambar-content" class="content-panel">
+                <ui:Label text="Pestania Ámbar con slider min/max" class="content-title"/>
+                <ui:MinMaxSlider label="Min/Max Slider" low-limit="0" high-limit="100" value="0,0" class="styled-slider"/>
+            </ui:VisualElement>
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>

@@ -1,0 +1,819 @@
+fileFormatVersion: 2
+guid: e2b928cbf1e62c045a2b3eb28827c438
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2412374901034172628
+    second: tree-metal-tower-spritesheet_0
+  - first:
+      213: -7273906610875377159
+    second: tree-metal-tower-spritesheet_1
+  - first:
+      213: 3086684848929956272
+    second: tree-metal-tower-spritesheet_2
+  - first:
+      213: 4064298542908561093
+    second: tree-metal-tower-spritesheet_3
+  - first:
+      213: -9130428483854884540
+    second: tree-metal-tower-spritesheet_4
+  - first:
+      213: -8023167305740096616
+    second: tree-metal-tower-spritesheet_5
+  - first:
+      213: -5748165719135990676
+    second: tree-metal-tower-spritesheet_6
+  - first:
+      213: -2406429048265232366
+    second: tree-metal-tower-spritesheet_7
+  - first:
+      213: 8418600777294960689
+    second: tree-metal-tower-spritesheet_8
+  - first:
+      213: 8684380624490764227
+    second: tree-metal-tower-spritesheet_9
+  - first:
+      213: 4670395591345738106
+    second: tree-metal-tower-spritesheet_10
+  - first:
+      213: 4186203294693818478
+    second: tree-metal-tower-spritesheet_11
+  - first:
+      213: -8625159915423954927
+    second: tree-metal-tower-spritesheet_12
+  - first:
+      213: 8077816990696403910
+    second: tree-metal-tower-spritesheet_13
+  - first:
+      213: 6809542799942757693
+    second: tree-metal-tower-spritesheet_14
+  - first:
+      213: 48762796427628013
+    second: tree-metal-tower-spritesheet_15
+  - first:
+      213: 7948889233121346866
+    second: tree-metal-tower-spritesheet_16
+  - first:
+      213: -239060262261668001
+    second: tree-metal-tower-spritesheet_17
+  - first:
+      213: -737850129885347487
+    second: tree-metal-tower-spritesheet_18
+  - first:
+      213: 6779424794856756883
+    second: tree-metal-tower-spritesheet_19
+  - first:
+      213: -7058467014737361557
+    second: tree-metal-tower-spritesheet_20
+  - first:
+      213: -8468153611319187217
+    second: tree-metal-tower-spritesheet_21
+  - first:
+      213: 5755814444640422498
+    second: tree-metal-tower-spritesheet_22
+  - first:
+      213: -5356522353128266560
+    second: tree-metal-tower-spritesheet_23
+  - first:
+      213: -6278903353150202957
+    second: tree-metal-tower-spritesheet_24
+  - first:
+      213: 6986478902692998253
+    second: tree-metal-tower-spritesheet_25
+  - first:
+      213: 1787481566286351192
+    second: tree-metal-tower-spritesheet_26
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tree-metal-tower-spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 981
+        width: 67
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d0c531f03a7a7120800000000000000
+      internalID: 2412374901034172628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree-metal-tower-spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 983
+        width: 66
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f95869e974ed0b90800000000000000
+      internalID: -7273906610875377159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree-metal-tower-spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 981
+        width: 65
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b1ec02248b16da20800000000000000
+      internalID: 3086684848929956272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree-metal-tower-spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 981
+        width: 66
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c6d33fbdf9476830800000000000000
+      internalID: 4064298542908561093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree-metal-tower-spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 960
+        width: 58
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 441a8b44ba33a4180800000000000000
+      internalID: -9130428483854884540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree-metal-tower-spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 961
+        width: 54
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89b65df08dbf7a090800000000000000
+      internalID: -8023167305740096616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree-metal-tower-spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 954
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6c42d8cbb96a30b0800000000000000
+      internalID: -5748165719135990676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree-metal-tower-spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 954
+        width: 66
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21038f8c785aa9ed0800000000000000
+      internalID: -2406429048265232366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree-metal-tower-spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 954
+        width: 60
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1385e74adc0e4d470800000000000000
+      internalID: 8418600777294960689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree-metal-tower-spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 950
+        width: 66
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c79e098a2e158870800000000000000
+      internalID: 8684380624490764227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree-metal-tower-spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 567
+        width: 111
+        height: 379
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7196b6ab0490d040800000000000000
+      internalID: 4670395591345738106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree-metal-tower-spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 760
+        width: 20
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e608bc197b1681a30800000000000000
+      internalID: 4186203294693818478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree-metal-tower-spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 704
+        width: 76
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 118873641c64d4880800000000000000
+      internalID: -8625159915423954927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree-metal-tower-spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 811
+        width: 66
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c3f21341cb2a1070800000000000000
+      internalID: 8077816990696403910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree-metal-tower-spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 878
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3d2869191b508e50800000000000000
+      internalID: 6809542799942757693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree-metal-tower-spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 878
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dedc257418d3da000800000000000000
+      internalID: 48762796427628013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree-metal-tower-spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 813
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 235002b74a0205e60800000000000000
+      internalID: 7948889233121346866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree-metal-tower-spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 453
+        width: 150
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f574bf345ffaeacf0800000000000000
+      internalID: -239060262261668001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree-metal-tower-spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 260
+        width: 179
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16145b65731a2c5f0800000000000000
+      internalID: -737850129885347487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree-metal-tower-spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 395
+        width: 224
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39699e69eea551e50800000000000000
+      internalID: 6779424794856756883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree-metal-tower-spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 260
+        width: 173
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6584cfb5a94b0e90800000000000000
+      internalID: -7058467014737361557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree-metal-tower-spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 260
+        width: 86
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe8e0ed18231b7a80800000000000000
+      internalID: -8468153611319187217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree-metal-tower-spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 260
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26acad5edb2c0ef40800000000000000
+      internalID: 5755814444640422498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree-metal-tower-spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 3
+        width: 317
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c4a956cc4fc9a5b0800000000000000
+      internalID: -5356522353128266560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree-metal-tower-spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 8
+        width: 116
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bb1978daaadcd8a0800000000000000
+      internalID: -6278903353150202957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree-metal-tower-spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 8
+        width: 143
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6ce6c9cb85f4f060800000000000000
+      internalID: 6986478902692998253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree-metal-tower-spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 4
+        width: 135
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85b8e0993096ec810800000000000000
+      internalID: 1787481566286351192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      tree-metal-tower-spritesheet_0: 2412374901034172628
+      tree-metal-tower-spritesheet_1: -7273906610875377159
+      tree-metal-tower-spritesheet_10: 4670395591345738106
+      tree-metal-tower-spritesheet_11: 4186203294693818478
+      tree-metal-tower-spritesheet_12: -8625159915423954927
+      tree-metal-tower-spritesheet_13: 8077816990696403910
+      tree-metal-tower-spritesheet_14: 6809542799942757693
+      tree-metal-tower-spritesheet_15: 48762796427628013
+      tree-metal-tower-spritesheet_16: 7948889233121346866
+      tree-metal-tower-spritesheet_17: -239060262261668001
+      tree-metal-tower-spritesheet_18: -737850129885347487
+      tree-metal-tower-spritesheet_19: 6779424794856756883
+      tree-metal-tower-spritesheet_2: 3086684848929956272
+      tree-metal-tower-spritesheet_20: -7058467014737361557
+      tree-metal-tower-spritesheet_21: -8468153611319187217
+      tree-metal-tower-spritesheet_22: 5755814444640422498
+      tree-metal-tower-spritesheet_23: -5356522353128266560
+      tree-metal-tower-spritesheet_24: -6278903353150202957
+      tree-metal-tower-spritesheet_25: 6986478902692998253
+      tree-metal-tower-spritesheet_26: 1787481566286351192
+      tree-metal-tower-spritesheet_3: 4064298542908561093
+      tree-metal-tower-spritesheet_4: -9130428483854884540
+      tree-metal-tower-spritesheet_5: -8023167305740096616
+      tree-metal-tower-spritesheet_6: -5748165719135990676
+      tree-metal-tower-spritesheet_7: -2406429048265232366
+      tree-metal-tower-spritesheet_8: 8418600777294960689
+      tree-metal-tower-spritesheet_9: 8684380624490764227
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

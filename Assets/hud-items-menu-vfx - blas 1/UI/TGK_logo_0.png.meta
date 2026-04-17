@@ -1,0 +1,507 @@
+fileFormatVersion: 2
+guid: 5378dee5c2b65bf4888baee80642c193
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6039704982679301110
+    second: TGK_logo_0_0
+  - first:
+      213: -1167957460802725945
+    second: TGK_logo_0_1
+  - first:
+      213: -2417946550410267789
+    second: TGK_logo_0_2
+  - first:
+      213: -8108702711664972864
+    second: TGK_logo_0_3
+  - first:
+      213: -2039460435130335838
+    second: TGK_logo_0_4
+  - first:
+      213: -5701044613705244454
+    second: TGK_logo_0_5
+  - first:
+      213: -7453030534316608238
+    second: TGK_logo_0_6
+  - first:
+      213: 5682499201396703106
+    second: TGK_logo_0_7
+  - first:
+      213: -5798633880913638855
+    second: TGK_logo_0_8
+  - first:
+      213: -4794190049829897335
+    second: TGK_logo_0_9
+  - first:
+      213: -6600715460846582183
+    second: TGK_logo_0_10
+  - first:
+      213: -900659343541087497
+    second: TGK_logo_0_11
+  - first:
+      213: 6573853550231409707
+    second: TGK_logo_0_12
+  - first:
+      213: 6345722667679072754
+    second: TGK_logo_0_13
+  - first:
+      213: -3312798636847370629
+    second: TGK_logo_0_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TGK_logo_0_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 21
+        width: 228
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fba1c89ea751d350800000000000000
+      internalID: 6039704982679301110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TGK_logo_0_1
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 193
+        width: 21
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c71614a0e49acfe0800000000000000
+      internalID: -1167957460802725945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TGK_logo_0_2
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 193
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3733ae85c6ab17ed0800000000000000
+      internalID: -2417946550410267789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TGK_logo_0_3
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 193
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cb66f178d9187f80800000000000000
+      internalID: -8108702711664972864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TGK_logo_0_4
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 87
+        width: 62
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2adb79e2a8162b3e0800000000000000
+      internalID: -2039460435130335838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TGK_logo_0_5
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 111
+        width: 62
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad0e1771122d1e0b0800000000000000
+      internalID: -5701044613705244454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TGK_logo_0_6
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 111
+        width: 109
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2153be58734819890800000000000000
+      internalID: -7453030534316608238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TGK_logo_0_7
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 110
+        width: 57
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28ff0bf9aea4cde40800000000000000
+      internalID: 5682499201396703106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TGK_logo_0_8
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 23
+        width: 48
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93a0991353d178fa0800000000000000
+      internalID: -5798633880913638855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TGK_logo_0_9
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 23
+        width: 11
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98b3d26ec8d977db0800000000000000
+      internalID: -4794190049829897335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TGK_logo_0_10
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 23
+        width: 30
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9568fcca24c8564a0800000000000000
+      internalID: -6600715460846582183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TGK_logo_0_11
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 23
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f2d89459173083f0800000000000000
+      internalID: -900659343541087497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TGK_logo_0_12
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 23
+        width: 48
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b24dbf269f40b3b50800000000000000
+      internalID: 6573853550231409707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TGK_logo_0_13
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 23
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f1c72a2529801850800000000000000
+      internalID: 6345722667679072754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TGK_logo_0_14
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 23
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7e605611339602d0800000000000000
+      internalID: -3312798636847370629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      TGK_logo_0_0: 6039704982679301110
+      TGK_logo_0_1: -1167957460802725945
+      TGK_logo_0_10: -6600715460846582183
+      TGK_logo_0_11: -900659343541087497
+      TGK_logo_0_12: 6573853550231409707
+      TGK_logo_0_13: 6345722667679072754
+      TGK_logo_0_14: -3312798636847370629
+      TGK_logo_0_2: -2417946550410267789
+      TGK_logo_0_3: -8108702711664972864
+      TGK_logo_0_4: -2039460435130335838
+      TGK_logo_0_5: -5701044613705244454
+      TGK_logo_0_6: -7453030534316608238
+      TGK_logo_0_7: 5682499201396703106
+      TGK_logo_0_8: -5798633880913638855
+      TGK_logo_0_9: -4794190049829897335
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

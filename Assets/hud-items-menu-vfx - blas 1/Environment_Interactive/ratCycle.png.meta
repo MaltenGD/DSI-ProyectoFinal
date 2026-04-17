@@ -1,0 +1,4693 @@
+fileFormatVersion: 2
+guid: 865301a80f0a830469ebbb815b64e573
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3070896075648089215
+    second: ratCycle_0
+  - first:
+      213: -11983068283432105
+    second: ratCycle_1
+  - first:
+      213: -4190972922624537152
+    second: ratCycle_2
+  - first:
+      213: 4914791932576881313
+    second: ratCycle_3
+  - first:
+      213: 5005607070759030336
+    second: ratCycle_4
+  - first:
+      213: 4732123627732117691
+    second: ratCycle_5
+  - first:
+      213: -16106330807884865
+    second: ratCycle_6
+  - first:
+      213: 7790410479209723393
+    second: ratCycle_7
+  - first:
+      213: -7348372506767329318
+    second: ratCycle_8
+  - first:
+      213: 626289794260324600
+    second: ratCycle_9
+  - first:
+      213: 5169859148711014679
+    second: ratCycle_10
+  - first:
+      213: -2046426335048216348
+    second: ratCycle_11
+  - first:
+      213: -5677078920331874517
+    second: ratCycle_12
+  - first:
+      213: 5338091618310038773
+    second: ratCycle_13
+  - first:
+      213: -4270465046312984795
+    second: ratCycle_14
+  - first:
+      213: 6384511990251434977
+    second: ratCycle_15
+  - first:
+      213: -486653523133657444
+    second: ratCycle_16
+  - first:
+      213: 5946094399206324997
+    second: ratCycle_17
+  - first:
+      213: 3521269486071383057
+    second: ratCycle_18
+  - first:
+      213: -2285389408289903360
+    second: ratCycle_19
+  - first:
+      213: -3200066639324584426
+    second: ratCycle_20
+  - first:
+      213: 3307750901159625347
+    second: ratCycle_21
+  - first:
+      213: -7706214252848033973
+    second: ratCycle_22
+  - first:
+      213: -8420531206549870198
+    second: ratCycle_23
+  - first:
+      213: -7246783477623649692
+    second: ratCycle_24
+  - first:
+      213: 3947083665724713117
+    second: ratCycle_25
+  - first:
+      213: 3137065098128655046
+    second: ratCycle_26
+  - first:
+      213: -1702875781831383456
+    second: ratCycle_27
+  - first:
+      213: 2329973508108400395
+    second: ratCycle_28
+  - first:
+      213: -4487913676976579696
+    second: ratCycle_29
+  - first:
+      213: 3974906352832067927
+    second: ratCycle_30
+  - first:
+      213: 2967380295081005225
+    second: ratCycle_31
+  - first:
+      213: -4744961476275938775
+    second: ratCycle_32
+  - first:
+      213: 4753233166759945133
+    second: ratCycle_33
+  - first:
+      213: 9112337074663610174
+    second: ratCycle_34
+  - first:
+      213: -4819803909170526697
+    second: ratCycle_35
+  - first:
+      213: 9057480410370076394
+    second: ratCycle_36
+  - first:
+      213: 7016383086382146831
+    second: ratCycle_37
+  - first:
+      213: -4614896042963107756
+    second: ratCycle_38
+  - first:
+      213: 642562195537274821
+    second: ratCycle_39
+  - first:
+      213: -2592871851156648068
+    second: ratCycle_40
+  - first:
+      213: -353943180978379501
+    second: ratCycle_41
+  - first:
+      213: 1199548851569340308
+    second: ratCycle_42
+  - first:
+      213: 2438188455648904317
+    second: ratCycle_43
+  - first:
+      213: 8758892203664533862
+    second: ratCycle_44
+  - first:
+      213: 6987628564648443042
+    second: ratCycle_45
+  - first:
+      213: 5212048484956356990
+    second: ratCycle_46
+  - first:
+      213: -827942279116702618
+    second: ratCycle_47
+  - first:
+      213: 8566489092562790551
+    second: ratCycle_48
+  - first:
+      213: -4745676362276568699
+    second: ratCycle_49
+  - first:
+      213: -1001217076359593706
+    second: ratCycle_50
+  - first:
+      213: -6851453941047053207
+    second: ratCycle_51
+  - first:
+      213: 2905375187014205267
+    second: ratCycle_52
+  - first:
+      213: -5601427242667568516
+    second: ratCycle_53
+  - first:
+      213: -3939207973808184118
+    second: ratCycle_54
+  - first:
+      213: -8045356220110117477
+    second: ratCycle_55
+  - first:
+      213: -7620398657686821967
+    second: ratCycle_56
+  - first:
+      213: 8221532765230509938
+    second: ratCycle_57
+  - first:
+      213: -7965061057374510174
+    second: ratCycle_58
+  - first:
+      213: 8219203232702637257
+    second: ratCycle_59
+  - first:
+      213: -2141439909247410712
+    second: ratCycle_60
+  - first:
+      213: 1542960206103882185
+    second: ratCycle_61
+  - first:
+      213: 4236140570698708089
+    second: ratCycle_62
+  - first:
+      213: -5475891405317532584
+    second: ratCycle_63
+  - first:
+      213: 3870575214889863413
+    second: ratCycle_64
+  - first:
+      213: 8411900311840486778
+    second: ratCycle_65
+  - first:
+      213: -7601743382196632275
+    second: ratCycle_66
+  - first:
+      213: 541142994209754297
+    second: ratCycle_67
+  - first:
+      213: 3709963266900681647
+    second: ratCycle_68
+  - first:
+      213: 3409902468201028811
+    second: ratCycle_69
+  - first:
+      213: 7206501914385880203
+    second: ratCycle_70
+  - first:
+      213: -335004836884839456
+    second: ratCycle_71
+  - first:
+      213: 7576383954064067046
+    second: ratCycle_72
+  - first:
+      213: 8088589193567326322
+    second: ratCycle_73
+  - first:
+      213: -1094135715870820893
+    second: ratCycle_74
+  - first:
+      213: 7473907847911005109
+    second: ratCycle_75
+  - first:
+      213: -8995251365819740201
+    second: ratCycle_76
+  - first:
+      213: 2270222575354116948
+    second: ratCycle_77
+  - first:
+      213: 924418968719380703
+    second: ratCycle_78
+  - first:
+      213: -1003232054011604282
+    second: ratCycle_79
+  - first:
+      213: 130906940504421730
+    second: ratCycle_80
+  - first:
+      213: -2990997994883517782
+    second: ratCycle_81
+  - first:
+      213: 6349448960260050135
+    second: ratCycle_82
+  - first:
+      213: -7471233470640039682
+    second: ratCycle_83
+  - first:
+      213: 9170750545133970581
+    second: ratCycle_84
+  - first:
+      213: 4033171274366766656
+    second: ratCycle_85
+  - first:
+      213: -8252827881508856861
+    second: ratCycle_86
+  - first:
+      213: -6180647259619163087
+    second: ratCycle_87
+  - first:
+      213: -6236025036828847926
+    second: ratCycle_88
+  - first:
+      213: 1425130822585901657
+    second: ratCycle_89
+  - first:
+      213: 2938275243940308672
+    second: ratCycle_90
+  - first:
+      213: 6220901558327093933
+    second: ratCycle_91
+  - first:
+      213: 3387639496973316497
+    second: ratCycle_92
+  - first:
+      213: -6922340024939144758
+    second: ratCycle_93
+  - first:
+      213: -1768904978017286550
+    second: ratCycle_94
+  - first:
+      213: 3570788395339122234
+    second: ratCycle_95
+  - first:
+      213: -3973057373694079148
+    second: ratCycle_96
+  - first:
+      213: -740454930504172509
+    second: ratCycle_97
+  - first:
+      213: -8221445701472341089
+    second: ratCycle_98
+  - first:
+      213: 560004202659385428
+    second: ratCycle_99
+  - first:
+      213: 8006188044985645455
+    second: ratCycle_100
+  - first:
+      213: -7105860628631601303
+    second: ratCycle_101
+  - first:
+      213: 4778966274857862429
+    second: ratCycle_102
+  - first:
+      213: -8600884657935119151
+    second: ratCycle_103
+  - first:
+      213: -4963497422405400611
+    second: ratCycle_104
+  - first:
+      213: -8803775056104004964
+    second: ratCycle_105
+  - first:
+      213: -6637706078724801460
+    second: ratCycle_106
+  - first:
+      213: -7129412994708223914
+    second: ratCycle_107
+  - first:
+      213: -5600414973996594765
+    second: ratCycle_108
+  - first:
+      213: -5039177654482150556
+    second: ratCycle_109
+  - first:
+      213: -1806422515081933674
+    second: ratCycle_110
+  - first:
+      213: -9050336047094287772
+    second: ratCycle_111
+  - first:
+      213: 4292680599062396797
+    second: ratCycle_112
+  - first:
+      213: 3670103843094035281
+    second: ratCycle_113
+  - first:
+      213: -6761912700271175725
+    second: ratCycle_114
+  - first:
+      213: -7062027124800590491
+    second: ratCycle_115
+  - first:
+      213: 7558272840981554596
+    second: ratCycle_116
+  - first:
+      213: -5081648997840510329
+    second: ratCycle_117
+  - first:
+      213: -1634655940346440039
+    second: ratCycle_118
+  - first:
+      213: -810981619465730998
+    second: ratCycle_119
+  - first:
+      213: -2842014600569639195
+    second: ratCycle_120
+  - first:
+      213: 4586710083917853515
+    second: ratCycle_121
+  - first:
+      213: 5466745669899788937
+    second: ratCycle_122
+  - first:
+      213: -4246502874467768683
+    second: ratCycle_123
+  - first:
+      213: -4161706077552432487
+    second: ratCycle_124
+  - first:
+      213: -3956906103304235776
+    second: ratCycle_125
+  - first:
+      213: -9073991839819771052
+    second: ratCycle_126
+  - first:
+      213: -293307238671678502
+    second: ratCycle_127
+  - first:
+      213: 475943362159140366
+    second: ratCycle_128
+  - first:
+      213: -4669617757655482430
+    second: ratCycle_129
+  - first:
+      213: -8920937737954053411
+    second: ratCycle_130
+  - first:
+      213: 8150429525526949648
+    second: ratCycle_131
+  - first:
+      213: -4037619557371254992
+    second: ratCycle_132
+  - first:
+      213: -7117553270804991336
+    second: ratCycle_133
+  - first:
+      213: -6810653610853444788
+    second: ratCycle_134
+  - first:
+      213: 5813062297158234623
+    second: ratCycle_135
+  - first:
+      213: -6085083794749644411
+    second: ratCycle_136
+  - first:
+      213: 1973080558083531345
+    second: ratCycle_137
+  - first:
+      213: 2712635810402878376
+    second: ratCycle_138
+  - first:
+      213: 7768800332921987025
+    second: ratCycle_139
+  - first:
+      213: -6511031577220693356
+    second: ratCycle_140
+  - first:
+      213: -6753843158432142890
+    second: ratCycle_141
+  - first:
+      213: 1442380053397241119
+    second: ratCycle_142
+  - first:
+      213: -2418028500392091073
+    second: ratCycle_143
+  - first:
+      213: -9106431406976887458
+    second: ratCycle_144
+  - first:
+      213: -3489004158056588447
+    second: ratCycle_145
+  - first:
+      213: -2676207251701689563
+    second: ratCycle_146
+  - first:
+      213: 6793634812661164807
+    second: ratCycle_147
+  - first:
+      213: -8324347348857749706
+    second: ratCycle_148
+  - first:
+      213: 1867224732825616027
+    second: ratCycle_149
+  - first:
+      213: -8762436188632395958
+    second: ratCycle_150
+  - first:
+      213: -2080576856426886213
+    second: ratCycle_151
+  - first:
+      213: 8938124125497620786
+    second: ratCycle_152
+  - first:
+      213: 8502613147659352084
+    second: ratCycle_153
+  - first:
+      213: 323670881736351873
+    second: ratCycle_154
+  - first:
+      213: 6337994205200259722
+    second: ratCycle_155
+  - first:
+      213: -7280841002123267719
+    second: ratCycle_156
+  - first:
+      213: 6448898347069476942
+    second: ratCycle_157
+  - first:
+      213: 7119890868662166300
+    second: ratCycle_158
+  - first:
+      213: 3478002412224353717
+    second: ratCycle_159
+  - first:
+      213: 4431734173083961760
+    second: ratCycle_160
+  - first:
+      213: -3061751259003581089
+    second: ratCycle_161
+  - first:
+      213: -7669813629704557572
+    second: ratCycle_162
+  - first:
+      213: 5604045687378779158
+    second: ratCycle_163
+  - first:
+      213: 7303210003878509079
+    second: ratCycle_164
+  - first:
+      213: 6634427037154408772
+    second: ratCycle_165
+  - first:
+      213: 4918211415810043368
+    second: ratCycle_166
+  - first:
+      213: -3766361154633502990
+    second: ratCycle_167
+  - first:
+      213: 4330912023931192544
+    second: ratCycle_168
+  - first:
+      213: -3611169676157895360
+    second: ratCycle_169
+  - first:
+      213: -7645497514109013471
+    second: ratCycle_170
+  - first:
+      213: -8660098334146562912
+    second: ratCycle_171
+  - first:
+      213: 2617014067190363395
+    second: ratCycle_172
+  - first:
+      213: 3549078003759646141
+    second: ratCycle_173
+  - first:
+      213: 2192717113730790827
+    second: ratCycle_174
+  - first:
+      213: 3448804591691792390
+    second: ratCycle_175
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ratCycle_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1124
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7c3523e5b30e9a20800000000000000
+      internalID: 3070896075648089215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_1
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1124
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75395af767d65dff0800000000000000
+      internalID: -11983068283432105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_2
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 1124
+        width: 35
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cd0fa3e45ca6d5c0800000000000000
+      internalID: -4190972922624537152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_3
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 1124
+        width: 35
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aa53361939d43440800000000000000
+      internalID: 4914791932576881313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_4
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 1124
+        width: 34
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04e86c92c1d777540800000000000000
+      internalID: 5005607070759030336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_5
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1092
+        width: 35
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb8a4381e51eba140800000000000000
+      internalID: 4732123627732117691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_6
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1092
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb3af81a067c6cff0800000000000000
+      internalID: -16106330807884865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_7
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 1092
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 106b6c33e091d1c60800000000000000
+      internalID: 7790410479209723393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_8
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 1092
+        width: 35
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad7f2e07326550a90800000000000000
+      internalID: -7348372506767329318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_9
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 1092
+        width: 35
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f0d659ef3701b800800000000000000
+      internalID: 626289794260324600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_10
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1060
+        width: 34
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71139b131870fb740800000000000000
+      internalID: 5169859148711014679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_11
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1060
+        width: 35
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e052783712a993e0800000000000000
+      internalID: -2046426335048216348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_12
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 1060
+        width: 40
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2fa2c7ecc6f631b0800000000000000
+      internalID: -5677078920331874517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_13
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 1061
+        width: 39
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f42cdf5b06b41a40800000000000000
+      internalID: 5338091618310038773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_14
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 1061
+        width: 36
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52fdac09aa24cb4c0800000000000000
+      internalID: -4270465046312984795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_15
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1028
+        width: 36
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e3b82b14d75a9850800000000000000
+      internalID: 6384511990251434977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_16
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 1028
+        width: 40
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9e0de8f23f0f39f0800000000000000
+      internalID: -486653523133657444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_17
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 1029
+        width: 39
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50bf1a13a55c48250800000000000000
+      internalID: 5946094399206324997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_18
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 1029
+        width: 36
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11405bbe0ff0ed030800000000000000
+      internalID: 3521269486071383057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_19
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 1028
+        width: 36
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00da071117aa840e0800000000000000
+      internalID: -2285389408289903360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_20
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 996
+        width: 40
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 616ea71a8541793d0800000000000000
+      internalID: -3200066639324584426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_21
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 997
+        width: 39
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 382091d5bed77ed20800000000000000
+      internalID: 3307750901159625347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_22
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 997
+        width: 36
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4fc0ff57f60e0590800000000000000
+      internalID: -7706214252848033973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_23
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 996
+        width: 36
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a89e0854b73442b80800000000000000
+      internalID: -8420531206549870198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_24
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 996
+        width: 40
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46a821c72d04e6b90800000000000000
+      internalID: -7246783477623649692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_25
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 965
+        width: 39
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d98a4427eabd6c630800000000000000
+      internalID: 3947083665724713117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_26
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 965
+        width: 36
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c20c3bf518198b20800000000000000
+      internalID: 3137065098128655046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_27
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 964
+        width: 36
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0662357af7b2e58e0800000000000000
+      internalID: -1702875781831383456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_28
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 964
+        width: 35
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b073fd69f8ab55020800000000000000
+      internalID: 2329973508108400395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_29
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 964
+        width: 34
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09b913de94ab7b1c0800000000000000
+      internalID: -4487913676976579696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_30
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 932
+        width: 35
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 759bff79444b92730800000000000000
+      internalID: 3974906352832067927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_31
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 932
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a01cc118a04e2920800000000000000
+      internalID: 2967380295081005225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_32
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 932
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92ad8ad5da2862eb0800000000000000
+      internalID: -4744961476275938775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_33
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 932
+        width: 35
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da3e457a160e6f140800000000000000
+      internalID: 4753233166759945133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_34
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 932
+        width: 35
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3752f84a46857e70800000000000000
+      internalID: 9112337074663610174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_35
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 900
+        width: 34
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7160ada81ed9c1db0800000000000000
+      internalID: -4819803909170526697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_36
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 900
+        width: 35
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeeea24d172a2bd70800000000000000
+      internalID: 9057480410370076394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_37
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 900
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f05eddf1e333f5160800000000000000
+      internalID: 7016383086382146831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_38
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 900
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45004dbef7894ffb0800000000000000
+      internalID: -4614896042963107756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_39
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 900
+        width: 35
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c7281399e6dae800800000000000000
+      internalID: 642562195537274821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_40
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 868
+        width: 35
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7fc2bbf9c4440cd0800000000000000
+      internalID: -2592871851156648068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_41
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 868
+        width: 34
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 315ac1b5d8a861bf0800000000000000
+      internalID: -353943180978379501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_42
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 868
+        width: 35
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49fa4843357a5a010800000000000000
+      internalID: 1199548851569340308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_43
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 868
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d74496a7b7f26d120800000000000000
+      internalID: 2438188455648904317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_44
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 868
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 669ec597d06dd8970800000000000000
+      internalID: 8758892203664533862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_45
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 836
+        width: 35
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ac3e32582b09f060800000000000000
+      internalID: 6987628564648443042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_46
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 836
+        width: 35
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e71cfe18b7ae45840800000000000000
+      internalID: 5212048484956356990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_47
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 836
+        width: 34
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66cb8be32ee8284f0800000000000000
+      internalID: -827942279116702618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_48
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 836
+        width: 35
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 798a676417842e670800000000000000
+      internalID: 8566489092562790551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_49
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 836
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 581898ffd78f32eb0800000000000000
+      internalID: -4745676362276568699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_50
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 804
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 611088caf56fa12f0800000000000000
+      internalID: -1001217076359593706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_51
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 804
+        width: 35
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 964b0f0f0febae0a0800000000000000
+      internalID: -6851453941047053207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_52
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 804
+        width: 35
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35f3739d657f15820800000000000000
+      internalID: 2905375187014205267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_53
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 804
+        width: 34
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c729a95b99bb342b0800000000000000
+      internalID: -5601427242667568516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_54
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 804
+        width: 35
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac4e6c8f73f1559c0800000000000000
+      internalID: -3939207973808184118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_55
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 772
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b956bd8d427295090800000000000000
+      internalID: -8045356220110117477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_56
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 772
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b3a6b1abc7ee3690800000000000000
+      internalID: -7620398657686821967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_57
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 772
+        width: 35
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27faccc8d70c81270800000000000000
+      internalID: 8221532765230509938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_58
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 772
+        width: 35
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a325e44b2b667190800000000000000
+      internalID: -7965061057374510174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_59
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 772
+        width: 35
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c4abfdfac9701270800000000000000
+      internalID: 8219203232702637257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_60
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 740
+        width: 33
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ed96759fb31842e0800000000000000
+      internalID: -2141439909247410712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_61
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 740
+        width: 32
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c9a26be122b96510800000000000000
+      internalID: 1542960206103882185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_62
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 740
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 974fd1fa76bc9ca30800000000000000
+      internalID: 4236140570698708089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_63
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 740
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8541f6587c9b104b0800000000000000
+      internalID: -5475891405317532584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_64
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 740
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f801f796ab07b530800000000000000
+      internalID: 3870575214889863413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_65
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 708
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a75ff35f3c21db470800000000000000
+      internalID: 8411900311840486778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_66
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 708
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d254e7e6bae218690800000000000000
+      internalID: -7601743382196632275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_67
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 708
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bc4096afa6828700800000000000000
+      internalID: 541142994209754297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_68
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 708
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa3ec5d5fef6c7330800000000000000
+      internalID: 3709963266900681647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_69
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 708
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcc99d77a38625f20800000000000000
+      internalID: 3409902468201028811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_70
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 676
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8494283f43a20460800000000000000
+      internalID: 7206501914385880203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_71
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 676
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e3017330e2d95bf0800000000000000
+      internalID: -335004836884839456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_72
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 676
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e945f79019b42960800000000000000
+      internalID: 7576383954064067046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_73
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 676
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 270d4a03401704070800000000000000
+      internalID: 8088589193567326322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_74
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 676
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e5b3770d59d0d0f0800000000000000
+      internalID: -1094135715870820893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_75
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 644
+        width: 32
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bb5db6d697a8b760800000000000000
+      internalID: 7473907847911005109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_76
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 644
+        width: 33
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7df87faaa827a2380800000000000000
+      internalID: -8995251365819740201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_77
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 644
+        width: 35
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45bfd057763718f10800000000000000
+      internalID: 2270222575354116948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_78
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 644
+        width: 35
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd0d62e772234dc00800000000000000
+      internalID: 924418968719380703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_79
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 644
+        width: 32
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c25a5123cdc312f0800000000000000
+      internalID: -1003232054011604282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_80
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 612
+        width: 30
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26536673b2311d100800000000000000
+      internalID: 130906940504421730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_81
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 612
+        width: 26
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa2ff0fab27dd76d0800000000000000
+      internalID: -2990997994883517782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_82
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 612
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dc06c34036cd1850800000000000000
+      internalID: 6349448960260050135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_83
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 612
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef8dd742eb8d05890800000000000000
+      internalID: -7471233470640039682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_84
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 611
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5942e66380d054f70800000000000000
+      internalID: 9170750545133970581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_85
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 579
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04ec0f6c7e3b8f730800000000000000
+      internalID: 4033171274366766656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_86
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 579
+        width: 27
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eb993264c0187d80800000000000000
+      internalID: -8252827881508856861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_87
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 580
+        width: 35
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1348868501ee93aa0800000000000000
+      internalID: -6180647259619163087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_88
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 580
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac0df55d4403579a0800000000000000
+      internalID: -6236025036828847926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_89
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 580
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95261b6bee417c310800000000000000
+      internalID: 1425130822585901657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_90
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 548
+        width: 35
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c6e26744c9d6c820800000000000000
+      internalID: 2938275243940308672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_91
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 548
+        width: 35
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daaa2cee105155650800000000000000
+      internalID: 6220901558327093933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_92
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 548
+        width: 34
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1917d2c8c20530f20800000000000000
+      internalID: 3387639496973316497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_93
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 548
+        width: 35
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac998076c68eeef90800000000000000
+      internalID: -6922340024939144758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_94
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 548
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a660cd76b469377e0800000000000000
+      internalID: -1768904978017286550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_95
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 516
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a368640702dfd8130800000000000000
+      internalID: 3570788395339122234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_96
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 516
+        width: 35
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45fc7b86e5ddcd8c0800000000000000
+      internalID: -3973057373694079148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_97
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 516
+        width: 35
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32cbc1fe92069b5f0800000000000000
+      internalID: -740454930504172509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_98
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 516
+        width: 34
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f93349f81be87ed80800000000000000
+      internalID: -8221445701472341089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_99
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 516
+        width: 35
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4501d34fad885c700800000000000000
+      internalID: 560004202659385428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_100
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 484
+        width: 40
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f89395abb91bb1f60800000000000000
+      internalID: 8006188044985645455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_101
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 485
+        width: 39
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96fbafe1869e26d90800000000000000
+      internalID: -7105860628631601303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_102
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 485
+        width: 36
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d158976c18c425240800000000000000
+      internalID: 4778966274857862429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_103
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 484
+        width: 36
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dc8ba919f483a880800000000000000
+      internalID: -8600884657935119151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_104
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 484
+        width: 40
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd785fd546d1e1bb0800000000000000
+      internalID: -4963497422405400611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_105
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 453
+        width: 39
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c92e97a1b35b2d580800000000000000
+      internalID: -8803775056104004964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_106
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 453
+        width: 36
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4c382e4d7122e3a0800000000000000
+      internalID: -6637706078724801460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_107
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 452
+        width: 36
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 658cc5197ac3f0d90800000000000000
+      internalID: -7129412994708223914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_108
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 452
+        width: 40
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b98720e0445742b0800000000000000
+      internalID: -5600414973996594765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_109
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 453
+        width: 39
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46b51883f9e311ab0800000000000000
+      internalID: -5039177654482150556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_110
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 421
+        width: 36
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69c064a1b4c4ee6e0800000000000000
+      internalID: -1806422515081933674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_111
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 420
+        width: 36
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 462380fd05fb66280800000000000000
+      internalID: -9050336047094287772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_112
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 420
+        width: 40
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7f3351e24aa29b30800000000000000
+      internalID: 4292680599062396797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_113
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 421
+        width: 39
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15b7a601004dee230800000000000000
+      internalID: 3670103843094035281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_114
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 421
+        width: 36
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d7522aa93cd822a0800000000000000
+      internalID: -6761912700271175725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_115
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 388
+        width: 36
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56d66180fb3aefd90800000000000000
+      internalID: -7062027124800590491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_116
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 388
+        width: 35
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a5203a7a1164e860800000000000000
+      internalID: 7558272840981554596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_117
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 388
+        width: 34
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7822f72092b5a79b0800000000000000
+      internalID: -5081648997840510329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_118
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 388
+        width: 35
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9961ba145198059e0800000000000000
+      internalID: -1634655940346440039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_119
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 388
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a44cf5c8380deb4f0800000000000000
+      internalID: -810981619465730998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_120
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 356
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eea29647c22f88d0800000000000000
+      internalID: -2842014600569639195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_121
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 356
+        width: 35
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4330a7158447af30800000000000000
+      internalID: 4586710083917853515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_122
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 356
+        width: 35
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98228c30938cddb40800000000000000
+      internalID: 5466745669899788937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_123
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 356
+        width: 34
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5966ca572246115c0800000000000000
+      internalID: -4246502874467768683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_124
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 356
+        width: 35
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99a27e34f56ae36c0800000000000000
+      internalID: -4161706077552432487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_125
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 324
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 005d9f61dde3619c0800000000000000
+      internalID: -3956906103304235776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_126
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 324
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 453dfbc6f74b21280800000000000000
+      internalID: -9073991839819771052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_127
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 324
+        width: 35
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad38ce4de96fdebf0800000000000000
+      internalID: -293307238671678502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_128
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 324
+        width: 35
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0e53ba57f3ea9600800000000000000
+      internalID: 475943362159140366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_129
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 324
+        width: 34
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cfb61ed36f223fb0800000000000000
+      internalID: -4669617757655482430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_130
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 292
+        width: 35
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd23fd97466723480800000000000000
+      internalID: -8920937737954053411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_131
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 292
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01fa3eb78742c1170800000000000000
+      internalID: 8150429525526949648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_132
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 292
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03767b0a76e77f7c0800000000000000
+      internalID: -4037619557371254992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_133
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 292
+        width: 35
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 892bfb7b20f593d90800000000000000
+      internalID: -7117553270804991336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_134
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 292
+        width: 35
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4359d410a2bb71a0800000000000000
+      internalID: -6810653610853444788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_135
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 260
+        width: 34
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff1355f3c552ca050800000000000000
+      internalID: 5813062297158234623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_136
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 260
+        width: 35
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 581267167807d8ba0800000000000000
+      internalID: -6085083794749644411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_137
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 260
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1526cc1505ac16b10800000000000000
+      internalID: 1973080558083531345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_138
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 260
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a3411cb5e735a520800000000000000
+      internalID: 2712635810402878376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_139
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 260
+        width: 35
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1df50ceedb250db60800000000000000
+      internalID: 7768800332921987025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_140
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 228
+        width: 35
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 492c866074b24a5a0800000000000000
+      internalID: -6511031577220693356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_141
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 228
+        width: 34
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d923f84e678542a0800000000000000
+      internalID: -6753843158432142890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_142
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 228
+        width: 35
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1df9d9340d540410800000000000000
+      internalID: 1442380053397241119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_143
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 228
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f32eb51e3ef617ed0800000000000000
+      internalID: -2418028500392091073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_144
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 228
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e559eaf12e47f9180800000000000000
+      internalID: -9106431406976887458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_145
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 196
+        width: 35
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16b1d2b2431949fc0800000000000000
+      internalID: -3489004158056588447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_146
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 196
+        width: 35
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5231ff80fa33cdad0800000000000000
+      internalID: -2676207251701689563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_147
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 196
+        width: 35
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70b656e2ed6d74e50800000000000000
+      internalID: 6793634812661164807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_148
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 196
+        width: 33
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63f7e54c03af97c80800000000000000
+      internalID: -8324347348857749706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_149
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 196
+        width: 32
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9ef4e36007b9e910800000000000000
+      internalID: 1867224732825616027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_150
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 164
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4fc98936b2956680800000000000000
+      internalID: -8762436188632395958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_151
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 164
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbbc6c85f5e4023e0800000000000000
+      internalID: -2080576856426886213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_152
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 164
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23972a239889a0c70800000000000000
+      internalID: 8938124125497620786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_153
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 164
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4183dc8eb995ff570800000000000000
+      internalID: 8502613147659352084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_154
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 164
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 180680ab3f8ed7400800000000000000
+      internalID: 323670881736351873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_155
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 132
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8a1275462415f750800000000000000
+      internalID: 6337994205200259722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_156
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 132
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 971f7522fa145fa90800000000000000
+      internalID: -7280841002123267719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_157
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 132
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e401ea101e61f7950800000000000000
+      internalID: 6448898347069476942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_158
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 132
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c13e722b50feec260800000000000000
+      internalID: 7119890868662166300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_159
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 132
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b5959444c8544030800000000000000
+      internalID: 3478002412224353717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_160
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 100
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a901a500cea08d30800000000000000
+      internalID: 4431734173083961760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_161
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 100
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5d8c78a3797285d0800000000000000
+      internalID: -3061751259003581089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_162
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 100
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfba204e3295f8590800000000000000
+      internalID: -7669813629704557572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_163
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 100
+        width: 32
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61c95457cd195cd40800000000000000
+      internalID: 5604045687378779158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_164
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 100
+        width: 33
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71af141fdc63a5560800000000000000
+      internalID: 7303210003878509079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_165
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 68
+        width: 35
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 449f5d55d38321c50800000000000000
+      internalID: 6634427037154408772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_166
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 68
+        width: 35
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ede0a1993ff04440800000000000000
+      internalID: 4918211415810043368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_167
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 68
+        width: 32
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fe6d322c723bbbc0800000000000000
+      internalID: -3766361154633502990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_168
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 68
+        width: 30
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e403e32a8d7a1c30800000000000000
+      internalID: 4330912023931192544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_169
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 68
+        width: 26
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04d32f4ff4c82edc0800000000000000
+      internalID: -3611169676157895360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_170
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 36
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 122766cb48cb5e590800000000000000
+      internalID: -7645497514109013471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_171
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 36
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a4fd31c27621d780800000000000000
+      internalID: -8660098334146562912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_172
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 35
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 305f417bd60815420800000000000000
+      internalID: 2617014067190363395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_173
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 35
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db50f3ef3abd04130800000000000000
+      internalID: 3549078003759646141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_174
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 35
+        width: 27
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba5f7d0f8981e6e10800000000000000
+      internalID: 2192717113730790827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ratCycle_175
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 4
+        width: 35
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 600868be08d9cdf20800000000000000
+      internalID: 3448804591691792390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ratCycle_0: 3070896075648089215
+      ratCycle_1: -11983068283432105
+      ratCycle_10: 5169859148711014679
+      ratCycle_100: 8006188044985645455
+      ratCycle_101: -7105860628631601303
+      ratCycle_102: 4778966274857862429
+      ratCycle_103: -8600884657935119151
+      ratCycle_104: -4963497422405400611
+      ratCycle_105: -8803775056104004964
+      ratCycle_106: -6637706078724801460
+      ratCycle_107: -7129412994708223914
+      ratCycle_108: -5600414973996594765
+      ratCycle_109: -5039177654482150556
+      ratCycle_11: -2046426335048216348
+      ratCycle_110: -1806422515081933674
+      ratCycle_111: -9050336047094287772
+      ratCycle_112: 4292680599062396797
+      ratCycle_113: 3670103843094035281
+      ratCycle_114: -6761912700271175725
+      ratCycle_115: -7062027124800590491
+      ratCycle_116: 7558272840981554596
+      ratCycle_117: -5081648997840510329
+      ratCycle_118: -1634655940346440039
+      ratCycle_119: -810981619465730998
+      ratCycle_12: -5677078920331874517
+      ratCycle_120: -2842014600569639195
+      ratCycle_121: 4586710083917853515
+      ratCycle_122: 5466745669899788937
+      ratCycle_123: -4246502874467768683
+      ratCycle_124: -4161706077552432487
+      ratCycle_125: -3956906103304235776
+      ratCycle_126: -9073991839819771052
+      ratCycle_127: -293307238671678502
+      ratCycle_128: 475943362159140366
+      ratCycle_129: -4669617757655482430
+      ratCycle_13: 5338091618310038773
+      ratCycle_130: -8920937737954053411
+      ratCycle_131: 8150429525526949648
+      ratCycle_132: -4037619557371254992
+      ratCycle_133: -7117553270804991336
+      ratCycle_134: -6810653610853444788
+      ratCycle_135: 5813062297158234623
+      ratCycle_136: -6085083794749644411
+      ratCycle_137: 1973080558083531345
+      ratCycle_138: 2712635810402878376
+      ratCycle_139: 7768800332921987025
+      ratCycle_14: -4270465046312984795
+      ratCycle_140: -6511031577220693356
+      ratCycle_141: -6753843158432142890
+      ratCycle_142: 1442380053397241119
+      ratCycle_143: -2418028500392091073
+      ratCycle_144: -9106431406976887458
+      ratCycle_145: -3489004158056588447
+      ratCycle_146: -2676207251701689563
+      ratCycle_147: 6793634812661164807
+      ratCycle_148: -8324347348857749706
+      ratCycle_149: 1867224732825616027
+      ratCycle_15: 6384511990251434977
+      ratCycle_150: -8762436188632395958
+      ratCycle_151: -2080576856426886213
+      ratCycle_152: 8938124125497620786
+      ratCycle_153: 8502613147659352084
+      ratCycle_154: 323670881736351873
+      ratCycle_155: 6337994205200259722
+      ratCycle_156: -7280841002123267719
+      ratCycle_157: 6448898347069476942
+      ratCycle_158: 7119890868662166300
+      ratCycle_159: 3478002412224353717
+      ratCycle_16: -486653523133657444
+      ratCycle_160: 4431734173083961760
+      ratCycle_161: -3061751259003581089
+      ratCycle_162: -7669813629704557572
+      ratCycle_163: 5604045687378779158
+      ratCycle_164: 7303210003878509079
+      ratCycle_165: 6634427037154408772
+      ratCycle_166: 4918211415810043368
+      ratCycle_167: -3766361154633502990
+      ratCycle_168: 4330912023931192544
+      ratCycle_169: -3611169676157895360
+      ratCycle_17: 5946094399206324997
+      ratCycle_170: -7645497514109013471
+      ratCycle_171: -8660098334146562912
+      ratCycle_172: 2617014067190363395
+      ratCycle_173: 3549078003759646141
+      ratCycle_174: 2192717113730790827
+      ratCycle_175: 3448804591691792390
+      ratCycle_18: 3521269486071383057
+      ratCycle_19: -2285389408289903360
+      ratCycle_2: -4190972922624537152
+      ratCycle_20: -3200066639324584426
+      ratCycle_21: 3307750901159625347
+      ratCycle_22: -7706214252848033973
+      ratCycle_23: -8420531206549870198
+      ratCycle_24: -7246783477623649692
+      ratCycle_25: 3947083665724713117
+      ratCycle_26: 3137065098128655046
+      ratCycle_27: -1702875781831383456
+      ratCycle_28: 2329973508108400395
+      ratCycle_29: -4487913676976579696
+      ratCycle_3: 4914791932576881313
+      ratCycle_30: 3974906352832067927
+      ratCycle_31: 2967380295081005225
+      ratCycle_32: -4744961476275938775
+      ratCycle_33: 4753233166759945133
+      ratCycle_34: 9112337074663610174
+      ratCycle_35: -4819803909170526697
+      ratCycle_36: 9057480410370076394
+      ratCycle_37: 7016383086382146831
+      ratCycle_38: -4614896042963107756
+      ratCycle_39: 642562195537274821
+      ratCycle_4: 5005607070759030336
+      ratCycle_40: -2592871851156648068
+      ratCycle_41: -353943180978379501
+      ratCycle_42: 1199548851569340308
+      ratCycle_43: 2438188455648904317
+      ratCycle_44: 8758892203664533862
+      ratCycle_45: 6987628564648443042
+      ratCycle_46: 5212048484956356990
+      ratCycle_47: -827942279116702618
+      ratCycle_48: 8566489092562790551
+      ratCycle_49: -4745676362276568699
+      ratCycle_5: 4732123627732117691
+      ratCycle_50: -1001217076359593706
+      ratCycle_51: -6851453941047053207
+      ratCycle_52: 2905375187014205267
+      ratCycle_53: -5601427242667568516
+      ratCycle_54: -3939207973808184118
+      ratCycle_55: -8045356220110117477
+      ratCycle_56: -7620398657686821967
+      ratCycle_57: 8221532765230509938
+      ratCycle_58: -7965061057374510174
+      ratCycle_59: 8219203232702637257
+      ratCycle_6: -16106330807884865
+      ratCycle_60: -2141439909247410712
+      ratCycle_61: 1542960206103882185
+      ratCycle_62: 4236140570698708089
+      ratCycle_63: -5475891405317532584
+      ratCycle_64: 3870575214889863413
+      ratCycle_65: 8411900311840486778
+      ratCycle_66: -7601743382196632275
+      ratCycle_67: 541142994209754297
+      ratCycle_68: 3709963266900681647
+      ratCycle_69: 3409902468201028811
+      ratCycle_7: 7790410479209723393
+      ratCycle_70: 7206501914385880203
+      ratCycle_71: -335004836884839456
+      ratCycle_72: 7576383954064067046
+      ratCycle_73: 8088589193567326322
+      ratCycle_74: -1094135715870820893
+      ratCycle_75: 7473907847911005109
+      ratCycle_76: -8995251365819740201
+      ratCycle_77: 2270222575354116948
+      ratCycle_78: 924418968719380703
+      ratCycle_79: -1003232054011604282
+      ratCycle_8: -7348372506767329318
+      ratCycle_80: 130906940504421730
+      ratCycle_81: -2990997994883517782
+      ratCycle_82: 6349448960260050135
+      ratCycle_83: -7471233470640039682
+      ratCycle_84: 9170750545133970581
+      ratCycle_85: 4033171274366766656
+      ratCycle_86: -8252827881508856861
+      ratCycle_87: -6180647259619163087
+      ratCycle_88: -6236025036828847926
+      ratCycle_89: 1425130822585901657
+      ratCycle_9: 626289794260324600
+      ratCycle_90: 2938275243940308672
+      ratCycle_91: 6220901558327093933
+      ratCycle_92: 3387639496973316497
+      ratCycle_93: -6922340024939144758
+      ratCycle_94: -1768904978017286550
+      ratCycle_95: 3570788395339122234
+      ratCycle_96: -3973057373694079148
+      ratCycle_97: -740454930504172509
+      ratCycle_98: -8221445701472341089
+      ratCycle_99: 560004202659385428
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

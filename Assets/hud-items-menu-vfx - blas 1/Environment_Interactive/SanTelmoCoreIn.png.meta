@@ -1,0 +1,585 @@
+fileFormatVersion: 2
+guid: 5d1ab7523b989f147a1c35587230be96
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6769245823091997822
+    second: SanTelmoCoreIn_0
+  - first:
+      213: -1065635658556060688
+    second: SanTelmoCoreIn_1
+  - first:
+      213: -7861886264544236318
+    second: SanTelmoCoreIn_2
+  - first:
+      213: 7251526173575821510
+    second: SanTelmoCoreIn_3
+  - first:
+      213: 9139916893872241819
+    second: SanTelmoCoreIn_4
+  - first:
+      213: 5188074998099060660
+    second: SanTelmoCoreIn_5
+  - first:
+      213: 5186810086659898191
+    second: SanTelmoCoreIn_6
+  - first:
+      213: 1546413796498192452
+    second: SanTelmoCoreIn_7
+  - first:
+      213: -50641635552176526
+    second: SanTelmoCoreIn_8
+  - first:
+      213: 2945486351224174812
+    second: SanTelmoCoreIn_9
+  - first:
+      213: 1914102145596452281
+    second: SanTelmoCoreIn_10
+  - first:
+      213: -5296274820653050768
+    second: SanTelmoCoreIn_11
+  - first:
+      213: 8988554848833161573
+    second: SanTelmoCoreIn_12
+  - first:
+      213: 6912367172085189741
+    second: SanTelmoCoreIn_13
+  - first:
+      213: 570546352246638589
+    second: SanTelmoCoreIn_14
+  - first:
+      213: 1926629337406056630
+    second: SanTelmoCoreIn_15
+  - first:
+      213: -7624998911269990682
+    second: SanTelmoCoreIn_16
+  - first:
+      213: -2654205422020121946
+    second: SanTelmoCoreIn_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SanTelmoCoreIn_0
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 200
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7cf1ba063131fd50800000000000000
+      internalID: 6769245823091997822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SanTelmoCoreIn_1
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 202
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fbc6c7b30a1631f0800000000000000
+      internalID: -1065635658556060688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SanTelmoCoreIn_2
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 203
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ec6151b818f4e290800000000000000
+      internalID: -7861886264544236318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SanTelmoCoreIn_3
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 204
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c83f6772a892a460800000000000000
+      internalID: 7251526173575821510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SanTelmoCoreIn_4
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 141
+        width: 11
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9cb8d75df187de70800000000000000
+      internalID: 9139916893872241819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SanTelmoCoreIn_5
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 141
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b7a7c129bebff740800000000000000
+      internalID: 5188074998099060660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SanTelmoCoreIn_6
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 141
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4bb6ccfa404bf740800000000000000
+      internalID: 5186810086659898191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SanTelmoCoreIn_7
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 141
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 448b9089727f57510800000000000000
+      internalID: 1546413796498192452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SanTelmoCoreIn_8
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 141
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 276511663b51c4ff0800000000000000
+      internalID: -50641635552176526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SanTelmoCoreIn_9
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 73
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd87a770b3870e820800000000000000
+      internalID: 2945486351224174812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SanTelmoCoreIn_10
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 73
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bde61492c1409a10800000000000000
+      internalID: 1914102145596452281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SanTelmoCoreIn_11
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 70
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 074112a8c1adf76b0800000000000000
+      internalID: -5296274820653050768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SanTelmoCoreIn_12
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 70
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 569c0d8f203cdbc70800000000000000
+      internalID: 8988554848833161573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SanTelmoCoreIn_13
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 63
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6c8539d159adef50800000000000000
+      internalID: 6912367172085189741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SanTelmoCoreIn_14
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 0
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df74e8d62ecfae700800000000000000
+      internalID: 570546352246638589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SanTelmoCoreIn_15
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 0
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b82fe5bc23ccba10800000000000000
+      internalID: 1926629337406056630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SanTelmoCoreIn_16
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 0
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ee0301a3ef8e2690800000000000000
+      internalID: -7624998911269990682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SanTelmoCoreIn_17
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 0
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aa23933b3e5a2bd0800000000000000
+      internalID: -2654205422020121946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SanTelmoCoreIn_0: 6769245823091997822
+      SanTelmoCoreIn_1: -1065635658556060688
+      SanTelmoCoreIn_10: 1914102145596452281
+      SanTelmoCoreIn_11: -5296274820653050768
+      SanTelmoCoreIn_12: 8988554848833161573
+      SanTelmoCoreIn_13: 6912367172085189741
+      SanTelmoCoreIn_14: 570546352246638589
+      SanTelmoCoreIn_15: 1926629337406056630
+      SanTelmoCoreIn_16: -7624998911269990682
+      SanTelmoCoreIn_17: -2654205422020121946
+      SanTelmoCoreIn_2: -7861886264544236318
+      SanTelmoCoreIn_3: 7251526173575821510
+      SanTelmoCoreIn_4: 9139916893872241819
+      SanTelmoCoreIn_5: 5188074998099060660
+      SanTelmoCoreIn_6: 5186810086659898191
+      SanTelmoCoreIn_7: 1546413796498192452
+      SanTelmoCoreIn_8: -50641635552176526
+      SanTelmoCoreIn_9: 2945486351224174812
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

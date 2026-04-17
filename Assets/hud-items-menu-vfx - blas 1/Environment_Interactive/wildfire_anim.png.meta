@@ -1,0 +1,1131 @@
+fileFormatVersion: 2
+guid: 060f105b148550f48bf4079cb04f7e15
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6009886525364159595
+    second: wildfire_anim_0
+  - first:
+      213: 3901859621497343034
+    second: wildfire_anim_1
+  - first:
+      213: 1337676985182777918
+    second: wildfire_anim_2
+  - first:
+      213: -2984777243060803849
+    second: wildfire_anim_3
+  - first:
+      213: -5203904810113176340
+    second: wildfire_anim_4
+  - first:
+      213: 7265227036347065804
+    second: wildfire_anim_5
+  - first:
+      213: -8835897484845897454
+    second: wildfire_anim_6
+  - first:
+      213: 8448482167791102895
+    second: wildfire_anim_7
+  - first:
+      213: 2833238537183026755
+    second: wildfire_anim_8
+  - first:
+      213: 500685208425774048
+    second: wildfire_anim_9
+  - first:
+      213: -8534125491689001525
+    second: wildfire_anim_10
+  - first:
+      213: 2463996351777900242
+    second: wildfire_anim_11
+  - first:
+      213: -174303775348827741
+    second: wildfire_anim_12
+  - first:
+      213: -7699331694323124607
+    second: wildfire_anim_13
+  - first:
+      213: -4203706473816749857
+    second: wildfire_anim_14
+  - first:
+      213: -8740444690206444113
+    second: wildfire_anim_15
+  - first:
+      213: -3056957585820248392
+    second: wildfire_anim_16
+  - first:
+      213: -1444857509766704887
+    second: wildfire_anim_17
+  - first:
+      213: -7056834959927365886
+    second: wildfire_anim_18
+  - first:
+      213: 777096987751993391
+    second: wildfire_anim_19
+  - first:
+      213: 8156729771785541893
+    second: wildfire_anim_20
+  - first:
+      213: -7090343463952136119
+    second: wildfire_anim_21
+  - first:
+      213: -5696424781349414205
+    second: wildfire_anim_22
+  - first:
+      213: 3396583267009498158
+    second: wildfire_anim_23
+  - first:
+      213: -1207624028485008795
+    second: wildfire_anim_24
+  - first:
+      213: 6047963430715171918
+    second: wildfire_anim_25
+  - first:
+      213: 6251143021283758190
+    second: wildfire_anim_26
+  - first:
+      213: 1648141136060644508
+    second: wildfire_anim_27
+  - first:
+      213: -5315216033270808581
+    second: wildfire_anim_28
+  - first:
+      213: 5485173880612229470
+    second: wildfire_anim_29
+  - first:
+      213: 2911186142468570561
+    second: wildfire_anim_30
+  - first:
+      213: -5726676434487309588
+    second: wildfire_anim_31
+  - first:
+      213: 1716998699036697884
+    second: wildfire_anim_32
+  - first:
+      213: 273071539365293986
+    second: wildfire_anim_33
+  - first:
+      213: 3281710452374213450
+    second: wildfire_anim_34
+  - first:
+      213: -1587746683027643443
+    second: wildfire_anim_35
+  - first:
+      213: 6728514287401136291
+    second: wildfire_anim_36
+  - first:
+      213: -2132444080974396709
+    second: wildfire_anim_37
+  - first:
+      213: -329528185042355694
+    second: wildfire_anim_38
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: wildfire_anim_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 195
+        width: 13
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b64ccbcf3f7676350800000000000000
+      internalID: 6009886525364159595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wildfire_anim_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 195
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3c0ace17a0362630800000000000000
+      internalID: 3901859621497343034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wildfire_anim_2
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 211
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e32f8067122609210800000000000000
+      internalID: 1337676985182777918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wildfire_anim_3
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 195
+        width: 45
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f6e0b559e0f396d0800000000000000
+      internalID: -2984777243060803849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wildfire_anim_4
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 212
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cece14c852408c7b0800000000000000
+      internalID: -5203904810113176340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wildfire_anim_5
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 129
+        width: 77
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc5e70a2f7543d460800000000000000
+      internalID: 7265227036347065804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wildfire_anim_6
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 199
+        width: 13
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2192ef75d06906580800000000000000
+      internalID: -8835897484845897454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wildfire_anim_7
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 197
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fab296605c90f3570800000000000000
+      internalID: 8448482167791102895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wildfire_anim_8
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 133
+        width: 11
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34eddbc307fa15720800000000000000
+      internalID: 2833238537183026755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wildfire_anim_9
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 133
+        width: 10
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ebb2885b8ac2f600800000000000000
+      internalID: 500685208425774048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wildfire_anim_10
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 133
+        width: 43
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcd654fb412b09980800000000000000
+      internalID: -8534125491689001525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wildfire_anim_11
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 134
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d6849b80afd13220800000000000000
+      internalID: 2463996351777900242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wildfire_anim_12
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 129
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a9d25bc3afb49df0800000000000000
+      internalID: -174303775348827741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wildfire_anim_13
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 70
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 186b6f7ed9a762590800000000000000
+      internalID: -7699331694323124607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wildfire_anim_14
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 70
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd88428fb3f69a5c0800000000000000
+      internalID: -4203706473816749857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wildfire_anim_15
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 9
+        width: 17
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa5bb45fcd3b3b680800000000000000
+      internalID: -8740444690206444113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wildfire_anim_16
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 67
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b69fbba5418395d0800000000000000
+      internalID: -3056957585820248392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wildfire_anim_17
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 87
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 901dc4300c5d2fbe0800000000000000
+      internalID: -1444857509766704887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wildfire_anim_18
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20fa8fe1ef5111e90800000000000000
+      internalID: -7056834959927365886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wildfire_anim_19
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 89
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f20dbf6d79dc8ca00800000000000000
+      internalID: 777096987751993391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wildfire_anim_20
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 82
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5095120e286823170800000000000000
+      internalID: 8156729771785541893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wildfire_anim_21
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 77
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 948ce9f8f2a0a9d90800000000000000
+      internalID: -7090343463952136119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wildfire_anim_22
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 66
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ca9fe1a7db32f0b0800000000000000
+      internalID: -5696424781349414205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wildfire_anim_23
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 68
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2c03284c76132f20800000000000000
+      internalID: 3396583267009498158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wildfire_anim_24
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 69
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 562cce72858ad3fe0800000000000000
+      internalID: -1207624028485008795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wildfire_anim_25
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 80
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e44a45e52beaee350800000000000000
+      internalID: 6047963430715171918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wildfire_anim_26
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 75
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e60d7c7357580c650800000000000000
+      internalID: 6251143021283758190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wildfire_anim_27
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 70
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9c7a9a81af5fd610800000000000000
+      internalID: 1648141136060644508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wildfire_anim_28
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 65
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bffbe60dd2f8c36b0800000000000000
+      internalID: -5315216033270808581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wildfire_anim_29
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 66
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e51942d25904f1c40800000000000000
+      internalID: 5485173880612229470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wildfire_anim_30
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 19
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cdf0e85f5c966820800000000000000
+      internalID: 2911186142468570561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wildfire_anim_31
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 8
+        width: 12
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cea88c2cf12c680b0800000000000000
+      internalID: -5726676434487309588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wildfire_anim_32
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 3
+        width: 11
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c15e3ef383104d710800000000000000
+      internalID: 1716998699036697884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wildfire_anim_33
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 3
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2af23264e152ac300800000000000000
+      internalID: 273071539365293986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wildfire_anim_34
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 24
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a439379e44afa8d20800000000000000
+      internalID: 3281710452374213450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wildfire_anim_35
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 3
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc325d4ddc037f9e0800000000000000
+      internalID: -1587746683027643443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wildfire_anim_36
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 3
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a07fae581c706d50800000000000000
+      internalID: 6728514287401136291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wildfire_anim_37
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 11
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd2032218690862e0800000000000000
+      internalID: -2132444080974396709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wildfire_anim_38
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 7
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21a32139cd74d6bf0800000000000000
+      internalID: -329528185042355694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      wildfire_anim_0: 6009886525364159595
+      wildfire_anim_1: 3901859621497343034
+      wildfire_anim_10: -8534125491689001525
+      wildfire_anim_11: 2463996351777900242
+      wildfire_anim_12: -174303775348827741
+      wildfire_anim_13: -7699331694323124607
+      wildfire_anim_14: -4203706473816749857
+      wildfire_anim_15: -8740444690206444113
+      wildfire_anim_16: -3056957585820248392
+      wildfire_anim_17: -1444857509766704887
+      wildfire_anim_18: -7056834959927365886
+      wildfire_anim_19: 777096987751993391
+      wildfire_anim_2: 1337676985182777918
+      wildfire_anim_20: 8156729771785541893
+      wildfire_anim_21: -7090343463952136119
+      wildfire_anim_22: -5696424781349414205
+      wildfire_anim_23: 3396583267009498158
+      wildfire_anim_24: -1207624028485008795
+      wildfire_anim_25: 6047963430715171918
+      wildfire_anim_26: 6251143021283758190
+      wildfire_anim_27: 1648141136060644508
+      wildfire_anim_28: -5315216033270808581
+      wildfire_anim_29: 5485173880612229470
+      wildfire_anim_3: -2984777243060803849
+      wildfire_anim_30: 2911186142468570561
+      wildfire_anim_31: -5726676434487309588
+      wildfire_anim_32: 1716998699036697884
+      wildfire_anim_33: 273071539365293986
+      wildfire_anim_34: 3281710452374213450
+      wildfire_anim_35: -1587746683027643443
+      wildfire_anim_36: 6728514287401136291
+      wildfire_anim_37: -2132444080974396709
+      wildfire_anim_38: -329528185042355694
+      wildfire_anim_4: -5203904810113176340
+      wildfire_anim_5: 7265227036347065804
+      wildfire_anim_6: -8835897484845897454
+      wildfire_anim_7: 8448482167791102895
+      wildfire_anim_8: 2833238537183026755
+      wildfire_anim_9: 500685208425774048
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,507 @@
+fileFormatVersion: 2
+guid: 4d9038a5338154641a39e5f7d6218a99
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3869835911387698066
+    second: merchantTent_pennant03_0
+  - first:
+      213: -3403964217891290430
+    second: merchantTent_pennant03_1
+  - first:
+      213: 8416474029087928725
+    second: merchantTent_pennant03_2
+  - first:
+      213: -3206900166260598198
+    second: merchantTent_pennant03_3
+  - first:
+      213: -690970404207594306
+    second: merchantTent_pennant03_4
+  - first:
+      213: 8447218961802476379
+    second: merchantTent_pennant03_5
+  - first:
+      213: -8672103663004734160
+    second: merchantTent_pennant03_6
+  - first:
+      213: -4818896834859696044
+    second: merchantTent_pennant03_7
+  - first:
+      213: -8360511402771386422
+    second: merchantTent_pennant03_8
+  - first:
+      213: -6821929266552695659
+    second: merchantTent_pennant03_9
+  - first:
+      213: -7427706987798040663
+    second: merchantTent_pennant03_10
+  - first:
+      213: 6852387312472186387
+    second: merchantTent_pennant03_11
+  - first:
+      213: 5472368537151824698
+    second: merchantTent_pennant03_12
+  - first:
+      213: -3518043060543393675
+    second: merchantTent_pennant03_13
+  - first:
+      213: 913646813360498394
+    second: merchantTent_pennant03_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: merchantTent_pennant03_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 274
+        width: 65
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6cafaaedb49b4ac0800000000000000
+      internalID: -3869835911387698066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: merchantTent_pennant03_1
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 274
+        width: 65
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c2037c2490b2c0d0800000000000000
+      internalID: -3403964217891290430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: merchantTent_pennant03_2
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 274
+        width: 65
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 591361d79825dc470800000000000000
+      internalID: 8416474029087928725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: merchantTent_pennant03_3
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 274
+        width: 65
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4a55e72a4dce73d0800000000000000
+      internalID: -3206900166260598198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: merchantTent_pennant03_4
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 274
+        width: 65
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb4f5ea041e2966f0800000000000000
+      internalID: -690970404207594306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: merchantTent_pennant03_5
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 146
+        width: 65
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5b3e26f3ec8a3570800000000000000
+      internalID: 8447218961802476379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: merchantTent_pennant03_6
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 146
+        width: 65
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03d2d3f4aaf76a780800000000000000
+      internalID: -8672103663004734160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: merchantTent_pennant03_7
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 146
+        width: 65
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4500fec3cd6df1db0800000000000000
+      internalID: -4818896834859696044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: merchantTent_pennant03_8
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 146
+        width: 65
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acf6531dc2f79fb80800000000000000
+      internalID: -8360511402771386422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: merchantTent_pennant03_9
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 146
+        width: 65
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5941948e973a351a0800000000000000
+      internalID: -6821929266552695659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: merchantTent_pennant03_10
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 18
+        width: 65
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9af6c9829db7be890800000000000000
+      internalID: -7427706987798040663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: merchantTent_pennant03_11
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 18
+        width: 65
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31e5c4784f1981f50800000000000000
+      internalID: 6852387312472186387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: merchantTent_pennant03_12
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 18
+        width: 65
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3365f0d032c1fb40800000000000000
+      internalID: 5472368537151824698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: merchantTent_pennant03_13
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 18
+        width: 65
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57078cfc9766d2fc0800000000000000
+      internalID: -3518043060543393675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: merchantTent_pennant03_14
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 18
+        width: 65
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad62580afecedac00800000000000000
+      internalID: 913646813360498394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      merchantTent_pennant03_0: -3869835911387698066
+      merchantTent_pennant03_1: -3403964217891290430
+      merchantTent_pennant03_10: -7427706987798040663
+      merchantTent_pennant03_11: 6852387312472186387
+      merchantTent_pennant03_12: 5472368537151824698
+      merchantTent_pennant03_13: -3518043060543393675
+      merchantTent_pennant03_14: 913646813360498394
+      merchantTent_pennant03_2: 8416474029087928725
+      merchantTent_pennant03_3: -3206900166260598198
+      merchantTent_pennant03_4: -690970404207594306
+      merchantTent_pennant03_5: 8447218961802476379
+      merchantTent_pennant03_6: -8672103663004734160
+      merchantTent_pennant03_7: -4818896834859696044
+      merchantTent_pennant03_8: -8360511402771386422
+      merchantTent_pennant03_9: -6821929266552695659
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

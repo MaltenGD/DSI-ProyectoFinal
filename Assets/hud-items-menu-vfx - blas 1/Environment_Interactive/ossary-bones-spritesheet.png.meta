@@ -1,0 +1,1391 @@
+fileFormatVersion: 2
+guid: 6102e2b044f365448a9d7f0daac20787
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7692101087212494159
+    second: ossary-bones-spritesheet_0
+  - first:
+      213: -8584393861444545988
+    second: ossary-bones-spritesheet_1
+  - first:
+      213: -3912967809380081019
+    second: ossary-bones-spritesheet_2
+  - first:
+      213: -7362707656805751097
+    second: ossary-bones-spritesheet_3
+  - first:
+      213: 8386975842503551956
+    second: ossary-bones-spritesheet_4
+  - first:
+      213: -4320169665647041973
+    second: ossary-bones-spritesheet_5
+  - first:
+      213: 8378378339080419225
+    second: ossary-bones-spritesheet_6
+  - first:
+      213: -3656642394517152555
+    second: ossary-bones-spritesheet_7
+  - first:
+      213: -5435050000690228443
+    second: ossary-bones-spritesheet_8
+  - first:
+      213: 4493393564633702156
+    second: ossary-bones-spritesheet_9
+  - first:
+      213: -4223296065992208788
+    second: ossary-bones-spritesheet_10
+  - first:
+      213: 6097311116067763
+    second: ossary-bones-spritesheet_11
+  - first:
+      213: 8230851910532971230
+    second: ossary-bones-spritesheet_12
+  - first:
+      213: 4494351166184443486
+    second: ossary-bones-spritesheet_13
+  - first:
+      213: 3880731456840013039
+    second: ossary-bones-spritesheet_14
+  - first:
+      213: -4340325880431665330
+    second: ossary-bones-spritesheet_15
+  - first:
+      213: -5880478333076249442
+    second: ossary-bones-spritesheet_16
+  - first:
+      213: 8040991100742988489
+    second: ossary-bones-spritesheet_17
+  - first:
+      213: 1699071113968453739
+    second: ossary-bones-spritesheet_18
+  - first:
+      213: 1774079211803299894
+    second: ossary-bones-spritesheet_19
+  - first:
+      213: 7202683376819582783
+    second: ossary-bones-spritesheet_20
+  - first:
+      213: -4224841439855352571
+    second: ossary-bones-spritesheet_21
+  - first:
+      213: -4294499049950353569
+    second: ossary-bones-spritesheet_22
+  - first:
+      213: -1447634863865231468
+    second: ossary-bones-spritesheet_23
+  - first:
+      213: 979057912300802631
+    second: ossary-bones-spritesheet_24
+  - first:
+      213: 4165926119313036938
+    second: ossary-bones-spritesheet_25
+  - first:
+      213: -3873036466976483743
+    second: ossary-bones-spritesheet_26
+  - first:
+      213: 8648848302098953356
+    second: ossary-bones-spritesheet_27
+  - first:
+      213: -6606684411187124296
+    second: ossary-bones-spritesheet_28
+  - first:
+      213: -6232792311865427177
+    second: ossary-bones-spritesheet_29
+  - first:
+      213: 1204179947452006744
+    second: ossary-bones-spritesheet_30
+  - first:
+      213: -6720406046168814802
+    second: ossary-bones-spritesheet_31
+  - first:
+      213: 2073785428178902238
+    second: ossary-bones-spritesheet_32
+  - first:
+      213: -3077115242941785882
+    second: ossary-bones-spritesheet_33
+  - first:
+      213: -1113459915944256039
+    second: ossary-bones-spritesheet_34
+  - first:
+      213: -4843644728504371030
+    second: ossary-bones-spritesheet_35
+  - first:
+      213: 1516376749533936481
+    second: ossary-bones-spritesheet_36
+  - first:
+      213: -253317373471711343
+    second: ossary-bones-spritesheet_37
+  - first:
+      213: -4076896230661157321
+    second: ossary-bones-spritesheet_38
+  - first:
+      213: -7594307364193940891
+    second: ossary-bones-spritesheet_39
+  - first:
+      213: 6366295322070802699
+    second: ossary-bones-spritesheet_40
+  - first:
+      213: -6755084740152194158
+    second: ossary-bones-spritesheet_41
+  - first:
+      213: 7660391491144451793
+    second: ossary-bones-spritesheet_42
+  - first:
+      213: 688761539130999508
+    second: ossary-bones-spritesheet_43
+  - first:
+      213: 5384863366979620749
+    second: ossary-bones-spritesheet_44
+  - first:
+      213: -2063360913282758520
+    second: ossary-bones-spritesheet_45
+  - first:
+      213: -6961975686607537777
+    second: ossary-bones-spritesheet_46
+  - first:
+      213: -1540372825280505113
+    second: ossary-bones-spritesheet_47
+  - first:
+      213: 4914672129123101517
+    second: ossary-bones-spritesheet_48
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ossary-bones-spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 485
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4d52bf2f25dfba60800000000000000
+      internalID: 7692101087212494159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ossary-bones-spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 486
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c32dd8cd34b1ed880800000000000000
+      internalID: -8584393861444545988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ossary-bones-spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 484
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 582ac58528852b9c0800000000000000
+      internalID: -3912967809380081019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ossary-bones-spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 486
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c66b0b356862d990800000000000000
+      internalID: -7362707656805751097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ossary-bones-spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 483
+        width: 8
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dbe438b716846470800000000000000
+      internalID: 8386975842503551956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ossary-bones-spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 485
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b42a0bd049cab04c0800000000000000
+      internalID: -4320169665647041973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ossary-bones-spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 492
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99737b675baf54470800000000000000
+      internalID: 8378378339080419225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ossary-bones-spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 484
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dcdb2cad1ff04dc0800000000000000
+      internalID: -3656642394517152555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ossary-bones-spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 485
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5235f5c02d2d294b0800000000000000
+      internalID: -5435050000690228443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ossary-bones-spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 484
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0f9408d3adbb5e30800000000000000
+      internalID: 4493393564633702156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ossary-bones-spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 484
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6eca3d9a96d365c0800000000000000
+      internalID: -4223296065992208788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ossary-bones-spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 485
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b3882fd879a51000800000000000000
+      internalID: 6097311116067763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ossary-bones-spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 487
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edab926243cd93270800000000000000
+      internalID: 8230851910532971230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ossary-bones-spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 484
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5e4944d2942f5e30800000000000000
+      internalID: 4494351166184443486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ossary-bones-spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 486
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe412a1f2b02bd530800000000000000
+      internalID: 3880731456840013039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ossary-bones-spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 486
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4f9f679b9014c3c0800000000000000
+      internalID: -4340325880431665330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ossary-bones-spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 487
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e94eb97bc18546ea0800000000000000
+      internalID: -5880478333076249442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ossary-bones-spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 485
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c2fcd99dc6579f60800000000000000
+      internalID: 8040991100742988489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ossary-bones-spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 456
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6887341d20549710800000000000000
+      internalID: 1699071113968453739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ossary-bones-spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 457
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 630d0f6c4abce9810800000000000000
+      internalID: 1774079211803299894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ossary-bones-spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 453
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3731f8ae5215f360800000000000000
+      internalID: 7202683376819582783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ossary-bones-spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 458
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 505621938195e55c0800000000000000
+      internalID: -4224841439855352571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ossary-bones-spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 452
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f57e4770edfd664c0800000000000000
+      internalID: -4294499049950353569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ossary-bones-spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 454
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49787ded2c7f8ebe0800000000000000
+      internalID: -1447634863865231468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ossary-bones-spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 456
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7429935ebff469d00800000000000000
+      internalID: 979057912300802631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ossary-bones-spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 454
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a86dc26cbb750d930800000000000000
+      internalID: 4165926119313036938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ossary-bones-spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 456
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1669bbf7ad5304ac0800000000000000
+      internalID: -3873036466976483743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ossary-bones-spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 458
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8439da05b1e60870800000000000000
+      internalID: 8648848302098953356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ossary-bones-spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 459
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b7a41028875054a0800000000000000
+      internalID: -6606684411187124296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ossary-bones-spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 455
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71bb9744a6ca089a0800000000000000
+      internalID: -6232792311865427177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ossary-bones-spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 457
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 851868d384b16b010800000000000000
+      internalID: 1204179947452006744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ossary-bones-spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 459
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2b68b7ae425cb2a0800000000000000
+      internalID: -6720406046168814802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ossary-bones-spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 457
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edc1cfa0cd097cc10800000000000000
+      internalID: 2073785428178902238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ossary-bones-spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 452
+        width: 11
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e8d3836df3eb45d0800000000000000
+      internalID: -3077115242941785882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ossary-bones-spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 456
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dd91861b123c80f0800000000000000
+      internalID: -1113459915944256039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ossary-bones-spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 428
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa8bd4b38cae7ccb0800000000000000
+      internalID: -4843644728504371030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ossary-bones-spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 426
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16bb1ad9e904b0510800000000000000
+      internalID: 1516376749533936481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ossary-bones-spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 426
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19f98c2e0390c7cf0800000000000000
+      internalID: -253317373471711343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ossary-bones-spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 429
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73e00518a74fb67c0800000000000000
+      internalID: -4076896230661157321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ossary-bones-spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 427
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56a461a40b99b9690800000000000000
+      internalID: -7594307364193940891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ossary-bones-spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 428
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b01e2478ddf995850800000000000000
+      internalID: 6366295322070802699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ossary-bones-spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 427
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29b0193083e1142a0800000000000000
+      internalID: -6755084740152194158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ossary-bones-spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 426
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d60716897d2f4a60800000000000000
+      internalID: 7660391491144451793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ossary-bones-spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 425
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d2cada78f8fe8900800000000000000
+      internalID: 688761539130999508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ossary-bones-spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 427
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8f85d8b3b0eaba40800000000000000
+      internalID: 5384863366979620749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ossary-bones-spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 426
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8880b587e287d53e0800000000000000
+      internalID: -2063360913282758520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ossary-bones-spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 427
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f89f9d8cff7126f90800000000000000
+      internalID: -6961975686607537777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ossary-bones-spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 425
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ea9d7f931f7f9ae0800000000000000
+      internalID: -1540372825280505113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ossary-bones-spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 426
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4b25eb234c643440800000000000000
+      internalID: 4914672129123101517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ossary-bones-spritesheet_0: 7692101087212494159
+      ossary-bones-spritesheet_1: -8584393861444545988
+      ossary-bones-spritesheet_10: -4223296065992208788
+      ossary-bones-spritesheet_11: 6097311116067763
+      ossary-bones-spritesheet_12: 8230851910532971230
+      ossary-bones-spritesheet_13: 4494351166184443486
+      ossary-bones-spritesheet_14: 3880731456840013039
+      ossary-bones-spritesheet_15: -4340325880431665330
+      ossary-bones-spritesheet_16: -5880478333076249442
+      ossary-bones-spritesheet_17: 8040991100742988489
+      ossary-bones-spritesheet_18: 1699071113968453739
+      ossary-bones-spritesheet_19: 1774079211803299894
+      ossary-bones-spritesheet_2: -3912967809380081019
+      ossary-bones-spritesheet_20: 7202683376819582783
+      ossary-bones-spritesheet_21: -4224841439855352571
+      ossary-bones-spritesheet_22: -4294499049950353569
+      ossary-bones-spritesheet_23: -1447634863865231468
+      ossary-bones-spritesheet_24: 979057912300802631
+      ossary-bones-spritesheet_25: 4165926119313036938
+      ossary-bones-spritesheet_26: -3873036466976483743
+      ossary-bones-spritesheet_27: 8648848302098953356
+      ossary-bones-spritesheet_28: -6606684411187124296
+      ossary-bones-spritesheet_29: -6232792311865427177
+      ossary-bones-spritesheet_3: -7362707656805751097
+      ossary-bones-spritesheet_30: 1204179947452006744
+      ossary-bones-spritesheet_31: -6720406046168814802
+      ossary-bones-spritesheet_32: 2073785428178902238
+      ossary-bones-spritesheet_33: -3077115242941785882
+      ossary-bones-spritesheet_34: -1113459915944256039
+      ossary-bones-spritesheet_35: -4843644728504371030
+      ossary-bones-spritesheet_36: 1516376749533936481
+      ossary-bones-spritesheet_37: -253317373471711343
+      ossary-bones-spritesheet_38: -4076896230661157321
+      ossary-bones-spritesheet_39: -7594307364193940891
+      ossary-bones-spritesheet_4: 8386975842503551956
+      ossary-bones-spritesheet_40: 6366295322070802699
+      ossary-bones-spritesheet_41: -6755084740152194158
+      ossary-bones-spritesheet_42: 7660391491144451793
+      ossary-bones-spritesheet_43: 688761539130999508
+      ossary-bones-spritesheet_44: 5384863366979620749
+      ossary-bones-spritesheet_45: -2063360913282758520
+      ossary-bones-spritesheet_46: -6961975686607537777
+      ossary-bones-spritesheet_47: -1540372825280505113
+      ossary-bones-spritesheet_48: 4914672129123101517
+      ossary-bones-spritesheet_5: -4320169665647041973
+      ossary-bones-spritesheet_6: 8378378339080419225
+      ossary-bones-spritesheet_7: -3656642394517152555
+      ossary-bones-spritesheet_8: -5435050000690228443
+      ossary-bones-spritesheet_9: 4493393564633702156
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

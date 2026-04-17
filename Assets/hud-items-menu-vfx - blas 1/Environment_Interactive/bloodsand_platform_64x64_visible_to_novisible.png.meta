@@ -1,0 +1,611 @@
+fileFormatVersion: 2
+guid: 677aac271f102824c9fb2084d9f4a101
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -51312684701198744
+    second: bloodsand_platform_64x64_visible_to_novisible_0
+  - first:
+      213: -8262173419852838070
+    second: bloodsand_platform_64x64_visible_to_novisible_1
+  - first:
+      213: -7568317887631643569
+    second: bloodsand_platform_64x64_visible_to_novisible_2
+  - first:
+      213: 1811083144167436538
+    second: bloodsand_platform_64x64_visible_to_novisible_3
+  - first:
+      213: -2550545976787944787
+    second: bloodsand_platform_64x64_visible_to_novisible_4
+  - first:
+      213: -3678685594283292981
+    second: bloodsand_platform_64x64_visible_to_novisible_5
+  - first:
+      213: -1735671148879376075
+    second: bloodsand_platform_64x64_visible_to_novisible_6
+  - first:
+      213: 6252636843918469660
+    second: bloodsand_platform_64x64_visible_to_novisible_7
+  - first:
+      213: 7192105149531256724
+    second: bloodsand_platform_64x64_visible_to_novisible_8
+  - first:
+      213: 3141625035654051218
+    second: bloodsand_platform_64x64_visible_to_novisible_9
+  - first:
+      213: 5907492558535706450
+    second: bloodsand_platform_64x64_visible_to_novisible_10
+  - first:
+      213: -731216792529081639
+    second: bloodsand_platform_64x64_visible_to_novisible_11
+  - first:
+      213: 7387240718819334202
+    second: bloodsand_platform_64x64_visible_to_novisible_12
+  - first:
+      213: -1656932610994740942
+    second: bloodsand_platform_64x64_visible_to_novisible_13
+  - first:
+      213: 6858081817788629525
+    second: bloodsand_platform_64x64_visible_to_novisible_14
+  - first:
+      213: -6525732186594998789
+    second: bloodsand_platform_64x64_visible_to_novisible_15
+  - first:
+      213: -8684667071316606766
+    second: bloodsand_platform_64x64_visible_to_novisible_16
+  - first:
+      213: -7133368464269390866
+    second: bloodsand_platform_64x64_visible_to_novisible_17
+  - first:
+      213: -920436753449594973
+    second: bloodsand_platform_64x64_visible_to_novisible_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bloodsand_platform_64x64_visible_to_novisible_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 195
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 866d9e79263b94ff0800000000000000
+      internalID: -51312684701198744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloodsand_platform_64x64_visible_to_novisible_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 234
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4b4ffcac0dd65d80800000000000000
+      internalID: -8262173419852838070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloodsand_platform_64x64_visible_to_novisible_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 159
+        width: 53
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4c2b78dafee7f690800000000000000
+      internalID: -7568317887631643569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloodsand_platform_64x64_visible_to_novisible_3
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 187
+        width: 35
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af03cca2682422910800000000000000
+      internalID: 1811083144167436538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloodsand_platform_64x64_visible_to_novisible_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 126
+        width: 58
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daab04e82f3aa9cd0800000000000000
+      internalID: -2550545976787944787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloodsand_platform_64x64_visible_to_novisible_5
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 116
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc6c56841fea2fcc0800000000000000
+      internalID: -3678685594283292981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloodsand_platform_64x64_visible_to_novisible_6
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 160
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 531962c3948a9e7e0800000000000000
+      internalID: -1735671148879376075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloodsand_platform_64x64_visible_to_novisible_7
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 111
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1aa747e414d5c650800000000000000
+      internalID: 6252636843918469660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloodsand_platform_64x64_visible_to_novisible_8
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 155
+        width: 29
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4977111378d7fc360800000000000000
+      internalID: 7192105149531256724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloodsand_platform_64x64_visible_to_novisible_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 91
+        width: 58
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29532ab235b499b20800000000000000
+      internalID: 3141625035654051218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloodsand_platform_64x64_visible_to_novisible_10
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 116
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 257c8c8ce21abf150800000000000000
+      internalID: 5907492558535706450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloodsand_platform_64x64_visible_to_novisible_11
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 110
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dae08b83323ad5f0800000000000000
+      internalID: -731216792529081639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloodsand_platform_64x64_visible_to_novisible_12
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 88
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3817836b40c48660800000000000000
+      internalID: 7387240718819334202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloodsand_platform_64x64_visible_to_novisible_13
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 92
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 231e5e0b1946109e0800000000000000
+      internalID: -1656932610994740942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloodsand_platform_64x64_visible_to_novisible_14
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 92
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5124bddd31dcc2f50800000000000000
+      internalID: 6858081817788629525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloodsand_platform_64x64_visible_to_novisible_15
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 87
+        width: 51
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf50caea621ff65a0800000000000000
+      internalID: -6525732186594998789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloodsand_platform_64x64_visible_to_novisible_16
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 115
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d044addf4dd97780800000000000000
+      internalID: -8684667071316606766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloodsand_platform_64x64_visible_to_novisible_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 45
+        width: 242
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eebcf3b0d2f210d90800000000000000
+      internalID: -7133368464269390866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloodsand_platform_64x64_visible_to_novisible_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 254
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3af4c6046a3f933f0800000000000000
+      internalID: -920436753449594973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      bloodsand_platform_64x64_visible_to_novisible_0: -51312684701198744
+      bloodsand_platform_64x64_visible_to_novisible_1: -8262173419852838070
+      bloodsand_platform_64x64_visible_to_novisible_10: 5907492558535706450
+      bloodsand_platform_64x64_visible_to_novisible_11: -731216792529081639
+      bloodsand_platform_64x64_visible_to_novisible_12: 7387240718819334202
+      bloodsand_platform_64x64_visible_to_novisible_13: -1656932610994740942
+      bloodsand_platform_64x64_visible_to_novisible_14: 6858081817788629525
+      bloodsand_platform_64x64_visible_to_novisible_15: -6525732186594998789
+      bloodsand_platform_64x64_visible_to_novisible_16: -8684667071316606766
+      bloodsand_platform_64x64_visible_to_novisible_17: -7133368464269390866
+      bloodsand_platform_64x64_visible_to_novisible_18: -920436753449594973
+      bloodsand_platform_64x64_visible_to_novisible_2: -7568317887631643569
+      bloodsand_platform_64x64_visible_to_novisible_3: 1811083144167436538
+      bloodsand_platform_64x64_visible_to_novisible_4: -2550545976787944787
+      bloodsand_platform_64x64_visible_to_novisible_5: -3678685594283292981
+      bloodsand_platform_64x64_visible_to_novisible_6: -1735671148879376075
+      bloodsand_platform_64x64_visible_to_novisible_7: 6252636843918469660
+      bloodsand_platform_64x64_visible_to_novisible_8: 7192105149531256724
+      bloodsand_platform_64x64_visible_to_novisible_9: 3141625035654051218
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

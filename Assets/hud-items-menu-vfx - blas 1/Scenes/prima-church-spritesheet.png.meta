@@ -1,0 +1,663 @@
+fileFormatVersion: 2
+guid: d282fbd9a56979342a453f5a0ba94c24
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -695172762019303477
+    second: prima-church-spritesheet_0
+  - first:
+      213: -1184108435898258035
+    second: prima-church-spritesheet_1
+  - first:
+      213: -5559441438804820767
+    second: prima-church-spritesheet_2
+  - first:
+      213: 903065835440436446
+    second: prima-church-spritesheet_3
+  - first:
+      213: -8780137213566683438
+    second: prima-church-spritesheet_4
+  - first:
+      213: 246787449024643709
+    second: prima-church-spritesheet_5
+  - first:
+      213: 1430581320300652581
+    second: prima-church-spritesheet_6
+  - first:
+      213: -5143458438038892113
+    second: prima-church-spritesheet_7
+  - first:
+      213: 5114408470345936309
+    second: prima-church-spritesheet_8
+  - first:
+      213: 1651144565109475789
+    second: prima-church-spritesheet_9
+  - first:
+      213: 6428096605849815299
+    second: prima-church-spritesheet_10
+  - first:
+      213: 3248257259364529092
+    second: prima-church-spritesheet_11
+  - first:
+      213: -4892789008129000047
+    second: prima-church-spritesheet_12
+  - first:
+      213: -1567363715690084596
+    second: prima-church-spritesheet_13
+  - first:
+      213: -1837752483215537573
+    second: prima-church-spritesheet_14
+  - first:
+      213: 7604535061684611087
+    second: prima-church-spritesheet_15
+  - first:
+      213: 6078379918355017037
+    second: prima-church-spritesheet_16
+  - first:
+      213: 7941153858980745214
+    second: prima-church-spritesheet_17
+  - first:
+      213: -951973599279710508
+    second: prima-church-spritesheet_18
+  - first:
+      213: 5549633111104493176
+    second: prima-church-spritesheet_19
+  - first:
+      213: -2630219606034923395
+    second: prima-church-spritesheet_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: prima-church-spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 940
+        width: 113
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcfef4e5e004a56f0800000000000000
+      internalID: -695172762019303477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prima-church-spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 988
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8dadb6b6a3319fe0800000000000000
+      internalID: -1184108435898258035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prima-church-spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1007
+        width: 73
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ecb3727775e8d2b0800000000000000
+      internalID: -5559441438804820767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prima-church-spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 921
+        width: 72
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed4f73ab795588c00800000000000000
+      internalID: 903065835440436446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prima-church-spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 993
+        width: 142
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d67b2239bfa62680800000000000000
+      internalID: -8780137213566683438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prima-church-spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 635
+        width: 109
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d72832a90e3cc6300800000000000000
+      internalID: 246787449024643709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prima-church-spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 635
+        width: 116
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52864da91227ad310800000000000000
+      internalID: 1430581320300652581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prima-church-spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 735
+        width: 109
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa1d4b34dc3ce98b0800000000000000
+      internalID: -5143458438038892113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prima-church-spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 634
+        width: 109
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bde73f08670af640800000000000000
+      internalID: 5114408470345936309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prima-church-spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 635
+        width: 88
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc9ca2cdb3b0ae610800000000000000
+      internalID: 1651144565109475789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prima-church-spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 647
+        width: 80
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30982953ecf253950800000000000000
+      internalID: 6428096605849815299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prima-church-spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 646
+        width: 72
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c3b18374c0241d20800000000000000
+      internalID: 3248257259364529092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prima-church-spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 584
+        width: 258
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19df889f152591cb0800000000000000
+      internalID: -4892789008129000047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prima-church-spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 635
+        width: 22
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c07c47c310b9f3ae0800000000000000
+      internalID: -1567363715690084596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prima-church-spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 423
+        width: 47
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5a88d47addfe76e0800000000000000
+      internalID: -1837752483215537573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prima-church-spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 480
+        width: 33
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f08e6b9195cb88960800000000000000
+      internalID: 7604535061684611087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prima-church-spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 505
+        width: 27
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4d2b63c45eba5450800000000000000
+      internalID: 6078379918355017037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prima-church-spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 269
+        width: 52
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eff05475c55a43e60800000000000000
+      internalID: 7941153858980745214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prima-church-spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 264
+        width: 52
+        height: 366
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4def1632e09e9c2f0800000000000000
+      internalID: -951973599279710508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prima-church-spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 163
+        width: 235
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 876112d49e1440d40800000000000000
+      internalID: 5549633111104493176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prima-church-spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 287
+        width: 23
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d70450d24359f7bd0800000000000000
+      internalID: -2630219606034923395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      prima-church-spritesheet_0: -695172762019303477
+      prima-church-spritesheet_1: -1184108435898258035
+      prima-church-spritesheet_10: 6428096605849815299
+      prima-church-spritesheet_11: 3248257259364529092
+      prima-church-spritesheet_12: -4892789008129000047
+      prima-church-spritesheet_13: -1567363715690084596
+      prima-church-spritesheet_14: -1837752483215537573
+      prima-church-spritesheet_15: 7604535061684611087
+      prima-church-spritesheet_16: 6078379918355017037
+      prima-church-spritesheet_17: 7941153858980745214
+      prima-church-spritesheet_18: -951973599279710508
+      prima-church-spritesheet_19: 5549633111104493176
+      prima-church-spritesheet_2: -5559441438804820767
+      prima-church-spritesheet_20: -2630219606034923395
+      prima-church-spritesheet_3: 903065835440436446
+      prima-church-spritesheet_4: -8780137213566683438
+      prima-church-spritesheet_5: 246787449024643709
+      prima-church-spritesheet_6: 1430581320300652581
+      prima-church-spritesheet_7: -5143458438038892113
+      prima-church-spritesheet_8: 5114408470345936309
+      prima-church-spritesheet_9: 1651144565109475789
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

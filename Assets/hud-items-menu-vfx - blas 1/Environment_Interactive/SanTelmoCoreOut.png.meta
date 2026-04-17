@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: fb7267a823c9f58429ef0d887191f7af
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4371538323298485539
+    second: SanTelmoCoreOut_0
+  - first:
+      213: -365741570453732937
+    second: SanTelmoCoreOut_1
+  - first:
+      213: -4262670207357304299
+    second: SanTelmoCoreOut_2
+  - first:
+      213: -5782220353112498087
+    second: SanTelmoCoreOut_3
+  - first:
+      213: -4031483675147354006
+    second: SanTelmoCoreOut_4
+  - first:
+      213: -2021444966261345433
+    second: SanTelmoCoreOut_5
+  - first:
+      213: -2595136009386061459
+    second: SanTelmoCoreOut_6
+  - first:
+      213: -2686008748851344050
+    second: SanTelmoCoreOut_7
+  - first:
+      213: 2250044628275014148
+    second: SanTelmoCoreOut_8
+  - first:
+      213: -6423318523273391057
+    second: SanTelmoCoreOut_9
+  - first:
+      213: -7109893130113930712
+    second: SanTelmoCoreOut_10
+  - first:
+      213: 8074977071746082430
+    second: SanTelmoCoreOut_11
+  - first:
+      213: 4658794154207474254
+    second: SanTelmoCoreOut_12
+  - first:
+      213: 598784175870925789
+    second: SanTelmoCoreOut_13
+  - first:
+      213: 2904109661076738741
+    second: SanTelmoCoreOut_14
+  - first:
+      213: -2703209443094004989
+    second: SanTelmoCoreOut_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SanTelmoCoreOut_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 187
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dda79cd6e0d2553c0800000000000000
+      internalID: -4371538323298485539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SanTelmoCoreOut_1
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 236
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b1038dbaff9ceaf0800000000000000
+      internalID: -365741570453732937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SanTelmoCoreOut_2
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 192
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 512c3dfe704f7d4c0800000000000000
+      internalID: -4262670207357304299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SanTelmoCoreOut_3
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 181
+        width: 36
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95022bf693d61cfa0800000000000000
+      internalID: -5782220353112498087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SanTelmoCoreOut_4
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 170
+        width: 46
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a604e0905fa4d08c0800000000000000
+      internalID: -4031483675147354006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SanTelmoCoreOut_5
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 233
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 763bdf4638262f3e0800000000000000
+      internalID: -2021444966261345433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SanTelmoCoreOut_6
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 99
+        width: 32
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6118b09c893cfbd0800000000000000
+      internalID: -2595136009386061459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SanTelmoCoreOut_7
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 151
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4dcf15264169bad0800000000000000
+      internalID: -2686008748851344050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SanTelmoCoreOut_8
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 173
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40aab1d0ba3c93f10800000000000000
+      internalID: 2250044628275014148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SanTelmoCoreOut_9
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 157
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f245a15d5d9cbd6a0800000000000000
+      internalID: -6423318523273391057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SanTelmoCoreOut_10
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 100
+        width: 24
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82aa1943ed5945d90800000000000000
+      internalID: -7109893130113930712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SanTelmoCoreOut_11
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 160
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7669da1dd4101070800000000000000
+      internalID: 8074977071746082430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SanTelmoCoreOut_12
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 77
+        width: 16
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e42f333999c57a040800000000000000
+      internalID: 4658794154207474254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SanTelmoCoreOut_13
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 105
+        width: 13
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddb59e3190f4f4800800000000000000
+      internalID: 598784175870925789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SanTelmoCoreOut_14
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 43
+        width: 8
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b25241a9587d4820800000000000000
+      internalID: 2904109661076738741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SanTelmoCoreOut_15
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 75
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30b76ee65554c7ad0800000000000000
+      internalID: -2703209443094004989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SanTelmoCoreOut_0: -4371538323298485539
+      SanTelmoCoreOut_1: -365741570453732937
+      SanTelmoCoreOut_10: -7109893130113930712
+      SanTelmoCoreOut_11: 8074977071746082430
+      SanTelmoCoreOut_12: 4658794154207474254
+      SanTelmoCoreOut_13: 598784175870925789
+      SanTelmoCoreOut_14: 2904109661076738741
+      SanTelmoCoreOut_15: -2703209443094004989
+      SanTelmoCoreOut_2: -4262670207357304299
+      SanTelmoCoreOut_3: -5782220353112498087
+      SanTelmoCoreOut_4: -4031483675147354006
+      SanTelmoCoreOut_5: -2021444966261345433
+      SanTelmoCoreOut_6: -2595136009386061459
+      SanTelmoCoreOut_7: -2686008748851344050
+      SanTelmoCoreOut_8: 2250044628275014148
+      SanTelmoCoreOut_9: -6423318523273391057
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

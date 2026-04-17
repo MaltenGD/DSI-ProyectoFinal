@@ -1,0 +1,845 @@
+fileFormatVersion: 2
+guid: b24a8c3c7ef1dec4b868594e2f8488f1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 731553368400162503
+    second: AuroraGuardianIdle_0
+  - first:
+      213: 6343977440668429602
+    second: AuroraGuardianIdle_1
+  - first:
+      213: -5495480372876105799
+    second: AuroraGuardianIdle_2
+  - first:
+      213: -8333415606984472869
+    second: AuroraGuardianIdle_3
+  - first:
+      213: 1198210849339331247
+    second: AuroraGuardianIdle_4
+  - first:
+      213: -5054913461669735752
+    second: AuroraGuardianIdle_5
+  - first:
+      213: -5133794319537577187
+    second: AuroraGuardianIdle_6
+  - first:
+      213: -6481865085601378288
+    second: AuroraGuardianIdle_7
+  - first:
+      213: 7067435655024241440
+    second: AuroraGuardianIdle_8
+  - first:
+      213: -3968970148603672698
+    second: AuroraGuardianIdle_9
+  - first:
+      213: 5353319120443560409
+    second: AuroraGuardianIdle_10
+  - first:
+      213: 3490833087669808158
+    second: AuroraGuardianIdle_11
+  - first:
+      213: -6160993528890408297
+    second: AuroraGuardianIdle_12
+  - first:
+      213: -573201904837910948
+    second: AuroraGuardianIdle_13
+  - first:
+      213: -5590172556388302437
+    second: AuroraGuardianIdle_14
+  - first:
+      213: -260906167042359040
+    second: AuroraGuardianIdle_15
+  - first:
+      213: -9105791704675049806
+    second: AuroraGuardianIdle_16
+  - first:
+      213: 6647171418781514334
+    second: AuroraGuardianIdle_17
+  - first:
+      213: 2707417326246249776
+    second: AuroraGuardianIdle_18
+  - first:
+      213: -3609671901907502418
+    second: AuroraGuardianIdle_19
+  - first:
+      213: -2036431809278898513
+    second: AuroraGuardianIdle_20
+  - first:
+      213: -8927721523607106903
+    second: AuroraGuardianIdle_21
+  - first:
+      213: -4147243720093285497
+    second: AuroraGuardianIdle_22
+  - first:
+      213: -3905025850503556401
+    second: AuroraGuardianIdle_23
+  - first:
+      213: -6139633858394584581
+    second: AuroraGuardianIdle_24
+  - first:
+      213: -7832318752531657827
+    second: AuroraGuardianIdle_25
+  - first:
+      213: 4645773763487941966
+    second: AuroraGuardianIdle_26
+  - first:
+      213: 2382823575242029315
+    second: AuroraGuardianIdle_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AuroraGuardianIdle_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 633
+        width: 211
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ce6bb1a9eff62a00800000000000000
+      internalID: 731553368400162503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AuroraGuardianIdle_1
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 646
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22d2226ded55a0850800000000000000
+      internalID: 6343977440668429602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AuroraGuardianIdle_2
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 645
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b7a69897b12cb3b0800000000000000
+      internalID: -5495480372876105799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AuroraGuardianIdle_3
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 633
+        width: 210
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd68ef368a2c95c80800000000000000
+      internalID: -8333415606984472869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AuroraGuardianIdle_4
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 646
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa2d3e84b66e0a010800000000000000
+      internalID: 1198210849339331247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AuroraGuardianIdle_5
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 645
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b2d5da1df659d9b0800000000000000
+      internalID: -5054913461669735752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AuroraGuardianIdle_6
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 633
+        width: 212
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d136b02344911c8b0800000000000000
+      internalID: -5133794319537577187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AuroraGuardianIdle_7
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 645
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01019ba0c0acb06a0800000000000000
+      internalID: -6481865085601378288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AuroraGuardianIdle_8
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 644
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02b66aa8843941260800000000000000
+      internalID: 7067435655024241440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AuroraGuardianIdle_9
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 433
+        width: 211
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6874958ada26be8c0800000000000000
+      internalID: -3968970148603672698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AuroraGuardianIdle_10
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 445
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d1585f706fca4a40800000000000000
+      internalID: 5353319120443560409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AuroraGuardianIdle_11
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 444
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1c2db0b23ee17030800000000000000
+      internalID: 3490833087669808158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AuroraGuardianIdle_12
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 433
+        width: 237
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 792c10f1701cf7aa0800000000000000
+      internalID: -6160993528890408297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AuroraGuardianIdle_13
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 433
+        width: 237
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5e1f8d87e39b08f0800000000000000
+      internalID: -573201904837910948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AuroraGuardianIdle_14
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 233
+        width: 211
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b91865f8da7bb62b0800000000000000
+      internalID: -5590172556388302437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AuroraGuardianIdle_15
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 245
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0014bb13933116cf0800000000000000
+      internalID: -260906167042359040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AuroraGuardianIdle_16
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 244
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2be152c60bab1a180800000000000000
+      internalID: -9105791704675049806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AuroraGuardianIdle_17
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 234
+        width: 211
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5af999ef2f7f3c50800000000000000
+      internalID: 6647171418781514334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AuroraGuardianIdle_18
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 245
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03545a5b6bda29520800000000000000
+      internalID: 2707417326246249776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AuroraGuardianIdle_19
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 244
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaa3813b78ed7edc0800000000000000
+      internalID: -3609671901907502418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AuroraGuardianIdle_20
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 238
+        width: 207
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fae00a61f042db3e0800000000000000
+      internalID: -2036431809278898513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AuroraGuardianIdle_21
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 234
+        width: 62
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aa0acb439c5a1480800000000000000
+      internalID: -8927721523607106903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AuroraGuardianIdle_22
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 246
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 783ced24fc70276c0800000000000000
+      internalID: -4147243720093285497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AuroraGuardianIdle_23
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 245
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc2940ebdaf8ec9c0800000000000000
+      internalID: -3905025850503556401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AuroraGuardianIdle_24
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 38
+        width: 207
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf90e63f883abcaa0800000000000000
+      internalID: -6139633858394584581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AuroraGuardianIdle_25
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 33
+        width: 70
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9b48bb87930e4390800000000000000
+      internalID: -7832318752531657827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AuroraGuardianIdle_26
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 46
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e45478f9f9a197040800000000000000
+      internalID: 4645773763487941966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AuroraGuardianIdle_27
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 45
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3093abcba6d711120800000000000000
+      internalID: 2382823575242029315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      AuroraGuardianIdle_0: 731553368400162503
+      AuroraGuardianIdle_1: 6343977440668429602
+      AuroraGuardianIdle_10: 5353319120443560409
+      AuroraGuardianIdle_11: 3490833087669808158
+      AuroraGuardianIdle_12: -6160993528890408297
+      AuroraGuardianIdle_13: -573201904837910948
+      AuroraGuardianIdle_14: -5590172556388302437
+      AuroraGuardianIdle_15: -260906167042359040
+      AuroraGuardianIdle_16: -9105791704675049806
+      AuroraGuardianIdle_17: 6647171418781514334
+      AuroraGuardianIdle_18: 2707417326246249776
+      AuroraGuardianIdle_19: -3609671901907502418
+      AuroraGuardianIdle_2: -5495480372876105799
+      AuroraGuardianIdle_20: -2036431809278898513
+      AuroraGuardianIdle_21: -8927721523607106903
+      AuroraGuardianIdle_22: -4147243720093285497
+      AuroraGuardianIdle_23: -3905025850503556401
+      AuroraGuardianIdle_24: -6139633858394584581
+      AuroraGuardianIdle_25: -7832318752531657827
+      AuroraGuardianIdle_26: 4645773763487941966
+      AuroraGuardianIdle_27: 2382823575242029315
+      AuroraGuardianIdle_3: -8333415606984472869
+      AuroraGuardianIdle_4: 1198210849339331247
+      AuroraGuardianIdle_5: -5054913461669735752
+      AuroraGuardianIdle_6: -5133794319537577187
+      AuroraGuardianIdle_7: -6481865085601378288
+      AuroraGuardianIdle_8: 7067435655024241440
+      AuroraGuardianIdle_9: -3968970148603672698
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

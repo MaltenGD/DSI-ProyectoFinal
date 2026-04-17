@@ -1,0 +1,767 @@
+fileFormatVersion: 2
+guid: 4165141a2dd71c344b06c20ca8346337
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2236586275998018062
+    second: LoadingSpinningIco_0
+  - first:
+      213: -5101015716762023932
+    second: LoadingSpinningIco_1
+  - first:
+      213: 5708800916504618590
+    second: LoadingSpinningIco_2
+  - first:
+      213: -1857751310448278200
+    second: LoadingSpinningIco_3
+  - first:
+      213: 3648891441257162524
+    second: LoadingSpinningIco_4
+  - first:
+      213: -1045856586672306940
+    second: LoadingSpinningIco_5
+  - first:
+      213: -1430026893223866074
+    second: LoadingSpinningIco_6
+  - first:
+      213: -2066276922634372803
+    second: LoadingSpinningIco_7
+  - first:
+      213: 8093877811332896726
+    second: LoadingSpinningIco_8
+  - first:
+      213: -4296804261502377889
+    second: LoadingSpinningIco_9
+  - first:
+      213: -8792762750742114654
+    second: LoadingSpinningIco_10
+  - first:
+      213: 5690613406737128505
+    second: LoadingSpinningIco_11
+  - first:
+      213: -4850058162012994989
+    second: LoadingSpinningIco_12
+  - first:
+      213: 7488084208054937766
+    second: LoadingSpinningIco_13
+  - first:
+      213: 7453383317133582768
+    second: LoadingSpinningIco_14
+  - first:
+      213: -7372395641940244011
+    second: LoadingSpinningIco_15
+  - first:
+      213: 8569734097412450285
+    second: LoadingSpinningIco_16
+  - first:
+      213: 4053731513659435872
+    second: LoadingSpinningIco_17
+  - first:
+      213: -554655404419193718
+    second: LoadingSpinningIco_18
+  - first:
+      213: -4005687545778865770
+    second: LoadingSpinningIco_19
+  - first:
+      213: 9167000167170456209
+    second: LoadingSpinningIco_20
+  - first:
+      213: 8600015843941272388
+    second: LoadingSpinningIco_21
+  - first:
+      213: -5370889507757467475
+    second: LoadingSpinningIco_22
+  - first:
+      213: 341574240049648815
+    second: LoadingSpinningIco_23
+  - first:
+      213: 7169903732019769169
+    second: LoadingSpinningIco_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LoadingSpinningIco_0
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 423
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f5df95c1ac06f0e0800000000000000
+      internalID: -2236586275998018062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadingSpinningIco_1
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 423
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40807b06b3d8539b0800000000000000
+      internalID: -5101015716762023932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadingSpinningIco_2
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 423
+        width: 18
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e56aea1ef2cb93f40800000000000000
+      internalID: 5708800916504618590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadingSpinningIco_3
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 423
+        width: 13
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 845c6b3a601f736e0800000000000000
+      internalID: -1857751310448278200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadingSpinningIco_4
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 423
+        width: 11
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c17a814ee6773a230800000000000000
+      internalID: 3648891441257162524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadingSpinningIco_5
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 323
+        width: 6
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4050561c9fe5c71f0800000000000000
+      internalID: -1045856586672306940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadingSpinningIco_6
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 323
+        width: 11
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 621d2220e16872ce0800000000000000
+      internalID: -1430026893223866074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadingSpinningIco_7
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 323
+        width: 13
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d397ac2261c1353e0800000000000000
+      internalID: -2066276922634372803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadingSpinningIco_8
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 323
+        width: 18
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d7d9e77cfa335070800000000000000
+      internalID: 8093877811332896726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadingSpinningIco_9
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 323
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5024c32a4fae54c0800000000000000
+      internalID: -4296804261502377889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadingSpinningIco_10
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 223
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aecabf3dd4d9f580800000000000000
+      internalID: -8792762750742114654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadingSpinningIco_11
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 223
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93c54a64ebe19fe40800000000000000
+      internalID: 5690613406737128505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadingSpinningIco_12
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 223
+        width: 19
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3524b316cc121bcb0800000000000000
+      internalID: -4850058162012994989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadingSpinningIco_13
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 223
+        width: 13
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a8a355e9e40be760800000000000000
+      internalID: 7488084208054937766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadingSpinningIco_14
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 223
+        width: 9
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b1e19023acbf6760800000000000000
+      internalID: 7453383317133582768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadingSpinningIco_15
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 123
+        width: 6
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d9838a693dffa990800000000000000
+      internalID: -7372395641940244011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadingSpinningIco_16
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 123
+        width: 11
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de762d7d1cfcde670800000000000000
+      internalID: 8569734097412450285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadingSpinningIco_17
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 123
+        width: 13
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06b2a76855fb14830800000000000000
+      internalID: 4053731513659435872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadingSpinningIco_18
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 123
+        width: 19
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a84e7de29d77d48f0800000000000000
+      internalID: -554655404419193718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadingSpinningIco_19
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 123
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 699f4a07660f868c0800000000000000
+      internalID: -4005687545778865770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadingSpinningIco_20
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 23
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19a342c451ab73f70800000000000000
+      internalID: 9167000167170456209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadingSpinningIco_21
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 23
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44bc9d068d4695770800000000000000
+      internalID: 8600015843941272388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadingSpinningIco_22
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 23
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da85e3ae274c675b0800000000000000
+      internalID: -5370889507757467475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadingSpinningIco_23
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 23
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa4559a26f38db400800000000000000
+      internalID: 341574240049648815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadingSpinningIco_24
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 23
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15f29ccd47d908360800000000000000
+      internalID: 7169903732019769169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      LoadingSpinningIco_0: -2236586275998018062
+      LoadingSpinningIco_1: -5101015716762023932
+      LoadingSpinningIco_10: -8792762750742114654
+      LoadingSpinningIco_11: 5690613406737128505
+      LoadingSpinningIco_12: -4850058162012994989
+      LoadingSpinningIco_13: 7488084208054937766
+      LoadingSpinningIco_14: 7453383317133582768
+      LoadingSpinningIco_15: -7372395641940244011
+      LoadingSpinningIco_16: 8569734097412450285
+      LoadingSpinningIco_17: 4053731513659435872
+      LoadingSpinningIco_18: -554655404419193718
+      LoadingSpinningIco_19: -4005687545778865770
+      LoadingSpinningIco_2: 5708800916504618590
+      LoadingSpinningIco_20: 9167000167170456209
+      LoadingSpinningIco_21: 8600015843941272388
+      LoadingSpinningIco_22: -5370889507757467475
+      LoadingSpinningIco_23: 341574240049648815
+      LoadingSpinningIco_24: 7169903732019769169
+      LoadingSpinningIco_3: -1857751310448278200
+      LoadingSpinningIco_4: 3648891441257162524
+      LoadingSpinningIco_5: -1045856586672306940
+      LoadingSpinningIco_6: -1430026893223866074
+      LoadingSpinningIco_7: -2066276922634372803
+      LoadingSpinningIco_8: 8093877811332896726
+      LoadingSpinningIco_9: -4296804261502377889
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

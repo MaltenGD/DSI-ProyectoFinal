@@ -1,0 +1,611 @@
+fileFormatVersion: 2
+guid: cd3e25555be14b8408e870984fe0af82
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2551330913096060329
+    second: amanecidas-fight-desert-phase-2_0
+  - first:
+      213: 5426706349076306680
+    second: amanecidas-fight-desert-phase-2_1
+  - first:
+      213: -4507422420868011647
+    second: amanecidas-fight-desert-phase-2_2
+  - first:
+      213: -4174797560204179514
+    second: amanecidas-fight-desert-phase-2_3
+  - first:
+      213: 248715151622727417
+    second: amanecidas-fight-desert-phase-2_4
+  - first:
+      213: 3023007789387604549
+    second: amanecidas-fight-desert-phase-2_5
+  - first:
+      213: 963852761701801853
+    second: amanecidas-fight-desert-phase-2_6
+  - first:
+      213: -5746738472972677972
+    second: amanecidas-fight-desert-phase-2_7
+  - first:
+      213: -5216925003235166223
+    second: amanecidas-fight-desert-phase-2_8
+  - first:
+      213: 5935693036535125001
+    second: amanecidas-fight-desert-phase-2_9
+  - first:
+      213: -3761390085494886673
+    second: amanecidas-fight-desert-phase-2_10
+  - first:
+      213: -1596692867575157264
+    second: amanecidas-fight-desert-phase-2_11
+  - first:
+      213: 6446829406620998536
+    second: amanecidas-fight-desert-phase-2_12
+  - first:
+      213: -3057949172908158796
+    second: amanecidas-fight-desert-phase-2_13
+  - first:
+      213: 5332812750278487453
+    second: amanecidas-fight-desert-phase-2_14
+  - first:
+      213: 4988701294426533125
+    second: amanecidas-fight-desert-phase-2_15
+  - first:
+      213: -7182851186580892958
+    second: amanecidas-fight-desert-phase-2_16
+  - first:
+      213: -7384694862919355058
+    second: amanecidas-fight-desert-phase-2_17
+  - first:
+      213: -7196661787388869592
+    second: amanecidas-fight-desert-phase-2_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: amanecidas-fight-desert-phase-2_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 970
+        width: 130
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ad409ba2f5286320800000000000000
+      internalID: 2551330913096060329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: amanecidas-fight-desert-phase-2_1
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 978
+        width: 153
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fadc0d2ca88f4b40800000000000000
+      internalID: 5426706349076306680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: amanecidas-fight-desert-phase-2_2
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 978
+        width: 471
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 189e787803b6271c0800000000000000
+      internalID: -4507422420868011647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: amanecidas-fight-desert-phase-2_3
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 380
+        width: 125
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c7ccdeecb32016c0800000000000000
+      internalID: -4174797560204179514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: amanecidas-fight-desert-phase-2_4
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 378
+        width: 94
+        height: 642
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f6eab6dc1d937300800000000000000
+      internalID: 248715151622727417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: amanecidas-fight-desert-phase-2_5
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 732
+        width: 642
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 542efaf5191e3f920800000000000000
+      internalID: 3023007789387604549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: amanecidas-fight-desert-phase-2_6
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 922
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7fd305eafa406d00800000000000000
+      internalID: 963852761701801853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: amanecidas-fight-desert-phase-2_7
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 758
+        width: 65
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cac846d6ecb7f30b0800000000000000
+      internalID: -5746738472972677972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: amanecidas-fight-desert-phase-2_8
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 785
+        width: 26
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f7705a9952c997b0800000000000000
+      internalID: -5216925003235166223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: amanecidas-fight-desert-phase-2_9
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 848
+        width: 28
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9049f6a3e51df5250800000000000000
+      internalID: 5935693036535125001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: amanecidas-fight-desert-phase-2_10
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 535
+        width: 642
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feea66c55abdccbc0800000000000000
+      internalID: -3761390085494886673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: amanecidas-fight-desert-phase-2_11
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 717
+        width: 71
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fd68cceb4867d9e0800000000000000
+      internalID: -1596692867575157264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: amanecidas-fight-desert-phase-2_12
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 633
+        width: 128
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88bdf25403db77950800000000000000
+      internalID: 6446829406620998536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: amanecidas-fight-desert-phase-2_13
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 573
+        width: 66
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b01c9fcd6bff85d0800000000000000
+      internalID: -3057949172908158796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: amanecidas-fight-desert-phase-2_14
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 574
+        width: 66
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9de50221f4f10a40800000000000000
+      internalID: 5332812750278487453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: amanecidas-fight-desert-phase-2_15
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 526
+        width: 64
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50d23d0656d6b3540800000000000000
+      internalID: 4988701294426533125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: amanecidas-fight-desert-phase-2_16
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 524
+        width: 71
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e25a55f6e2615c90800000000000000
+      internalID: -7182851186580892958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: amanecidas-fight-desert-phase-2_17
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 439
+        width: 642
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e453a01e52b448990800000000000000
+      internalID: -7384694862919355058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: amanecidas-fight-desert-phase-2_18
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 69
+        width: 642
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8240f02eb32502c90800000000000000
+      internalID: -7196661787388869592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      amanecidas-fight-desert-phase-2_0: 2551330913096060329
+      amanecidas-fight-desert-phase-2_1: 5426706349076306680
+      amanecidas-fight-desert-phase-2_10: -3761390085494886673
+      amanecidas-fight-desert-phase-2_11: -1596692867575157264
+      amanecidas-fight-desert-phase-2_12: 6446829406620998536
+      amanecidas-fight-desert-phase-2_13: -3057949172908158796
+      amanecidas-fight-desert-phase-2_14: 5332812750278487453
+      amanecidas-fight-desert-phase-2_15: 4988701294426533125
+      amanecidas-fight-desert-phase-2_16: -7182851186580892958
+      amanecidas-fight-desert-phase-2_17: -7384694862919355058
+      amanecidas-fight-desert-phase-2_18: -7196661787388869592
+      amanecidas-fight-desert-phase-2_2: -4507422420868011647
+      amanecidas-fight-desert-phase-2_3: -4174797560204179514
+      amanecidas-fight-desert-phase-2_4: 248715151622727417
+      amanecidas-fight-desert-phase-2_5: 3023007789387604549
+      amanecidas-fight-desert-phase-2_6: 963852761701801853
+      amanecidas-fight-desert-phase-2_7: -5746738472972677972
+      amanecidas-fight-desert-phase-2_8: -5216925003235166223
+      amanecidas-fight-desert-phase-2_9: 5935693036535125001
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

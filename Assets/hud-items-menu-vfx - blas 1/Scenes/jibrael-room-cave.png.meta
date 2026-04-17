@@ -1,0 +1,559 @@
+fileFormatVersion: 2
+guid: d1301199a57b1e14a9ab32bece6f9f1c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3114637127507393582
+    second: jibrael-room-cave_0
+  - first:
+      213: -5044458147862993933
+    second: jibrael-room-cave_1
+  - first:
+      213: 6605103353638265367
+    second: jibrael-room-cave_2
+  - first:
+      213: -8312957936374104864
+    second: jibrael-room-cave_3
+  - first:
+      213: 756850601687198378
+    second: jibrael-room-cave_4
+  - first:
+      213: -6337308115704137913
+    second: jibrael-room-cave_5
+  - first:
+      213: 209522706946020475
+    second: jibrael-room-cave_6
+  - first:
+      213: 3888531119408982224
+    second: jibrael-room-cave_7
+  - first:
+      213: -8981264807737044922
+    second: jibrael-room-cave_8
+  - first:
+      213: -7213739332267968020
+    second: jibrael-room-cave_9
+  - first:
+      213: 7440551307894782295
+    second: jibrael-room-cave_10
+  - first:
+      213: 6343053796986364093
+    second: jibrael-room-cave_11
+  - first:
+      213: -2161179029720216935
+    second: jibrael-room-cave_12
+  - first:
+      213: -2130207030657002256
+    second: jibrael-room-cave_13
+  - first:
+      213: 1334457463467844851
+    second: jibrael-room-cave_14
+  - first:
+      213: -5074667361528370034
+    second: jibrael-room-cave_15
+  - first:
+      213: -7449697190094266184
+    second: jibrael-room-cave_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: jibrael-room-cave_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 969
+        width: 194
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2c325527f9693b20800000000000000
+      internalID: 3114637127507393582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jibrael-room-cave_1
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 651
+        width: 843
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f32d4c8a0c7ef9b0800000000000000
+      internalID: -5044458147862993933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jibrael-room-cave_2
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 459
+        width: 843
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 712a95a318a0aab50800000000000000
+      internalID: 6605103353638265367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jibrael-room-cave_3
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 297
+        width: 443
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ec38a10dc072ac80800000000000000
+      internalID: -8312957936374104864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jibrael-room-cave_4
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 312
+        width: 269
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaa2b9dbc9fd08a00800000000000000
+      internalID: 756850601687198378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jibrael-room-cave_5
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 193
+        width: 24
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 747314368db5d08a0800000000000000
+      internalID: -6337308115704137913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jibrael-room-cave_6
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 187
+        width: 80
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7455e7bacf58e200800000000000000
+      internalID: 209522706946020475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jibrael-room-cave_7
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 186
+        width: 34
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d8ac666376d6f530800000000000000
+      internalID: 3888531119408982224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jibrael-room-cave_8
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 186
+        width: 64
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 640dd1dfd332c5380800000000000000
+      internalID: -8981264807737044922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jibrael-room-cave_9
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 178
+        width: 44
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce977ed1c46a3eb90800000000000000
+      internalID: -7213739332267968020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jibrael-room-cave_10
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 43
+        width: 70
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 759f2282ef5224760800000000000000
+      internalID: 7440551307894782295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jibrael-room-cave_11
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 58
+        width: 56
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db0a09842dd070850800000000000000
+      internalID: 6343053796986364093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jibrael-room-cave_12
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 43
+        width: 25
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99ac0857f13f102e0800000000000000
+      internalID: -2161179029720216935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jibrael-room-cave_13
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 83
+        width: 72
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f456afedfbff62e0800000000000000
+      internalID: -2130207030657002256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jibrael-room-cave_14
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 24
+        width: 124
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f4aed52ef1f48210800000000000000
+      internalID: 1334457463467844851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jibrael-room-cave_15
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 25
+        width: 20
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8c25d2ebe82399b0800000000000000
+      internalID: -5074667361528370034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jibrael-room-cave_16
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 24
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b0a43430eb5d9890800000000000000
+      internalID: -7449697190094266184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      jibrael-room-cave_0: 3114637127507393582
+      jibrael-room-cave_1: -5044458147862993933
+      jibrael-room-cave_10: 7440551307894782295
+      jibrael-room-cave_11: 6343053796986364093
+      jibrael-room-cave_12: -2161179029720216935
+      jibrael-room-cave_13: -2130207030657002256
+      jibrael-room-cave_14: 1334457463467844851
+      jibrael-room-cave_15: -5074667361528370034
+      jibrael-room-cave_16: -7449697190094266184
+      jibrael-room-cave_2: 6605103353638265367
+      jibrael-room-cave_3: -8312957936374104864
+      jibrael-room-cave_4: 756850601687198378
+      jibrael-room-cave_5: -6337308115704137913
+      jibrael-room-cave_6: 209522706946020475
+      jibrael-room-cave_7: 3888531119408982224
+      jibrael-room-cave_8: -8981264807737044922
+      jibrael-room-cave_9: -7213739332267968020
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

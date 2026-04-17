@@ -1,0 +1,715 @@
+fileFormatVersion: 2
+guid: f7cff3c2c2befe448a63f4d9d3328ff6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7935327463786062276
+    second: FireTrap_MiriamChallenges_Walls_shoot_0
+  - first:
+      213: 1269814502042986396
+    second: FireTrap_MiriamChallenges_Walls_shoot_1
+  - first:
+      213: 5594482590155113435
+    second: FireTrap_MiriamChallenges_Walls_shoot_2
+  - first:
+      213: 3248299864782937742
+    second: FireTrap_MiriamChallenges_Walls_shoot_3
+  - first:
+      213: 1370256111717568398
+    second: FireTrap_MiriamChallenges_Walls_shoot_4
+  - first:
+      213: -6940068438676034913
+    second: FireTrap_MiriamChallenges_Walls_shoot_5
+  - first:
+      213: -7563307719487830601
+    second: FireTrap_MiriamChallenges_Walls_shoot_6
+  - first:
+      213: 2060785194092445238
+    second: FireTrap_MiriamChallenges_Walls_shoot_7
+  - first:
+      213: -5641511677779131158
+    second: FireTrap_MiriamChallenges_Walls_shoot_8
+  - first:
+      213: -1869833369476785748
+    second: FireTrap_MiriamChallenges_Walls_shoot_9
+  - first:
+      213: -5594357314038911834
+    second: FireTrap_MiriamChallenges_Walls_shoot_10
+  - first:
+      213: -3033230435949921997
+    second: FireTrap_MiriamChallenges_Walls_shoot_11
+  - first:
+      213: -506851405838079070
+    second: FireTrap_MiriamChallenges_Walls_shoot_12
+  - first:
+      213: 3585328553096392599
+    second: FireTrap_MiriamChallenges_Walls_shoot_13
+  - first:
+      213: -6371688338441112164
+    second: FireTrap_MiriamChallenges_Walls_shoot_14
+  - first:
+      213: -1258586191267548110
+    second: FireTrap_MiriamChallenges_Walls_shoot_15
+  - first:
+      213: -4830716735869266125
+    second: FireTrap_MiriamChallenges_Walls_shoot_16
+  - first:
+      213: -6932977422626281857
+    second: FireTrap_MiriamChallenges_Walls_shoot_17
+  - first:
+      213: 5970652741828330800
+    second: FireTrap_MiriamChallenges_Walls_shoot_18
+  - first:
+      213: -6852491544891218193
+    second: FireTrap_MiriamChallenges_Walls_shoot_19
+  - first:
+      213: -8711298151787980797
+    second: FireTrap_MiriamChallenges_Walls_shoot_20
+  - first:
+      213: 7993845363308597182
+    second: FireTrap_MiriamChallenges_Walls_shoot_21
+  - first:
+      213: -1920755973978017349
+    second: FireTrap_MiriamChallenges_Walls_shoot_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FireTrap_MiriamChallenges_Walls_shoot_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 402
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3e51a007bd00e190800000000000000
+      internalID: -7935327463786062276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireTrap_MiriamChallenges_Walls_shoot_1
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 453
+        width: 56
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9769e4df894f9110800000000000000
+      internalID: 1269814502042986396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireTrap_MiriamChallenges_Walls_shoot_2
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 453
+        width: 53
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd38d40664893ad40800000000000000
+      internalID: 5594482590155113435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireTrap_MiriamChallenges_Walls_shoot_3
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 453
+        width: 67
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8e165c4487441d20800000000000000
+      internalID: 3248299864782937742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireTrap_MiriamChallenges_Walls_shoot_4
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 453
+        width: 47
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8fcb367ca0240310800000000000000
+      internalID: 1370256111717568398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireTrap_MiriamChallenges_Walls_shoot_5
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 453
+        width: 82
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9aa0db668cefaf90800000000000000
+      internalID: -6940068438676034913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireTrap_MiriamChallenges_Walls_shoot_6
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 391
+        width: 44
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b545f483bbb90790800000000000000
+      internalID: -7563307719487830601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireTrap_MiriamChallenges_Walls_shoot_7
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 391
+        width: 65
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63eb34c2731699c10800000000000000
+      internalID: 2060785194092445238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireTrap_MiriamChallenges_Walls_shoot_8
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 391
+        width: 58
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae4c1c1e40355b1b0800000000000000
+      internalID: -5641511677779131158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireTrap_MiriamChallenges_Walls_shoot_9
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 391
+        width: 49
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca91a2f05740d06e0800000000000000
+      internalID: -1869833369476785748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireTrap_MiriamChallenges_Walls_shoot_10
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 391
+        width: 38
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ac2a1eb9a9dc52b0800000000000000
+      internalID: -5594357314038911834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireTrap_MiriamChallenges_Walls_shoot_11
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 391
+        width: 67
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3393d4f3dfcc7e5d0800000000000000
+      internalID: -3033230435949921997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireTrap_MiriamChallenges_Walls_shoot_12
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 329
+        width: 67
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ab2d11f45d47f8f0800000000000000
+      internalID: -506851405838079070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireTrap_MiriamChallenges_Walls_shoot_13
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 329
+        width: 51
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79f206ab255a1c130800000000000000
+      internalID: 3585328553096392599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireTrap_MiriamChallenges_Walls_shoot_14
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 329
+        width: 38
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c95f7bff6373397a0800000000000000
+      internalID: -6371688338441112164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireTrap_MiriamChallenges_Walls_shoot_15
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 329
+        width: 40
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 234394ef68a988ee0800000000000000
+      internalID: -1258586191267548110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireTrap_MiriamChallenges_Walls_shoot_16
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 329
+        width: 38
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3375af319b8d5fcb0800000000000000
+      internalID: -4830716735869266125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireTrap_MiriamChallenges_Walls_shoot_17
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 329
+        width: 60
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f76ae8044cd19cf90800000000000000
+      internalID: -6932977422626281857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireTrap_MiriamChallenges_Walls_shoot_18
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 267
+        width: 62
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 035c3e9e8050cd250800000000000000
+      internalID: 5970652741828330800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireTrap_MiriamChallenges_Walls_shoot_19
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 277
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe62468fe3f07e0a0800000000000000
+      internalID: -6852491544891218193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireTrap_MiriamChallenges_Walls_shoot_20
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 263
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30819224c704b1780800000000000000
+      internalID: -8711298151787980797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireTrap_MiriamChallenges_Walls_shoot_21
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 276
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebf89653108dfee60800000000000000
+      internalID: 7993845363308597182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireTrap_MiriamChallenges_Walls_shoot_22
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 267
+        width: 38
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb1b4d64e9a1855e0800000000000000
+      internalID: -1920755973978017349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      FireTrap_MiriamChallenges_Walls_shoot_0: -7935327463786062276
+      FireTrap_MiriamChallenges_Walls_shoot_1: 1269814502042986396
+      FireTrap_MiriamChallenges_Walls_shoot_10: -5594357314038911834
+      FireTrap_MiriamChallenges_Walls_shoot_11: -3033230435949921997
+      FireTrap_MiriamChallenges_Walls_shoot_12: -506851405838079070
+      FireTrap_MiriamChallenges_Walls_shoot_13: 3585328553096392599
+      FireTrap_MiriamChallenges_Walls_shoot_14: -6371688338441112164
+      FireTrap_MiriamChallenges_Walls_shoot_15: -1258586191267548110
+      FireTrap_MiriamChallenges_Walls_shoot_16: -4830716735869266125
+      FireTrap_MiriamChallenges_Walls_shoot_17: -6932977422626281857
+      FireTrap_MiriamChallenges_Walls_shoot_18: 5970652741828330800
+      FireTrap_MiriamChallenges_Walls_shoot_19: -6852491544891218193
+      FireTrap_MiriamChallenges_Walls_shoot_2: 5594482590155113435
+      FireTrap_MiriamChallenges_Walls_shoot_20: -8711298151787980797
+      FireTrap_MiriamChallenges_Walls_shoot_21: 7993845363308597182
+      FireTrap_MiriamChallenges_Walls_shoot_22: -1920755973978017349
+      FireTrap_MiriamChallenges_Walls_shoot_3: 3248299864782937742
+      FireTrap_MiriamChallenges_Walls_shoot_4: 1370256111717568398
+      FireTrap_MiriamChallenges_Walls_shoot_5: -6940068438676034913
+      FireTrap_MiriamChallenges_Walls_shoot_6: -7563307719487830601
+      FireTrap_MiriamChallenges_Walls_shoot_7: 2060785194092445238
+      FireTrap_MiriamChallenges_Walls_shoot_8: -5641511677779131158
+      FireTrap_MiriamChallenges_Walls_shoot_9: -1869833369476785748
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,4251 @@
+fileFormatVersion: 2
+guid: 293f46a7bc4118743b3f9bcb0f09dee2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8591080256550198601
+    second: breakable_platform_big_invertedBell_0
+  - first:
+      213: 7568133094748612750
+    second: breakable_platform_big_invertedBell_1
+  - first:
+      213: -5262361498239460816
+    second: breakable_platform_big_invertedBell_2
+  - first:
+      213: 2835211036574470186
+    second: breakable_platform_big_invertedBell_3
+  - first:
+      213: -5397811551756039594
+    second: breakable_platform_big_invertedBell_4
+  - first:
+      213: -7604958484944124141
+    second: breakable_platform_big_invertedBell_5
+  - first:
+      213: -6161199824372487054
+    second: breakable_platform_big_invertedBell_6
+  - first:
+      213: 4528407693688016809
+    second: breakable_platform_big_invertedBell_7
+  - first:
+      213: 7077030202091576808
+    second: breakable_platform_big_invertedBell_8
+  - first:
+      213: 755362369981345659
+    second: breakable_platform_big_invertedBell_9
+  - first:
+      213: -8462481354035047934
+    second: breakable_platform_big_invertedBell_10
+  - first:
+      213: 7506434555886305179
+    second: breakable_platform_big_invertedBell_11
+  - first:
+      213: 8787215782204045940
+    second: breakable_platform_big_invertedBell_12
+  - first:
+      213: 2158842123712955789
+    second: breakable_platform_big_invertedBell_13
+  - first:
+      213: 7268320843730545852
+    second: breakable_platform_big_invertedBell_14
+  - first:
+      213: 3053264432871670945
+    second: breakable_platform_big_invertedBell_15
+  - first:
+      213: 4914080348958974548
+    second: breakable_platform_big_invertedBell_16
+  - first:
+      213: -7324482799801970958
+    second: breakable_platform_big_invertedBell_17
+  - first:
+      213: 5000700442229408882
+    second: breakable_platform_big_invertedBell_18
+  - first:
+      213: 5997155646457588817
+    second: breakable_platform_big_invertedBell_19
+  - first:
+      213: 7816828217211590149
+    second: breakable_platform_big_invertedBell_20
+  - first:
+      213: 5357316233208884262
+    second: breakable_platform_big_invertedBell_21
+  - first:
+      213: -8814970200077223607
+    second: breakable_platform_big_invertedBell_22
+  - first:
+      213: -5876459107055760932
+    second: breakable_platform_big_invertedBell_23
+  - first:
+      213: 7753402449813214937
+    second: breakable_platform_big_invertedBell_24
+  - first:
+      213: 8650580070593896016
+    second: breakable_platform_big_invertedBell_25
+  - first:
+      213: 1125618865085522738
+    second: breakable_platform_big_invertedBell_26
+  - first:
+      213: -5331802259501676480
+    second: breakable_platform_big_invertedBell_27
+  - first:
+      213: -8139476815278881282
+    second: breakable_platform_big_invertedBell_28
+  - first:
+      213: -414330151483248520
+    second: breakable_platform_big_invertedBell_29
+  - first:
+      213: 3654431453630280120
+    second: breakable_platform_big_invertedBell_30
+  - first:
+      213: -68798803120544332
+    second: breakable_platform_big_invertedBell_31
+  - first:
+      213: -312279203057869268
+    second: breakable_platform_big_invertedBell_32
+  - first:
+      213: 1347976819509274202
+    second: breakable_platform_big_invertedBell_33
+  - first:
+      213: -716527587744812548
+    second: breakable_platform_big_invertedBell_34
+  - first:
+      213: -6946888340138657807
+    second: breakable_platform_big_invertedBell_35
+  - first:
+      213: -6973503630640095215
+    second: breakable_platform_big_invertedBell_36
+  - first:
+      213: -5684976879088856669
+    second: breakable_platform_big_invertedBell_37
+  - first:
+      213: 5391006516201956789
+    second: breakable_platform_big_invertedBell_38
+  - first:
+      213: -2463386148784700913
+    second: breakable_platform_big_invertedBell_39
+  - first:
+      213: 4241044789043299614
+    second: breakable_platform_big_invertedBell_40
+  - first:
+      213: 4306809801086367468
+    second: breakable_platform_big_invertedBell_41
+  - first:
+      213: 6134071930437853264
+    second: breakable_platform_big_invertedBell_42
+  - first:
+      213: -8719861881358232692
+    second: breakable_platform_big_invertedBell_43
+  - first:
+      213: 802079416761889088
+    second: breakable_platform_big_invertedBell_44
+  - first:
+      213: 1436250939209525027
+    second: breakable_platform_big_invertedBell_45
+  - first:
+      213: -4729173434496833763
+    second: breakable_platform_big_invertedBell_46
+  - first:
+      213: -879635296900764308
+    second: breakable_platform_big_invertedBell_47
+  - first:
+      213: 2722289485454975172
+    second: breakable_platform_big_invertedBell_48
+  - first:
+      213: 7765945575528942931
+    second: breakable_platform_big_invertedBell_49
+  - first:
+      213: 5595806948332344977
+    second: breakable_platform_big_invertedBell_50
+  - first:
+      213: 6110187959328650987
+    second: breakable_platform_big_invertedBell_51
+  - first:
+      213: 441114903489257419
+    second: breakable_platform_big_invertedBell_52
+  - first:
+      213: 6739768096489773835
+    second: breakable_platform_big_invertedBell_53
+  - first:
+      213: -749195119867211310
+    second: breakable_platform_big_invertedBell_54
+  - first:
+      213: 2333661928052275227
+    second: breakable_platform_big_invertedBell_55
+  - first:
+      213: 2481987919551280541
+    second: breakable_platform_big_invertedBell_56
+  - first:
+      213: -6878483930083760845
+    second: breakable_platform_big_invertedBell_57
+  - first:
+      213: 434132200768560734
+    second: breakable_platform_big_invertedBell_58
+  - first:
+      213: -2245095968453405190
+    second: breakable_platform_big_invertedBell_59
+  - first:
+      213: 53502381508607632
+    second: breakable_platform_big_invertedBell_60
+  - first:
+      213: 5767402366095743616
+    second: breakable_platform_big_invertedBell_61
+  - first:
+      213: -8410357941923524208
+    second: breakable_platform_big_invertedBell_62
+  - first:
+      213: -7741479036983652485
+    second: breakable_platform_big_invertedBell_63
+  - first:
+      213: 8743480795321496556
+    second: breakable_platform_big_invertedBell_64
+  - first:
+      213: -7189073260413859942
+    second: breakable_platform_big_invertedBell_65
+  - first:
+      213: -258906767517277657
+    second: breakable_platform_big_invertedBell_66
+  - first:
+      213: 8841878163424539755
+    second: breakable_platform_big_invertedBell_67
+  - first:
+      213: -5659657607533387192
+    second: breakable_platform_big_invertedBell_68
+  - first:
+      213: -7413310565963226967
+    second: breakable_platform_big_invertedBell_69
+  - first:
+      213: 576278510759457603
+    second: breakable_platform_big_invertedBell_70
+  - first:
+      213: 4633270371285316201
+    second: breakable_platform_big_invertedBell_71
+  - first:
+      213: 5163179968279351479
+    second: breakable_platform_big_invertedBell_72
+  - first:
+      213: -6557173674708611240
+    second: breakable_platform_big_invertedBell_73
+  - first:
+      213: 2086240395324905716
+    second: breakable_platform_big_invertedBell_74
+  - first:
+      213: 8684077410072926021
+    second: breakable_platform_big_invertedBell_75
+  - first:
+      213: -8679325276899561106
+    second: breakable_platform_big_invertedBell_76
+  - first:
+      213: 3993416702661969534
+    second: breakable_platform_big_invertedBell_77
+  - first:
+      213: -2469675376798210783
+    second: breakable_platform_big_invertedBell_78
+  - first:
+      213: -1396146109269118946
+    second: breakable_platform_big_invertedBell_79
+  - first:
+      213: -5336072826978484043
+    second: breakable_platform_big_invertedBell_80
+  - first:
+      213: 5135005491226367182
+    second: breakable_platform_big_invertedBell_81
+  - first:
+      213: -2845905499259871147
+    second: breakable_platform_big_invertedBell_82
+  - first:
+      213: 7208327653063342770
+    second: breakable_platform_big_invertedBell_83
+  - first:
+      213: -662636922289043142
+    second: breakable_platform_big_invertedBell_84
+  - first:
+      213: -8641340422928466681
+    second: breakable_platform_big_invertedBell_85
+  - first:
+      213: 7333422053903941438
+    second: breakable_platform_big_invertedBell_86
+  - first:
+      213: -7331334217177627389
+    second: breakable_platform_big_invertedBell_87
+  - first:
+      213: -2709259529559209994
+    second: breakable_platform_big_invertedBell_88
+  - first:
+      213: 1836899423257214155
+    second: breakable_platform_big_invertedBell_89
+  - first:
+      213: -8357105038052348233
+    second: breakable_platform_big_invertedBell_90
+  - first:
+      213: -3530123586474463705
+    second: breakable_platform_big_invertedBell_91
+  - first:
+      213: -1695617673443730021
+    second: breakable_platform_big_invertedBell_92
+  - first:
+      213: -7038758001794839700
+    second: breakable_platform_big_invertedBell_93
+  - first:
+      213: 2803202472424895889
+    second: breakable_platform_big_invertedBell_94
+  - first:
+      213: 7536310088654049789
+    second: breakable_platform_big_invertedBell_95
+  - first:
+      213: -8903267152254611839
+    second: breakable_platform_big_invertedBell_96
+  - first:
+      213: -4098380851372955197
+    second: breakable_platform_big_invertedBell_97
+  - first:
+      213: -2667358635256108322
+    second: breakable_platform_big_invertedBell_98
+  - first:
+      213: 6685086879416692889
+    second: breakable_platform_big_invertedBell_99
+  - first:
+      213: -1316566335070249954
+    second: breakable_platform_big_invertedBell_100
+  - first:
+      213: 2411125004553125577
+    second: breakable_platform_big_invertedBell_101
+  - first:
+      213: 1947339793597032019
+    second: breakable_platform_big_invertedBell_102
+  - first:
+      213: 4239688660226541587
+    second: breakable_platform_big_invertedBell_103
+  - first:
+      213: 3966961749053133590
+    second: breakable_platform_big_invertedBell_104
+  - first:
+      213: 7694061052865602132
+    second: breakable_platform_big_invertedBell_105
+  - first:
+      213: 4271759155419044487
+    second: breakable_platform_big_invertedBell_106
+  - first:
+      213: 2743024159020550588
+    second: breakable_platform_big_invertedBell_107
+  - first:
+      213: -5078595048750603965
+    second: breakable_platform_big_invertedBell_108
+  - first:
+      213: 3301164494109869478
+    second: breakable_platform_big_invertedBell_109
+  - first:
+      213: -1491398169728891938
+    second: breakable_platform_big_invertedBell_110
+  - first:
+      213: -7401408549277588105
+    second: breakable_platform_big_invertedBell_111
+  - first:
+      213: 5990593817362905464
+    second: breakable_platform_big_invertedBell_112
+  - first:
+      213: -1763913305625241687
+    second: breakable_platform_big_invertedBell_113
+  - first:
+      213: 6882609498385943569
+    second: breakable_platform_big_invertedBell_114
+  - first:
+      213: 5431001828760945467
+    second: breakable_platform_big_invertedBell_115
+  - first:
+      213: 964620638891652278
+    second: breakable_platform_big_invertedBell_116
+  - first:
+      213: -6062122746908169021
+    second: breakable_platform_big_invertedBell_117
+  - first:
+      213: 6231801060512926479
+    second: breakable_platform_big_invertedBell_118
+  - first:
+      213: 4120831695093175864
+    second: breakable_platform_big_invertedBell_119
+  - first:
+      213: -1104585496600926478
+    second: breakable_platform_big_invertedBell_120
+  - first:
+      213: 6036276584953506922
+    second: breakable_platform_big_invertedBell_121
+  - first:
+      213: -7683472015405452511
+    second: breakable_platform_big_invertedBell_122
+  - first:
+      213: -3141116584178008760
+    second: breakable_platform_big_invertedBell_123
+  - first:
+      213: 8255960938907300257
+    second: breakable_platform_big_invertedBell_124
+  - first:
+      213: 4607778716830604821
+    second: breakable_platform_big_invertedBell_125
+  - first:
+      213: 4168235273709005006
+    second: breakable_platform_big_invertedBell_126
+  - first:
+      213: 6587534748751907676
+    second: breakable_platform_big_invertedBell_127
+  - first:
+      213: 4732043031120811892
+    second: breakable_platform_big_invertedBell_128
+  - first:
+      213: -4794053104271746458
+    second: breakable_platform_big_invertedBell_129
+  - first:
+      213: -3029796266063854717
+    second: breakable_platform_big_invertedBell_130
+  - first:
+      213: 6424738039825326826
+    second: breakable_platform_big_invertedBell_131
+  - first:
+      213: 2342646951327835892
+    second: breakable_platform_big_invertedBell_132
+  - first:
+      213: -5817015171721717104
+    second: breakable_platform_big_invertedBell_133
+  - first:
+      213: 2513577208478814562
+    second: breakable_platform_big_invertedBell_134
+  - first:
+      213: -232774137954662853
+    second: breakable_platform_big_invertedBell_135
+  - first:
+      213: -6534296300786793165
+    second: breakable_platform_big_invertedBell_136
+  - first:
+      213: -3076290201078056726
+    second: breakable_platform_big_invertedBell_137
+  - first:
+      213: 2935547044364201997
+    second: breakable_platform_big_invertedBell_138
+  - first:
+      213: 4690276902470602425
+    second: breakable_platform_big_invertedBell_139
+  - first:
+      213: 4058014559480101899
+    second: breakable_platform_big_invertedBell_140
+  - first:
+      213: 5992484514630648894
+    second: breakable_platform_big_invertedBell_141
+  - first:
+      213: -3906368144090053247
+    second: breakable_platform_big_invertedBell_142
+  - first:
+      213: -2042638225451505245
+    second: breakable_platform_big_invertedBell_143
+  - first:
+      213: -1856610898119901635
+    second: breakable_platform_big_invertedBell_144
+  - first:
+      213: -7781683318764000115
+    second: breakable_platform_big_invertedBell_145
+  - first:
+      213: 2776713802232068102
+    second: breakable_platform_big_invertedBell_146
+  - first:
+      213: 1481383557859171400
+    second: breakable_platform_big_invertedBell_147
+  - first:
+      213: -581512127691887587
+    second: breakable_platform_big_invertedBell_148
+  - first:
+      213: 6261205033845298087
+    second: breakable_platform_big_invertedBell_149
+  - first:
+      213: 8140612844149529455
+    second: breakable_platform_big_invertedBell_150
+  - first:
+      213: 7916436972654892477
+    second: breakable_platform_big_invertedBell_151
+  - first:
+      213: -8694562398256573591
+    second: breakable_platform_big_invertedBell_152
+  - first:
+      213: -7152995758489512599
+    second: breakable_platform_big_invertedBell_153
+  - first:
+      213: -8221181761447082032
+    second: breakable_platform_big_invertedBell_154
+  - first:
+      213: 5957274571460972580
+    second: breakable_platform_big_invertedBell_155
+  - first:
+      213: -6813502853620342188
+    second: breakable_platform_big_invertedBell_156
+  - first:
+      213: 5778216068739805956
+    second: breakable_platform_big_invertedBell_157
+  - first:
+      213: -3605102808074408972
+    second: breakable_platform_big_invertedBell_158
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_0
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 976
+        width: 131
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94ddb80d9f5a93770800000000000000
+      internalID: 8591080256550198601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_1
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 974
+        width: 131
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e886e55b3f8670960800000000000000
+      internalID: 7568133094748612750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_2
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 973
+        width: 131
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03a9eb9391658f6b0800000000000000
+      internalID: -5262361498239460816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_3
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 971
+        width: 131
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a20d94a8a61b85720800000000000000
+      internalID: 2835211036574470186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_4
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 969
+        width: 131
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65ac4151efe1715b0800000000000000
+      internalID: -5397811551756039594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_5
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 836
+        width: 131
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 317005dfc82c57690800000000000000
+      internalID: -7604958484944124141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_6
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 831
+        width: 131
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27c241637650f7aa0800000000000000
+      internalID: -6161199824372487054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_7
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 824
+        width: 131
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9af8b6c0ec228de30800000000000000
+      internalID: 4528407693688016809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_8
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 817
+        width: 131
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ed116c1979a63260800000000000000
+      internalID: 7077030202091576808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_9
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 810
+        width: 131
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7f6f6bc2169b7a00800000000000000
+      internalID: 755362369981345659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_10
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 685
+        width: 131
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 202df5e6b0a3f8a80800000000000000
+      internalID: -8462481354035047934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_11
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 714
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9ff15135763c2860800000000000000
+      internalID: 7506434555886305179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_12
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 679
+        width: 131
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47a7afe723672f970800000000000000
+      internalID: 8787215782204045940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_13
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 678
+        width: 131
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d858f06397fb5fd10800000000000000
+      internalID: 2158842123712955789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_14
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 720
+        width: 131
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbc60245c434ed460800000000000000
+      internalID: 7268320843730545852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_15
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 713
+        width: 135
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a486a623df5f5a20800000000000000
+      internalID: 3053264432871670945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_16
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 706
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4526d6d9a02523440800000000000000
+      internalID: 4914080348958974548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_17
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 707
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fe485a43b53a5a90800000000000000
+      internalID: -7324482799801970958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_18
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 582
+        width: 136
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 274093fae8e066540800000000000000
+      internalID: 5000700442229408882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_19
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 579
+        width: 138
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15c25d1494d2a3350800000000000000
+      internalID: 5997155646457588817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_20
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 570
+        width: 139
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 506952529d3fa7c60800000000000000
+      internalID: 7816828217211590149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_21
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 564
+        width: 141
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62c69d5dab2095a40800000000000000
+      internalID: 5357316233208884262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_22
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 607
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9493eb68e4feaa580800000000000000
+      internalID: -8814970200077223607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_23
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 549
+        width: 132
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd905d2b39f927ea0800000000000000
+      internalID: -5876459107055760932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_24
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 601
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d692c5e27e999b60800000000000000
+      internalID: 7753402449813214937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_25
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 602
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05e92d0ddb80d0870800000000000000
+      internalID: 8650580070593896016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_26
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 605
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 233a6edd4600f9f00800000000000000
+      internalID: 1125618865085522738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_27
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 596
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04807c51812a106b0800000000000000
+      internalID: -5331802259501676480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_28
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 573
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef546c716f4ca0f80800000000000000
+      internalID: -8139476815278881282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_29
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 503
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8707b152ce0004af0800000000000000
+      internalID: -414330151483248520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_30
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 478
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b1b5a98b0627b230800000000000000
+      internalID: 3654431453630280120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_31
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 477
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b527036ad39b0ff0800000000000000
+      internalID: -68798803120544332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_32
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 483
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2e5ef628bf8aabf0800000000000000
+      internalID: -312279203057869268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_33
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 472
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a56af4486c9f4b210800000000000000
+      internalID: 1347976819509274202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_34
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 454
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf1f3bc84f16e06f0800000000000000
+      internalID: -716527587744812548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_35
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 474
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f77bbf5cd1b79f90800000000000000
+      internalID: -6946888340138657807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_36
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 474
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 110ecc72563293f90800000000000000
+      internalID: -6973503630640095215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_37
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 464
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a1999516a7ea11b0800000000000000
+      internalID: -5684976879088856669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_38
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 471
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b5a80c1dd3b0da40800000000000000
+      internalID: 5391006516201956789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_39
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 464
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f020219695b40ddd0800000000000000
+      internalID: -2463386148784700913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_40
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 473
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e15827ff3c73bda30800000000000000
+      internalID: 4241044789043299614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_41
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 468
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce67ce412bcd4cb30800000000000000
+      internalID: 4306809801086367468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_42
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 468
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0506178cbe9902550800000000000000
+      internalID: 6134071930437853264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_43
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 457
+        width: 44
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c835c2791d3dcf680800000000000000
+      internalID: -8719861881358232692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_44
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 461
+        width: 27
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 041bebddafe812b00800000000000000
+      internalID: 802079416761889088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_45
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 458
+        width: 46
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 327a7ef9e969ee310800000000000000
+      internalID: 1436250939209525027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_46
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 460
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d172a9b41d99e5eb0800000000000000
+      internalID: -4729173434496833763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_47
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 463
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6da554ab58eac3f0800000000000000
+      internalID: -879635296900764308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_48
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 462
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c0235c1dd387c520800000000000000
+      internalID: 2722289485454975172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_49
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 464
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35d4b6eea5e26cb60800000000000000
+      internalID: 7765945575528942931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_50
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 462
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 196130b85cc48ad40800000000000000
+      internalID: 5595806948332344977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_51
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 408
+        width: 58
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be637aa639fbbc450800000000000000
+      internalID: 6110187959328650987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_52
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 466
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcf9b97eaa72f1600800000000000000
+      internalID: 441114903489257419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_53
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 440
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0b98cbff57788d50800000000000000
+      internalID: 6739768096489773835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_54
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 466
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d1dbd402035a95f0800000000000000
+      internalID: -749195119867211310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_55
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 456
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b18b867c825d26020800000000000000
+      internalID: 2333661928052275227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_56
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 467
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d953aa9dcdac17220800000000000000
+      internalID: 2481987919551280541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_57
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 448
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 335ef123f47ba80a0800000000000000
+      internalID: -6878483930083760845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_58
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 454
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5e5e5cbfe8560600800000000000000
+      internalID: 434132200768560734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_59
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 440
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af55ca99c11d7d0e0800000000000000
+      internalID: -2245095968453405190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_60
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 430
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09e357ce1241eb000800000000000000
+      internalID: 53502381508607632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_61
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 446
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08a52eb15ede90050800000000000000
+      internalID: 5767402366095743616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_62
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 443
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09153c50308684b80800000000000000
+      internalID: -8410357941923524208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_63
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 435
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7fc47cf4ddb09490800000000000000
+      internalID: -7741479036983652485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_64
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 441
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce376995575175970800000000000000
+      internalID: 8743480795321496556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_65
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 454
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a97c5c085f74b3c90800000000000000
+      internalID: -7189073260413859942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_66
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 446
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 722203caaad286cf0800000000000000
+      internalID: -258906767517277657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_67
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 454
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b64f336e759a4ba70800000000000000
+      internalID: 8841878163424539755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_68
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 447
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 842a2a0646bd471b0800000000000000
+      internalID: -5659657607533387192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_69
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 446
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a0ac125151ae1990800000000000000
+      internalID: -7413310565963226967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_70
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 449
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3433285904a5ff700800000000000000
+      internalID: 576278510759457603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_71
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 449
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 962bdc4cadeac4040800000000000000
+      internalID: 4633270371285316201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_72
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 444
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b014b053dc47a740800000000000000
+      internalID: 5163179968279351479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_73
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 454
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85f4374c84d3005a0800000000000000
+      internalID: -6557173674708611240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_74
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 452
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f8596f0690d3fc10800000000000000
+      internalID: 2086240395324905716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_75
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 443
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 547146de46a048870800000000000000
+      internalID: 8684077410072926021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_76
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 426
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e61355c45a7dc8780800000000000000
+      internalID: -8679325276899561106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_77
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 415
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e76474245577b6730800000000000000
+      internalID: 3993416702661969534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_78
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 436
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 125e9676453f9bdd0800000000000000
+      internalID: -2469675376798210783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_79
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 430
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e10787eb284ef9ce0800000000000000
+      internalID: -1396146109269118946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_80
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 443
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b0455c190672f5b0800000000000000
+      internalID: -5336072826978484043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_81
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 439
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec45a30b944334740800000000000000
+      internalID: 5135005491226367182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_82
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 439
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 550e844d6005188d0800000000000000
+      internalID: -2845905499259871147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_83
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 422
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ba37712fcf190460800000000000000
+      internalID: 7208327653063342770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_84
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 446
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3947efda37ddc6f0800000000000000
+      internalID: -662636922289043142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_85
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 441
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70dff1c4baac31880800000000000000
+      internalID: -8641340422928466681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_86
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 441
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3fb5fef08c85c560800000000000000
+      internalID: 7333422053903941438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_87
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 439
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 305067f5f5ed14a90800000000000000
+      internalID: -7331334217177627389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_88
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 439
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f70848efc6c66ad0800000000000000
+      internalID: -2709259529559209994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_89
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 439
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bccbd5b0b4afd7910800000000000000
+      internalID: 1836899423257214155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_90
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 439
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7be2348ee39950c80800000000000000
+      internalID: -8357105038052348233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_91
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 438
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72e26fe2d4b720fc0800000000000000
+      internalID: -3530123586474463705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_92
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 431
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9d1383b5b4f778e0800000000000000
+      internalID: -1695617673443730021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_93
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 422
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6b841be3ee415e90800000000000000
+      internalID: -7038758001794839700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_94
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 427
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 195f162fbc9f6e620800000000000000
+      internalID: 2803202472424895889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_95
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 427
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df1da67b81a569860800000000000000
+      internalID: 7536310088654049789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_96
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 426
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18ec57152bd317480800000000000000
+      internalID: -8903267152254611839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_97
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 435
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c9e6af6450af17c0800000000000000
+      internalID: -4098380851372955197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_98
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 434
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eda2df81473abfad0800000000000000
+      internalID: -2667358635256108322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_99
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 422
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 990b144091336cc50800000000000000
+      internalID: 6685086879416692889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_100
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 430
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1c56eac4ed9abde0800000000000000
+      internalID: -1316566335070249954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_101
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 420
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ce737dba69067120800000000000000
+      internalID: 2411125004553125577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_102
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 427
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 356655e8937560b10800000000000000
+      internalID: 1947339793597032019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_103
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 426
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3180e07af5666da30800000000000000
+      internalID: 4239688660226541587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_104
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 427
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 613dfd161ba7d0730800000000000000
+      internalID: 3966961749053133590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_105
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 406
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 452e83043cbc6ca60800000000000000
+      internalID: 7694061052865602132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_106
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 427
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78a56c0b156584b30800000000000000
+      internalID: 4271759155419044487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_107
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 426
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb90cb080fd211620800000000000000
+      internalID: 2743024159020550588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_108
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 425
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 341a921f5b43589b0800000000000000
+      internalID: -5078595048750603965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_109
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 420
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a50d88fd9710dd20800000000000000
+      internalID: 3301164494109869478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_110
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 431
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed344a2344d7d4be0800000000000000
+      internalID: -1491398169728891938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_111
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 425
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77525c6832ae84990800000000000000
+      internalID: -7401408549277588105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_112
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 423
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 879319d565dd22350800000000000000
+      internalID: 5990593817362905464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_113
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 416
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a75f93b1325587e0800000000000000
+      internalID: -1763913305625241687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_114
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 410
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11c06078fd0f38f50800000000000000
+      internalID: 6882609498385943569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_115
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 424
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b330bc9736bce5b40800000000000000
+      internalID: 5431001828760945467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_116
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 407
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b4b52c3c55036d00800000000000000
+      internalID: 964620638891652278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_117
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 414
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cc29bdea730fdba0800000000000000
+      internalID: -6062122746908169021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_118
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 421
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0b86ca0c0ecb7650800000000000000
+      internalID: 6231801060512926479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_119
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 402
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8361335f792203930800000000000000
+      internalID: 4120831695093175864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_120
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 421
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f6ad0bd759bba0f0800000000000000
+      internalID: -1104585496600926478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_121
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 410
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6c692c829925c350800000000000000
+      internalID: 6036276584953506922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_122
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 410
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1237a1829e2de5590800000000000000
+      internalID: -7683472015405452511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_123
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 401
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84d3bf9eb138864d0800000000000000
+      internalID: -3141116584178008760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_124
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 414
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a1f1136bb0139270800000000000000
+      internalID: 8255960938907300257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_125
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 409
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51e1b44745e12ff30800000000000000
+      internalID: 4607778716830604821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_126
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 334
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec8adada5eb88d930800000000000000
+      internalID: 4168235273709005006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_127
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 368
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5b46e4a3ff9b6b50800000000000000
+      internalID: 6587534748751907676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_128
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 360
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47791dbb0189ba140800000000000000
+      internalID: 4732043031120811892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_129
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 341
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66a16850a1a187db0800000000000000
+      internalID: -4794053104271746458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_130
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 316
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 383857b395004f5d0800000000000000
+      internalID: -3029796266063854717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_131
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 349
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae26abe1531492950800000000000000
+      internalID: 6424738039825326826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_132
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 338
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f62c088df0c28020800000000000000
+      internalID: 2342646951327835892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_133
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 334
+        width: 52
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09a187c658fc54fa0800000000000000
+      internalID: -5817015171721717104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_134
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 326
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 261d5e2572502e220800000000000000
+      internalID: 2513577208478814562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_135
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 349
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b368052a72505ccf0800000000000000
+      internalID: -232774137954662853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_136
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 334
+        width: 99
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 335447672248155a0800000000000000
+      internalID: -6534296300786793165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_137
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 334
+        width: 45
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae83aba6c52de45d0800000000000000
+      internalID: -3076290201078056726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_138
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 332
+        width: 131
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d00b6c0db782db820800000000000000
+      internalID: 2935547044364201997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_139
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 331
+        width: 131
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9becafd1ef5371140800000000000000
+      internalID: 4690276902470602425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_140
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 334
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0cbc27ddb6f05830800000000000000
+      internalID: 4058014559480101899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_141
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 331
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e34c690aae4992350800000000000000
+      internalID: 5992484514630648894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_142
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 322
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1854c99aedac9c9c0800000000000000
+      internalID: -3906368144090053247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_143
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 315
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a924573b5717a3e0800000000000000
+      internalID: -2042638225451505245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_144
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 324
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3eb173993efb36e0800000000000000
+      internalID: -1856610898119901635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_145
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 322
+        width: 52
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8c2d7e2048e10490800000000000000
+      internalID: -7781683318764000115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_146
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 317
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60877f0dd7ed88620800000000000000
+      internalID: 2776713802232068102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_147
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 315
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84cdc464f7eee8410800000000000000
+      internalID: 1481383557859171400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_148
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 312
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1ce7540dcd0ee7f0800000000000000
+      internalID: -581512127691887587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_149
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 313
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a39c341ec444e650800000000000000
+      internalID: 6261205033845298087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_150
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 297
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6bd38d304449f070800000000000000
+      internalID: 8140612844149529455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_151
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 201
+        width: 131
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db51dd9cb75dcdd60800000000000000
+      internalID: 7916436972654892477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_152
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 199
+        width: 131
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 963d2768095b65780800000000000000
+      internalID: -8694562398256573591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_153
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 195
+        width: 131
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9655b5f71447bbc90800000000000000
+      internalID: -7152995758489512599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_154
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 188
+        width: 131
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d7c603eebe78ed80800000000000000
+      internalID: -8221181761447082032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_155
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 180
+        width: 131
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4201665e8ad7ca250800000000000000
+      internalID: 5957274571460972580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_156
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 41
+        width: 131
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45269dd01439171a0800000000000000
+      internalID: -6813502853620342188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_157
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 37
+        width: 131
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 403b0b476e8503050800000000000000
+      internalID: 5778216068739805956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_invertedBell_158
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 80
+        width: 131
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fb26f1c81a18fdc0800000000000000
+      internalID: -3605102808074408972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      breakable_platform_big_invertedBell_0: 8591080256550198601
+      breakable_platform_big_invertedBell_1: 7568133094748612750
+      breakable_platform_big_invertedBell_10: -8462481354035047934
+      breakable_platform_big_invertedBell_100: -1316566335070249954
+      breakable_platform_big_invertedBell_101: 2411125004553125577
+      breakable_platform_big_invertedBell_102: 1947339793597032019
+      breakable_platform_big_invertedBell_103: 4239688660226541587
+      breakable_platform_big_invertedBell_104: 3966961749053133590
+      breakable_platform_big_invertedBell_105: 7694061052865602132
+      breakable_platform_big_invertedBell_106: 4271759155419044487
+      breakable_platform_big_invertedBell_107: 2743024159020550588
+      breakable_platform_big_invertedBell_108: -5078595048750603965
+      breakable_platform_big_invertedBell_109: 3301164494109869478
+      breakable_platform_big_invertedBell_11: 7506434555886305179
+      breakable_platform_big_invertedBell_110: -1491398169728891938
+      breakable_platform_big_invertedBell_111: -7401408549277588105
+      breakable_platform_big_invertedBell_112: 5990593817362905464
+      breakable_platform_big_invertedBell_113: -1763913305625241687
+      breakable_platform_big_invertedBell_114: 6882609498385943569
+      breakable_platform_big_invertedBell_115: 5431001828760945467
+      breakable_platform_big_invertedBell_116: 964620638891652278
+      breakable_platform_big_invertedBell_117: -6062122746908169021
+      breakable_platform_big_invertedBell_118: 6231801060512926479
+      breakable_platform_big_invertedBell_119: 4120831695093175864
+      breakable_platform_big_invertedBell_12: 8787215782204045940
+      breakable_platform_big_invertedBell_120: -1104585496600926478
+      breakable_platform_big_invertedBell_121: 6036276584953506922
+      breakable_platform_big_invertedBell_122: -7683472015405452511
+      breakable_platform_big_invertedBell_123: -3141116584178008760
+      breakable_platform_big_invertedBell_124: 8255960938907300257
+      breakable_platform_big_invertedBell_125: 4607778716830604821
+      breakable_platform_big_invertedBell_126: 4168235273709005006
+      breakable_platform_big_invertedBell_127: 6587534748751907676
+      breakable_platform_big_invertedBell_128: 4732043031120811892
+      breakable_platform_big_invertedBell_129: -4794053104271746458
+      breakable_platform_big_invertedBell_13: 2158842123712955789
+      breakable_platform_big_invertedBell_130: -3029796266063854717
+      breakable_platform_big_invertedBell_131: 6424738039825326826
+      breakable_platform_big_invertedBell_132: 2342646951327835892
+      breakable_platform_big_invertedBell_133: -5817015171721717104
+      breakable_platform_big_invertedBell_134: 2513577208478814562
+      breakable_platform_big_invertedBell_135: -232774137954662853
+      breakable_platform_big_invertedBell_136: -6534296300786793165
+      breakable_platform_big_invertedBell_137: -3076290201078056726
+      breakable_platform_big_invertedBell_138: 2935547044364201997
+      breakable_platform_big_invertedBell_139: 4690276902470602425
+      breakable_platform_big_invertedBell_14: 7268320843730545852
+      breakable_platform_big_invertedBell_140: 4058014559480101899
+      breakable_platform_big_invertedBell_141: 5992484514630648894
+      breakable_platform_big_invertedBell_142: -3906368144090053247
+      breakable_platform_big_invertedBell_143: -2042638225451505245
+      breakable_platform_big_invertedBell_144: -1856610898119901635
+      breakable_platform_big_invertedBell_145: -7781683318764000115
+      breakable_platform_big_invertedBell_146: 2776713802232068102
+      breakable_platform_big_invertedBell_147: 1481383557859171400
+      breakable_platform_big_invertedBell_148: -581512127691887587
+      breakable_platform_big_invertedBell_149: 6261205033845298087
+      breakable_platform_big_invertedBell_15: 3053264432871670945
+      breakable_platform_big_invertedBell_150: 8140612844149529455
+      breakable_platform_big_invertedBell_151: 7916436972654892477
+      breakable_platform_big_invertedBell_152: -8694562398256573591
+      breakable_platform_big_invertedBell_153: -7152995758489512599
+      breakable_platform_big_invertedBell_154: -8221181761447082032
+      breakable_platform_big_invertedBell_155: 5957274571460972580
+      breakable_platform_big_invertedBell_156: -6813502853620342188
+      breakable_platform_big_invertedBell_157: 5778216068739805956
+      breakable_platform_big_invertedBell_158: -3605102808074408972
+      breakable_platform_big_invertedBell_16: 4914080348958974548
+      breakable_platform_big_invertedBell_17: -7324482799801970958
+      breakable_platform_big_invertedBell_18: 5000700442229408882
+      breakable_platform_big_invertedBell_19: 5997155646457588817
+      breakable_platform_big_invertedBell_2: -5262361498239460816
+      breakable_platform_big_invertedBell_20: 7816828217211590149
+      breakable_platform_big_invertedBell_21: 5357316233208884262
+      breakable_platform_big_invertedBell_22: -8814970200077223607
+      breakable_platform_big_invertedBell_23: -5876459107055760932
+      breakable_platform_big_invertedBell_24: 7753402449813214937
+      breakable_platform_big_invertedBell_25: 8650580070593896016
+      breakable_platform_big_invertedBell_26: 1125618865085522738
+      breakable_platform_big_invertedBell_27: -5331802259501676480
+      breakable_platform_big_invertedBell_28: -8139476815278881282
+      breakable_platform_big_invertedBell_29: -414330151483248520
+      breakable_platform_big_invertedBell_3: 2835211036574470186
+      breakable_platform_big_invertedBell_30: 3654431453630280120
+      breakable_platform_big_invertedBell_31: -68798803120544332
+      breakable_platform_big_invertedBell_32: -312279203057869268
+      breakable_platform_big_invertedBell_33: 1347976819509274202
+      breakable_platform_big_invertedBell_34: -716527587744812548
+      breakable_platform_big_invertedBell_35: -6946888340138657807
+      breakable_platform_big_invertedBell_36: -6973503630640095215
+      breakable_platform_big_invertedBell_37: -5684976879088856669
+      breakable_platform_big_invertedBell_38: 5391006516201956789
+      breakable_platform_big_invertedBell_39: -2463386148784700913
+      breakable_platform_big_invertedBell_4: -5397811551756039594
+      breakable_platform_big_invertedBell_40: 4241044789043299614
+      breakable_platform_big_invertedBell_41: 4306809801086367468
+      breakable_platform_big_invertedBell_42: 6134071930437853264
+      breakable_platform_big_invertedBell_43: -8719861881358232692
+      breakable_platform_big_invertedBell_44: 802079416761889088
+      breakable_platform_big_invertedBell_45: 1436250939209525027
+      breakable_platform_big_invertedBell_46: -4729173434496833763
+      breakable_platform_big_invertedBell_47: -879635296900764308
+      breakable_platform_big_invertedBell_48: 2722289485454975172
+      breakable_platform_big_invertedBell_49: 7765945575528942931
+      breakable_platform_big_invertedBell_5: -7604958484944124141
+      breakable_platform_big_invertedBell_50: 5595806948332344977
+      breakable_platform_big_invertedBell_51: 6110187959328650987
+      breakable_platform_big_invertedBell_52: 441114903489257419
+      breakable_platform_big_invertedBell_53: 6739768096489773835
+      breakable_platform_big_invertedBell_54: -749195119867211310
+      breakable_platform_big_invertedBell_55: 2333661928052275227
+      breakable_platform_big_invertedBell_56: 2481987919551280541
+      breakable_platform_big_invertedBell_57: -6878483930083760845
+      breakable_platform_big_invertedBell_58: 434132200768560734
+      breakable_platform_big_invertedBell_59: -2245095968453405190
+      breakable_platform_big_invertedBell_6: -6161199824372487054
+      breakable_platform_big_invertedBell_60: 53502381508607632
+      breakable_platform_big_invertedBell_61: 5767402366095743616
+      breakable_platform_big_invertedBell_62: -8410357941923524208
+      breakable_platform_big_invertedBell_63: -7741479036983652485
+      breakable_platform_big_invertedBell_64: 8743480795321496556
+      breakable_platform_big_invertedBell_65: -7189073260413859942
+      breakable_platform_big_invertedBell_66: -258906767517277657
+      breakable_platform_big_invertedBell_67: 8841878163424539755
+      breakable_platform_big_invertedBell_68: -5659657607533387192
+      breakable_platform_big_invertedBell_69: -7413310565963226967
+      breakable_platform_big_invertedBell_7: 4528407693688016809
+      breakable_platform_big_invertedBell_70: 576278510759457603
+      breakable_platform_big_invertedBell_71: 4633270371285316201
+      breakable_platform_big_invertedBell_72: 5163179968279351479
+      breakable_platform_big_invertedBell_73: -6557173674708611240
+      breakable_platform_big_invertedBell_74: 2086240395324905716
+      breakable_platform_big_invertedBell_75: 8684077410072926021
+      breakable_platform_big_invertedBell_76: -8679325276899561106
+      breakable_platform_big_invertedBell_77: 3993416702661969534
+      breakable_platform_big_invertedBell_78: -2469675376798210783
+      breakable_platform_big_invertedBell_79: -1396146109269118946
+      breakable_platform_big_invertedBell_8: 7077030202091576808
+      breakable_platform_big_invertedBell_80: -5336072826978484043
+      breakable_platform_big_invertedBell_81: 5135005491226367182
+      breakable_platform_big_invertedBell_82: -2845905499259871147
+      breakable_platform_big_invertedBell_83: 7208327653063342770
+      breakable_platform_big_invertedBell_84: -662636922289043142
+      breakable_platform_big_invertedBell_85: -8641340422928466681
+      breakable_platform_big_invertedBell_86: 7333422053903941438
+      breakable_platform_big_invertedBell_87: -7331334217177627389
+      breakable_platform_big_invertedBell_88: -2709259529559209994
+      breakable_platform_big_invertedBell_89: 1836899423257214155
+      breakable_platform_big_invertedBell_9: 755362369981345659
+      breakable_platform_big_invertedBell_90: -8357105038052348233
+      breakable_platform_big_invertedBell_91: -3530123586474463705
+      breakable_platform_big_invertedBell_92: -1695617673443730021
+      breakable_platform_big_invertedBell_93: -7038758001794839700
+      breakable_platform_big_invertedBell_94: 2803202472424895889
+      breakable_platform_big_invertedBell_95: 7536310088654049789
+      breakable_platform_big_invertedBell_96: -8903267152254611839
+      breakable_platform_big_invertedBell_97: -4098380851372955197
+      breakable_platform_big_invertedBell_98: -2667358635256108322
+      breakable_platform_big_invertedBell_99: 6685086879416692889
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

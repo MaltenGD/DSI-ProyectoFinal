@@ -1,0 +1,1937 @@
+fileFormatVersion: 2
+guid: de2a53e39fd148c4aa2900795dd402af
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 75779896903046347
+    second: naval-cave-ships-spritesheet_0
+  - first:
+      213: 6306557327969964148
+    second: naval-cave-ships-spritesheet_1
+  - first:
+      213: 5290207341429017074
+    second: naval-cave-ships-spritesheet_2
+  - first:
+      213: -124048797106149455
+    second: naval-cave-ships-spritesheet_3
+  - first:
+      213: 6004409684746144209
+    second: naval-cave-ships-spritesheet_4
+  - first:
+      213: 3812163524842921971
+    second: naval-cave-ships-spritesheet_5
+  - first:
+      213: 7613565574483597147
+    second: naval-cave-ships-spritesheet_6
+  - first:
+      213: -7030649946499626354
+    second: naval-cave-ships-spritesheet_7
+  - first:
+      213: 1604846147975059494
+    second: naval-cave-ships-spritesheet_8
+  - first:
+      213: -3642883434946324809
+    second: naval-cave-ships-spritesheet_9
+  - first:
+      213: -2496795269895733367
+    second: naval-cave-ships-spritesheet_10
+  - first:
+      213: 6901206428704946037
+    second: naval-cave-ships-spritesheet_11
+  - first:
+      213: -1813654446603214015
+    second: naval-cave-ships-spritesheet_12
+  - first:
+      213: -2559839067324079145
+    second: naval-cave-ships-spritesheet_13
+  - first:
+      213: 7385021356142411273
+    second: naval-cave-ships-spritesheet_14
+  - first:
+      213: -1440194184877973719
+    second: naval-cave-ships-spritesheet_15
+  - first:
+      213: 4821645659042509671
+    second: naval-cave-ships-spritesheet_16
+  - first:
+      213: -7457610312671876541
+    second: naval-cave-ships-spritesheet_17
+  - first:
+      213: 6969822987365127986
+    second: naval-cave-ships-spritesheet_18
+  - first:
+      213: -1475802062145910600
+    second: naval-cave-ships-spritesheet_19
+  - first:
+      213: 3970963739379345946
+    second: naval-cave-ships-spritesheet_20
+  - first:
+      213: -7387511682682692357
+    second: naval-cave-ships-spritesheet_21
+  - first:
+      213: 3424786907713614173
+    second: naval-cave-ships-spritesheet_22
+  - first:
+      213: 5874858738583174712
+    second: naval-cave-ships-spritesheet_23
+  - first:
+      213: 5831982547814561155
+    second: naval-cave-ships-spritesheet_24
+  - first:
+      213: 4688450117331653936
+    second: naval-cave-ships-spritesheet_25
+  - first:
+      213: -5483888324452159806
+    second: naval-cave-ships-spritesheet_26
+  - first:
+      213: 1422272882425952611
+    second: naval-cave-ships-spritesheet_27
+  - first:
+      213: 7068000531660539184
+    second: naval-cave-ships-spritesheet_28
+  - first:
+      213: 554580601328210360
+    second: naval-cave-ships-spritesheet_29
+  - first:
+      213: -6067431709873304211
+    second: naval-cave-ships-spritesheet_30
+  - first:
+      213: 542487798626700096
+    second: naval-cave-ships-spritesheet_31
+  - first:
+      213: 1211295937257271662
+    second: naval-cave-ships-spritesheet_32
+  - first:
+      213: 5026531957478939529
+    second: naval-cave-ships-spritesheet_33
+  - first:
+      213: 4119204184165218634
+    second: naval-cave-ships-spritesheet_34
+  - first:
+      213: -1966188718491998614
+    second: naval-cave-ships-spritesheet_35
+  - first:
+      213: -3977753522500322811
+    second: naval-cave-ships-spritesheet_36
+  - first:
+      213: 946095482988467773
+    second: naval-cave-ships-spritesheet_37
+  - first:
+      213: -4596071136535768211
+    second: naval-cave-ships-spritesheet_38
+  - first:
+      213: 6510291647956546287
+    second: naval-cave-ships-spritesheet_39
+  - first:
+      213: -6343042100461259803
+    second: naval-cave-ships-spritesheet_40
+  - first:
+      213: -5321582013900960682
+    second: naval-cave-ships-spritesheet_41
+  - first:
+      213: 5006673802796858068
+    second: naval-cave-ships-spritesheet_42
+  - first:
+      213: -3899176019422367505
+    second: naval-cave-ships-spritesheet_43
+  - first:
+      213: -1877418045083179157
+    second: naval-cave-ships-spritesheet_44
+  - first:
+      213: 3763498852168732547
+    second: naval-cave-ships-spritesheet_45
+  - first:
+      213: 1466247830417290352
+    second: naval-cave-ships-spritesheet_46
+  - first:
+      213: -4092575665361507091
+    second: naval-cave-ships-spritesheet_47
+  - first:
+      213: 2095231721689322426
+    second: naval-cave-ships-spritesheet_48
+  - first:
+      213: -1029460899357569782
+    second: naval-cave-ships-spritesheet_49
+  - first:
+      213: 2792274138231114586
+    second: naval-cave-ships-spritesheet_50
+  - first:
+      213: -763897866668165541
+    second: naval-cave-ships-spritesheet_51
+  - first:
+      213: 4925580877948929829
+    second: naval-cave-ships-spritesheet_52
+  - first:
+      213: -2481360389406094699
+    second: naval-cave-ships-spritesheet_53
+  - first:
+      213: 2111596298766885252
+    second: naval-cave-ships-spritesheet_54
+  - first:
+      213: 4480504568047523571
+    second: naval-cave-ships-spritesheet_55
+  - first:
+      213: 8199047018392151835
+    second: naval-cave-ships-spritesheet_56
+  - first:
+      213: -6440542807502907557
+    second: naval-cave-ships-spritesheet_57
+  - first:
+      213: 6478163231257070588
+    second: naval-cave-ships-spritesheet_58
+  - first:
+      213: -2440566274759807956
+    second: naval-cave-ships-spritesheet_59
+  - first:
+      213: 6651409328107335610
+    second: naval-cave-ships-spritesheet_60
+  - first:
+      213: -1512716570384445141
+    second: naval-cave-ships-spritesheet_61
+  - first:
+      213: -6600115849126713454
+    second: naval-cave-ships-spritesheet_62
+  - first:
+      213: 5206473020197092307
+    second: naval-cave-ships-spritesheet_63
+  - first:
+      213: 82100137197523777
+    second: naval-cave-ships-spritesheet_64
+  - first:
+      213: -3904030123230311905
+    second: naval-cave-ships-spritesheet_65
+  - first:
+      213: -4226533206643088207
+    second: naval-cave-ships-spritesheet_66
+  - first:
+      213: -3338084307552102157
+    second: naval-cave-ships-spritesheet_67
+  - first:
+      213: 3371851355693982675
+    second: naval-cave-ships-spritesheet_68
+  - first:
+      213: -2061903243489825284
+    second: naval-cave-ships-spritesheet_69
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: naval-cave-ships-spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 970
+        width: 66
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc4950c2a693d0100800000000000000
+      internalID: 75779896903046347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naval-cave-ships-spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1005
+        width: 130
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4705949e974658750800000000000000
+      internalID: 6306557327969964148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naval-cave-ships-spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 970
+        width: 66
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f94a0e5c879a6940800000000000000
+      internalID: 5290207341429017074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naval-cave-ships-spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 970
+        width: 130
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b76ca9b64a474ef0800000000000000
+      internalID: -124048797106149455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naval-cave-ships-spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1005
+        width: 130
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d98539abc2f35350800000000000000
+      internalID: 6004409684746144209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naval-cave-ships-spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1005
+        width: 130
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ff96f3378687e430800000000000000
+      internalID: 3812163524842921971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naval-cave-ships-spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 996
+        width: 130
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b57dc353d81d8a960800000000000000
+      internalID: 7613565574483597147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naval-cave-ships-spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 1002
+        width: 129
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8a45c6af1d1e6e90800000000000000
+      internalID: -7030649946499626354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naval-cave-ships-spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 990
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6281539911f854610800000000000000
+      internalID: 1604846147975059494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naval-cave-ships-spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 999
+        width: 55
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b69ed511d0e17dc0800000000000000
+      internalID: -3642883434946324809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naval-cave-ships-spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 1000
+        width: 39
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98f3dfc3ee9995dd0800000000000000
+      internalID: -2496795269895733367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naval-cave-ships-spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 948
+        width: 38
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 577b998cea206cf50800000000000000
+      internalID: 6901206428704946037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naval-cave-ships-spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 959
+        width: 50
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14368e4d3ea94d6e0800000000000000
+      internalID: -1813654446603214015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naval-cave-ships-spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 935
+        width: 66
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d32bfd4eef997cd0800000000000000
+      internalID: -2559839067324079145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naval-cave-ships-spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 934
+        width: 66
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90eba8fbbcddc7660800000000000000
+      internalID: 7385021356142411273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naval-cave-ships-spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 872
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92fd3c2f407630ce0800000000000000
+      internalID: -1440194184877973719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naval-cave-ships-spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 872
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76378044e2de9e240800000000000000
+      internalID: 4821645659042509671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naval-cave-ships-spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 929
+        width: 130
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34a27e7ceee318890800000000000000
+      internalID: -7457610312671876541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naval-cave-ships-spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 958
+        width: 130
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 237104d4419c9b060800000000000000
+      internalID: 6969822987365127986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naval-cave-ships-spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 955
+        width: 130
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b80107f7d5e48be0800000000000000
+      internalID: -1475802062145910600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naval-cave-ships-spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 933
+        width: 53
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1aa9ad5b72bb1730800000000000000
+      internalID: 3970963739379345946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naval-cave-ships-spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 874
+        width: 130
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfc56abe3494a7990800000000000000
+      internalID: -7387511682682692357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naval-cave-ships-spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 929
+        width: 130
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d51bda91c89478f20800000000000000
+      internalID: 3424786907713614173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naval-cave-ships-spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 929
+        width: 130
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83e79da75e0b78150800000000000000
+      internalID: 5874858738583174712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naval-cave-ships-spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 933
+        width: 40
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 385b3c26a3d5fe050800000000000000
+      internalID: 5831982547814561155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naval-cave-ships-spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 620
+        width: 250
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03511be8a88b01140800000000000000
+      internalID: 4688450117331653936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naval-cave-ships-spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 743
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ceed11bf9055e3b0800000000000000
+      internalID: -5483888324452159806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naval-cave-ships-spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 743
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3697baaa6adecb310800000000000000
+      internalID: 1422272882425952611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naval-cave-ships-spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 799
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03506e12905961260800000000000000
+      internalID: 7068000531660539184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naval-cave-ships-spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 799
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b19d7d5e1442b700800000000000000
+      internalID: 554580601328210360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naval-cave-ships-spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 799
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6d8f0aa1072ccba0800000000000000
+      internalID: -6067431709873304211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naval-cave-ships-spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 866
+        width: 53
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04bc02457cd478700800000000000000
+      internalID: 542487798626700096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naval-cave-ships-spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 833
+        width: 36
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e61f71abc336fc010800000000000000
+      internalID: 1211295937257271662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naval-cave-ships-spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 799
+        width: 53
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98b5ea10f24d1c540800000000000000
+      internalID: 5026531957478939529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naval-cave-ships-spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 807
+        width: 39
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a49787a816a5a2930800000000000000
+      internalID: 4119204184165218634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naval-cave-ships-spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 738
+        width: 130
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6667e027c1b6b4e0800000000000000
+      internalID: -1966188718491998614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naval-cave-ships-spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 761
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50a3f4f0f3e2cc8c0800000000000000
+      internalID: -3977753522500322811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naval-cave-ships-spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 597
+        width: 127
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d36112344d4312d00800000000000000
+      internalID: 946095482988467773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naval-cave-ships-spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 341
+        width: 211
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d631c5007a97730c0800000000000000
+      internalID: -4596071136535768211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naval-cave-ships-spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 614
+        width: 258
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe274a4c2c3395a50800000000000000
+      internalID: 6510291647956546287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naval-cave-ships-spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 609
+        width: 258
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e3b8a601dcf8f7a0800000000000000
+      internalID: -6343042100461259803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naval-cave-ships-spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 609
+        width: 258
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65c43527a51f526b0800000000000000
+      internalID: -5321582013900960682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naval-cave-ships-spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 397
+        width: 130
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4daf5f11c474b7540800000000000000
+      internalID: 5006673802796858068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naval-cave-ships-spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 581
+        width: 43
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe0bb9da11853e9c0800000000000000
+      internalID: -3899176019422367505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naval-cave-ships-spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 585
+        width: 218
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b67a8e72c3212f5e0800000000000000
+      internalID: -1877418045083179157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naval-cave-ships-spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 585
+        width: 49
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38f8b142442aa3430800000000000000
+      internalID: 3763498852168732547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naval-cave-ships-spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 488
+        width: 173
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 074b5bc12a8295410800000000000000
+      internalID: 1466247830417290352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naval-cave-ships-spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 513
+        width: 44
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dec28b1ad104437c0800000000000000
+      internalID: -4092575665361507091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naval-cave-ships-spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 516
+        width: 49
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab31c6d5622c31d10800000000000000
+      internalID: 2095231721689322426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naval-cave-ships-spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 587
+        width: 40
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0d43af24ce96b1f0800000000000000
+      internalID: -1029460899357569782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naval-cave-ships-spritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 428
+        width: 41
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5b86ccd88620c620800000000000000
+      internalID: 2792274138231114586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naval-cave-ships-spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 522
+        width: 14
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b56b09400f61665f0800000000000000
+      internalID: -763897866668165541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naval-cave-ships-spritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 489
+        width: 13
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5274a9e26bd2b5440800000000000000
+      internalID: 4925580877948929829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naval-cave-ships-spritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 555
+        width: 57
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59a89b56fdf609dd0800000000000000
+      internalID: -2481360389406094699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naval-cave-ships-spritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 549
+        width: 129
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 481a70165a5ed4d10800000000000000
+      internalID: 2111596298766885252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naval-cave-ships-spritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 361
+        width: 127
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f6dcf87a23fd2e30800000000000000
+      internalID: 4480504568047523571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naval-cave-ships-spritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 426
+        width: 82
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b176df3a2ddd8c170800000000000000
+      internalID: 8199047018392151835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naval-cave-ships-spritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 325
+        width: 158
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b579716a0789e96a0800000000000000
+      internalID: -6440542807502907557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naval-cave-ships-spritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 196
+        width: 120
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfb0314d22f07e950800000000000000
+      internalID: 6478163231257070588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naval-cave-ships-spritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 378
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2ca42e57ed512ed0800000000000000
+      internalID: -2440566274759807956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naval-cave-ships-spritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 378
+        width: 77
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abfae811b8d8e4c50800000000000000
+      internalID: 6651409328107335610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naval-cave-ships-spritesheet_61
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 334
+        width: 66
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2153604b40c10be0800000000000000
+      internalID: -1512716570384445141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naval-cave-ships-spritesheet_62
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 326
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2976068aa9da764a0800000000000000
+      internalID: -6600115849126713454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naval-cave-ships-spritesheet_63
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 339
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dbb08570ab114840800000000000000
+      internalID: 5206473020197092307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naval-cave-ships-spritesheet_64
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 334
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1435ba9c3ada32100800000000000000
+      internalID: 82100137197523777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naval-cave-ships-spritesheet_65
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 0
+        width: 430
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1ace60994912d9c0800000000000000
+      internalID: -3904030123230311905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naval-cave-ships-spritesheet_66
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 200
+        width: 173
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b465a211765855c0800000000000000
+      internalID: -4226533206643088207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naval-cave-ships-spritesheet_67
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 7
+        width: 99
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f81d0a120ebca1d0800000000000000
+      internalID: -3338084307552102157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naval-cave-ships-spritesheet_68
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 6
+        width: 15
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d32f8371f83bce20800000000000000
+      internalID: 3371851355693982675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naval-cave-ships-spritesheet_69
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 67
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfd209aace5a263e0800000000000000
+      internalID: -2061903243489825284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      naval-cave-ships-spritesheet_0: 75779896903046347
+      naval-cave-ships-spritesheet_1: 6306557327969964148
+      naval-cave-ships-spritesheet_10: -2496795269895733367
+      naval-cave-ships-spritesheet_11: 6901206428704946037
+      naval-cave-ships-spritesheet_12: -1813654446603214015
+      naval-cave-ships-spritesheet_13: -2559839067324079145
+      naval-cave-ships-spritesheet_14: 7385021356142411273
+      naval-cave-ships-spritesheet_15: -1440194184877973719
+      naval-cave-ships-spritesheet_16: 4821645659042509671
+      naval-cave-ships-spritesheet_17: -7457610312671876541
+      naval-cave-ships-spritesheet_18: 6969822987365127986
+      naval-cave-ships-spritesheet_19: -1475802062145910600
+      naval-cave-ships-spritesheet_2: 5290207341429017074
+      naval-cave-ships-spritesheet_20: 3970963739379345946
+      naval-cave-ships-spritesheet_21: -7387511682682692357
+      naval-cave-ships-spritesheet_22: 3424786907713614173
+      naval-cave-ships-spritesheet_23: 5874858738583174712
+      naval-cave-ships-spritesheet_24: 5831982547814561155
+      naval-cave-ships-spritesheet_25: 4688450117331653936
+      naval-cave-ships-spritesheet_26: -5483888324452159806
+      naval-cave-ships-spritesheet_27: 1422272882425952611
+      naval-cave-ships-spritesheet_28: 7068000531660539184
+      naval-cave-ships-spritesheet_29: 554580601328210360
+      naval-cave-ships-spritesheet_3: -124048797106149455
+      naval-cave-ships-spritesheet_30: -6067431709873304211
+      naval-cave-ships-spritesheet_31: 542487798626700096
+      naval-cave-ships-spritesheet_32: 1211295937257271662
+      naval-cave-ships-spritesheet_33: 5026531957478939529
+      naval-cave-ships-spritesheet_34: 4119204184165218634
+      naval-cave-ships-spritesheet_35: -1966188718491998614
+      naval-cave-ships-spritesheet_36: -3977753522500322811
+      naval-cave-ships-spritesheet_37: 946095482988467773
+      naval-cave-ships-spritesheet_38: -4596071136535768211
+      naval-cave-ships-spritesheet_39: 6510291647956546287
+      naval-cave-ships-spritesheet_4: 6004409684746144209
+      naval-cave-ships-spritesheet_40: -6343042100461259803
+      naval-cave-ships-spritesheet_41: -5321582013900960682
+      naval-cave-ships-spritesheet_42: 5006673802796858068
+      naval-cave-ships-spritesheet_43: -3899176019422367505
+      naval-cave-ships-spritesheet_44: -1877418045083179157
+      naval-cave-ships-spritesheet_45: 3763498852168732547
+      naval-cave-ships-spritesheet_46: 1466247830417290352
+      naval-cave-ships-spritesheet_47: -4092575665361507091
+      naval-cave-ships-spritesheet_48: 2095231721689322426
+      naval-cave-ships-spritesheet_49: -1029460899357569782
+      naval-cave-ships-spritesheet_5: 3812163524842921971
+      naval-cave-ships-spritesheet_50: 2792274138231114586
+      naval-cave-ships-spritesheet_51: -763897866668165541
+      naval-cave-ships-spritesheet_52: 4925580877948929829
+      naval-cave-ships-spritesheet_53: -2481360389406094699
+      naval-cave-ships-spritesheet_54: 2111596298766885252
+      naval-cave-ships-spritesheet_55: 4480504568047523571
+      naval-cave-ships-spritesheet_56: 8199047018392151835
+      naval-cave-ships-spritesheet_57: -6440542807502907557
+      naval-cave-ships-spritesheet_58: 6478163231257070588
+      naval-cave-ships-spritesheet_59: -2440566274759807956
+      naval-cave-ships-spritesheet_6: 7613565574483597147
+      naval-cave-ships-spritesheet_60: 6651409328107335610
+      naval-cave-ships-spritesheet_61: -1512716570384445141
+      naval-cave-ships-spritesheet_62: -6600115849126713454
+      naval-cave-ships-spritesheet_63: 5206473020197092307
+      naval-cave-ships-spritesheet_64: 82100137197523777
+      naval-cave-ships-spritesheet_65: -3904030123230311905
+      naval-cave-ships-spritesheet_66: -4226533206643088207
+      naval-cave-ships-spritesheet_67: -3338084307552102157
+      naval-cave-ships-spritesheet_68: 3371851355693982675
+      naval-cave-ships-spritesheet_69: -2061903243489825284
+      naval-cave-ships-spritesheet_7: -7030649946499626354
+      naval-cave-ships-spritesheet_8: 1604846147975059494
+      naval-cave-ships-spritesheet_9: -3642883434946324809
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

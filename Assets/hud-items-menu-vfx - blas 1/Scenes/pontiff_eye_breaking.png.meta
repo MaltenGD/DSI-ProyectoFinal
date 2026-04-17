@@ -1,0 +1,559 @@
+fileFormatVersion: 2
+guid: 5ce6310a133a16e44affa2361cd17b99
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4699633136891329345
+    second: pontiff_eye_breaking_0
+  - first:
+      213: 6906372579249217386
+    second: pontiff_eye_breaking_1
+  - first:
+      213: 221763277020933836
+    second: pontiff_eye_breaking_2
+  - first:
+      213: 6538483667855993259
+    second: pontiff_eye_breaking_3
+  - first:
+      213: -4303396373643971218
+    second: pontiff_eye_breaking_4
+  - first:
+      213: -6482979499976653634
+    second: pontiff_eye_breaking_5
+  - first:
+      213: -8399764150231087871
+    second: pontiff_eye_breaking_6
+  - first:
+      213: 3074944543333505953
+    second: pontiff_eye_breaking_7
+  - first:
+      213: -245709061096794513
+    second: pontiff_eye_breaking_8
+  - first:
+      213: 7385311551049817686
+    second: pontiff_eye_breaking_9
+  - first:
+      213: -3440621115875484256
+    second: pontiff_eye_breaking_10
+  - first:
+      213: -6221440391811218281
+    second: pontiff_eye_breaking_11
+  - first:
+      213: 5737957170503557692
+    second: pontiff_eye_breaking_12
+  - first:
+      213: -5580055520448920543
+    second: pontiff_eye_breaking_13
+  - first:
+      213: 8505753272362919660
+    second: pontiff_eye_breaking_14
+  - first:
+      213: 1796565259046500679
+    second: pontiff_eye_breaking_15
+  - first:
+      213: 7706683310152964665
+    second: pontiff_eye_breaking_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pontiff_eye_breaking_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 791
+        width: 157
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14bff033073783140800000000000000
+      internalID: 4699633136891329345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pontiff_eye_breaking_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 558
+        width: 157
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6fd5a0f44d58df50800000000000000
+      internalID: 6906372579249217386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pontiff_eye_breaking_2
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 791
+        width: 158
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cce2f07868cd31300800000000000000
+      internalID: 221763277020933836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pontiff_eye_breaking_3
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 558
+        width: 158
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba9ef38e04c5dba50800000000000000
+      internalID: 6538483667855993259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pontiff_eye_breaking_4
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 791
+        width: 158
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e653f3d6cc34744c0800000000000000
+      internalID: -4303396373643971218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pontiff_eye_breaking_5
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 558
+        width: 158
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb480c93e74d706a0800000000000000
+      internalID: -6482979499976653634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pontiff_eye_breaking_6
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 791
+        width: 158
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1054a6c520b0e6b80800000000000000
+      internalID: -8399764150231087871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pontiff_eye_breaking_7
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 558
+        width: 158
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ab5b6935c56caa20800000000000000
+      internalID: 3074944543333505953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pontiff_eye_breaking_8
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 791
+        width: 158
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f661b3729e0179cf0800000000000000
+      internalID: -245709061096794513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pontiff_eye_breaking_9
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 558
+        width: 158
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65ed9e30ab5ed7660800000000000000
+      internalID: 7385311551049817686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pontiff_eye_breaking_10
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 791
+        width: 158
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ad988503557040d0800000000000000
+      internalID: -3440621115875484256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pontiff_eye_breaking_11
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 558
+        width: 158
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79443de1de009a9a0800000000000000
+      internalID: -6221440391811218281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pontiff_eye_breaking_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 325
+        width: 157
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c32254445a151af40800000000000000
+      internalID: 5737957170503557692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pontiff_eye_breaking_13
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 325
+        width: 158
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1244fac8119af82b0800000000000000
+      internalID: -5580055520448920543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pontiff_eye_breaking_14
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 325
+        width: 158
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce6ee4a29818a0670800000000000000
+      internalID: 8505753272362919660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pontiff_eye_breaking_15
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 325
+        width: 158
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7493641a59eaee810800000000000000
+      internalID: 1796565259046500679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pontiff_eye_breaking_16
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 325
+        width: 158
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93a591a83a3a3fa60800000000000000
+      internalID: 7706683310152964665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      pontiff_eye_breaking_0: 4699633136891329345
+      pontiff_eye_breaking_1: 6906372579249217386
+      pontiff_eye_breaking_10: -3440621115875484256
+      pontiff_eye_breaking_11: -6221440391811218281
+      pontiff_eye_breaking_12: 5737957170503557692
+      pontiff_eye_breaking_13: -5580055520448920543
+      pontiff_eye_breaking_14: 8505753272362919660
+      pontiff_eye_breaking_15: 1796565259046500679
+      pontiff_eye_breaking_16: 7706683310152964665
+      pontiff_eye_breaking_2: 221763277020933836
+      pontiff_eye_breaking_3: 6538483667855993259
+      pontiff_eye_breaking_4: -4303396373643971218
+      pontiff_eye_breaking_5: -6482979499976653634
+      pontiff_eye_breaking_6: -8399764150231087871
+      pontiff_eye_breaking_7: 3074944543333505953
+      pontiff_eye_breaking_8: -245709061096794513
+      pontiff_eye_breaking_9: 7385311551049817686
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

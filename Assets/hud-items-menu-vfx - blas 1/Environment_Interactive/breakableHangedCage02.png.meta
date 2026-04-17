@@ -1,0 +1,845 @@
+fileFormatVersion: 2
+guid: ffb749b683fa715408c88d9acec8c75d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7002705188986515323
+    second: breakableHangedCage02_0
+  - first:
+      213: -2443027350874532837
+    second: breakableHangedCage02_1
+  - first:
+      213: -8016131935958073725
+    second: breakableHangedCage02_2
+  - first:
+      213: -4029623327648905616
+    second: breakableHangedCage02_3
+  - first:
+      213: -3414045079335765160
+    second: breakableHangedCage02_4
+  - first:
+      213: -2219151244058419631
+    second: breakableHangedCage02_5
+  - first:
+      213: -5274450753854507659
+    second: breakableHangedCage02_6
+  - first:
+      213: -8678035288839613604
+    second: breakableHangedCage02_7
+  - first:
+      213: 3200966859317832807
+    second: breakableHangedCage02_8
+  - first:
+      213: -6264514671761027178
+    second: breakableHangedCage02_9
+  - first:
+      213: 6396967186262588497
+    second: breakableHangedCage02_10
+  - first:
+      213: 3203955408454943782
+    second: breakableHangedCage02_11
+  - first:
+      213: 4756542853548368952
+    second: breakableHangedCage02_12
+  - first:
+      213: 8514078682542972493
+    second: breakableHangedCage02_13
+  - first:
+      213: 4907181169960757580
+    second: breakableHangedCage02_14
+  - first:
+      213: 3981137341758711149
+    second: breakableHangedCage02_15
+  - first:
+      213: -2888418217814248533
+    second: breakableHangedCage02_16
+  - first:
+      213: 7685690966857686550
+    second: breakableHangedCage02_17
+  - first:
+      213: 8309952784351487967
+    second: breakableHangedCage02_18
+  - first:
+      213: -8668907240184749957
+    second: breakableHangedCage02_19
+  - first:
+      213: -2531600235174010430
+    second: breakableHangedCage02_20
+  - first:
+      213: -2794404953055089093
+    second: breakableHangedCage02_21
+  - first:
+      213: 4044892864492927219
+    second: breakableHangedCage02_22
+  - first:
+      213: -2064380963642557063
+    second: breakableHangedCage02_23
+  - first:
+      213: -8113515676663513483
+    second: breakableHangedCage02_24
+  - first:
+      213: 6672490545878141342
+    second: breakableHangedCage02_25
+  - first:
+      213: -5650258106598147367
+    second: breakableHangedCage02_26
+  - first:
+      213: 1421647283925964709
+    second: breakableHangedCage02_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: breakableHangedCage02_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 157
+        width: 88
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7f6358744b9e2160800000000000000
+      internalID: 7002705188986515323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableHangedCage02_1
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 174
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b145f8e619f981ed0800000000000000
+      internalID: -2443027350874532837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableHangedCage02_2
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 187
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38efd8cb97af0c090800000000000000
+      internalID: -8016131935958073725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableHangedCage02_3
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 182
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0760cd0fee6e318c0800000000000000
+      internalID: -4029623327648905616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableHangedCage02_4
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 165
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85b7507b610ee90d0800000000000000
+      internalID: -3414045079335765160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableHangedCage02_5
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 176
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15e180b73bdf331e0800000000000000
+      internalID: -2219151244058419631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableHangedCage02_6
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 158
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 575f53f0cf26dc6b0800000000000000
+      internalID: -5274450753854507659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableHangedCage02_7
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 146
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c53196c02ec619780800000000000000
+      internalID: -8678035288839613604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableHangedCage02_8
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 153
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76cef6b266e1c6c20800000000000000
+      internalID: 3200966859317832807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableHangedCage02_9
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 76
+        width: 42
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69f067bc819ff09a0800000000000000
+      internalID: -6264514671761027178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableHangedCage02_10
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 150
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15cf20963c796c850800000000000000
+      internalID: 6396967186262588497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableHangedCage02_11
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 146
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 624062df77cb67c20800000000000000
+      internalID: 3203955408454943782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableHangedCage02_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 85
+        width: 50
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8346ca82682a20240800000000000000
+      internalID: 4756542853548368952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableHangedCage02_13
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 135
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4e13b6c375182670800000000000000
+      internalID: 8514078682542972493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableHangedCage02_14
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 128
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c492ff3564fc91440800000000000000
+      internalID: 4907181169960757580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableHangedCage02_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 50
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d652291c157df3730800000000000000
+      internalID: 3981137341758711149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableHangedCage02_16
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 61
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba33a643fe64ae7d0800000000000000
+      internalID: -2888418217814248533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableHangedCage02_17
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 59
+        width: 43
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61e1bfcb63f09aa60800000000000000
+      internalID: 7685690966857686550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableHangedCage02_18
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 49
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd7e9838702e25370800000000000000
+      internalID: 8309952784351487967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableHangedCage02_19
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 49
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b70e9fd7bcad1b780800000000000000
+      internalID: -8668907240184749957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableHangedCage02_20
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 57
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c16825cff2fddcd0800000000000000
+      internalID: -2531600235174010430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableHangedCage02_21
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 0
+        width: 90
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3e2f8620874839d0800000000000000
+      internalID: -2794404953055089093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableHangedCage02_22
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 68
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f8fc9621a8522830800000000000000
+      internalID: 4044892864492927219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableHangedCage02_23
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 55
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97db10d7378d953e0800000000000000
+      internalID: -2064380963642557063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableHangedCage02_24
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 50
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57e78e4ba70076f80800000000000000
+      internalID: -8113515676663513483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableHangedCage02_25
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 30
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9908329cc2799c50800000000000000
+      internalID: 6672490545878141342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableHangedCage02_26
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 9
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9da32fa30304691b0800000000000000
+      internalID: -5650258106598147367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableHangedCage02_27
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 0
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a75e4a2ca4bab310800000000000000
+      internalID: 1421647283925964709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      breakableHangedCage02_0: 7002705188986515323
+      breakableHangedCage02_1: -2443027350874532837
+      breakableHangedCage02_10: 6396967186262588497
+      breakableHangedCage02_11: 3203955408454943782
+      breakableHangedCage02_12: 4756542853548368952
+      breakableHangedCage02_13: 8514078682542972493
+      breakableHangedCage02_14: 4907181169960757580
+      breakableHangedCage02_15: 3981137341758711149
+      breakableHangedCage02_16: -2888418217814248533
+      breakableHangedCage02_17: 7685690966857686550
+      breakableHangedCage02_18: 8309952784351487967
+      breakableHangedCage02_19: -8668907240184749957
+      breakableHangedCage02_2: -8016131935958073725
+      breakableHangedCage02_20: -2531600235174010430
+      breakableHangedCage02_21: -2794404953055089093
+      breakableHangedCage02_22: 4044892864492927219
+      breakableHangedCage02_23: -2064380963642557063
+      breakableHangedCage02_24: -8113515676663513483
+      breakableHangedCage02_25: 6672490545878141342
+      breakableHangedCage02_26: -5650258106598147367
+      breakableHangedCage02_27: 1421647283925964709
+      breakableHangedCage02_3: -4029623327648905616
+      breakableHangedCage02_4: -3414045079335765160
+      breakableHangedCage02_5: -2219151244058419631
+      breakableHangedCage02_6: -5274450753854507659
+      breakableHangedCage02_7: -8678035288839613604
+      breakableHangedCage02_8: 3200966859317832807
+      breakableHangedCage02_9: -6264514671761027178
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

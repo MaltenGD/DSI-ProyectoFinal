@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: f6f332d678cd6104f86249049695173f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5134612720032584346
+    second: laudes-fight-tree-spritesheet_0
+  - first:
+      213: 3202627273095723010
+    second: laudes-fight-tree-spritesheet_1
+  - first:
+      213: 1303354903010274265
+    second: laudes-fight-tree-spritesheet_2
+  - first:
+      213: -6399214475002025201
+    second: laudes-fight-tree-spritesheet_3
+  - first:
+      213: 8634113199131034151
+    second: laudes-fight-tree-spritesheet_4
+  - first:
+      213: -1339279675567529460
+    second: laudes-fight-tree-spritesheet_5
+  - first:
+      213: 5353278595324985975
+    second: laudes-fight-tree-spritesheet_6
+  - first:
+      213: 7926196383718023693
+    second: laudes-fight-tree-spritesheet_7
+  - first:
+      213: -8682841657384828103
+    second: laudes-fight-tree-spritesheet_8
+  - first:
+      213: 1372192973410379184
+    second: laudes-fight-tree-spritesheet_9
+  - first:
+      213: -6502218077471590395
+    second: laudes-fight-tree-spritesheet_10
+  - first:
+      213: 5083481292687067013
+    second: laudes-fight-tree-spritesheet_11
+  - first:
+      213: 1955627036428333170
+    second: laudes-fight-tree-spritesheet_12
+  - first:
+      213: -559970983818363322
+    second: laudes-fight-tree-spritesheet_13
+  - first:
+      213: -6590727977766532366
+    second: laudes-fight-tree-spritesheet_14
+  - first:
+      213: 1826442233727583985
+    second: laudes-fight-tree-spritesheet_15
+  - first:
+      213: -7159456019289329156
+    second: laudes-fight-tree-spritesheet_16
+  - first:
+      213: -2145587296571952266
+    second: laudes-fight-tree-spritesheet_17
+  - first:
+      213: -4404012377540006400
+    second: laudes-fight-tree-spritesheet_18
+  - first:
+      213: -4927327009773520814
+    second: laudes-fight-tree-spritesheet_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: laudes-fight-tree-spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 974
+        width: 278
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66d614b7fe03eb8b0800000000000000
+      internalID: -5134612720032584346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laudes-fight-tree-spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 978
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20839d06984027c20800000000000000
+      internalID: 3202627273095723010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laudes-fight-tree-spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 972
+        width: 67
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dbe03af062761210800000000000000
+      internalID: 1303354903010274265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laudes-fight-tree-spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 979
+        width: 66
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0b67f7e65c6137a0800000000000000
+      internalID: -6399214475002025201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laudes-fight-tree-spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 974
+        width: 66
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72287b8853882d770800000000000000
+      internalID: 8634113199131034151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laudes-fight-tree-spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 461
+        width: 123
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c02a5ea1b3ce96de0800000000000000
+      internalID: -1339279675567529460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laudes-fight-tree-spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 925
+        width: 262
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7724c02058aaa4a40800000000000000
+      internalID: 5353278595324985975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laudes-fight-tree-spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 701
+        width: 748
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d02af7fbd918ffd60800000000000000
+      internalID: 7926196383718023693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laudes-fight-tree-spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 450
+        width: 702
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9330d9a2489508780800000000000000
+      internalID: -8682841657384828103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laudes-fight-tree-spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 572
+        width: 275
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b5a9673d320b0310800000000000000
+      internalID: 1372192973410379184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laudes-fight-tree-spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 572
+        width: 314
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 508be28db1b73c5a0800000000000000
+      internalID: -6502218077471590395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laudes-fight-tree-spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 177
+        width: 702
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 587c4f06d472c8640800000000000000
+      internalID: 5083481292687067013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laudes-fight-tree-spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 138
+        width: 24
+        height: 317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 270f573ad68c32b10800000000000000
+      internalID: 1955627036428333170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laudes-fight-tree-spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 115
+        width: 38
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64efaf86b559a38f0800000000000000
+      internalID: -559970983818363322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laudes-fight-tree-spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 115
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fa4ff9c2d70984a0800000000000000
+      internalID: -6590727977766532366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laudes-fight-tree-spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 115
+        width: 102
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f68a10e883d85910800000000000000
+      internalID: 1826442233727583985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laudes-fight-tree-spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 115
+        width: 51
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf13a31dea084ac90800000000000000
+      internalID: -7159456019289329156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laudes-fight-tree-spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 115
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 673fc39b8b75932e0800000000000000
+      internalID: -2145587296571952266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laudes-fight-tree-spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 115
+        width: 62
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00eed4a731ec1e2c0800000000000000
+      internalID: -4404012377540006400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laudes-fight-tree-spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 115
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 258f242d03e9e9bb0800000000000000
+      internalID: -4927327009773520814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      laudes-fight-tree-spritesheet_0: -5134612720032584346
+      laudes-fight-tree-spritesheet_1: 3202627273095723010
+      laudes-fight-tree-spritesheet_10: -6502218077471590395
+      laudes-fight-tree-spritesheet_11: 5083481292687067013
+      laudes-fight-tree-spritesheet_12: 1955627036428333170
+      laudes-fight-tree-spritesheet_13: -559970983818363322
+      laudes-fight-tree-spritesheet_14: -6590727977766532366
+      laudes-fight-tree-spritesheet_15: 1826442233727583985
+      laudes-fight-tree-spritesheet_16: -7159456019289329156
+      laudes-fight-tree-spritesheet_17: -2145587296571952266
+      laudes-fight-tree-spritesheet_18: -4404012377540006400
+      laudes-fight-tree-spritesheet_19: -4927327009773520814
+      laudes-fight-tree-spritesheet_2: 1303354903010274265
+      laudes-fight-tree-spritesheet_3: -6399214475002025201
+      laudes-fight-tree-spritesheet_4: 8634113199131034151
+      laudes-fight-tree-spritesheet_5: -1339279675567529460
+      laudes-fight-tree-spritesheet_6: 5353278595324985975
+      laudes-fight-tree-spritesheet_7: 7926196383718023693
+      laudes-fight-tree-spritesheet_8: -8682841657384828103
+      laudes-fight-tree-spritesheet_9: 1372192973410379184
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,455 @@
+fileFormatVersion: 2
+guid: d9e81f18014d25e46bc90b04fbb00b77
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5610445142306570183
+    second: OssuaryGate-top_0
+  - first:
+      213: 1039533087371576993
+    second: OssuaryGate-top_1
+  - first:
+      213: 1439541530970303872
+    second: OssuaryGate-top_2
+  - first:
+      213: 5758463269356929867
+    second: OssuaryGate-top_3
+  - first:
+      213: -4985179815245622828
+    second: OssuaryGate-top_4
+  - first:
+      213: -6563464905005791670
+    second: OssuaryGate-top_5
+  - first:
+      213: 4700483794456192956
+    second: OssuaryGate-top_6
+  - first:
+      213: 6344239406586666387
+    second: OssuaryGate-top_7
+  - first:
+      213: -3890742050333292836
+    second: OssuaryGate-top_8
+  - first:
+      213: 6470433931948137415
+    second: OssuaryGate-top_9
+  - first:
+      213: -8681615207570642744
+    second: OssuaryGate-top_10
+  - first:
+      213: 1908639446966291943
+    second: OssuaryGate-top_11
+  - first:
+      213: -3166073979045320002
+    second: OssuaryGate-top_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: OssuaryGate-top_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 85
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cfbffaa12e4cdd40800000000000000
+      internalID: 5610445142306570183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OssuaryGate-top_1
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 0
+        width: 95
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a64c05d5d92d6e00800000000000000
+      internalID: 1039533087371576993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OssuaryGate-top_2
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 0
+        width: 95
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08d28e835674af310800000000000000
+      internalID: 1439541530970303872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OssuaryGate-top_3
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 0
+        width: 95
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b43872675db2aef40800000000000000
+      internalID: 5758463269356929867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OssuaryGate-top_4
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 0
+        width: 95
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d156d2ee5511dab0800000000000000
+      internalID: -4985179815245622828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OssuaryGate-top_5
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 0
+        width: 95
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4603619173e9e4a0800000000000000
+      internalID: -6563464905005791670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OssuaryGate-top_6
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 0
+        width: 95
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb7aa095b197b3140800000000000000
+      internalID: 4700483794456192956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OssuaryGate-top_7
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 0
+        width: 95
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39d12a780244b0850800000000000000
+      internalID: 6344239406586666387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OssuaryGate-top_8
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 0
+        width: 95
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd6853128be410ac0800000000000000
+      internalID: -3890742050333292836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OssuaryGate-top_9
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 0
+        width: 95
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cb176811699bc950800000000000000
+      internalID: 6470433931948137415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OssuaryGate-top_10
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 0
+        width: 95
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c86f1447f4b48780800000000000000
+      internalID: -8681615207570642744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OssuaryGate-top_11
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 0
+        width: 95
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ed49b0f679dc7a10800000000000000
+      internalID: 1908639446966291943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OssuaryGate-top_12
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 0
+        width: 95
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eba656a9d78df04d0800000000000000
+      internalID: -3166073979045320002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      OssuaryGate-top_0: 5610445142306570183
+      OssuaryGate-top_1: 1039533087371576993
+      OssuaryGate-top_10: -8681615207570642744
+      OssuaryGate-top_11: 1908639446966291943
+      OssuaryGate-top_12: -3166073979045320002
+      OssuaryGate-top_2: 1439541530970303872
+      OssuaryGate-top_3: 5758463269356929867
+      OssuaryGate-top_4: -4985179815245622828
+      OssuaryGate-top_5: -6563464905005791670
+      OssuaryGate-top_6: 4700483794456192956
+      OssuaryGate-top_7: 6344239406586666387
+      OssuaryGate-top_8: -3890742050333292836
+      OssuaryGate-top_9: 6470433931948137415
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

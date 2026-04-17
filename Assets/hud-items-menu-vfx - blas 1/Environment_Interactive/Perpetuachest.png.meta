@@ -1,0 +1,689 @@
+fileFormatVersion: 2
+guid: cf300bef8b2af9b45ad8190a1d59888c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2688220630785879112
+    second: Perpetuachest_0
+  - first:
+      213: -5774329432927063593
+    second: Perpetuachest_1
+  - first:
+      213: 3497246866056580838
+    second: Perpetuachest_2
+  - first:
+      213: 1594119279577212472
+    second: Perpetuachest_3
+  - first:
+      213: 8995414891532680573
+    second: Perpetuachest_4
+  - first:
+      213: 2761018818228941554
+    second: Perpetuachest_5
+  - first:
+      213: 1206988706852595303
+    second: Perpetuachest_6
+  - first:
+      213: 7945320250540484172
+    second: Perpetuachest_7
+  - first:
+      213: 3900496167473035188
+    second: Perpetuachest_8
+  - first:
+      213: 3834735978349638833
+    second: Perpetuachest_9
+  - first:
+      213: -5040837625134887810
+    second: Perpetuachest_10
+  - first:
+      213: 1765679642319627113
+    second: Perpetuachest_11
+  - first:
+      213: -2154319402392945267
+    second: Perpetuachest_12
+  - first:
+      213: -8063562382213108308
+    second: Perpetuachest_13
+  - first:
+      213: 3963001539128912032
+    second: Perpetuachest_14
+  - first:
+      213: -1245616061289474796
+    second: Perpetuachest_15
+  - first:
+      213: -265513349753147232
+    second: Perpetuachest_16
+  - first:
+      213: -8803938927595738564
+    second: Perpetuachest_17
+  - first:
+      213: -720336243945873153
+    second: Perpetuachest_18
+  - first:
+      213: -3353055928416347085
+    second: Perpetuachest_19
+  - first:
+      213: 7896675065264559889
+    second: Perpetuachest_20
+  - first:
+      213: 2673884712610809476
+    second: Perpetuachest_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Perpetuachest_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 0
+        width: 55
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84c6edfbb6a7e4520800000000000000
+      internalID: 2688220630785879112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perpetuachest_1
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 0
+        width: 58
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d1bc4679f57ddfa0800000000000000
+      internalID: -5774329432927063593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perpetuachest_2
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 0
+        width: 59
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ee8627de77b88030800000000000000
+      internalID: 3497246866056580838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perpetuachest_3
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 0
+        width: 59
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8362dcce9037f1610800000000000000
+      internalID: 1594119279577212472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perpetuachest_4
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 0
+        width: 63
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7d70112f2226dc70800000000000000
+      internalID: 8995414891532680573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perpetuachest_5
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 28
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f274b69cfb115620800000000000000
+      internalID: 2761018818228941554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perpetuachest_6
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 0
+        width: 55
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7666bdf75d510c010800000000000000
+      internalID: 1206988706852595303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perpetuachest_7
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 0
+        width: 59
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c46ee28fba2734e60800000000000000
+      internalID: 7945320250540484172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perpetuachest_8
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 0
+        width: 56
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b7b00e3998512630800000000000000
+      internalID: 3900496167473035188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perpetuachest_9
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 0
+        width: 55
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b4b0f41e08b73530800000000000000
+      internalID: 3834735978349638833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perpetuachest_10
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 0
+        width: 55
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7c496f23e85b0ab0800000000000000
+      internalID: -5040837625134887810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perpetuachest_11
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 0
+        width: 55
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 963a99b9744f08810800000000000000
+      internalID: 1765679642319627113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perpetuachest_12
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 0
+        width: 55
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8df2a7eae15a12e0800000000000000
+      internalID: -2154319402392945267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perpetuachest_13
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 0
+        width: 55
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cad2cf76cb8781090800000000000000
+      internalID: -8063562382213108308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perpetuachest_14
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 0
+        width: 55
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a8ea1827e86ff630800000000000000
+      internalID: 3963001539128912032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perpetuachest_15
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 0
+        width: 55
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 415d154bacea6bee0800000000000000
+      internalID: -1245616061289474796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perpetuachest_16
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 0
+        width: 55
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a0f6d0e305b05cf0800000000000000
+      internalID: -265513349753147232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perpetuachest_17
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 0
+        width: 55
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3a2c6cc03022d580800000000000000
+      internalID: -8803938927595738564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perpetuachest_18
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 0
+        width: 55
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff064cca00ad006f0800000000000000
+      internalID: -720336243945873153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perpetuachest_19
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 0
+        width: 55
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33cd9baf56d8771d0800000000000000
+      internalID: -3353055928416347085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perpetuachest_20
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 0
+        width: 55
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11757cb2220a69d60800000000000000
+      internalID: 7896675065264559889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perpetuachest_21
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 0
+        width: 54
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 486c381bafb8b1520800000000000000
+      internalID: 2673884712610809476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Perpetuachest_0: 2688220630785879112
+      Perpetuachest_1: -5774329432927063593
+      Perpetuachest_10: -5040837625134887810
+      Perpetuachest_11: 1765679642319627113
+      Perpetuachest_12: -2154319402392945267
+      Perpetuachest_13: -8063562382213108308
+      Perpetuachest_14: 3963001539128912032
+      Perpetuachest_15: -1245616061289474796
+      Perpetuachest_16: -265513349753147232
+      Perpetuachest_17: -8803938927595738564
+      Perpetuachest_18: -720336243945873153
+      Perpetuachest_19: -3353055928416347085
+      Perpetuachest_2: 3497246866056580838
+      Perpetuachest_20: 7896675065264559889
+      Perpetuachest_21: 2673884712610809476
+      Perpetuachest_3: 1594119279577212472
+      Perpetuachest_4: 8995414891532680573
+      Perpetuachest_5: 2761018818228941554
+      Perpetuachest_6: 1206988706852595303
+      Perpetuachest_7: 7945320250540484172
+      Perpetuachest_8: 3900496167473035188
+      Perpetuachest_9: 3834735978349638833
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

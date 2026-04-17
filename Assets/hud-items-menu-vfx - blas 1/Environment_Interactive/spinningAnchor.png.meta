@@ -1,0 +1,585 @@
+fileFormatVersion: 2
+guid: fe8858a13d610f545a507c1fee9ee141
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7419585948461638457
+    second: spinningAnchor_0
+  - first:
+      213: 3544771673485936831
+    second: spinningAnchor_1
+  - first:
+      213: -1251173207111698358
+    second: spinningAnchor_2
+  - first:
+      213: 2226723110770465495
+    second: spinningAnchor_3
+  - first:
+      213: -2630232408128221069
+    second: spinningAnchor_4
+  - first:
+      213: 1797941929906721745
+    second: spinningAnchor_5
+  - first:
+      213: 3396990595479136600
+    second: spinningAnchor_6
+  - first:
+      213: -5225115910190553182
+    second: spinningAnchor_7
+  - first:
+      213: 4307177505992653758
+    second: spinningAnchor_8
+  - first:
+      213: -2814869286499429743
+    second: spinningAnchor_9
+  - first:
+      213: 2960166251408927330
+    second: spinningAnchor_10
+  - first:
+      213: 6219893667843787005
+    second: spinningAnchor_11
+  - first:
+      213: -320279795222274951
+    second: spinningAnchor_12
+  - first:
+      213: -1688399349049137273
+    second: spinningAnchor_13
+  - first:
+      213: 1432205173091144542
+    second: spinningAnchor_14
+  - first:
+      213: -1235853761384477363
+    second: spinningAnchor_15
+  - first:
+      213: 4453196417350256116
+    second: spinningAnchor_16
+  - first:
+      213: -5138521554117154746
+    second: spinningAnchor_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spinningAnchor_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 127
+        width: 51
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93329860c1aa7f660800000000000000
+      internalID: 7419585948461638457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spinningAnchor_1
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 132
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb80ff75e0f813130800000000000000
+      internalID: 3544771673485936831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spinningAnchor_2
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 129
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a48fe9dd890f2aee0800000000000000
+      internalID: -1251173207111698358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spinningAnchor_3
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 148
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7da50ae1fd8e6ee10800000000000000
+      internalID: 2226723110770465495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spinningAnchor_4
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 125
+        width: 75
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3701cc47f898f7bd0800000000000000
+      internalID: -2630232408128221069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spinningAnchor_5
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 85
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d3dedac8a293f810800000000000000
+      internalID: 1797941929906721745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spinningAnchor_6
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 64
+        width: 52
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85960e4d2f8842f20800000000000000
+      internalID: 3396990595479136600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spinningAnchor_7
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 99
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a7a9d673c8ac77b0800000000000000
+      internalID: -5225115910190553182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spinningAnchor_8
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 75
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebbbe3d0f1b26cb30800000000000000
+      internalID: 4307177505992653758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spinningAnchor_9
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 99
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1925b093c439fe8d0800000000000000
+      internalID: -2814869286499429743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spinningAnchor_10
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 84
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26a2453a58f941920800000000000000
+      internalID: 2960166251408927330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spinningAnchor_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 13
+        width: 65
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df8c7842650815650800000000000000
+      internalID: 6219893667843787005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spinningAnchor_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 66
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97c9a0129332e8bf0800000000000000
+      internalID: -320279795222274951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spinningAnchor_13
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 71
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 787ece0dcb99198e0800000000000000
+      internalID: -1688399349049137273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spinningAnchor_14
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 53
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e53139b440730e310800000000000000
+      internalID: 1432205173091144542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spinningAnchor_15
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 32
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4d09564d8d59dee0800000000000000
+      internalID: -1235853761384477363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spinningAnchor_16
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 51
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f5443b2c8eeccd30800000000000000
+      internalID: 4453196417350256116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spinningAnchor_17
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 5
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 648a8202fdd40b8b0800000000000000
+      internalID: -5138521554117154746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      spinningAnchor_0: 7419585948461638457
+      spinningAnchor_1: 3544771673485936831
+      spinningAnchor_10: 2960166251408927330
+      spinningAnchor_11: 6219893667843787005
+      spinningAnchor_12: -320279795222274951
+      spinningAnchor_13: -1688399349049137273
+      spinningAnchor_14: 1432205173091144542
+      spinningAnchor_15: -1235853761384477363
+      spinningAnchor_16: 4453196417350256116
+      spinningAnchor_17: -5138521554117154746
+      spinningAnchor_2: -1251173207111698358
+      spinningAnchor_3: 2226723110770465495
+      spinningAnchor_4: -2630232408128221069
+      spinningAnchor_5: 1797941929906721745
+      spinningAnchor_6: 3396990595479136600
+      spinningAnchor_7: -5225115910190553182
+      spinningAnchor_8: 4307177505992653758
+      spinningAnchor_9: -2814869286499429743
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

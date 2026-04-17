@@ -1,0 +1,1053 @@
+fileFormatVersion: 2
+guid: 54b84452bb60a77418a28b66860c6dd9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7379170050595685950
+    second: collectable_object_anim_0
+  - first:
+      213: 8763417832837255136
+    second: collectable_object_anim_1
+  - first:
+      213: 7779423016997644403
+    second: collectable_object_anim_2
+  - first:
+      213: -2356353369714606523
+    second: collectable_object_anim_3
+  - first:
+      213: 2964724981172306300
+    second: collectable_object_anim_4
+  - first:
+      213: -6001646380164370673
+    second: collectable_object_anim_5
+  - first:
+      213: -2758499149166562161
+    second: collectable_object_anim_6
+  - first:
+      213: -3924042874322912137
+    second: collectable_object_anim_7
+  - first:
+      213: -1480908935349766220
+    second: collectable_object_anim_8
+  - first:
+      213: 5091818616874876260
+    second: collectable_object_anim_9
+  - first:
+      213: -6364577592910311853
+    second: collectable_object_anim_10
+  - first:
+      213: 8757928876455131876
+    second: collectable_object_anim_11
+  - first:
+      213: -8783216433402643604
+    second: collectable_object_anim_12
+  - first:
+      213: -2503268150893573523
+    second: collectable_object_anim_13
+  - first:
+      213: -3052680881174379041
+    second: collectable_object_anim_14
+  - first:
+      213: 2123466221782230541
+    second: collectable_object_anim_15
+  - first:
+      213: 6522505398546987172
+    second: collectable_object_anim_16
+  - first:
+      213: 1205799971137375951
+    second: collectable_object_anim_17
+  - first:
+      213: 1565066991501918960
+    second: collectable_object_anim_18
+  - first:
+      213: -3699812905391701914
+    second: collectable_object_anim_19
+  - first:
+      213: -2633802173279503576
+    second: collectable_object_anim_20
+  - first:
+      213: 7870253292456055480
+    second: collectable_object_anim_21
+  - first:
+      213: -955939930656575949
+    second: collectable_object_anim_22
+  - first:
+      213: 3427293059848272038
+    second: collectable_object_anim_23
+  - first:
+      213: 2409195589486908846
+    second: collectable_object_anim_24
+  - first:
+      213: 8039611904980837536
+    second: collectable_object_anim_25
+  - first:
+      213: 4374047635357360393
+    second: collectable_object_anim_26
+  - first:
+      213: 7760444300432293279
+    second: collectable_object_anim_27
+  - first:
+      213: -6499972427395856993
+    second: collectable_object_anim_28
+  - first:
+      213: -2718152665709345940
+    second: collectable_object_anim_29
+  - first:
+      213: -2776843431091757131
+    second: collectable_object_anim_30
+  - first:
+      213: -8734565424908912371
+    second: collectable_object_anim_31
+  - first:
+      213: 2527963850233890875
+    second: collectable_object_anim_32
+  - first:
+      213: 2005058558915983396
+    second: collectable_object_anim_33
+  - first:
+      213: 683728394182766643
+    second: collectable_object_anim_34
+  - first:
+      213: -3990656077358389879
+    second: collectable_object_anim_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: collectable_object_anim_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 248
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c9fa0d7febe79990800000000000000
+      internalID: -7379170050595685950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: collectable_object_anim_1
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 239
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ef8690a61aed9970800000000000000
+      internalID: 8763417832837255136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: collectable_object_anim_2
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 156
+        width: 35
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37864ad440016fb60800000000000000
+      internalID: 7779423016997644403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: collectable_object_anim_3
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 249
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54ebdd0481d8c4fd0800000000000000
+      internalID: -2356353369714606523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: collectable_object_anim_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 148
+        width: 16
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c71808f99a1d42920800000000000000
+      internalID: 2964724981172306300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: collectable_object_anim_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 71
+        width: 18
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0f2bc25a6ed5bca0800000000000000
+      internalID: -6001646380164370673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: collectable_object_anim_6
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 137
+        width: 21
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f84b5b493a7d7b9d0800000000000000
+      internalID: -2758499149166562161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: collectable_object_anim_7
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 149
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77c7498dbcffa89c0800000000000000
+      internalID: -3924042874322912137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: collectable_object_anim_8
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 132
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b776c36b21c27be0800000000000000
+      internalID: -1480908935349766220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: collectable_object_anim_9
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 164
+        width: 18
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46d3c8fed06c9a640800000000000000
+      internalID: 5091818616874876260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: collectable_object_anim_10
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 51
+        width: 34
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35e8b25766a7ca7a0800000000000000
+      internalID: -6364577592910311853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: collectable_object_anim_11
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 155
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ea7e3169e96a8970800000000000000
+      internalID: 8757928876455131876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: collectable_object_anim_12
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 71
+        width: 18
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6b79a5703fbb1680800000000000000
+      internalID: -8783216433402643604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: collectable_object_anim_13
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 129
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6a807031ea924dd0800000000000000
+      internalID: -2503268150893573523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: collectable_object_anim_14
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 50
+        width: 20
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd589f099e2b2a5d0800000000000000
+      internalID: -3052680881174379041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: collectable_object_anim_15
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 131
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d06eed13741187d10800000000000000
+      internalID: 2123466221782230541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: collectable_object_anim_16
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 59
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a8f5fd2a18948a50800000000000000
+      internalID: 6522505398546987172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: collectable_object_anim_17
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 63
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcec1d56facdbb010800000000000000
+      internalID: 1205799971137375951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: collectable_object_anim_18
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 0
+        width: 18
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f2492ef22c38b510800000000000000
+      internalID: 1565066991501918960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: collectable_object_anim_19
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 70
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 660c8b6d3cf97acc0800000000000000
+      internalID: -3699812905391701914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: collectable_object_anim_20
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 57
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82bf50db0ead27bd0800000000000000
+      internalID: -2633802173279503576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: collectable_object_anim_21
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 56
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b2113dcba1c83d60800000000000000
+      internalID: 7870253292456055480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: collectable_object_anim_22
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 0
+        width: 22
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33e6a96a2b1dbb2f0800000000000000
+      internalID: -955939930656575949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: collectable_object_anim_23
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 66
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a8fa6d11e0309f20800000000000000
+      internalID: 3427293059848272038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: collectable_object_anim_24
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 0
+        width: 16
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea51ec9cf9e2f6120800000000000000
+      internalID: 2409195589486908846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: collectable_object_anim_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 18
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a462609e60729f60800000000000000
+      internalID: 8039611904980837536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: collectable_object_anim_26
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 0
+        width: 17
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 901ec10562db3bc30800000000000000
+      internalID: 4374047635357360393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: collectable_object_anim_27
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 0
+        width: 17
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9db87289f2a2bb60800000000000000
+      internalID: 7760444300432293279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: collectable_object_anim_28
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 48
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f958c3ff3857bc5a0800000000000000
+      internalID: -6499972427395856993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: collectable_object_anim_29
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 0
+        width: 18
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c630d1b4d8e274ad0800000000000000
+      internalID: -2718152665709345940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: collectable_object_anim_30
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 0
+        width: 18
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bf16ec9c9ba679d0800000000000000
+      internalID: -2776843431091757131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: collectable_object_anim_31
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 49
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0935e4160798c680800000000000000
+      internalID: -8734565424908912371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: collectable_object_anim_32
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 0
+        width: 15
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3848326ab1251320800000000000000
+      internalID: 2527963850233890875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: collectable_object_anim_33
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 49
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4283b06d22663db10800000000000000
+      internalID: 2005058558915983396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: collectable_object_anim_34
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 43
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 330bc1a1a571d7900800000000000000
+      internalID: 683728394182766643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: collectable_object_anim_35
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 15
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 985ac48e0775e98c0800000000000000
+      internalID: -3990656077358389879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      collectable_object_anim_0: -7379170050595685950
+      collectable_object_anim_1: 8763417832837255136
+      collectable_object_anim_10: -6364577592910311853
+      collectable_object_anim_11: 8757928876455131876
+      collectable_object_anim_12: -8783216433402643604
+      collectable_object_anim_13: -2503268150893573523
+      collectable_object_anim_14: -3052680881174379041
+      collectable_object_anim_15: 2123466221782230541
+      collectable_object_anim_16: 6522505398546987172
+      collectable_object_anim_17: 1205799971137375951
+      collectable_object_anim_18: 1565066991501918960
+      collectable_object_anim_19: -3699812905391701914
+      collectable_object_anim_2: 7779423016997644403
+      collectable_object_anim_20: -2633802173279503576
+      collectable_object_anim_21: 7870253292456055480
+      collectable_object_anim_22: -955939930656575949
+      collectable_object_anim_23: 3427293059848272038
+      collectable_object_anim_24: 2409195589486908846
+      collectable_object_anim_25: 8039611904980837536
+      collectable_object_anim_26: 4374047635357360393
+      collectable_object_anim_27: 7760444300432293279
+      collectable_object_anim_28: -6499972427395856993
+      collectable_object_anim_29: -2718152665709345940
+      collectable_object_anim_3: -2356353369714606523
+      collectable_object_anim_30: -2776843431091757131
+      collectable_object_anim_31: -8734565424908912371
+      collectable_object_anim_32: 2527963850233890875
+      collectable_object_anim_33: 2005058558915983396
+      collectable_object_anim_34: 683728394182766643
+      collectable_object_anim_35: -3990656077358389879
+      collectable_object_anim_4: 2964724981172306300
+      collectable_object_anim_5: -6001646380164370673
+      collectable_object_anim_6: -2758499149166562161
+      collectable_object_anim_7: -3924042874322912137
+      collectable_object_anim_8: -1480908935349766220
+      collectable_object_anim_9: 5091818616874876260
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

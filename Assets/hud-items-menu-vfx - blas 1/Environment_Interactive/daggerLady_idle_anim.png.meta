@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: c89aec7206631b94a90b8889cfbe9d00
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6553766311826538815
+    second: daggerLady_idle_anim_0
+  - first:
+      213: -9038998761315333647
+    second: daggerLady_idle_anim_1
+  - first:
+      213: 3816673029093821115
+    second: daggerLady_idle_anim_2
+  - first:
+      213: 4817663251904272520
+    second: daggerLady_idle_anim_3
+  - first:
+      213: 555654042270806
+    second: daggerLady_idle_anim_4
+  - first:
+      213: 3432562421248207676
+    second: daggerLady_idle_anim_5
+  - first:
+      213: 848113352530550941
+    second: daggerLady_idle_anim_6
+  - first:
+      213: 4219121077232738657
+    second: daggerLady_idle_anim_7
+  - first:
+      213: -6040336164931920405
+    second: daggerLady_idle_anim_8
+  - first:
+      213: 6662706370277036491
+    second: daggerLady_idle_anim_9
+  - first:
+      213: 8211114435167936056
+    second: daggerLady_idle_anim_10
+  - first:
+      213: 3163205291651425811
+    second: daggerLady_idle_anim_11
+  - first:
+      213: 5423207954852388414
+    second: daggerLady_idle_anim_12
+  - first:
+      213: 725409433427160468
+    second: daggerLady_idle_anim_13
+  - first:
+      213: -6067731691179330222
+    second: daggerLady_idle_anim_14
+  - first:
+      213: 1182750906718256674
+    second: daggerLady_idle_anim_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: daggerLady_idle_anim_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 569
+        width: 138
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f31c75dbcb7a3fa50800000000000000
+      internalID: 6553766311826538815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daggerLady_idle_anim_1
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 571
+        width: 139
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f98a9a64860f8280800000000000000
+      internalID: -9038998761315333647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daggerLady_idle_anim_2
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 285
+        width: 139
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bba83faf5eb87f430800000000000000
+      internalID: 3816673029093821115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daggerLady_idle_anim_3
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 572
+        width: 136
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8881539d337cbd240800000000000000
+      internalID: 4817663251904272520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daggerLady_idle_anim_4
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 285
+        width: 136
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65cbec94d59f10000800000000000000
+      internalID: 555654042270806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daggerLady_idle_anim_5
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 572
+        width: 134
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3baadbe559e2af20800000000000000
+      internalID: 3432562421248207676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daggerLady_idle_anim_6
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 285
+        width: 136
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9069d2c99a15cb00800000000000000
+      internalID: 848113352530550941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daggerLady_idle_anim_7
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 285
+        width: 134
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16122d014445d8a30800000000000000
+      internalID: 4219121077232738657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daggerLady_idle_anim_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 284
+        width: 140
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bed9945d24a6c2ca0800000000000000
+      internalID: -6040336164931920405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daggerLady_idle_anim_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 140
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc1581ba420b67c50800000000000000
+      internalID: 6662706370277036491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daggerLady_idle_anim_10
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 0
+        width: 139
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83e544e031db3f170800000000000000
+      internalID: 8211114435167936056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daggerLady_idle_anim_11
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 0
+        width: 138
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 316e4801476f5eb20800000000000000
+      internalID: 3163205291651425811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daggerLady_idle_anim_12
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 0
+        width: 138
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3e9c0cc6ea134b40800000000000000
+      internalID: 5423207954852388414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daggerLady_idle_anim_13
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 0
+        width: 138
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49da42c490c211a00800000000000000
+      internalID: 725409433427160468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daggerLady_idle_anim_14
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 0
+        width: 138
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25530e2dc261bcba0800000000000000
+      internalID: -6067731691179330222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daggerLady_idle_anim_15
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 0
+        width: 136
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22e76b4eea9f96010800000000000000
+      internalID: 1182750906718256674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      daggerLady_idle_anim_0: 6553766311826538815
+      daggerLady_idle_anim_1: -9038998761315333647
+      daggerLady_idle_anim_10: 8211114435167936056
+      daggerLady_idle_anim_11: 3163205291651425811
+      daggerLady_idle_anim_12: 5423207954852388414
+      daggerLady_idle_anim_13: 725409433427160468
+      daggerLady_idle_anim_14: -6067731691179330222
+      daggerLady_idle_anim_15: 1182750906718256674
+      daggerLady_idle_anim_2: 3816673029093821115
+      daggerLady_idle_anim_3: 4817663251904272520
+      daggerLady_idle_anim_4: 555654042270806
+      daggerLady_idle_anim_5: 3432562421248207676
+      daggerLady_idle_anim_6: 848113352530550941
+      daggerLady_idle_anim_7: 4219121077232738657
+      daggerLady_idle_anim_8: -6040336164931920405
+      daggerLady_idle_anim_9: 6662706370277036491
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

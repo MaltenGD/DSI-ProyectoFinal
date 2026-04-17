@@ -1,0 +1,1573 @@
+fileFormatVersion: 2
+guid: f828fc6f0a77baf4bbf0939a77369fe1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5335836569138096639
+    second: rock_ground_landing_anim_0
+  - first:
+      213: -5300638907306041161
+    second: rock_ground_landing_anim_1
+  - first:
+      213: -390062255576467589
+    second: rock_ground_landing_anim_2
+  - first:
+      213: -2831359215895287721
+    second: rock_ground_landing_anim_3
+  - first:
+      213: -790710562315803247
+    second: rock_ground_landing_anim_4
+  - first:
+      213: 6889023829689377765
+    second: rock_ground_landing_anim_5
+  - first:
+      213: 6742713933112220535
+    second: rock_ground_landing_anim_6
+  - first:
+      213: 256682327860336868
+    second: rock_ground_landing_anim_7
+  - first:
+      213: -1923437480758160238
+    second: rock_ground_landing_anim_8
+  - first:
+      213: -6429251543325609826
+    second: rock_ground_landing_anim_9
+  - first:
+      213: -8006253770724987669
+    second: rock_ground_landing_anim_10
+  - first:
+      213: 7145248822283118720
+    second: rock_ground_landing_anim_11
+  - first:
+      213: 2275587446591548798
+    second: rock_ground_landing_anim_12
+  - first:
+      213: 4479486835880434588
+    second: rock_ground_landing_anim_13
+  - first:
+      213: -4549761719502210503
+    second: rock_ground_landing_anim_14
+  - first:
+      213: -4812852885532626462
+    second: rock_ground_landing_anim_15
+  - first:
+      213: -8109329185211208122
+    second: rock_ground_landing_anim_16
+  - first:
+      213: -5339275172525403422
+    second: rock_ground_landing_anim_17
+  - first:
+      213: 3557556054742646621
+    second: rock_ground_landing_anim_18
+  - first:
+      213: -3617390282485063376
+    second: rock_ground_landing_anim_19
+  - first:
+      213: 8868402979319057600
+    second: rock_ground_landing_anim_20
+  - first:
+      213: 2786596573365995225
+    second: rock_ground_landing_anim_21
+  - first:
+      213: -4600118315686259583
+    second: rock_ground_landing_anim_22
+  - first:
+      213: -1402524386388783066
+    second: rock_ground_landing_anim_23
+  - first:
+      213: 8184666237060915568
+    second: rock_ground_landing_anim_24
+  - first:
+      213: -3451177060405887006
+    second: rock_ground_landing_anim_25
+  - first:
+      213: 917988784168404925
+    second: rock_ground_landing_anim_26
+  - first:
+      213: 8542679381252427477
+    second: rock_ground_landing_anim_27
+  - first:
+      213: -7539196748418218648
+    second: rock_ground_landing_anim_28
+  - first:
+      213: 8301368565468294634
+    second: rock_ground_landing_anim_29
+  - first:
+      213: 8673296013379652916
+    second: rock_ground_landing_anim_30
+  - first:
+      213: -6721607881835395196
+    second: rock_ground_landing_anim_31
+  - first:
+      213: 1333145583401398953
+    second: rock_ground_landing_anim_32
+  - first:
+      213: -6544263485556034171
+    second: rock_ground_landing_anim_33
+  - first:
+      213: 1327571506876793114
+    second: rock_ground_landing_anim_34
+  - first:
+      213: 5484825812405517071
+    second: rock_ground_landing_anim_35
+  - first:
+      213: 2742140419798563767
+    second: rock_ground_landing_anim_36
+  - first:
+      213: -425519975161888713
+    second: rock_ground_landing_anim_37
+  - first:
+      213: -8712118784364215955
+    second: rock_ground_landing_anim_38
+  - first:
+      213: 3968042855505450843
+    second: rock_ground_landing_anim_39
+  - first:
+      213: 2854658317397561926
+    second: rock_ground_landing_anim_40
+  - first:
+      213: 5875390727182883284
+    second: rock_ground_landing_anim_41
+  - first:
+      213: 8669106244250806361
+    second: rock_ground_landing_anim_42
+  - first:
+      213: 6495705962512152513
+    second: rock_ground_landing_anim_43
+  - first:
+      213: 1260974930363962630
+    second: rock_ground_landing_anim_44
+  - first:
+      213: -6753137379548027236
+    second: rock_ground_landing_anim_45
+  - first:
+      213: 1096874607836534775
+    second: rock_ground_landing_anim_46
+  - first:
+      213: -1238457872781591259
+    second: rock_ground_landing_anim_47
+  - first:
+      213: 1849461963046680580
+    second: rock_ground_landing_anim_48
+  - first:
+      213: 1081705396852888886
+    second: rock_ground_landing_anim_49
+  - first:
+      213: -1704286610663771885
+    second: rock_ground_landing_anim_50
+  - first:
+      213: 5087501899891497743
+    second: rock_ground_landing_anim_51
+  - first:
+      213: -8489694579690427422
+    second: rock_ground_landing_anim_52
+  - first:
+      213: -7141189373693362674
+    second: rock_ground_landing_anim_53
+  - first:
+      213: 2466682873995638638
+    second: rock_ground_landing_anim_54
+  - first:
+      213: -6851010231834047605
+    second: rock_ground_landing_anim_55
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rock_ground_landing_anim_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 105
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1061cfc29ec43f5b0800000000000000
+      internalID: -5335836569138096639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock_ground_landing_anim_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 99
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b0a86f6ff85076b0800000000000000
+      internalID: -5300638907306041161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock_ground_landing_anim_2
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 94
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b77b318f178369af0800000000000000
+      internalID: -390062255576467589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock_ground_landing_anim_3
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 111
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75868095bcdf4b8d0800000000000000
+      internalID: -2831359215895287721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock_ground_landing_anim_4
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 98
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1956405dee4d605f0800000000000000
+      internalID: -790710562315803247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock_ground_landing_anim_5
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 105
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e326d96caaba9f50800000000000000
+      internalID: 6889023829689377765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock_ground_landing_anim_6
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 113
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77b1b35099ee29d50800000000000000
+      internalID: 6742713933112220535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock_ground_landing_anim_7
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 97
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e85c3c973bef8300800000000000000
+      internalID: 256682327860336868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock_ground_landing_anim_8
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 98
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 294dcb35dc39e45e0800000000000000
+      internalID: -1923437480758160238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock_ground_landing_anim_9
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 97
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e90f174f8c5b6c6a0800000000000000
+      internalID: -6429251543325609826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock_ground_landing_anim_10
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 81
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bec2e4e4d9214e090800000000000000
+      internalID: -8006253770724987669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock_ground_landing_anim_11
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 91
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 088a6fb52f5092360800000000000000
+      internalID: 7145248822283118720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock_ground_landing_anim_12
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 73
+        width: 38
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7d6d61e9b2849f10800000000000000
+      internalID: 2275587446591548798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock_ground_landing_anim_13
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 81
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9b11bc3b855a2e30800000000000000
+      internalID: 4479486835880434588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock_ground_landing_anim_14
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 70
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93a766062dffbd0c0800000000000000
+      internalID: -4549761719502210503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock_ground_landing_anim_15
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 86
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e13d99dccf453db0800000000000000
+      internalID: -4812852885532626462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock_ground_landing_anim_16
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 85
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64e27c43210e57f80800000000000000
+      internalID: -8109329185211208122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock_ground_landing_anim_17
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 79
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e29f8fe48517e5b0800000000000000
+      internalID: -5339275172525403422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock_ground_landing_anim_18
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 79
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5fb97f026afe5130800000000000000
+      internalID: 3557556054742646621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock_ground_landing_anim_19
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 72
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 031278e24b27ccdc0800000000000000
+      internalID: -3617390282485063376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock_ground_landing_anim_20
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 75
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cc045bd585e21b70800000000000000
+      internalID: 8868402979319057600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock_ground_landing_anim_21
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 49
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d60dc7c1dafba620800000000000000
+      internalID: 2786596573365995225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock_ground_landing_anim_22
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 52
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18490cca3c81920c0800000000000000
+      internalID: -4600118315686259583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock_ground_landing_anim_23
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 65
+        width: 30
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6205970608b398ce0800000000000000
+      internalID: -1402524386388783066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock_ground_landing_anim_24
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 60
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07126211496c59170800000000000000
+      internalID: 8184666237060915568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock_ground_landing_anim_25
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 59
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2efb789afb4fa10d0800000000000000
+      internalID: -3451177060405887006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock_ground_landing_anim_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 38
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db7862c7fe95dbc00800000000000000
+      internalID: 917988784168404925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock_ground_landing_anim_27
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 37
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5deca9dd2a1bd8670800000000000000
+      internalID: 8542679381252427477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock_ground_landing_anim_28
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 34
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86580ce60846f5790800000000000000
+      internalID: -7539196748418218648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock_ground_landing_anim_29
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 41
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aede45e4ab2643370800000000000000
+      internalID: 8301368565468294634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock_ground_landing_anim_30
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 40
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43d4e4565ccbd5870800000000000000
+      internalID: 8673296013379652916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock_ground_landing_anim_31
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 35
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4874cbb7e3d08b2a0800000000000000
+      internalID: -6721607881835395196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock_ground_landing_anim_32
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 28
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a2758448d8408210800000000000000
+      internalID: 1333145583401398953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock_ground_landing_anim_33
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 45
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5857fda680b1e25a0800000000000000
+      internalID: -6544263485556034171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock_ground_landing_anim_34
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 49
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a114251704b7c6210800000000000000
+      internalID: 1327571506876793114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock_ground_landing_anim_35
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 33
+        width: 44
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0bf25b34040e1c40800000000000000
+      internalID: 5484825812405517071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock_ground_landing_anim_36
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 26
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bb755eee2a0e0620800000000000000
+      internalID: 2742140419798563767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock_ground_landing_anim_37
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 23
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73084ab46df381af0800000000000000
+      internalID: -425519975161888713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock_ground_landing_anim_38
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 34
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6186f8df16581780800000000000000
+      internalID: -8712118784364215955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock_ground_landing_anim_39
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 26
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b57dde714f1511730800000000000000
+      internalID: 3968042855505450843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock_ground_landing_anim_40
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 22
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64298937d98cd9720800000000000000
+      internalID: 2854658317397561926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock_ground_landing_anim_41
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 34
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d91c5abcb4998150800000000000000
+      internalID: 5875390727182883284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock_ground_landing_anim_42
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 33
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 958a0b0c23ade4870800000000000000
+      internalID: 8669106244250806361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock_ground_landing_anim_43
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 0
+        width: 48
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c77cec3822652a50800000000000000
+      internalID: 6495705962512152513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock_ground_landing_anim_44
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 33
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 605540ba402ef7110800000000000000
+      internalID: 1260974930363962630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock_ground_landing_anim_45
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 22
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c96a0ac35590842a0800000000000000
+      internalID: -6753137379548027236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock_ground_landing_anim_46
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 17
+        width: 26
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f71e33f4a1e83f00800000000000000
+      internalID: 1096874607836534775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock_ground_landing_anim_47
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 12
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52d3197502d10dee0800000000000000
+      internalID: -1238457872781591259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock_ground_landing_anim_48
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 16
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4087ef44bdb9aa910800000000000000
+      internalID: 1849461963046680580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock_ground_landing_anim_49
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 10
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6351a0bc35df20f00800000000000000
+      internalID: 1081705396852888886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock_ground_landing_anim_50
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 13
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3117ee77b582958e0800000000000000
+      internalID: -1704286610663771885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock_ground_landing_anim_51
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 0
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0b5821f5007a9640800000000000000
+      internalID: 5087501899891497743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock_ground_landing_anim_52
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 0
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eb2ef592cb8e2a80800000000000000
+      internalID: -8489694579690427422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock_ground_landing_anim_53
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 0
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0e763ba91665ec90800000000000000
+      internalID: -7141189373693362674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock_ground_landing_anim_54
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 0
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e67bc0e310b6b3220800000000000000
+      internalID: 2466682873995638638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock_ground_landing_anim_55
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 0
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8b07fa0e725ce0a0800000000000000
+      internalID: -6851010231834047605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      rock_ground_landing_anim_0: -5335836569138096639
+      rock_ground_landing_anim_1: -5300638907306041161
+      rock_ground_landing_anim_10: -8006253770724987669
+      rock_ground_landing_anim_11: 7145248822283118720
+      rock_ground_landing_anim_12: 2275587446591548798
+      rock_ground_landing_anim_13: 4479486835880434588
+      rock_ground_landing_anim_14: -4549761719502210503
+      rock_ground_landing_anim_15: -4812852885532626462
+      rock_ground_landing_anim_16: -8109329185211208122
+      rock_ground_landing_anim_17: -5339275172525403422
+      rock_ground_landing_anim_18: 3557556054742646621
+      rock_ground_landing_anim_19: -3617390282485063376
+      rock_ground_landing_anim_2: -390062255576467589
+      rock_ground_landing_anim_20: 8868402979319057600
+      rock_ground_landing_anim_21: 2786596573365995225
+      rock_ground_landing_anim_22: -4600118315686259583
+      rock_ground_landing_anim_23: -1402524386388783066
+      rock_ground_landing_anim_24: 8184666237060915568
+      rock_ground_landing_anim_25: -3451177060405887006
+      rock_ground_landing_anim_26: 917988784168404925
+      rock_ground_landing_anim_27: 8542679381252427477
+      rock_ground_landing_anim_28: -7539196748418218648
+      rock_ground_landing_anim_29: 8301368565468294634
+      rock_ground_landing_anim_3: -2831359215895287721
+      rock_ground_landing_anim_30: 8673296013379652916
+      rock_ground_landing_anim_31: -6721607881835395196
+      rock_ground_landing_anim_32: 1333145583401398953
+      rock_ground_landing_anim_33: -6544263485556034171
+      rock_ground_landing_anim_34: 1327571506876793114
+      rock_ground_landing_anim_35: 5484825812405517071
+      rock_ground_landing_anim_36: 2742140419798563767
+      rock_ground_landing_anim_37: -425519975161888713
+      rock_ground_landing_anim_38: -8712118784364215955
+      rock_ground_landing_anim_39: 3968042855505450843
+      rock_ground_landing_anim_4: -790710562315803247
+      rock_ground_landing_anim_40: 2854658317397561926
+      rock_ground_landing_anim_41: 5875390727182883284
+      rock_ground_landing_anim_42: 8669106244250806361
+      rock_ground_landing_anim_43: 6495705962512152513
+      rock_ground_landing_anim_44: 1260974930363962630
+      rock_ground_landing_anim_45: -6753137379548027236
+      rock_ground_landing_anim_46: 1096874607836534775
+      rock_ground_landing_anim_47: -1238457872781591259
+      rock_ground_landing_anim_48: 1849461963046680580
+      rock_ground_landing_anim_49: 1081705396852888886
+      rock_ground_landing_anim_5: 6889023829689377765
+      rock_ground_landing_anim_50: -1704286610663771885
+      rock_ground_landing_anim_51: 5087501899891497743
+      rock_ground_landing_anim_52: -8489694579690427422
+      rock_ground_landing_anim_53: -7141189373693362674
+      rock_ground_landing_anim_54: 2466682873995638638
+      rock_ground_landing_anim_55: -6851010231834047605
+      rock_ground_landing_anim_6: 6742713933112220535
+      rock_ground_landing_anim_7: 256682327860336868
+      rock_ground_landing_anim_8: -1923437480758160238
+      rock_ground_landing_anim_9: -6429251543325609826
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: bf3fd6db2ccd59f4b838b1ca446de471
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1580219198683488798
+    second: villageFountain_water_0
+  - first:
+      213: -269768490185190472
+    second: villageFountain_water_1
+  - first:
+      213: -7523848380274643391
+    second: villageFountain_water_2
+  - first:
+      213: -2278330703475310127
+    second: villageFountain_water_3
+  - first:
+      213: -5439808008539299389
+    second: villageFountain_water_4
+  - first:
+      213: 6524816344582360075
+    second: villageFountain_water_5
+  - first:
+      213: -6837080601695656143
+    second: villageFountain_water_6
+  - first:
+      213: -5855402260084433978
+    second: villageFountain_water_7
+  - first:
+      213: -3789737411468983389
+    second: villageFountain_water_8
+  - first:
+      213: -5107001175137094957
+    second: villageFountain_water_9
+  - first:
+      213: -9136758871042751002
+    second: villageFountain_water_10
+  - first:
+      213: -7746093875746861436
+    second: villageFountain_water_11
+  - first:
+      213: 3231713024658606093
+    second: villageFountain_water_12
+  - first:
+      213: -77928944387681185
+    second: villageFountain_water_13
+  - first:
+      213: 5874742721155075641
+    second: villageFountain_water_14
+  - first:
+      213: 7147603504857535989
+    second: villageFountain_water_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: villageFountain_water_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 119
+        width: 115
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2edd73bd20fe11ae0800000000000000
+      internalID: -1580219198683488798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: villageFountain_water_1
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 111
+        width: 115
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b31beaccf6914cf0800000000000000
+      internalID: -269768490185190472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: villageFountain_water_2
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 103
+        width: 115
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14ee4ddd2cbe59790800000000000000
+      internalID: -7523848380274643391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: villageFountain_water_3
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 95
+        width: 115
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d10d7adb4eb160e0800000000000000
+      internalID: -2278330703475310127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: villageFountain_water_4
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 87
+        width: 115
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c1a0b4007be184b0800000000000000
+      internalID: -5439808008539299389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: villageFountain_water_5
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 79
+        width: 115
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0c8e7b35edcc8a50800000000000000
+      internalID: 6524816344582360075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: villageFountain_water_6
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 71
+        width: 115
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 137673bca6fcd11a0800000000000000
+      internalID: -6837080601695656143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: villageFountain_water_7
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 63
+        width: 115
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cbd5aeeaae6dbea0800000000000000
+      internalID: -5855402260084433978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: villageFountain_water_8
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 55
+        width: 115
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a3026537e5286bc0800000000000000
+      internalID: -3789737411468983389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: villageFountain_water_9
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 47
+        width: 115
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d273704d794029b0800000000000000
+      internalID: -5107001175137094957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: villageFountain_water_10
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 39
+        width: 115
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e509152736b33180800000000000000
+      internalID: -9136758871042751002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: villageFountain_water_11
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 31
+        width: 115
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48e874b19a8508490800000000000000
+      internalID: -7746093875746861436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: villageFountain_water_12
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 23
+        width: 115
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0887c2afd959dc20800000000000000
+      internalID: 3231713024658606093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: villageFountain_water_13
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 15
+        width: 115
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f541d08b9042beef0800000000000000
+      internalID: -77928944387681185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: villageFountain_water_14
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 7
+        width: 115
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93e82411167478150800000000000000
+      internalID: 5874742721155075641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: villageFountain_water_15
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 0
+        width: 115
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f5de5e9483613360800000000000000
+      internalID: 7147603504857535989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      villageFountain_water_0: -1580219198683488798
+      villageFountain_water_1: -269768490185190472
+      villageFountain_water_10: -9136758871042751002
+      villageFountain_water_11: -7746093875746861436
+      villageFountain_water_12: 3231713024658606093
+      villageFountain_water_13: -77928944387681185
+      villageFountain_water_14: 5874742721155075641
+      villageFountain_water_15: 7147603504857535989
+      villageFountain_water_2: -7523848380274643391
+      villageFountain_water_3: -2278330703475310127
+      villageFountain_water_4: -5439808008539299389
+      villageFountain_water_5: 6524816344582360075
+      villageFountain_water_6: -6837080601695656143
+      villageFountain_water_7: -5855402260084433978
+      villageFountain_water_8: -3789737411468983389
+      villageFountain_water_9: -5107001175137094957
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

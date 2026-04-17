@@ -1,0 +1,767 @@
+fileFormatVersion: 2
+guid: edc1cb5455796c14cb6c5d4837bd1732
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3118052135378704977
+    second: wallCrumble_dust_big2_0
+  - first:
+      213: -4193982705912351082
+    second: wallCrumble_dust_big2_1
+  - first:
+      213: -2247317299722454750
+    second: wallCrumble_dust_big2_2
+  - first:
+      213: -398381759779123811
+    second: wallCrumble_dust_big2_3
+  - first:
+      213: -1937766253438085576
+    second: wallCrumble_dust_big2_4
+  - first:
+      213: 8606455966739366364
+    second: wallCrumble_dust_big2_5
+  - first:
+      213: 5629336514091750020
+    second: wallCrumble_dust_big2_6
+  - first:
+      213: 6963706950263948470
+    second: wallCrumble_dust_big2_7
+  - first:
+      213: -8207970527346314965
+    second: wallCrumble_dust_big2_8
+  - first:
+      213: -3480577567418878596
+    second: wallCrumble_dust_big2_9
+  - first:
+      213: 4373678083466644609
+    second: wallCrumble_dust_big2_10
+  - first:
+      213: 5806709142746898942
+    second: wallCrumble_dust_big2_11
+  - first:
+      213: 5470735082524088087
+    second: wallCrumble_dust_big2_12
+  - first:
+      213: 4117675284481715644
+    second: wallCrumble_dust_big2_13
+  - first:
+      213: 4423465643120601921
+    second: wallCrumble_dust_big2_14
+  - first:
+      213: -2572035990593829283
+    second: wallCrumble_dust_big2_15
+  - first:
+      213: 8710537260416640334
+    second: wallCrumble_dust_big2_16
+  - first:
+      213: 2654761251138241248
+    second: wallCrumble_dust_big2_17
+  - first:
+      213: 6422595491034263470
+    second: wallCrumble_dust_big2_18
+  - first:
+      213: -4407978614135136695
+    second: wallCrumble_dust_big2_19
+  - first:
+      213: 362184675005340940
+    second: wallCrumble_dust_big2_20
+  - first:
+      213: -7894953722907016282
+    second: wallCrumble_dust_big2_21
+  - first:
+      213: 2151116311966404086
+    second: wallCrumble_dust_big2_22
+  - first:
+      213: 7131527236162437380
+    second: wallCrumble_dust_big2_23
+  - first:
+      213: 2455548926246104885
+    second: wallCrumble_dust_big2_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: wallCrumble_dust_big2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 118
+        width: 41
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15a5560a5eb854b20800000000000000
+      internalID: 3118052135378704977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wallCrumble_dust_big2_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 99
+        width: 37
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69676fb13fafbc5c0800000000000000
+      internalID: -4193982705912351082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wallCrumble_dust_big2_2
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 108
+        width: 51
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 229f37c92dcefc0e0800000000000000
+      internalID: -2247317299722454750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wallCrumble_dust_big2_3
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 101
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9dce5376e9a87af0800000000000000
+      internalID: -398381759779123811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wallCrumble_dust_big2_4
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 97
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8365516fbdbab15e0800000000000000
+      internalID: -1937766253438085576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wallCrumble_dust_big2_5
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 91
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd18a805a16407770800000000000000
+      internalID: 8606455966739366364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wallCrumble_dust_big2_6
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 99
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 482139bebbb6f1e40800000000000000
+      internalID: 5629336514091750020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wallCrumble_dust_big2_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 61
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b4c662739e04a060800000000000000
+      internalID: 6963706950263948470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wallCrumble_dust_big2_8
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 86
+        width: 27
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b21b5a60b4e671e80800000000000000
+      internalID: -8207970527346314965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wallCrumble_dust_big2_9
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 90
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c75fdc0b42182bfc0800000000000000
+      internalID: -3480577567418878596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wallCrumble_dust_big2_10
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 72
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18cc0fe4b0d62bc30800000000000000
+      internalID: 4373678083466644609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wallCrumble_dust_big2_11
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 66
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef121773333959050800000000000000
+      internalID: 5806709142746898942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wallCrumble_dust_big2_12
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 48
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7179d168294fbeb40800000000000000
+      internalID: 5470735082524088087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wallCrumble_dust_big2_13
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 55
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbd20f7dadbe42930800000000000000
+      internalID: 4117675284481715644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wallCrumble_dust_big2_14
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 48
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14b295ed09e436d30800000000000000
+      internalID: 4423465643120601921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wallCrumble_dust_big2_15
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 56
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d56822fc4ea4e4cd0800000000000000
+      internalID: -2572035990593829283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wallCrumble_dust_big2_16
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 48
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4520f9ec7b02e870800000000000000
+      internalID: 8710537260416640334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wallCrumble_dust_big2_17
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 45
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e20199da4b97d420800000000000000
+      internalID: 2654761251138241248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wallCrumble_dust_big2_18
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 7
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaf6f1b1294a12950800000000000000
+      internalID: 6422595491034263470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wallCrumble_dust_big2_19
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 33
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94ed4fe0ec6b3d2c0800000000000000
+      internalID: -4407978614135136695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wallCrumble_dust_big2_20
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 0
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0d98c00b0db60500800000000000000
+      internalID: 362184675005340940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wallCrumble_dust_big2_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a3caf31b6d7f6290800000000000000
+      internalID: -7894953722907016282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wallCrumble_dust_big2_22
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 0
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fd4e4d73ec4add10800000000000000
+      internalID: 2151116311966404086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wallCrumble_dust_big2_23
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 3
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4014c71ac3648f260800000000000000
+      internalID: 7131527236162437380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wallCrumble_dust_big2_24
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53fad750dbcd31220800000000000000
+      internalID: 2455548926246104885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      wallCrumble_dust_big2_0: 3118052135378704977
+      wallCrumble_dust_big2_1: -4193982705912351082
+      wallCrumble_dust_big2_10: 4373678083466644609
+      wallCrumble_dust_big2_11: 5806709142746898942
+      wallCrumble_dust_big2_12: 5470735082524088087
+      wallCrumble_dust_big2_13: 4117675284481715644
+      wallCrumble_dust_big2_14: 4423465643120601921
+      wallCrumble_dust_big2_15: -2572035990593829283
+      wallCrumble_dust_big2_16: 8710537260416640334
+      wallCrumble_dust_big2_17: 2654761251138241248
+      wallCrumble_dust_big2_18: 6422595491034263470
+      wallCrumble_dust_big2_19: -4407978614135136695
+      wallCrumble_dust_big2_2: -2247317299722454750
+      wallCrumble_dust_big2_20: 362184675005340940
+      wallCrumble_dust_big2_21: -7894953722907016282
+      wallCrumble_dust_big2_22: 2151116311966404086
+      wallCrumble_dust_big2_23: 7131527236162437380
+      wallCrumble_dust_big2_24: 2455548926246104885
+      wallCrumble_dust_big2_3: -398381759779123811
+      wallCrumble_dust_big2_4: -1937766253438085576
+      wallCrumble_dust_big2_5: 8606455966739366364
+      wallCrumble_dust_big2_6: 5629336514091750020
+      wallCrumble_dust_big2_7: 6963706950263948470
+      wallCrumble_dust_big2_8: -8207970527346314965
+      wallCrumble_dust_big2_9: -3480577567418878596
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

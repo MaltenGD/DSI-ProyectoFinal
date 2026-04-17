@@ -1,0 +1,1001 @@
+fileFormatVersion: 2
+guid: 3f7c665fba626e240a73ffefe5d6a0b7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7883223859829585224
+    second: DMK_ElusivePlatform1_0
+  - first:
+      213: -5931845401963621836
+    second: DMK_ElusivePlatform1_1
+  - first:
+      213: -2698404393477920214
+    second: DMK_ElusivePlatform1_2
+  - first:
+      213: -4369743661341637490
+    second: DMK_ElusivePlatform1_3
+  - first:
+      213: 7091923326927815938
+    second: DMK_ElusivePlatform1_4
+  - first:
+      213: 6083215315525830392
+    second: DMK_ElusivePlatform1_5
+  - first:
+      213: 5841153443794946406
+    second: DMK_ElusivePlatform1_6
+  - first:
+      213: 1139653015302856379
+    second: DMK_ElusivePlatform1_7
+  - first:
+      213: 8316590889722888636
+    second: DMK_ElusivePlatform1_8
+  - first:
+      213: 7105836811404045517
+    second: DMK_ElusivePlatform1_9
+  - first:
+      213: 3440280285210783919
+    second: DMK_ElusivePlatform1_10
+  - first:
+      213: -6387472163322737199
+    second: DMK_ElusivePlatform1_11
+  - first:
+      213: 5052941076946764743
+    second: DMK_ElusivePlatform1_12
+  - first:
+      213: 3027836732302448527
+    second: DMK_ElusivePlatform1_13
+  - first:
+      213: 62701183950636525
+    second: DMK_ElusivePlatform1_14
+  - first:
+      213: 8444112903006947718
+    second: DMK_ElusivePlatform1_15
+  - first:
+      213: -3213585759168963549
+    second: DMK_ElusivePlatform1_16
+  - first:
+      213: -4901359757408795960
+    second: DMK_ElusivePlatform1_17
+  - first:
+      213: -2931468294142931057
+    second: DMK_ElusivePlatform1_18
+  - first:
+      213: 2718033281822301496
+    second: DMK_ElusivePlatform1_19
+  - first:
+      213: -3724887797795024699
+    second: DMK_ElusivePlatform1_20
+  - first:
+      213: -7801434088411909908
+    second: DMK_ElusivePlatform1_21
+  - first:
+      213: -541194355398180367
+    second: DMK_ElusivePlatform1_22
+  - first:
+      213: 5005303674650845979
+    second: DMK_ElusivePlatform1_23
+  - first:
+      213: -2837906757491200092
+    second: DMK_ElusivePlatform1_24
+  - first:
+      213: 450671612660644898
+    second: DMK_ElusivePlatform1_25
+  - first:
+      213: 8933573715507634803
+    second: DMK_ElusivePlatform1_26
+  - first:
+      213: 2424495604475444938
+    second: DMK_ElusivePlatform1_27
+  - first:
+      213: -9023942156394146240
+    second: DMK_ElusivePlatform1_28
+  - first:
+      213: 7142305921979683584
+    second: DMK_ElusivePlatform1_29
+  - first:
+      213: 228954097314889879
+    second: DMK_ElusivePlatform1_30
+  - first:
+      213: -3098966900715403829
+    second: DMK_ElusivePlatform1_31
+  - first:
+      213: -5817683916754611498
+    second: DMK_ElusivePlatform1_32
+  - first:
+      213: 7478614784297058590
+    second: DMK_ElusivePlatform1_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DMK_ElusivePlatform1_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 143
+        width: 34
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 845b60a5556d66d60800000000000000
+      internalID: 7883223859829585224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DMK_ElusivePlatform1_1
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 142
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4329c61090addada0800000000000000
+      internalID: -5931845401963621836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DMK_ElusivePlatform1_2
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 143
+        width: 34
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2a256a30875d8ad0800000000000000
+      internalID: -2698404393477920214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DMK_ElusivePlatform1_3
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 110
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e84873aba4d8b53c0800000000000000
+      internalID: -4369743661341637490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DMK_ElusivePlatform1_4
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 111
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 205c6d3f0b29b6260800000000000000
+      internalID: 7091923326927815938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DMK_ElusivePlatform1_5
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 109
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f60226691ceb6450800000000000000
+      internalID: 6083215315525830392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DMK_ElusivePlatform1_6
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 109
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66982fffb12ff0150800000000000000
+      internalID: 5841153443794946406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DMK_ElusivePlatform1_7
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 109
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbe5458116cd0df00800000000000000
+      internalID: 1139653015302856379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DMK_ElusivePlatform1_8
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 73
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb1ce2cd9577a6370800000000000000
+      internalID: 8316590889722888636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DMK_ElusivePlatform1_9
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 73
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcce1af7ee00d9260800000000000000
+      internalID: 7105836811404045517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DMK_ElusivePlatform1_10
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 73
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa0b4c721b45ebf20800000000000000
+      internalID: 3440280285210783919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DMK_ElusivePlatform1_11
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 71
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ddc374e8e32b57a0800000000000000
+      internalID: -6387472163322737199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DMK_ElusivePlatform1_12
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 76
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c3446a4327af1640800000000000000
+      internalID: 5052941076946764743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DMK_ElusivePlatform1_13
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 73
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8754c24779050a20800000000000000
+      internalID: 3027836732302448527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DMK_ElusivePlatform1_14
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 76
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de5cf540562ced000800000000000000
+      internalID: 62701183950636525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DMK_ElusivePlatform1_15
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 71
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 689850b42f38f2570800000000000000
+      internalID: 8444112903006947718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DMK_ElusivePlatform1_16
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 65
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32cda7147cc0763d0800000000000000
+      internalID: -3213585759168963549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DMK_ElusivePlatform1_17
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 66
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c20147e44fdafbb0800000000000000
+      internalID: -4901359757408795960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DMK_ElusivePlatform1_18
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 65
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8f4a493e155157d0800000000000000
+      internalID: -2931468294142931057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DMK_ElusivePlatform1_19
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 39
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83d15ba7ed468b520800000000000000
+      internalID: 2718033281822301496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DMK_ElusivePlatform1_20
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 44
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c09d30884a8e4cc0800000000000000
+      internalID: -3724887797795024699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DMK_ElusivePlatform1_21
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 41
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce0b595c70dbbb390800000000000000
+      internalID: -7801434088411909908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DMK_ElusivePlatform1_22
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 44
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f18b04e99a4d78f0800000000000000
+      internalID: -541194355398180367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DMK_ElusivePlatform1_23
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 39
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1365804c29667540800000000000000
+      internalID: 5005303674650845979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DMK_ElusivePlatform1_24
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 41
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4af6e0607dabd98d0800000000000000
+      internalID: -2837906757491200092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DMK_ElusivePlatform1_25
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 41
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22c7df6a17b114600800000000000000
+      internalID: 450671612660644898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DMK_ElusivePlatform1_26
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 41
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 372699f46fd6afb70800000000000000
+      internalID: 8933573715507634803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DMK_ElusivePlatform1_27
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 45
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ace314028e985a120800000000000000
+      internalID: 2424495604475444938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DMK_ElusivePlatform1_28
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 45
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 046547e6b6484c280800000000000000
+      internalID: -9023942156394146240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DMK_ElusivePlatform1_29
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 45
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00394ccf4619e1360800000000000000
+      internalID: 7142305921979683584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DMK_ElusivePlatform1_30
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 33
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7900358d9886d2300800000000000000
+      internalID: 228954097314889879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DMK_ElusivePlatform1_31
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 15
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc54a28d5024ef4d0800000000000000
+      internalID: -3098966900715403829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DMK_ElusivePlatform1_32
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 34
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d296561d4f634fa0800000000000000
+      internalID: -5817683916754611498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DMK_ElusivePlatform1_33
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 33
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e11c20ed58069c760800000000000000
+      internalID: 7478614784297058590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      DMK_ElusivePlatform1_0: 7883223859829585224
+      DMK_ElusivePlatform1_1: -5931845401963621836
+      DMK_ElusivePlatform1_10: 3440280285210783919
+      DMK_ElusivePlatform1_11: -6387472163322737199
+      DMK_ElusivePlatform1_12: 5052941076946764743
+      DMK_ElusivePlatform1_13: 3027836732302448527
+      DMK_ElusivePlatform1_14: 62701183950636525
+      DMK_ElusivePlatform1_15: 8444112903006947718
+      DMK_ElusivePlatform1_16: -3213585759168963549
+      DMK_ElusivePlatform1_17: -4901359757408795960
+      DMK_ElusivePlatform1_18: -2931468294142931057
+      DMK_ElusivePlatform1_19: 2718033281822301496
+      DMK_ElusivePlatform1_2: -2698404393477920214
+      DMK_ElusivePlatform1_20: -3724887797795024699
+      DMK_ElusivePlatform1_21: -7801434088411909908
+      DMK_ElusivePlatform1_22: -541194355398180367
+      DMK_ElusivePlatform1_23: 5005303674650845979
+      DMK_ElusivePlatform1_24: -2837906757491200092
+      DMK_ElusivePlatform1_25: 450671612660644898
+      DMK_ElusivePlatform1_26: 8933573715507634803
+      DMK_ElusivePlatform1_27: 2424495604475444938
+      DMK_ElusivePlatform1_28: -9023942156394146240
+      DMK_ElusivePlatform1_29: 7142305921979683584
+      DMK_ElusivePlatform1_3: -4369743661341637490
+      DMK_ElusivePlatform1_30: 228954097314889879
+      DMK_ElusivePlatform1_31: -3098966900715403829
+      DMK_ElusivePlatform1_32: -5817683916754611498
+      DMK_ElusivePlatform1_33: 7478614784297058590
+      DMK_ElusivePlatform1_4: 7091923326927815938
+      DMK_ElusivePlatform1_5: 6083215315525830392
+      DMK_ElusivePlatform1_6: 5841153443794946406
+      DMK_ElusivePlatform1_7: 1139653015302856379
+      DMK_ElusivePlatform1_8: 8316590889722888636
+      DMK_ElusivePlatform1_9: 7105836811404045517
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

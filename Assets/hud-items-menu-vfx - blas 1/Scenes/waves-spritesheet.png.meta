@@ -1,0 +1,611 @@
+fileFormatVersion: 2
+guid: 6339865a358f198408727d1862a1dd1c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5141732769611320224
+    second: waves-spritesheet_0
+  - first:
+      213: -4867580653718280872
+    second: waves-spritesheet_1
+  - first:
+      213: 30509358951327165
+    second: waves-spritesheet_2
+  - first:
+      213: -1218719504545331364
+    second: waves-spritesheet_3
+  - first:
+      213: 4101264020242953021
+    second: waves-spritesheet_4
+  - first:
+      213: 5278316729154103839
+    second: waves-spritesheet_5
+  - first:
+      213: 3753014414056787115
+    second: waves-spritesheet_6
+  - first:
+      213: 888094027381064321
+    second: waves-spritesheet_7
+  - first:
+      213: 5877940816020696162
+    second: waves-spritesheet_8
+  - first:
+      213: 8258173461368715371
+    second: waves-spritesheet_9
+  - first:
+      213: 3208943853610655236
+    second: waves-spritesheet_10
+  - first:
+      213: -9016002251977773545
+    second: waves-spritesheet_11
+  - first:
+      213: -22005683355658411
+    second: waves-spritesheet_12
+  - first:
+      213: -6840311372349523480
+    second: waves-spritesheet_13
+  - first:
+      213: -4817208039772915195
+    second: waves-spritesheet_14
+  - first:
+      213: -137890774221974129
+    second: waves-spritesheet_15
+  - first:
+      213: 1003769613608788460
+    second: waves-spritesheet_16
+  - first:
+      213: -6411657649461901059
+    second: waves-spritesheet_17
+  - first:
+      213: -7818528211627719414
+    second: waves-spritesheet_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: waves-spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 830
+        width: 642
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 064f451c945e4a8b0800000000000000
+      internalID: -5141732769611320224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waves-spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 761
+        width: 438
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 855ee8b5f21e27cb0800000000000000
+      internalID: -4867580653718280872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waves-spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 720
+        width: 47
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db56e9ea9146c6000800000000000000
+      internalID: 30509358951327165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waves-spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 715
+        width: 48
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c574cb2511d361fe0800000000000000
+      internalID: -1218719504545331364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waves-spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 720
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d33fba0a5ed9ae830800000000000000
+      internalID: 4101264020242953021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waves-spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 721
+        width: 58
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1a6b357919504940800000000000000
+      internalID: 5278316729154103839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waves-spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 721
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bac86caa9b2651430800000000000000
+      internalID: 3753014414056787115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waves-spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 676
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 182c13500d4235c00800000000000000
+      internalID: 888094027381064321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waves-spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 685
+        width: 52
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26ceead8704a29150800000000000000
+      internalID: 5877940816020696162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waves-spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 688
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b68b07a620dea9270800000000000000
+      internalID: 8258173461368715371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waves-spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 691
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40ed2a2ee65788c20800000000000000
+      internalID: 3208943853610655236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waves-spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 693
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71e2ebc78b9b0e280800000000000000
+      internalID: -9016002251977773545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waves-spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 688
+        width: 52
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 557db8492f1d1bff0800000000000000
+      internalID: -22005683355658411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waves-spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 590
+        width: 201
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e9ba026c055211a0800000000000000
+      internalID: -6840311372349523480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waves-spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 590
+        width: 442
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50afd2c7fc6d52db0800000000000000
+      internalID: -4817208039772915195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waves-spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 376
+        width: 976
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8512b8421d161ef0800000000000000
+      internalID: -137890774221974129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waves-spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 6
+        width: 917
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce1ab77352b1eed00800000000000000
+      internalID: 1003769613608788460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waves-spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 41
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df8486696573507a0800000000000000
+      internalID: -6411657649461901059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waves-spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 6
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a054f8f04020f7390800000000000000
+      internalID: -7818528211627719414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      waves-spritesheet_0: -5141732769611320224
+      waves-spritesheet_1: -4867580653718280872
+      waves-spritesheet_10: 3208943853610655236
+      waves-spritesheet_11: -9016002251977773545
+      waves-spritesheet_12: -22005683355658411
+      waves-spritesheet_13: -6840311372349523480
+      waves-spritesheet_14: -4817208039772915195
+      waves-spritesheet_15: -137890774221974129
+      waves-spritesheet_16: 1003769613608788460
+      waves-spritesheet_17: -6411657649461901059
+      waves-spritesheet_18: -7818528211627719414
+      waves-spritesheet_2: 30509358951327165
+      waves-spritesheet_3: -1218719504545331364
+      waves-spritesheet_4: 4101264020242953021
+      waves-spritesheet_5: 5278316729154103839
+      waves-spritesheet_6: 3753014414056787115
+      waves-spritesheet_7: 888094027381064321
+      waves-spritesheet_8: 5877940816020696162
+      waves-spritesheet_9: 8258173461368715371
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

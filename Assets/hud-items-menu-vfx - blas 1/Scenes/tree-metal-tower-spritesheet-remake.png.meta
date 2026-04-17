@@ -1,0 +1,871 @@
+fileFormatVersion: 2
+guid: aba1204cf6881d74f93cee1d88dc5109
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1000421943470708057
+    second: tree-metal-tower-spritesheet-remake_0
+  - first:
+      213: -52751952227718401
+    second: tree-metal-tower-spritesheet-remake_1
+  - first:
+      213: 5145121418196395949
+    second: tree-metal-tower-spritesheet-remake_2
+  - first:
+      213: -1998747701905926900
+    second: tree-metal-tower-spritesheet-remake_3
+  - first:
+      213: -2959008201447981147
+    second: tree-metal-tower-spritesheet-remake_4
+  - first:
+      213: -849173745502702945
+    second: tree-metal-tower-spritesheet-remake_5
+  - first:
+      213: 6791748283427397428
+    second: tree-metal-tower-spritesheet-remake_6
+  - first:
+      213: 4547550078264974164
+    second: tree-metal-tower-spritesheet-remake_7
+  - first:
+      213: -6865705576992342264
+    second: tree-metal-tower-spritesheet-remake_8
+  - first:
+      213: -2049003847671483447
+    second: tree-metal-tower-spritesheet-remake_9
+  - first:
+      213: 6358574508810977020
+    second: tree-metal-tower-spritesheet-remake_10
+  - first:
+      213: -3094936907445988320
+    second: tree-metal-tower-spritesheet-remake_11
+  - first:
+      213: -5367379248640377686
+    second: tree-metal-tower-spritesheet-remake_12
+  - first:
+      213: 5303409323869809019
+    second: tree-metal-tower-spritesheet-remake_13
+  - first:
+      213: -9061626927581913762
+    second: tree-metal-tower-spritesheet-remake_14
+  - first:
+      213: 1807357787848749322
+    second: tree-metal-tower-spritesheet-remake_15
+  - first:
+      213: 3003428682784564623
+    second: tree-metal-tower-spritesheet-remake_16
+  - first:
+      213: -6899438524013096384
+    second: tree-metal-tower-spritesheet-remake_17
+  - first:
+      213: -77952680680919327
+    second: tree-metal-tower-spritesheet-remake_18
+  - first:
+      213: 2162705560566691197
+    second: tree-metal-tower-spritesheet-remake_19
+  - first:
+      213: 3488880476769568128
+    second: tree-metal-tower-spritesheet-remake_20
+  - first:
+      213: -8309198098876044528
+    second: tree-metal-tower-spritesheet-remake_21
+  - first:
+      213: -8034780353070783873
+    second: tree-metal-tower-spritesheet-remake_22
+  - first:
+      213: -5945284882698533762
+    second: tree-metal-tower-spritesheet-remake_23
+  - first:
+      213: 8547553586424747360
+    second: tree-metal-tower-spritesheet-remake_24
+  - first:
+      213: 1623114624410066871
+    second: tree-metal-tower-spritesheet-remake_25
+  - first:
+      213: 2688247186167459428
+    second: tree-metal-tower-spritesheet-remake_26
+  - first:
+      213: 2241117141697227884
+    second: tree-metal-tower-spritesheet-remake_27
+  - first:
+      213: 2965071040782427076
+    second: tree-metal-tower-spritesheet-remake_28
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tree-metal-tower-spritesheet-remake_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 964
+        width: 35
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 955d316057632ed00800000000000000
+      internalID: 1000421943470708057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree-metal-tower-spritesheet-remake_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 964
+        width: 66
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffa22420166944ff0800000000000000
+      internalID: -52751952227718401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree-metal-tower-spritesheet-remake_2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 964
+        width: 66
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da7a9d97ba4276740800000000000000
+      internalID: 5145121418196395949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree-metal-tower-spritesheet-remake_3
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 964
+        width: 66
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c05d4401e850344e0800000000000000
+      internalID: -1998747701905926900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree-metal-tower-spritesheet-remake_4
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 964
+        width: 39
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5afb931e7bd7fe6d0800000000000000
+      internalID: -2959008201447981147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree-metal-tower-spritesheet-remake_5
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 965
+        width: 156
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9239b24af02734f0800000000000000
+      internalID: -849173745502702945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree-metal-tower-spritesheet-remake_6
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 964
+        width: 110
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43f1f8d5413214e50800000000000000
+      internalID: 6791748283427397428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree-metal-tower-spritesheet-remake_7
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 872
+        width: 224
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45b9845c3b42c1f30800000000000000
+      internalID: 4547550078264974164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree-metal-tower-spritesheet-remake_8
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 600
+        width: 212
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80ff3fe572d18b0a0800000000000000
+      internalID: -6865705576992342264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree-metal-tower-spritesheet-remake_9
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 504
+        width: 66
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c3f12c4bd97093e0800000000000000
+      internalID: -2049003847671483447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree-metal-tower-spritesheet-remake_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 809
+        width: 224
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfe388b93d13e3850800000000000000
+      internalID: 6358574508810977020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree-metal-tower-spritesheet-remake_11
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 931
+        width: 113
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0249f65c7439c05d0800000000000000
+      internalID: -3094936907445988320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree-metal-tower-spritesheet-remake_12
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 700
+        width: 65
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aacbcfdc20d3385b0800000000000000
+      internalID: -5367379248640377686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree-metal-tower-spritesheet-remake_13
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 745
+        width: 21
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7921cf6eae799940800000000000000
+      internalID: 5303409323869809019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree-metal-tower-spritesheet-remake_14
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 871
+        width: 29
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5d9d56e152ae3280800000000000000
+      internalID: -9061626927581913762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree-metal-tower-spritesheet-remake_15
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 866
+        width: 22
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a01b2ce0556051910800000000000000
+      internalID: 1807357787848749322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree-metal-tower-spritesheet-remake_16
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 778
+        width: 103
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f85e79169725ea920800000000000000
+      internalID: 3003428682784564623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree-metal-tower-spritesheet-remake_17
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 695
+        width: 83
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 042dd8a97354040a0800000000000000
+      internalID: -6899438524013096384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree-metal-tower-spritesheet-remake_18
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 814
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ee69be237e0beef0800000000000000
+      internalID: -77952680680919327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree-metal-tower-spritesheet-remake_19
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 738
+        width: 203
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d75f653bf39730e10800000000000000
+      internalID: 2162705560566691197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree-metal-tower-spritesheet-remake_20
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 786
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08545a90f4efa6030800000000000000
+      internalID: 3488880476769568128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree-metal-tower-spritesheet-remake_21
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 750
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01b64246a5ccfac80800000000000000
+      internalID: -8309198098876044528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree-metal-tower-spritesheet-remake_22
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 719
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f72ade6c6d9be7090800000000000000
+      internalID: -8034780353070783873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree-metal-tower-spritesheet-remake_23
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 674
+        width: 115
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e74014e06ea1e7da0800000000000000
+      internalID: -5945284882698533762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree-metal-tower-spritesheet-remake_24
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 627
+        width: 32
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 065967133b20f9670800000000000000
+      internalID: 8547553586424747360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree-metal-tower-spritesheet-remake_25
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 654
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bf14b9b626768610800000000000000
+      internalID: 1623114624410066871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree-metal-tower-spritesheet-remake_26
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 679
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46e64f7a2929e4520800000000000000
+      internalID: 2688247186167459428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree-metal-tower-spritesheet-remake_27
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 341
+        width: 642
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6ce6ea9a2c0a1f10800000000000000
+      internalID: 2241117141697227884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree-metal-tower-spritesheet-remake_28
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 7
+        width: 90
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c362a7e66c062920800000000000000
+      internalID: 2965071040782427076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      tree-metal-tower-spritesheet-remake_0: 1000421943470708057
+      tree-metal-tower-spritesheet-remake_1: -52751952227718401
+      tree-metal-tower-spritesheet-remake_10: 6358574508810977020
+      tree-metal-tower-spritesheet-remake_11: -3094936907445988320
+      tree-metal-tower-spritesheet-remake_12: -5367379248640377686
+      tree-metal-tower-spritesheet-remake_13: 5303409323869809019
+      tree-metal-tower-spritesheet-remake_14: -9061626927581913762
+      tree-metal-tower-spritesheet-remake_15: 1807357787848749322
+      tree-metal-tower-spritesheet-remake_16: 3003428682784564623
+      tree-metal-tower-spritesheet-remake_17: -6899438524013096384
+      tree-metal-tower-spritesheet-remake_18: -77952680680919327
+      tree-metal-tower-spritesheet-remake_19: 2162705560566691197
+      tree-metal-tower-spritesheet-remake_2: 5145121418196395949
+      tree-metal-tower-spritesheet-remake_20: 3488880476769568128
+      tree-metal-tower-spritesheet-remake_21: -8309198098876044528
+      tree-metal-tower-spritesheet-remake_22: -8034780353070783873
+      tree-metal-tower-spritesheet-remake_23: -5945284882698533762
+      tree-metal-tower-spritesheet-remake_24: 8547553586424747360
+      tree-metal-tower-spritesheet-remake_25: 1623114624410066871
+      tree-metal-tower-spritesheet-remake_26: 2688247186167459428
+      tree-metal-tower-spritesheet-remake_27: 2241117141697227884
+      tree-metal-tower-spritesheet-remake_28: 2965071040782427076
+      tree-metal-tower-spritesheet-remake_3: -1998747701905926900
+      tree-metal-tower-spritesheet-remake_4: -2959008201447981147
+      tree-metal-tower-spritesheet-remake_5: -849173745502702945
+      tree-metal-tower-spritesheet-remake_6: 6791748283427397428
+      tree-metal-tower-spritesheet-remake_7: 4547550078264974164
+      tree-metal-tower-spritesheet-remake_8: -6865705576992342264
+      tree-metal-tower-spritesheet-remake_9: -2049003847671483447
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

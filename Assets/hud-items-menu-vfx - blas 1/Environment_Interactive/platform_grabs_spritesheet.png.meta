@@ -1,0 +1,2249 @@
+fileFormatVersion: 2
+guid: efcf583839da36646a292ac99f33d9f9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6753277447447540375
+    second: platform_grabs_spritesheet_0
+  - first:
+      213: -7072286753406583985
+    second: platform_grabs_spritesheet_1
+  - first:
+      213: -4978844637644316686
+    second: platform_grabs_spritesheet_2
+  - first:
+      213: 3622107091305243688
+    second: platform_grabs_spritesheet_3
+  - first:
+      213: 6821730211506763735
+    second: platform_grabs_spritesheet_4
+  - first:
+      213: 4512245242820142055
+    second: platform_grabs_spritesheet_5
+  - first:
+      213: -2761086296922420103
+    second: platform_grabs_spritesheet_6
+  - first:
+      213: -6243568366152399978
+    second: platform_grabs_spritesheet_7
+  - first:
+      213: -3016640608048952890
+    second: platform_grabs_spritesheet_8
+  - first:
+      213: 6354116227239753728
+    second: platform_grabs_spritesheet_9
+  - first:
+      213: 6909612359451817467
+    second: platform_grabs_spritesheet_10
+  - first:
+      213: 1548922729242314750
+    second: platform_grabs_spritesheet_11
+  - first:
+      213: 1407308432804033927
+    second: platform_grabs_spritesheet_12
+  - first:
+      213: 2434171634629972950
+    second: platform_grabs_spritesheet_13
+  - first:
+      213: 8044702935715401325
+    second: platform_grabs_spritesheet_14
+  - first:
+      213: 7716982199416325440
+    second: platform_grabs_spritesheet_15
+  - first:
+      213: -4068250530722222580
+    second: platform_grabs_spritesheet_16
+  - first:
+      213: 1186705449652544302
+    second: platform_grabs_spritesheet_17
+  - first:
+      213: -267948893756818351
+    second: platform_grabs_spritesheet_18
+  - first:
+      213: -6401965091071049938
+    second: platform_grabs_spritesheet_19
+  - first:
+      213: -5603262988618143851
+    second: platform_grabs_spritesheet_20
+  - first:
+      213: 3029664434242414472
+    second: platform_grabs_spritesheet_21
+  - first:
+      213: -3766846774155300825
+    second: platform_grabs_spritesheet_22
+  - first:
+      213: -679597960694969069
+    second: platform_grabs_spritesheet_23
+  - first:
+      213: -7321163658229255916
+    second: platform_grabs_spritesheet_24
+  - first:
+      213: -5171649250316850802
+    second: platform_grabs_spritesheet_25
+  - first:
+      213: -6726418447184532288
+    second: platform_grabs_spritesheet_26
+  - first:
+      213: -4205767573117687390
+    second: platform_grabs_spritesheet_27
+  - first:
+      213: -5007693708938735345
+    second: platform_grabs_spritesheet_28
+  - first:
+      213: 6810929130363361616
+    second: platform_grabs_spritesheet_29
+  - first:
+      213: -3266917462038208741
+    second: platform_grabs_spritesheet_30
+  - first:
+      213: -7288478653690561519
+    second: platform_grabs_spritesheet_31
+  - first:
+      213: 566100640086295296
+    second: platform_grabs_spritesheet_32
+  - first:
+      213: -2252392628835491905
+    second: platform_grabs_spritesheet_33
+  - first:
+      213: -6365966146186498944
+    second: platform_grabs_spritesheet_34
+  - first:
+      213: 6226401184854380985
+    second: platform_grabs_spritesheet_35
+  - first:
+      213: -5678338849537537186
+    second: platform_grabs_spritesheet_36
+  - first:
+      213: -1210209173408391080
+    second: platform_grabs_spritesheet_37
+  - first:
+      213: 352094255979243553
+    second: platform_grabs_spritesheet_38
+  - first:
+      213: -8094325116181470494
+    second: platform_grabs_spritesheet_39
+  - first:
+      213: -5709602542110460813
+    second: platform_grabs_spritesheet_40
+  - first:
+      213: -7830586799160773948
+    second: platform_grabs_spritesheet_41
+  - first:
+      213: 339117174451572121
+    second: platform_grabs_spritesheet_42
+  - first:
+      213: -2082039776107992205
+    second: platform_grabs_spritesheet_43
+  - first:
+      213: 2780996581161776024
+    second: platform_grabs_spritesheet_44
+  - first:
+      213: -2869520324039674896
+    second: platform_grabs_spritesheet_45
+  - first:
+      213: -3298101743806950369
+    second: platform_grabs_spritesheet_46
+  - first:
+      213: 7154036762445625790
+    second: platform_grabs_spritesheet_47
+  - first:
+      213: 725686091069296374
+    second: platform_grabs_spritesheet_48
+  - first:
+      213: -3156261929841174134
+    second: platform_grabs_spritesheet_49
+  - first:
+      213: 3721358342693249232
+    second: platform_grabs_spritesheet_50
+  - first:
+      213: -2198192561051699380
+    second: platform_grabs_spritesheet_51
+  - first:
+      213: -4814729105890070287
+    second: platform_grabs_spritesheet_52
+  - first:
+      213: 7456529698950566918
+    second: platform_grabs_spritesheet_53
+  - first:
+      213: 7978088691063211072
+    second: platform_grabs_spritesheet_54
+  - first:
+      213: -3282927064112460948
+    second: platform_grabs_spritesheet_55
+  - first:
+      213: 33905686937325265
+    second: platform_grabs_spritesheet_56
+  - first:
+      213: 3583084057607582711
+    second: platform_grabs_spritesheet_57
+  - first:
+      213: -4907508748316220357
+    second: platform_grabs_spritesheet_58
+  - first:
+      213: 6240858797398088660
+    second: platform_grabs_spritesheet_59
+  - first:
+      213: 765407442142581495
+    second: platform_grabs_spritesheet_60
+  - first:
+      213: -2377632541317466051
+    second: platform_grabs_spritesheet_61
+  - first:
+      213: -6332637934784898130
+    second: platform_grabs_spritesheet_62
+  - first:
+      213: -8385979090823550366
+    second: platform_grabs_spritesheet_63
+  - first:
+      213: 7284158114218930623
+    second: platform_grabs_spritesheet_64
+  - first:
+      213: -7833108300671893986
+    second: platform_grabs_spritesheet_65
+  - first:
+      213: 4810988899081144793
+    second: platform_grabs_spritesheet_66
+  - first:
+      213: 1430973569823842651
+    second: platform_grabs_spritesheet_67
+  - first:
+      213: 446138251594644851
+    second: platform_grabs_spritesheet_68
+  - first:
+      213: -7662769745265984546
+    second: platform_grabs_spritesheet_69
+  - first:
+      213: 7473381160101183252
+    second: platform_grabs_spritesheet_70
+  - first:
+      213: 3269767468737775831
+    second: platform_grabs_spritesheet_71
+  - first:
+      213: 2904911470395361300
+    second: platform_grabs_spritesheet_72
+  - first:
+      213: -3220763599138238467
+    second: platform_grabs_spritesheet_73
+  - first:
+      213: 18469937228728015
+    second: platform_grabs_spritesheet_74
+  - first:
+      213: -220679183291690657
+    second: platform_grabs_spritesheet_75
+  - first:
+      213: 6198845944550270186
+    second: platform_grabs_spritesheet_76
+  - first:
+      213: -4876672090617597222
+    second: platform_grabs_spritesheet_77
+  - first:
+      213: -2881960622365276475
+    second: platform_grabs_spritesheet_78
+  - first:
+      213: 93665641131404063
+    second: platform_grabs_spritesheet_79
+  - first:
+      213: 7415400527958629122
+    second: platform_grabs_spritesheet_80
+  - first:
+      213: 8080312963801651451
+    second: platform_grabs_spritesheet_81
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: platform_grabs_spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 230
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96d8b3321f98742a0800000000000000
+      internalID: -6753277447447540375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform_grabs_spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 202
+        width: 26
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4bff791ba03add90800000000000000
+      internalID: -7072286753406583985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform_grabs_spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 232
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ff1a5d5e2797eab0800000000000000
+      internalID: -4978844637644316686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform_grabs_spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 239
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8242ca3753f444230800000000000000
+      internalID: 3622107091305243688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform_grabs_spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 244
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d7396afb77abae50800000000000000
+      internalID: 6821730211506763735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform_grabs_spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 242
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e3adb53427be9e30800000000000000
+      internalID: 4512245242820142055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform_grabs_spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 239
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97c8dbd44a6aea9d0800000000000000
+      internalID: -2761086296922420103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform_grabs_spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 240
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 693ce9c96a36a59a0800000000000000
+      internalID: -6243568366152399978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform_grabs_spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 237
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c9493e895db226d0800000000000000
+      internalID: -3016640608048952890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform_grabs_spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 234
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 008bb2a0b0b5e2850800000000000000
+      internalID: 6354116227239753728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform_grabs_spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 235
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf536cc05dfd3ef50800000000000000
+      internalID: 6909612359451817467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform_grabs_spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 212
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef744050401ee7510800000000000000
+      internalID: 1548922729242314750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform_grabs_spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 229
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78532ba3093c78310800000000000000
+      internalID: 1407308432804033927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform_grabs_spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 220
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d39374743ae7c120800000000000000
+      internalID: 2434171634629972950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform_grabs_spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 209
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6ecbd682b684af60800000000000000
+      internalID: 8044702935715401325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform_grabs_spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 225
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 045093e8c6a381b60800000000000000
+      internalID: 7716982199416325440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform_grabs_spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 232
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0ee10362bbaa87c0800000000000000
+      internalID: -4068250530722222580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform_grabs_spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 220
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e236f8ba156087010800000000000000
+      internalID: 1186705449652544302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform_grabs_spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 223
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15c7aa996ed084cf0800000000000000
+      internalID: -267948893756818351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform_grabs_spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 219
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2f32423ba6a727a0800000000000000
+      internalID: -6401965091071049938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform_grabs_spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 219
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 597625ccff53d32b0800000000000000
+      internalID: -5603262988618143851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform_grabs_spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 218
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88767a740c78b0a20800000000000000
+      internalID: 3029664434242414472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform_grabs_spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 205
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 720b52701d879bbc0800000000000000
+      internalID: -3766846774155300825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform_grabs_spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 225
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31d42b261459196f0800000000000000
+      internalID: -679597960694969069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform_grabs_spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 223
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 411feb82170066a90800000000000000
+      internalID: -7321163658229255916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform_grabs_spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 197
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e89e2fb486c9a38b0800000000000000
+      internalID: -5171649250316850802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform_grabs_spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 190
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cc6ee47f06f6a2a0800000000000000
+      internalID: -6726418447184532288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform_grabs_spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 197
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a9a674ecac12a5c0800000000000000
+      internalID: -4205767573117687390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform_grabs_spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 200
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f019fb68a19118ab0800000000000000
+      internalID: -5007693708938735345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform_grabs_spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 217
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0591bad45f7458e50800000000000000
+      internalID: 6810929130363361616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform_grabs_spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 188
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1f11bc80e399a2d0800000000000000
+      internalID: -3266917462038208741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform_grabs_spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 175
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11cb1cdc74f1ada90800000000000000
+      internalID: -7288478653690561519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform_grabs_spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 175
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 003077768813bd700800000000000000
+      internalID: 566100640086295296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform_grabs_spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 178
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbf5d8776d4edb0e0800000000000000
+      internalID: -2252392628835491905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform_grabs_spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 186
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08c2464b48b87a7a0800000000000000
+      internalID: -6365966146186498944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform_grabs_spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 200
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b1115483ee986650800000000000000
+      internalID: 6226401184854380985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform_grabs_spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 189
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5bc307c6ec7231b0800000000000000
+      internalID: -5678338849537537186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform_grabs_spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 168
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 850e2133b29743fe0800000000000000
+      internalID: -1210209173408391080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform_grabs_spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 172
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 128291f3cd3e2e400800000000000000
+      internalID: 352094255979243553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform_grabs_spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 173
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e22b71413e2baf80800000000000000
+      internalID: -8094325116181470494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform_grabs_spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 181
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 374b6dc1dba63c0b0800000000000000
+      internalID: -5709602542110460813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform_grabs_spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 182
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c2b82d5bca245390800000000000000
+      internalID: -7830586799160773948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform_grabs_spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 182
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99d8b600649c4b400800000000000000
+      internalID: 339117174451572121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform_grabs_spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 171
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37b69d0dadb1b13e0800000000000000
+      internalID: -2082039776107992205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform_grabs_spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 167
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89339bdf7a5189620800000000000000
+      internalID: 2780996581161776024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform_grabs_spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 179
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f3f9d9f77a6d28d0800000000000000
+      internalID: -2869520324039674896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform_grabs_spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 146
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f145a4720f9ca32d0800000000000000
+      internalID: -3298101743806950369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform_grabs_spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 146
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb938af188e384360800000000000000
+      internalID: 7154036762445625790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform_grabs_spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 164
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fe80aca7a7221a00800000000000000
+      internalID: 725686091069296374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform_grabs_spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 169
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a895ab55f74b234d0800000000000000
+      internalID: -3156261929841174134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform_grabs_spritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 153
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d0ea2232bbe4a330800000000000000
+      internalID: 3721358342693249232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform_grabs_spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 153
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c477b9223837e71e0800000000000000
+      internalID: -2198192561051699380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform_grabs_spritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 153
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f030b14365ae2db0800000000000000
+      internalID: -4814729105890070287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform_grabs_spritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 165
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 604591b314aea7760800000000000000
+      internalID: 7456529698950566918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform_grabs_spritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 155
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0444261156dd7be60800000000000000
+      internalID: 7978088691063211072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform_grabs_spritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 148
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6b8f089a33b072d0800000000000000
+      internalID: -3282927064112460948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform_grabs_spritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 150
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dec3c9ea05787000800000000000000
+      internalID: 33905686937325265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform_grabs_spritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 154
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f3b01667fba9b130800000000000000
+      internalID: 3583084057607582711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform_grabs_spritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 158
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b346d746bc605ebb0800000000000000
+      internalID: -4907508748316220357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform_grabs_spritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 152
+        width: 20
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dbd840c20cfb9650800000000000000
+      internalID: 6240858797398088660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform_grabs_spritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 134
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f2595963064f9a00800000000000000
+      internalID: 765407442142581495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform_grabs_spritesheet_61
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 128
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d38fc580dc3f00fd0800000000000000
+      internalID: -2377632541317466051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform_grabs_spritesheet_62
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 135
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eab9bfd9953fd18a0800000000000000
+      internalID: -6332637934784898130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform_grabs_spritesheet_63
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 141
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26aeb9d92740f9b80800000000000000
+      internalID: -8385979090823550366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform_grabs_spritesheet_64
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 129
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb17cc53637861560800000000000000
+      internalID: 7284158114218930623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform_grabs_spritesheet_65
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 140
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1eb94b80853b4390800000000000000
+      internalID: -7833108300671893986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform_grabs_spritesheet_66
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 138
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d9441cf9e014c240800000000000000
+      internalID: 4810988899081144793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform_grabs_spritesheet_67
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 134
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b51a25051e6dbd310800000000000000
+      internalID: 1430973569823842651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform_grabs_spritesheet_68
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 142
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37d33074060013600800000000000000
+      internalID: 446138251594644851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform_grabs_spritesheet_69
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 131
+        width: 29
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edb7fc9048f58a590800000000000000
+      internalID: -7662769745265984546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform_grabs_spritesheet_70
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 132
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41f7de6c198c6b760800000000000000
+      internalID: 7473381160101183252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform_grabs_spritesheet_71
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 120
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d84e38503c806d20800000000000000
+      internalID: 3269767468737775831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform_grabs_spritesheet_72
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 121
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4188fd86791505820800000000000000
+      internalID: 2904911470395361300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform_grabs_spritesheet_73
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 125
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dff4bd7229c8d43d0800000000000000
+      internalID: -3220763599138238467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform_grabs_spritesheet_74
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 126
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc6ca8f5f4e914000800000000000000
+      internalID: 18469937228728015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform_grabs_spritesheet_75
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 125
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f515396b37dffecf0800000000000000
+      internalID: -220679183291690657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform_grabs_spritesheet_76
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 131
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae42a4e2b89b60650800000000000000
+      internalID: 6198845944550270186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform_grabs_spritesheet_77
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 125
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad23da04294925cb0800000000000000
+      internalID: -4876672090617597222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform_grabs_spritesheet_78
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 131
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c6014f45183108d0800000000000000
+      internalID: -2881960622365276475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform_grabs_spritesheet_79
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 120
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1beb438764cc4100800000000000000
+      internalID: 93665641131404063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform_grabs_spritesheet_80
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 132
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20bd730ed7bc8e660800000000000000
+      internalID: 7415400527958629122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform_grabs_spritesheet_81
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 130
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf8916944d9032070800000000000000
+      internalID: 8080312963801651451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      platform_grabs_spritesheet_0: -6753277447447540375
+      platform_grabs_spritesheet_1: -7072286753406583985
+      platform_grabs_spritesheet_10: 6909612359451817467
+      platform_grabs_spritesheet_11: 1548922729242314750
+      platform_grabs_spritesheet_12: 1407308432804033927
+      platform_grabs_spritesheet_13: 2434171634629972950
+      platform_grabs_spritesheet_14: 8044702935715401325
+      platform_grabs_spritesheet_15: 7716982199416325440
+      platform_grabs_spritesheet_16: -4068250530722222580
+      platform_grabs_spritesheet_17: 1186705449652544302
+      platform_grabs_spritesheet_18: -267948893756818351
+      platform_grabs_spritesheet_19: -6401965091071049938
+      platform_grabs_spritesheet_2: -4978844637644316686
+      platform_grabs_spritesheet_20: -5603262988618143851
+      platform_grabs_spritesheet_21: 3029664434242414472
+      platform_grabs_spritesheet_22: -3766846774155300825
+      platform_grabs_spritesheet_23: -679597960694969069
+      platform_grabs_spritesheet_24: -7321163658229255916
+      platform_grabs_spritesheet_25: -5171649250316850802
+      platform_grabs_spritesheet_26: -6726418447184532288
+      platform_grabs_spritesheet_27: -4205767573117687390
+      platform_grabs_spritesheet_28: -5007693708938735345
+      platform_grabs_spritesheet_29: 6810929130363361616
+      platform_grabs_spritesheet_3: 3622107091305243688
+      platform_grabs_spritesheet_30: -3266917462038208741
+      platform_grabs_spritesheet_31: -7288478653690561519
+      platform_grabs_spritesheet_32: 566100640086295296
+      platform_grabs_spritesheet_33: -2252392628835491905
+      platform_grabs_spritesheet_34: -6365966146186498944
+      platform_grabs_spritesheet_35: 6226401184854380985
+      platform_grabs_spritesheet_36: -5678338849537537186
+      platform_grabs_spritesheet_37: -1210209173408391080
+      platform_grabs_spritesheet_38: 352094255979243553
+      platform_grabs_spritesheet_39: -8094325116181470494
+      platform_grabs_spritesheet_4: 6821730211506763735
+      platform_grabs_spritesheet_40: -5709602542110460813
+      platform_grabs_spritesheet_41: -7830586799160773948
+      platform_grabs_spritesheet_42: 339117174451572121
+      platform_grabs_spritesheet_43: -2082039776107992205
+      platform_grabs_spritesheet_44: 2780996581161776024
+      platform_grabs_spritesheet_45: -2869520324039674896
+      platform_grabs_spritesheet_46: -3298101743806950369
+      platform_grabs_spritesheet_47: 7154036762445625790
+      platform_grabs_spritesheet_48: 725686091069296374
+      platform_grabs_spritesheet_49: -3156261929841174134
+      platform_grabs_spritesheet_5: 4512245242820142055
+      platform_grabs_spritesheet_50: 3721358342693249232
+      platform_grabs_spritesheet_51: -2198192561051699380
+      platform_grabs_spritesheet_52: -4814729105890070287
+      platform_grabs_spritesheet_53: 7456529698950566918
+      platform_grabs_spritesheet_54: 7978088691063211072
+      platform_grabs_spritesheet_55: -3282927064112460948
+      platform_grabs_spritesheet_56: 33905686937325265
+      platform_grabs_spritesheet_57: 3583084057607582711
+      platform_grabs_spritesheet_58: -4907508748316220357
+      platform_grabs_spritesheet_59: 6240858797398088660
+      platform_grabs_spritesheet_6: -2761086296922420103
+      platform_grabs_spritesheet_60: 765407442142581495
+      platform_grabs_spritesheet_61: -2377632541317466051
+      platform_grabs_spritesheet_62: -6332637934784898130
+      platform_grabs_spritesheet_63: -8385979090823550366
+      platform_grabs_spritesheet_64: 7284158114218930623
+      platform_grabs_spritesheet_65: -7833108300671893986
+      platform_grabs_spritesheet_66: 4810988899081144793
+      platform_grabs_spritesheet_67: 1430973569823842651
+      platform_grabs_spritesheet_68: 446138251594644851
+      platform_grabs_spritesheet_69: -7662769745265984546
+      platform_grabs_spritesheet_7: -6243568366152399978
+      platform_grabs_spritesheet_70: 7473381160101183252
+      platform_grabs_spritesheet_71: 3269767468737775831
+      platform_grabs_spritesheet_72: 2904911470395361300
+      platform_grabs_spritesheet_73: -3220763599138238467
+      platform_grabs_spritesheet_74: 18469937228728015
+      platform_grabs_spritesheet_75: -220679183291690657
+      platform_grabs_spritesheet_76: 6198845944550270186
+      platform_grabs_spritesheet_77: -4876672090617597222
+      platform_grabs_spritesheet_78: -2881960622365276475
+      platform_grabs_spritesheet_79: 93665641131404063
+      platform_grabs_spritesheet_8: -3016640608048952890
+      platform_grabs_spritesheet_80: 7415400527958629122
+      platform_grabs_spritesheet_81: 8080312963801651451
+      platform_grabs_spritesheet_9: 6354116227239753728
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

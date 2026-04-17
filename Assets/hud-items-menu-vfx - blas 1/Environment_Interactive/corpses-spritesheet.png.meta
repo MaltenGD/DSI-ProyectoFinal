@@ -1,0 +1,429 @@
+fileFormatVersion: 2
+guid: 59ed72ea046694347b1e8179e9e76bc7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1683725254596964868
+    second: corpses-spritesheet_0
+  - first:
+      213: 1774767300070092607
+    second: corpses-spritesheet_1
+  - first:
+      213: 8023081717661624938
+    second: corpses-spritesheet_2
+  - first:
+      213: -1985830956994204943
+    second: corpses-spritesheet_3
+  - first:
+      213: 8140291705674154327
+    second: corpses-spritesheet_4
+  - first:
+      213: 522243687150185329
+    second: corpses-spritesheet_5
+  - first:
+      213: -7787975821956568724
+    second: corpses-spritesheet_6
+  - first:
+      213: 5241529098895708075
+    second: corpses-spritesheet_7
+  - first:
+      213: -6002333795391107954
+    second: corpses-spritesheet_8
+  - first:
+      213: 7073607858555442348
+    second: corpses-spritesheet_9
+  - first:
+      213: -9006180707509938868
+    second: corpses-spritesheet_10
+  - first:
+      213: -6660967968974092790
+    second: corpses-spritesheet_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: corpses-spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 226
+        width: 40
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4023b93c23bcd5710800000000000000
+      internalID: 1683725254596964868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corpses-spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 223
+        width: 58
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3f28afc47d31a810800000000000000
+      internalID: 1774767300070092607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corpses-spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 226
+        width: 59
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6ae6296056b75f60800000000000000
+      internalID: 8023081717661624938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corpses-spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 206
+        width: 62
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fae2681449e074e0800000000000000
+      internalID: -1985830956994204943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corpses-spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 205
+        width: 61
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75144cc5d2028f070800000000000000
+      internalID: 8140291705674154327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corpses-spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 202
+        width: 62
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17be6c2ddd16f3700800000000000000
+      internalID: 522243687150185329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corpses-spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 176
+        width: 40
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c69a2fc904d8be390800000000000000
+      internalID: -7787975821956568724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corpses-spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 173
+        width: 58
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baf4d83d1f6adb840800000000000000
+      internalID: 5241529098895708075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corpses-spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 176
+        width: 59
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8c046ef63d63bca0800000000000000
+      internalID: -6002333795391107954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corpses-spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 156
+        width: 62
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca4db99aed08a2260800000000000000
+      internalID: 7073607858555442348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corpses-spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 155
+        width: 61
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c45d4e10d5e930380800000000000000
+      internalID: -9006180707509938868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corpses-spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 152
+        width: 62
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a064b0d6cec7f83a0800000000000000
+      internalID: -6660967968974092790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      corpses-spritesheet_0: 1683725254596964868
+      corpses-spritesheet_1: 1774767300070092607
+      corpses-spritesheet_10: -9006180707509938868
+      corpses-spritesheet_11: -6660967968974092790
+      corpses-spritesheet_2: 8023081717661624938
+      corpses-spritesheet_3: -1985830956994204943
+      corpses-spritesheet_4: 8140291705674154327
+      corpses-spritesheet_5: 522243687150185329
+      corpses-spritesheet_6: -7787975821956568724
+      corpses-spritesheet_7: 5241529098895708075
+      corpses-spritesheet_8: -6002333795391107954
+      corpses-spritesheet_9: 7073607858555442348
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,715 @@
+fileFormatVersion: 2
+guid: 9bfed67f59500174d95969125c98f5d4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6080901776011902818
+    second: archdeacon_idle 1_0
+  - first:
+      213: 2424932031717613174
+    second: archdeacon_idle 1_1
+  - first:
+      213: 2852127231696645841
+    second: archdeacon_idle 1_2
+  - first:
+      213: 273076253202566009
+    second: archdeacon_idle 1_3
+  - first:
+      213: 5133305465453384719
+    second: archdeacon_idle 1_4
+  - first:
+      213: 1310445293474185757
+    second: archdeacon_idle 1_5
+  - first:
+      213: -7003447376277560789
+    second: archdeacon_idle 1_6
+  - first:
+      213: -4052276312666352220
+    second: archdeacon_idle 1_7
+  - first:
+      213: 2626961085886653123
+    second: archdeacon_idle 1_8
+  - first:
+      213: -7196749060107985600
+    second: archdeacon_idle 1_9
+  - first:
+      213: -3916409777901647064
+    second: archdeacon_idle 1_10
+  - first:
+      213: 1691584118599888149
+    second: archdeacon_idle 1_11
+  - first:
+      213: -2893092308239326684
+    second: archdeacon_idle 1_12
+  - first:
+      213: -4207360467438867741
+    second: archdeacon_idle 1_13
+  - first:
+      213: -2027355103581040331
+    second: archdeacon_idle 1_14
+  - first:
+      213: 151021046249260990
+    second: archdeacon_idle 1_15
+  - first:
+      213: 2772367689063338979
+    second: archdeacon_idle 1_16
+  - first:
+      213: -8408131989948939369
+    second: archdeacon_idle 1_17
+  - first:
+      213: -1186859893154449102
+    second: archdeacon_idle 1_18
+  - first:
+      213: -1410635643023828204
+    second: archdeacon_idle 1_19
+  - first:
+      213: -1195093541677574150
+    second: archdeacon_idle 1_20
+  - first:
+      213: 1296407973988220170
+    second: archdeacon_idle 1_21
+  - first:
+      213: 2032017307500749088
+    second: archdeacon_idle 1_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: archdeacon_idle 1_0
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 612
+        width: 85
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e90c4ce7d0c4c9ba0800000000000000
+      internalID: -6080901776011902818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archdeacon_idle 1_1
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 612
+        width: 85
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67e9ef2c5d617a120800000000000000
+      internalID: 2424932031717613174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archdeacon_idle 1_2
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 612
+        width: 86
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1de2f732b9ac49720800000000000000
+      internalID: 2852127231696645841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archdeacon_idle 1_3
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 612
+        width: 86
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97bcbbcc7692ac300800000000000000
+      internalID: 273076253202566009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archdeacon_idle 1_4
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 612
+        width: 87
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f049be79f1a2d3740800000000000000
+      internalID: 5133305465453384719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archdeacon_idle 1_5
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 734
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d128c172d03af2210800000000000000
+      internalID: 1310445293474185757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archdeacon_idle 1_6
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 412
+        width: 87
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b22a5d597b1cece90800000000000000
+      internalID: -7003447376277560789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archdeacon_idle 1_7
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 534
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a5dacbd92c63c7c0800000000000000
+      internalID: -4052276312666352220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archdeacon_idle 1_8
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 412
+        width: 87
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c26c0b7037d47420800000000000000
+      internalID: 2626961085886653123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archdeacon_idle 1_9
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 412
+        width: 87
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04d13ae1cd2002c90800000000000000
+      internalID: -7196749060107985600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archdeacon_idle 1_10
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 412
+        width: 86
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82b4e499e0e16a9c0800000000000000
+      internalID: -3916409777901647064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archdeacon_idle 1_11
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 533
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51da6d02bc6b97710800000000000000
+      internalID: 1691584118599888149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archdeacon_idle 1_12
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 412
+        width: 86
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 422eaf8bfdba9d7d0800000000000000
+      internalID: -2893092308239326684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archdeacon_idle 1_13
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 533
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eae84842f37c95c0800000000000000
+      internalID: -4207360467438867741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archdeacon_idle 1_14
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 212
+        width: 88
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5311a7156436dd3e0800000000000000
+      internalID: -2027355103581040331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archdeacon_idle 1_15
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 212
+        width: 90
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb78b4767d8881200800000000000000
+      internalID: 151021046249260990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archdeacon_idle 1_16
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 212
+        width: 84
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e3146d79bd697620800000000000000
+      internalID: 2772367689063338979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archdeacon_idle 1_17
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 212
+        width: 83
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 793ce7ad080505b80800000000000000
+      internalID: -8408131989948939369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archdeacon_idle 1_18
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 212
+        width: 85
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 239fe56273d678fe0800000000000000
+      internalID: -1186859893154449102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archdeacon_idle 1_19
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 12
+        width: 85
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41b5f064b5a6c6ce0800000000000000
+      internalID: -1410635643023828204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archdeacon_idle 1_20
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 12
+        width: 86
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af7d1f671cc2a6fe0800000000000000
+      internalID: -1195093541677574150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archdeacon_idle 1_21
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 131
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0d3d850f24cdf110800000000000000
+      internalID: 1296407973988220170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archdeacon_idle 1_22
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 12
+        width: 88
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 021270f99fc233c10800000000000000
+      internalID: 2032017307500749088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      archdeacon_idle 1_0: -6080901776011902818
+      archdeacon_idle 1_1: 2424932031717613174
+      archdeacon_idle 1_10: -3916409777901647064
+      archdeacon_idle 1_11: 1691584118599888149
+      archdeacon_idle 1_12: -2893092308239326684
+      archdeacon_idle 1_13: -4207360467438867741
+      archdeacon_idle 1_14: -2027355103581040331
+      archdeacon_idle 1_15: 151021046249260990
+      archdeacon_idle 1_16: 2772367689063338979
+      archdeacon_idle 1_17: -8408131989948939369
+      archdeacon_idle 1_18: -1186859893154449102
+      archdeacon_idle 1_19: -1410635643023828204
+      archdeacon_idle 1_2: 2852127231696645841
+      archdeacon_idle 1_20: -1195093541677574150
+      archdeacon_idle 1_21: 1296407973988220170
+      archdeacon_idle 1_22: 2032017307500749088
+      archdeacon_idle 1_3: 273076253202566009
+      archdeacon_idle 1_4: 5133305465453384719
+      archdeacon_idle 1_5: 1310445293474185757
+      archdeacon_idle 1_6: -7003447376277560789
+      archdeacon_idle 1_7: -4052276312666352220
+      archdeacon_idle 1_8: 2626961085886653123
+      archdeacon_idle 1_9: -7196749060107985600
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

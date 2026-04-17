@@ -1,0 +1,481 @@
+fileFormatVersion: 2
+guid: f9510e4fbefba8a49be58927be366441
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 666261029266482178
+    second: baptismalFont_emptying 1_0
+  - first:
+      213: -2882262087385562381
+    second: baptismalFont_emptying 1_1
+  - first:
+      213: 1957948638416923169
+    second: baptismalFont_emptying 1_2
+  - first:
+      213: 4681478471976326940
+    second: baptismalFont_emptying 1_3
+  - first:
+      213: -5778225673045598448
+    second: baptismalFont_emptying 1_4
+  - first:
+      213: -9004217072736276085
+    second: baptismalFont_emptying 1_5
+  - first:
+      213: -7503895925096358558
+    second: baptismalFont_emptying 1_6
+  - first:
+      213: -8476172266242055707
+    second: baptismalFont_emptying 1_7
+  - first:
+      213: -8562204545392575856
+    second: baptismalFont_emptying 1_8
+  - first:
+      213: 4733792030249671912
+    second: baptismalFont_emptying 1_9
+  - first:
+      213: -69108566329071539
+    second: baptismalFont_emptying 1_10
+  - first:
+      213: -3650512797534536504
+    second: baptismalFont_emptying 1_11
+  - first:
+      213: 4987174235072233417
+    second: baptismalFont_emptying 1_12
+  - first:
+      213: 1733897963596454165
+    second: baptismalFont_emptying 1_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: baptismalFont_emptying 1_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 230
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2046d1940e80f3900800000000000000
+      internalID: 666261029266482178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baptismalFont_emptying 1_1
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 230
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f2cec307e52008d0800000000000000
+      internalID: -2882262087385562381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baptismalFont_emptying 1_2
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 230
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12aec49b9e70c2b10800000000000000
+      internalID: 1957948638416923169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baptismalFont_emptying 1_3
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 230
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1799c1edd3f7f040800000000000000
+      internalID: 4681478471976326940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baptismalFont_emptying 1_4
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 230
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01f131e5d5e9fcfa0800000000000000
+      internalID: -5778225673045598448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baptismalFont_emptying 1_5
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 119
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b81fb0b57489a0380800000000000000
+      internalID: -9004217072736276085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baptismalFont_emptying 1_6
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 119
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26d5129d96eccd790800000000000000
+      internalID: -7503895925096358558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baptismalFont_emptying 1_7
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 118
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e1ef978b369e5a80800000000000000
+      internalID: -8476172266242055707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baptismalFont_emptying 1_8
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 117
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09af3a99450fc2980800000000000000
+      internalID: -8562204545392575856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baptismalFont_emptying 1_9
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 117
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ec5b9355cec1b140800000000000000
+      internalID: 4733792030249671912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baptismalFont_emptying 1_10
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 5
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d48e405002a7a0ff0800000000000000
+      internalID: -69108566329071539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baptismalFont_emptying 1_11
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 4
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ccbfeea3f5c65dc0800000000000000
+      internalID: -3650512797534536504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baptismalFont_emptying 1_12
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 8
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cff57a2b80063540800000000000000
+      internalID: 4987174235072233417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baptismalFont_emptying 1_13
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 8
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51990f4e20b001810800000000000000
+      internalID: 1733897963596454165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      baptismalFont_emptying 1_0: 666261029266482178
+      baptismalFont_emptying 1_1: -2882262087385562381
+      baptismalFont_emptying 1_10: -69108566329071539
+      baptismalFont_emptying 1_11: -3650512797534536504
+      baptismalFont_emptying 1_12: 4987174235072233417
+      baptismalFont_emptying 1_13: 1733897963596454165
+      baptismalFont_emptying 1_2: 1957948638416923169
+      baptismalFont_emptying 1_3: 4681478471976326940
+      baptismalFont_emptying 1_4: -5778225673045598448
+      baptismalFont_emptying 1_5: -9004217072736276085
+      baptismalFont_emptying 1_6: -7503895925096358558
+      baptismalFont_emptying 1_7: -8476172266242055707
+      baptismalFont_emptying 1_8: -8562204545392575856
+      baptismalFont_emptying 1_9: 4733792030249671912
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

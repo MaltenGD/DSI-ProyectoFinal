@@ -1,0 +1,663 @@
+fileFormatVersion: 2
+guid: 8084a7e9eb224ed40a86d5c24891a143
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 627735025514563922
+    second: BreakableLantern01_0
+  - first:
+      213: 3401632720725429951
+    second: BreakableLantern01_1
+  - first:
+      213: 6791987978586922101
+    second: BreakableLantern01_2
+  - first:
+      213: -2217067541410778975
+    second: BreakableLantern01_3
+  - first:
+      213: -1245009698019945323
+    second: BreakableLantern01_4
+  - first:
+      213: -299888680339679037
+    second: BreakableLantern01_5
+  - first:
+      213: 2788952301112878987
+    second: BreakableLantern01_6
+  - first:
+      213: 6518195346564001549
+    second: BreakableLantern01_7
+  - first:
+      213: 8237703715171579386
+    second: BreakableLantern01_8
+  - first:
+      213: 6877124112891980735
+    second: BreakableLantern01_9
+  - first:
+      213: 2975196029132177797
+    second: BreakableLantern01_10
+  - first:
+      213: 4336189739296998649
+    second: BreakableLantern01_11
+  - first:
+      213: -4528585082163773532
+    second: BreakableLantern01_12
+  - first:
+      213: 4945390677074989360
+    second: BreakableLantern01_13
+  - first:
+      213: -3399179776907861773
+    second: BreakableLantern01_14
+  - first:
+      213: -2897335745663440114
+    second: BreakableLantern01_15
+  - first:
+      213: -7904295782686156139
+    second: BreakableLantern01_16
+  - first:
+      213: 3808370795870966937
+    second: BreakableLantern01_17
+  - first:
+      213: -693518693088458186
+    second: BreakableLantern01_18
+  - first:
+      213: -7580182701240692766
+    second: BreakableLantern01_19
+  - first:
+      213: -5038947175028698173
+    second: BreakableLantern01_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BreakableLantern01_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 227
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 259cdd80ea926b800800000000000000
+      internalID: 627735025514563922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BreakableLantern01_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 187
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbe4f27dfe6053f20800000000000000
+      internalID: 3401632720725429951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BreakableLantern01_2
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 185
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57c956eb41df14e50800000000000000
+      internalID: 6791987978586922101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BreakableLantern01_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 177
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a0792f41d46b31e0800000000000000
+      internalID: -2217067541410778975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BreakableLantern01_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 143
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 594da97a646d8bee0800000000000000
+      internalID: -1245009698019945323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BreakableLantern01_5
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 174
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c8513885d496dbf0800000000000000
+      internalID: -299888680339679037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BreakableLantern01_6
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 139
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b876753675954b620800000000000000
+      internalID: 2788952301112878987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BreakableLantern01_7
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 123
+        width: 21
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0f2d800228457a50800000000000000
+      internalID: 6518195346564001549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BreakableLantern01_8
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 163
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af5b7bb32e3325270800000000000000
+      internalID: 8237703715171579386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BreakableLantern01_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 134
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbb2331b1f3707f50800000000000000
+      internalID: 6877124112891980735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BreakableLantern01_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 581839576050a4920800000000000000
+      internalID: 2975196029132177797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BreakableLantern01_11
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 130
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f4cd71089d3d2c30800000000000000
+      internalID: 4336189739296998649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BreakableLantern01_12
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 90
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4afbe7a7cdb3721c0800000000000000
+      internalID: -4528585082163773532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BreakableLantern01_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 76
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03155967e9e81a440800000000000000
+      internalID: 4945390677074989360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BreakableLantern01_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f027b5a000b3d0d0800000000000000
+      internalID: -3399179776907861773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BreakableLantern01_15
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 48
+        width: 22
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0b60b47d789ac7d0800000000000000
+      internalID: -2897335745663440114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BreakableLantern01_16
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 62
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59a9f594ddc4e4290800000000000000
+      internalID: -7904295782686156139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BreakableLantern01_17
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 0
+        width: 57
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9945cdcaf0d0ad430800000000000000
+      internalID: 3808370795870966937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BreakableLantern01_18
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 0
+        width: 33
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63a8e5d4c602066f0800000000000000
+      internalID: -693518693088458186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BreakableLantern01_19
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 0
+        width: 136
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2efccf7aef7cdc690800000000000000
+      internalID: -7580182701240692766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BreakableLantern01_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 51
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c3d476ed30121ab0800000000000000
+      internalID: -5038947175028698173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BreakableLantern01_0: 627735025514563922
+      BreakableLantern01_1: 3401632720725429951
+      BreakableLantern01_10: 2975196029132177797
+      BreakableLantern01_11: 4336189739296998649
+      BreakableLantern01_12: -4528585082163773532
+      BreakableLantern01_13: 4945390677074989360
+      BreakableLantern01_14: -3399179776907861773
+      BreakableLantern01_15: -2897335745663440114
+      BreakableLantern01_16: -7904295782686156139
+      BreakableLantern01_17: 3808370795870966937
+      BreakableLantern01_18: -693518693088458186
+      BreakableLantern01_19: -7580182701240692766
+      BreakableLantern01_2: 6791987978586922101
+      BreakableLantern01_20: -5038947175028698173
+      BreakableLantern01_3: -2217067541410778975
+      BreakableLantern01_4: -1245009698019945323
+      BreakableLantern01_5: -299888680339679037
+      BreakableLantern01_6: 2788952301112878987
+      BreakableLantern01_7: 6518195346564001549
+      BreakableLantern01_8: 8237703715171579386
+      BreakableLantern01_9: 6877124112891980735
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

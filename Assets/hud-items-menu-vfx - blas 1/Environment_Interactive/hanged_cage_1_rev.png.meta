@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: fd8de439fe895a74c8e4c1183cb966b3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8169432936861109534
+    second: hanged_cage_1_rev_0
+  - first:
+      213: 7868277152540262729
+    second: hanged_cage_1_rev_1
+  - first:
+      213: 4417033324705088254
+    second: hanged_cage_1_rev_2
+  - first:
+      213: -7390980356291437023
+    second: hanged_cage_1_rev_3
+  - first:
+      213: -7939885285251053870
+    second: hanged_cage_1_rev_4
+  - first:
+      213: -3250430173212848039
+    second: hanged_cage_1_rev_5
+  - first:
+      213: 6191146265450147991
+    second: hanged_cage_1_rev_6
+  - first:
+      213: 2390316875642968245
+    second: hanged_cage_1_rev_7
+  - first:
+      213: -8231041743381490969
+    second: hanged_cage_1_rev_8
+  - first:
+      213: 8460884719764096234
+    second: hanged_cage_1_rev_9
+  - first:
+      213: 2465138294130865285
+    second: hanged_cage_1_rev_10
+  - first:
+      213: -3549972797884368524
+    second: hanged_cage_1_rev_11
+  - first:
+      213: 5366514456198027379
+    second: hanged_cage_1_rev_12
+  - first:
+      213: -2064406329588454648
+    second: hanged_cage_1_rev_13
+  - first:
+      213: 5039250574872830471
+    second: hanged_cage_1_rev_14
+  - first:
+      213: 5462087066338353194
+    second: hanged_cage_1_rev_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hanged_cage_1_rev_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 334
+        width: 29
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1d8bf9f8f7af5170800000000000000
+      internalID: 8169432936861109534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hanged_cage_1_rev_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 222
+        width: 29
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9410c7fd16cb13d60800000000000000
+      internalID: 7868277152540262729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hanged_cage_1_rev_2
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 221
+        width: 30
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef20c1808647c4d30800000000000000
+      internalID: 4417033324705088254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hanged_cage_1_rev_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 31
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12edb596686fd6990800000000000000
+      internalID: -7390980356291437023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hanged_cage_1_rev_4
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 110
+        width: 31
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d6824f766cdfc190800000000000000
+      internalID: -7939885285251053870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hanged_cage_1_rev_5
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 0
+        width: 32
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 950df6e9af624e2d0800000000000000
+      internalID: -3250430173212848039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hanged_cage_1_rev_6
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 0
+        width: 33
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79074a0f9be5be550800000000000000
+      internalID: 6191146265450147991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hanged_cage_1_rev_7
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 0
+        width: 34
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b81251b88c1c2120800000000000000
+      internalID: 2390316875642968245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hanged_cage_1_rev_8
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 0
+        width: 35
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e29552f42775cd80800000000000000
+      internalID: -8231041743381490969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hanged_cage_1_rev_9
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 110
+        width: 30
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae4c11f23d91b6570800000000000000
+      internalID: 8460884719764096234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hanged_cage_1_rev_10
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 0
+        width: 31
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 584f1e7b73ee53220800000000000000
+      internalID: 2465138294130865285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hanged_cage_1_rev_11
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 110
+        width: 30
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4797dc38c86fbbec0800000000000000
+      internalID: -3549972797884368524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hanged_cage_1_rev_12
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 0
+        width: 31
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3789ea30770b97a40800000000000000
+      internalID: 5366514456198027379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hanged_cage_1_rev_13
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 110
+        width: 30
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80befc48161c953e0800000000000000
+      internalID: -2064406329588454648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hanged_cage_1_rev_14
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 0
+        width: 31
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7026a71e2b30fe540800000000000000
+      internalID: 5039250574872830471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hanged_cage_1_rev_15
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 110
+        width: 30
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a206a595f3b3dcb40800000000000000
+      internalID: 5462087066338353194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      hanged_cage_1_rev_0: 8169432936861109534
+      hanged_cage_1_rev_1: 7868277152540262729
+      hanged_cage_1_rev_10: 2465138294130865285
+      hanged_cage_1_rev_11: -3549972797884368524
+      hanged_cage_1_rev_12: 5366514456198027379
+      hanged_cage_1_rev_13: -2064406329588454648
+      hanged_cage_1_rev_14: 5039250574872830471
+      hanged_cage_1_rev_15: 5462087066338353194
+      hanged_cage_1_rev_2: 4417033324705088254
+      hanged_cage_1_rev_3: -7390980356291437023
+      hanged_cage_1_rev_4: -7939885285251053870
+      hanged_cage_1_rev_5: -3250430173212848039
+      hanged_cage_1_rev_6: 6191146265450147991
+      hanged_cage_1_rev_7: 2390316875642968245
+      hanged_cage_1_rev_8: -8231041743381490969
+      hanged_cage_1_rev_9: 8460884719764096234
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

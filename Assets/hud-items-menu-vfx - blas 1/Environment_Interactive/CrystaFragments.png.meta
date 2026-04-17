@@ -1,0 +1,1625 @@
+fileFormatVersion: 2
+guid: 579f53e0fb39c6f46b35e98d4c95c567
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6728364162051425383
+    second: CrystaFragments_0
+  - first:
+      213: 3185770067893256629
+    second: CrystaFragments_1
+  - first:
+      213: -8604655701194131486
+    second: CrystaFragments_2
+  - first:
+      213: -1329266833966749241
+    second: CrystaFragments_3
+  - first:
+      213: 944857974404568754
+    second: CrystaFragments_4
+  - first:
+      213: -723870063895837969
+    second: CrystaFragments_5
+  - first:
+      213: -4881421181565525720
+    second: CrystaFragments_6
+  - first:
+      213: 6720110185923715861
+    second: CrystaFragments_7
+  - first:
+      213: -3276066264794442847
+    second: CrystaFragments_8
+  - first:
+      213: -6180654922775343527
+    second: CrystaFragments_9
+  - first:
+      213: -576183305085057369
+    second: CrystaFragments_10
+  - first:
+      213: 708739446620043713
+    second: CrystaFragments_11
+  - first:
+      213: 3893106525788157012
+    second: CrystaFragments_12
+  - first:
+      213: -6321164972237749244
+    second: CrystaFragments_13
+  - first:
+      213: 7524682634570274362
+    second: CrystaFragments_14
+  - first:
+      213: 3043546724161918001
+    second: CrystaFragments_15
+  - first:
+      213: 5422571212261331860
+    second: CrystaFragments_16
+  - first:
+      213: 5423934582319399433
+    second: CrystaFragments_17
+  - first:
+      213: -5417715876070556737
+    second: CrystaFragments_18
+  - first:
+      213: -2574402285368576099
+    second: CrystaFragments_19
+  - first:
+      213: -1546752877736939033
+    second: CrystaFragments_20
+  - first:
+      213: 4710956664013282254
+    second: CrystaFragments_21
+  - first:
+      213: 6661816367399527458
+    second: CrystaFragments_22
+  - first:
+      213: 1790571598823793451
+    second: CrystaFragments_23
+  - first:
+      213: -541335321971710918
+    second: CrystaFragments_24
+  - first:
+      213: -6818095929742152611
+    second: CrystaFragments_25
+  - first:
+      213: -6425959136383580849
+    second: CrystaFragments_26
+  - first:
+      213: -5286483059949677207
+    second: CrystaFragments_27
+  - first:
+      213: -7356824629161915599
+    second: CrystaFragments_28
+  - first:
+      213: 910810190112951235
+    second: CrystaFragments_29
+  - first:
+      213: -4599086160313810654
+    second: CrystaFragments_30
+  - first:
+      213: -771806187779831083
+    second: CrystaFragments_31
+  - first:
+      213: 6441295678887189781
+    second: CrystaFragments_32
+  - first:
+      213: 195324497989883506
+    second: CrystaFragments_33
+  - first:
+      213: -7958168673408884017
+    second: CrystaFragments_34
+  - first:
+      213: -1701905114794259776
+    second: CrystaFragments_35
+  - first:
+      213: 8296531827511965033
+    second: CrystaFragments_36
+  - first:
+      213: -3671234740562628052
+    second: CrystaFragments_37
+  - first:
+      213: -2105166287674120331
+    second: CrystaFragments_38
+  - first:
+      213: -2521392997534228413
+    second: CrystaFragments_39
+  - first:
+      213: -5010522164178126524
+    second: CrystaFragments_40
+  - first:
+      213: 8961264604626300107
+    second: CrystaFragments_41
+  - first:
+      213: 9184486574249603780
+    second: CrystaFragments_42
+  - first:
+      213: 6959192017136802069
+    second: CrystaFragments_43
+  - first:
+      213: -6071031094776933949
+    second: CrystaFragments_44
+  - first:
+      213: 8206724320036906967
+    second: CrystaFragments_45
+  - first:
+      213: -5209091046711810114
+    second: CrystaFragments_46
+  - first:
+      213: 9026496957903983570
+    second: CrystaFragments_47
+  - first:
+      213: -7953423575154308155
+    second: CrystaFragments_48
+  - first:
+      213: 4597416846740224611
+    second: CrystaFragments_49
+  - first:
+      213: 3070911034691224739
+    second: CrystaFragments_50
+  - first:
+      213: 3982931005669966020
+    second: CrystaFragments_51
+  - first:
+      213: -2220966139318660244
+    second: CrystaFragments_52
+  - first:
+      213: 3680867620050615104
+    second: CrystaFragments_53
+  - first:
+      213: -1526497573209620398
+    second: CrystaFragments_54
+  - first:
+      213: 4989958384048368052
+    second: CrystaFragments_55
+  - first:
+      213: 6200540870640591031
+    second: CrystaFragments_56
+  - first:
+      213: 6914231235331023220
+    second: CrystaFragments_57
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CrystaFragments_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 733
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99bb479617c00a2a0800000000000000
+      internalID: -6728364162051425383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystaFragments_1
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 739
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b189d07ff0263c20800000000000000
+      internalID: 3185770067893256629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystaFragments_2
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 732
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e7b8cbaa3f169880800000000000000
+      internalID: -8604655701194131486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystaFragments_3
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 724
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c924b57bde7d8de0800000000000000
+      internalID: -1329266833966749241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystaFragments_4
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 729
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b65497525fcc1d00800000000000000
+      internalID: 944857974404568754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystaFragments_5
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 718
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe203f9130c44f5f0800000000000000
+      internalID: -723870063895837969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystaFragments_6
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 712
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82128b95c45b14cb0800000000000000
+      internalID: -4881421181565525720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystaFragments_7
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 721
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 513a7730c90a24d50800000000000000
+      internalID: 6720110185923715861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystaFragments_8
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 711
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a3594ae6131982d0800000000000000
+      internalID: -3276066264794442847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystaFragments_9
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 709
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95ec4b02817e93aa0800000000000000
+      internalID: -6180654922775343527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystaFragments_10
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 701
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a605e6365cf008f0800000000000000
+      internalID: -576183305085057369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystaFragments_11
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 700
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c9381a85c2f5d900800000000000000
+      internalID: 708739446620043713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystaFragments_12
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 693
+        width: 43
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 454bb5632c7170630800000000000000
+      internalID: 3893106525788157012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystaFragments_13
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 690
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 404802fd2f5b648a0800000000000000
+      internalID: -6321164972237749244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystaFragments_14
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 662
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a369c191dfa0d6860800000000000000
+      internalID: 7524682634570274362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystaFragments_15
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 670
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13499f6ce99dc3a20800000000000000
+      internalID: 3043546724161918001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystaFragments_16
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 661
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 493981c99c7d04b40800000000000000
+      internalID: 5422571212261331860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystaFragments_17
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 669
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 902ca10f3cfa54b40800000000000000
+      internalID: 5423934582319399433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystaFragments_18
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 662
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbbf1d07d1860d4b0800000000000000
+      internalID: -5417715876070556737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystaFragments_19
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 669
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d97f6afd2c2e54cd0800000000000000
+      internalID: -2574402285368576099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystaFragments_20
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 660
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e13d27e374d88ae0800000000000000
+      internalID: -1546752877736939033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystaFragments_21
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 594
+        width: 41
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecb55ce402ea06140800000000000000
+      internalID: 4710956664013282254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystaFragments_22
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 668
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2246bb9b0b6837c50800000000000000
+      internalID: 6661816367399527458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystaFragments_23
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 656
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b23abccd16369d810800000000000000
+      internalID: 1790571598823793451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystaFragments_24
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 605
+        width: 50
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a34218d846acc78f0800000000000000
+      internalID: -541335321971710918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystaFragments_25
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 665
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5cae2f20e14161a0800000000000000
+      internalID: -6818095929742152611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystaFragments_26
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 575
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f454eae263862d6a0800000000000000
+      internalID: -6425959136383580849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystaFragments_27
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 548
+        width: 37
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 965549c7aa3a2a6b0800000000000000
+      internalID: -5286483059949677207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystaFragments_28
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 565
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13b85f75afe47e990800000000000000
+      internalID: -7356824629161915599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystaFragments_29
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 581
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cb0d7fca09d3ac00800000000000000
+      internalID: 910810190112951235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystaFragments_30
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 567
+        width: 17
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22184131183cc20c0800000000000000
+      internalID: -4599086160313810654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystaFragments_31
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 564
+        width: 35
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5da4fe58c5ef945f0800000000000000
+      internalID: -771806187779831083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystaFragments_32
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 577
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51d5451ea44146950800000000000000
+      internalID: 6441295678887189781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystaFragments_33
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 588
+        width: 25
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2765e96989ee5b200800000000000000
+      internalID: 195324497989883506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystaFragments_34
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 582
+        width: 17
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc262d671c7ee8190800000000000000
+      internalID: -7958168673408884017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystaFragments_35
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 585
+        width: 33
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ca844fa05e9168e0800000000000000
+      internalID: -1701905114794259776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystaFragments_36
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 589
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 965b29e7db3332370800000000000000
+      internalID: 8296531827511965033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystaFragments_37
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 592
+        width: 22
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c22f0b954772d0dc0800000000000000
+      internalID: -3671234740562628052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystaFragments_38
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 595
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5776e0e3a62f8c2e0800000000000000
+      internalID: -2105166287674120331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystaFragments_39
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 571
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 340a0da7d66320dd0800000000000000
+      internalID: -2521392997534228413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystaFragments_40
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 602
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 449f0f873ac077ab0800000000000000
+      internalID: -5010522164178126524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystaFragments_41
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 553
+        width: 17
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcc2809ddaecc5c70800000000000000
+      internalID: 8961264604626300107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystaFragments_42
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 532
+        width: 16
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c2fd76b0e9d57f70800000000000000
+      internalID: 9184486574249603780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystaFragments_43
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 540
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5195c29a444049060800000000000000
+      internalID: 6959192017136802069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystaFragments_44
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 550
+        width: 16
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c1587f826d5fbba0800000000000000
+      internalID: -6071031094776933949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystaFragments_45
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 556
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d7eb59b94424e170800000000000000
+      internalID: 8206724320036906967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystaFragments_46
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 562
+        width: 16
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb7231eba4795b7b0800000000000000
+      internalID: -5209091046711810114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystaFragments_47
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 512
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d3d206a82f844d70800000000000000
+      internalID: 9026496957903983570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystaFragments_48
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 519
+        width: 16
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cbc5beb563cf9190800000000000000
+      internalID: -7953423575154308155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystaFragments_49
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 521
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36af852934e4dcf30800000000000000
+      internalID: 4597416846740224611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystaFragments_50
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 321
+        width: 44
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a4099fc0511e9a20800000000000000
+      internalID: 3070911034691224739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystaFragments_51
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 317
+        width: 34
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c009dda5a6364730800000000000000
+      internalID: 3982931005669966020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystaFragments_52
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 312
+        width: 34
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c639dbf301b8d21e0800000000000000
+      internalID: -2220966139318660244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystaFragments_53
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 318
+        width: 34
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04bba5e2991151330800000000000000
+      internalID: 3680867620050615104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystaFragments_54
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 314
+        width: 34
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 250485e7b8ac0dae0800000000000000
+      internalID: -1526497573209620398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystaFragments_55
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 61
+        width: 34
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b96f2d56b4ef3540800000000000000
+      internalID: 4989958384048368052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystaFragments_56
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 60
+        width: 34
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b0e2d9e11fbc0650800000000000000
+      internalID: 6200540870640591031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystaFragments_57
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 61
+        width: 34
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 471e0d4eca844ff50800000000000000
+      internalID: 6914231235331023220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      CrystaFragments_0: -6728364162051425383
+      CrystaFragments_1: 3185770067893256629
+      CrystaFragments_10: -576183305085057369
+      CrystaFragments_11: 708739446620043713
+      CrystaFragments_12: 3893106525788157012
+      CrystaFragments_13: -6321164972237749244
+      CrystaFragments_14: 7524682634570274362
+      CrystaFragments_15: 3043546724161918001
+      CrystaFragments_16: 5422571212261331860
+      CrystaFragments_17: 5423934582319399433
+      CrystaFragments_18: -5417715876070556737
+      CrystaFragments_19: -2574402285368576099
+      CrystaFragments_2: -8604655701194131486
+      CrystaFragments_20: -1546752877736939033
+      CrystaFragments_21: 4710956664013282254
+      CrystaFragments_22: 6661816367399527458
+      CrystaFragments_23: 1790571598823793451
+      CrystaFragments_24: -541335321971710918
+      CrystaFragments_25: -6818095929742152611
+      CrystaFragments_26: -6425959136383580849
+      CrystaFragments_27: -5286483059949677207
+      CrystaFragments_28: -7356824629161915599
+      CrystaFragments_29: 910810190112951235
+      CrystaFragments_3: -1329266833966749241
+      CrystaFragments_30: -4599086160313810654
+      CrystaFragments_31: -771806187779831083
+      CrystaFragments_32: 6441295678887189781
+      CrystaFragments_33: 195324497989883506
+      CrystaFragments_34: -7958168673408884017
+      CrystaFragments_35: -1701905114794259776
+      CrystaFragments_36: 8296531827511965033
+      CrystaFragments_37: -3671234740562628052
+      CrystaFragments_38: -2105166287674120331
+      CrystaFragments_39: -2521392997534228413
+      CrystaFragments_4: 944857974404568754
+      CrystaFragments_40: -5010522164178126524
+      CrystaFragments_41: 8961264604626300107
+      CrystaFragments_42: 9184486574249603780
+      CrystaFragments_43: 6959192017136802069
+      CrystaFragments_44: -6071031094776933949
+      CrystaFragments_45: 8206724320036906967
+      CrystaFragments_46: -5209091046711810114
+      CrystaFragments_47: 9026496957903983570
+      CrystaFragments_48: -7953423575154308155
+      CrystaFragments_49: 4597416846740224611
+      CrystaFragments_5: -723870063895837969
+      CrystaFragments_50: 3070911034691224739
+      CrystaFragments_51: 3982931005669966020
+      CrystaFragments_52: -2220966139318660244
+      CrystaFragments_53: 3680867620050615104
+      CrystaFragments_54: -1526497573209620398
+      CrystaFragments_55: 4989958384048368052
+      CrystaFragments_56: 6200540870640591031
+      CrystaFragments_57: 6914231235331023220
+      CrystaFragments_6: -4881421181565525720
+      CrystaFragments_7: 6720110185923715861
+      CrystaFragments_8: -3276066264794442847
+      CrystaFragments_9: -6180654922775343527
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

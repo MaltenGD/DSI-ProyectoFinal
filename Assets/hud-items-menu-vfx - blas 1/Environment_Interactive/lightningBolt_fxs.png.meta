@@ -1,0 +1,1573 @@
+fileFormatVersion: 2
+guid: a2ba838827593a74f98e3d7af5f5d51b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7362466566568142314
+    second: lightningBolt_fxs_0
+  - first:
+      213: 7853295348223650327
+    second: lightningBolt_fxs_1
+  - first:
+      213: 5088854577693663608
+    second: lightningBolt_fxs_2
+  - first:
+      213: -6495143989297526721
+    second: lightningBolt_fxs_3
+  - first:
+      213: 8760946482391435141
+    second: lightningBolt_fxs_4
+  - first:
+      213: 3315617370794440601
+    second: lightningBolt_fxs_5
+  - first:
+      213: 5768975608771589767
+    second: lightningBolt_fxs_6
+  - first:
+      213: -229090573344004969
+    second: lightningBolt_fxs_7
+  - first:
+      213: 2161230888362775513
+    second: lightningBolt_fxs_8
+  - first:
+      213: 7318047480838545593
+    second: lightningBolt_fxs_9
+  - first:
+      213: -3119659943339775951
+    second: lightningBolt_fxs_10
+  - first:
+      213: 8377579690695758125
+    second: lightningBolt_fxs_11
+  - first:
+      213: 5439897007324607866
+    second: lightningBolt_fxs_12
+  - first:
+      213: -4673722838125650787
+    second: lightningBolt_fxs_13
+  - first:
+      213: -4793633789304864275
+    second: lightningBolt_fxs_14
+  - first:
+      213: -2340792170215851099
+    second: lightningBolt_fxs_15
+  - first:
+      213: -3335054843629212203
+    second: lightningBolt_fxs_16
+  - first:
+      213: -6065878347625061407
+    second: lightningBolt_fxs_17
+  - first:
+      213: 817972593077301894
+    second: lightningBolt_fxs_18
+  - first:
+      213: -7315248892253040143
+    second: lightningBolt_fxs_19
+  - first:
+      213: -5974799869546285589
+    second: lightningBolt_fxs_20
+  - first:
+      213: 1410402437962400206
+    second: lightningBolt_fxs_21
+  - first:
+      213: -8427535294693365350
+    second: lightningBolt_fxs_22
+  - first:
+      213: 3016515978683845876
+    second: lightningBolt_fxs_23
+  - first:
+      213: -425445244529019039
+    second: lightningBolt_fxs_24
+  - first:
+      213: 6242853529793155984
+    second: lightningBolt_fxs_25
+  - first:
+      213: -2026012966148235221
+    second: lightningBolt_fxs_26
+  - first:
+      213: -2464578047919132775
+    second: lightningBolt_fxs_27
+  - first:
+      213: -5464320429428188573
+    second: lightningBolt_fxs_28
+  - first:
+      213: -2293400339290966300
+    second: lightningBolt_fxs_29
+  - first:
+      213: 8053324350099294997
+    second: lightningBolt_fxs_30
+  - first:
+      213: -3011012384642616033
+    second: lightningBolt_fxs_31
+  - first:
+      213: -8549761438065403962
+    second: lightningBolt_fxs_32
+  - first:
+      213: 6181275507158796509
+    second: lightningBolt_fxs_33
+  - first:
+      213: -7751894926662283558
+    second: lightningBolt_fxs_34
+  - first:
+      213: 6274493159754306407
+    second: lightningBolt_fxs_35
+  - first:
+      213: -7616247291116412991
+    second: lightningBolt_fxs_36
+  - first:
+      213: -7312605079117700965
+    second: lightningBolt_fxs_37
+  - first:
+      213: 463157790228767699
+    second: lightningBolt_fxs_38
+  - first:
+      213: -2259100437547472599
+    second: lightningBolt_fxs_39
+  - first:
+      213: -7296881134959832867
+    second: lightningBolt_fxs_40
+  - first:
+      213: 2219632004302705097
+    second: lightningBolt_fxs_41
+  - first:
+      213: 6328564176800653319
+    second: lightningBolt_fxs_42
+  - first:
+      213: -5063678225031557776
+    second: lightningBolt_fxs_43
+  - first:
+      213: 6866871266268649761
+    second: lightningBolt_fxs_44
+  - first:
+      213: -4936113730454671435
+    second: lightningBolt_fxs_45
+  - first:
+      213: 5865341087011716500
+    second: lightningBolt_fxs_46
+  - first:
+      213: 7332003020214806779
+    second: lightningBolt_fxs_47
+  - first:
+      213: 923339891578606200
+    second: lightningBolt_fxs_48
+  - first:
+      213: 6391956576136572407
+    second: lightningBolt_fxs_49
+  - first:
+      213: -2915577587548980808
+    second: lightningBolt_fxs_50
+  - first:
+      213: -7225337173559912284
+    second: lightningBolt_fxs_51
+  - first:
+      213: -3087194122616614098
+    second: lightningBolt_fxs_52
+  - first:
+      213: -7749122257977830731
+    second: lightningBolt_fxs_53
+  - first:
+      213: 8406797755073923273
+    second: lightningBolt_fxs_54
+  - first:
+      213: 5250387096430260854
+    second: lightningBolt_fxs_55
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: lightningBolt_fxs_0
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 45
+        width: 1431
+        height: 1441
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae5ebf2955cbc2660800000000000000
+      internalID: 7362466566568142314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightningBolt_fxs_1
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 395
+        width: 27
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71a291bb2828cfc60800000000000000
+      internalID: 7853295348223650327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightningBolt_fxs_2
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 302
+        width: 38
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8712d09c64e3f9640800000000000000
+      internalID: 5088854577693663608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightningBolt_fxs_3
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 302
+        width: 48
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3848e854fc9cd5a0800000000000000
+      internalID: -6495143989297526721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightningBolt_fxs_4
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 302
+        width: 48
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58746238862259970800000000000000
+      internalID: 8760946482391435141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightningBolt_fxs_5
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 425
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 997315d8e60730e20800000000000000
+      internalID: 3315617370794440601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightningBolt_fxs_6
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 367
+        width: 28
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78639b630c48f0050800000000000000
+      internalID: 5768975608771589767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightningBolt_fxs_7
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 401
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 794a07a565b12dcf0800000000000000
+      internalID: -229090573344004969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightningBolt_fxs_8
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 380
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d31772da0c3efd10800000000000000
+      internalID: 2161230888362775513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightningBolt_fxs_9
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 353
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b0e2d0496dee8560800000000000000
+      internalID: 7318047480838545593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightningBolt_fxs_10
+      rect:
+        serializedVersion: 2
+        x: 1461
+        y: 303
+        width: 42
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 138a7396fcdb4b4d0800000000000000
+      internalID: -3119659943339775951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightningBolt_fxs_11
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 304
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d219275a754234470800000000000000
+      internalID: 8377579690695758125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightningBolt_fxs_12
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 303
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a753b40a1856e7b40800000000000000
+      internalID: 5439897007324607866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightningBolt_fxs_13
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 308
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9cd3e657d9932fb0800000000000000
+      internalID: -4673722838125650787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightningBolt_fxs_14
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 314
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de18c256777997db0800000000000000
+      internalID: -4793633789304864275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightningBolt_fxs_15
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 323
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5abb4495ce5d38fd0800000000000000
+      internalID: -2340792170215851099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightningBolt_fxs_16
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 320
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dde8032a4187b1d0800000000000000
+      internalID: -3335054843629212203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightningBolt_fxs_17
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 325
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e3231ff7cba1dba0800000000000000
+      internalID: -6065878347625061407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightningBolt_fxs_18
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 303
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 682b0665db50a5b00800000000000000
+      internalID: 817972593077301894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightningBolt_fxs_19
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 315
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f110bde3e30b7a90800000000000000
+      internalID: -7315248892253040143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightningBolt_fxs_20
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 306
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be5b4abac2f351da0800000000000000
+      internalID: -5974799869546285589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightningBolt_fxs_21
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 307
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec108117b81c29310800000000000000
+      internalID: 1410402437962400206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightningBolt_fxs_22
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 304
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a992cbbec416b0b80800000000000000
+      internalID: -8427535294693365350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightningBolt_fxs_23
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 304
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fc8db8ec41dcd920800000000000000
+      internalID: 3016515978683845876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightningBolt_fxs_24
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 308
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 167f770edc3881af0800000000000000
+      internalID: -425445244529019039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightningBolt_fxs_25
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 304
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0935d14953213a650800000000000000
+      internalID: 6242853529793155984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightningBolt_fxs_26
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 312
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b20266a01f722e3e0800000000000000
+      internalID: -2026012966148235221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightningBolt_fxs_27
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 303
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99fed84c25f0ccdd0800000000000000
+      internalID: -2464578047919132775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightningBolt_fxs_28
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 306
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36ad5094585da24b0800000000000000
+      internalID: -5464320429428188573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightningBolt_fxs_29
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 313
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e63dc8da843c20e0800000000000000
+      internalID: -2293400339290966300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightningBolt_fxs_30
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 304
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51b0cacf3d723cf60800000000000000
+      internalID: 8053324350099294997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightningBolt_fxs_31
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 308
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f15331f603cb636d0800000000000000
+      internalID: -3011012384642616033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightningBolt_fxs_32
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 310
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c757c94545295980800000000000000
+      internalID: -8549761438065403962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightningBolt_fxs_33
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 303
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd8c50fe25d48c550800000000000000
+      internalID: 6181275507158796509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightningBolt_fxs_34
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 304
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ade4420b2acbb6490800000000000000
+      internalID: -7751894926662283558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightningBolt_fxs_35
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 306
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76316ccf84a731750800000000000000
+      internalID: 6274493159754306407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightningBolt_fxs_36
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 185
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cf997bf077ad4690800000000000000
+      internalID: -7616247291116412991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightningBolt_fxs_37
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 171
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b90e874ac68648a90800000000000000
+      internalID: -7312605079117700965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightningBolt_fxs_38
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 163
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d36a896e877d6600800000000000000
+      internalID: 463157790228767699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightningBolt_fxs_39
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 147
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 929ad0c0f1016a0e0800000000000000
+      internalID: -2259100437547472599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightningBolt_fxs_40
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 118
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd0587ea4454cba90800000000000000
+      internalID: -7296881134959832867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightningBolt_fxs_41
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 105
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c11d8c3c87bdce10800000000000000
+      internalID: 2219632004302705097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightningBolt_fxs_42
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 86
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7002770b69393d750800000000000000
+      internalID: 6328564176800653319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightningBolt_fxs_43
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 68
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07d0d1c9b733ab9b0800000000000000
+      internalID: -5063678225031557776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightningBolt_fxs_44
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 81
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1299740d8070c4f50800000000000000
+      internalID: 6866871266268649761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightningBolt_fxs_45
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 54
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bf225df6b66f7bb0800000000000000
+      internalID: -4936113730454671435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightningBolt_fxs_46
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 62
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49d36d984a0e56150800000000000000
+      internalID: 5865341087011716500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightningBolt_fxs_47
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 55
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf8aef776e180c560800000000000000
+      internalID: 7332003020214806779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightningBolt_fxs_48
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 63
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8729d744dbc50dc00800000000000000
+      internalID: 923339891578606200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightningBolt_fxs_49
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 55
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fda754d3aac4b850800000000000000
+      internalID: 6391956576136572407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightningBolt_fxs_50
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 59
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b97d0ba1a9c987d0800000000000000
+      internalID: -2915577587548980808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightningBolt_fxs_51
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 62
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a859834f127abb90800000000000000
+      internalID: -7225337173559912284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightningBolt_fxs_52
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 63
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2353c85d451825d0800000000000000
+      internalID: -3087194122616614098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightningBolt_fxs_53
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 58
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b2982cec56957490800000000000000
+      internalID: -7749122257977830731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightningBolt_fxs_54
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 55
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c88bb16402faa470800000000000000
+      internalID: 8406797755073923273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightningBolt_fxs_55
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 52
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67235081f3f1dd840800000000000000
+      internalID: 5250387096430260854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      lightningBolt_fxs_0: 7362466566568142314
+      lightningBolt_fxs_1: 7853295348223650327
+      lightningBolt_fxs_10: -3119659943339775951
+      lightningBolt_fxs_11: 8377579690695758125
+      lightningBolt_fxs_12: 5439897007324607866
+      lightningBolt_fxs_13: -4673722838125650787
+      lightningBolt_fxs_14: -4793633789304864275
+      lightningBolt_fxs_15: -2340792170215851099
+      lightningBolt_fxs_16: -3335054843629212203
+      lightningBolt_fxs_17: -6065878347625061407
+      lightningBolt_fxs_18: 817972593077301894
+      lightningBolt_fxs_19: -7315248892253040143
+      lightningBolt_fxs_2: 5088854577693663608
+      lightningBolt_fxs_20: -5974799869546285589
+      lightningBolt_fxs_21: 1410402437962400206
+      lightningBolt_fxs_22: -8427535294693365350
+      lightningBolt_fxs_23: 3016515978683845876
+      lightningBolt_fxs_24: -425445244529019039
+      lightningBolt_fxs_25: 6242853529793155984
+      lightningBolt_fxs_26: -2026012966148235221
+      lightningBolt_fxs_27: -2464578047919132775
+      lightningBolt_fxs_28: -5464320429428188573
+      lightningBolt_fxs_29: -2293400339290966300
+      lightningBolt_fxs_3: -6495143989297526721
+      lightningBolt_fxs_30: 8053324350099294997
+      lightningBolt_fxs_31: -3011012384642616033
+      lightningBolt_fxs_32: -8549761438065403962
+      lightningBolt_fxs_33: 6181275507158796509
+      lightningBolt_fxs_34: -7751894926662283558
+      lightningBolt_fxs_35: 6274493159754306407
+      lightningBolt_fxs_36: -7616247291116412991
+      lightningBolt_fxs_37: -7312605079117700965
+      lightningBolt_fxs_38: 463157790228767699
+      lightningBolt_fxs_39: -2259100437547472599
+      lightningBolt_fxs_4: 8760946482391435141
+      lightningBolt_fxs_40: -7296881134959832867
+      lightningBolt_fxs_41: 2219632004302705097
+      lightningBolt_fxs_42: 6328564176800653319
+      lightningBolt_fxs_43: -5063678225031557776
+      lightningBolt_fxs_44: 6866871266268649761
+      lightningBolt_fxs_45: -4936113730454671435
+      lightningBolt_fxs_46: 5865341087011716500
+      lightningBolt_fxs_47: 7332003020214806779
+      lightningBolt_fxs_48: 923339891578606200
+      lightningBolt_fxs_49: 6391956576136572407
+      lightningBolt_fxs_5: 3315617370794440601
+      lightningBolt_fxs_50: -2915577587548980808
+      lightningBolt_fxs_51: -7225337173559912284
+      lightningBolt_fxs_52: -3087194122616614098
+      lightningBolt_fxs_53: -7749122257977830731
+      lightningBolt_fxs_54: 8406797755073923273
+      lightningBolt_fxs_55: 5250387096430260854
+      lightningBolt_fxs_6: 5768975608771589767
+      lightningBolt_fxs_7: -229090573344004969
+      lightningBolt_fxs_8: 2161230888362775513
+      lightningBolt_fxs_9: 7318047480838545593
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

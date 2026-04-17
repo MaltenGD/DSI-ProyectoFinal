@@ -1,0 +1,1521 @@
+fileFormatVersion: 2
+guid: c78d5c7f6d153d74fb0bed539e77e7b3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5870989252030674041
+    second: DLC_menu_front_boss_0
+  - first:
+      213: -5294747146686461865
+    second: DLC_menu_front_boss_1
+  - first:
+      213: 858134562797054154
+    second: DLC_menu_front_boss_2
+  - first:
+      213: -6849875080094897141
+    second: DLC_menu_front_boss_3
+  - first:
+      213: -1629472142029431246
+    second: DLC_menu_front_boss_4
+  - first:
+      213: -3612231917981399243
+    second: DLC_menu_front_boss_5
+  - first:
+      213: -6162116189461263574
+    second: DLC_menu_front_boss_6
+  - first:
+      213: -8401969560324097468
+    second: DLC_menu_front_boss_7
+  - first:
+      213: 3467301854161234574
+    second: DLC_menu_front_boss_8
+  - first:
+      213: -3193252542673749312
+    second: DLC_menu_front_boss_9
+  - first:
+      213: 6855022935516876937
+    second: DLC_menu_front_boss_10
+  - first:
+      213: 3537721413820812070
+    second: DLC_menu_front_boss_11
+  - first:
+      213: -2798252722570120791
+    second: DLC_menu_front_boss_12
+  - first:
+      213: -8432850792762714329
+    second: DLC_menu_front_boss_13
+  - first:
+      213: 5123311531355662391
+    second: DLC_menu_front_boss_14
+  - first:
+      213: 3375270026756710970
+    second: DLC_menu_front_boss_15
+  - first:
+      213: 8422108264577279948
+    second: DLC_menu_front_boss_16
+  - first:
+      213: -7138163237856810920
+    second: DLC_menu_front_boss_17
+  - first:
+      213: -6070828305950483573
+    second: DLC_menu_front_boss_18
+  - first:
+      213: -9041503901891200378
+    second: DLC_menu_front_boss_19
+  - first:
+      213: -5630790206338980697
+    second: DLC_menu_front_boss_20
+  - first:
+      213: 1073639065536127712
+    second: DLC_menu_front_boss_21
+  - first:
+      213: 3404862168912900221
+    second: DLC_menu_front_boss_22
+  - first:
+      213: 4179113335505584095
+    second: DLC_menu_front_boss_23
+  - first:
+      213: -7110086924279363656
+    second: DLC_menu_front_boss_24
+  - first:
+      213: -136384309508372151
+    second: DLC_menu_front_boss_25
+  - first:
+      213: 4528798432028835791
+    second: DLC_menu_front_boss_26
+  - first:
+      213: -5997058572514408381
+    second: DLC_menu_front_boss_27
+  - first:
+      213: 4571528730057198651
+    second: DLC_menu_front_boss_28
+  - first:
+      213: 6290924991957423321
+    second: DLC_menu_front_boss_29
+  - first:
+      213: -8565842719418114528
+    second: DLC_menu_front_boss_30
+  - first:
+      213: 6037579296399465684
+    second: DLC_menu_front_boss_31
+  - first:
+      213: -5606314755592594881
+    second: DLC_menu_front_boss_32
+  - first:
+      213: -4452002580743743803
+    second: DLC_menu_front_boss_33
+  - first:
+      213: -3763782757297791160
+    second: DLC_menu_front_boss_34
+  - first:
+      213: 7407862633744934631
+    second: DLC_menu_front_boss_35
+  - first:
+      213: 1338827803864118532
+    second: DLC_menu_front_boss_36
+  - first:
+      213: -6476531885170101630
+    second: DLC_menu_front_boss_37
+  - first:
+      213: 327134701626749130
+    second: DLC_menu_front_boss_38
+  - first:
+      213: -2284192118463429518
+    second: DLC_menu_front_boss_39
+  - first:
+      213: 8751723311714633523
+    second: DLC_menu_front_boss_40
+  - first:
+      213: 9132491211699928897
+    second: DLC_menu_front_boss_41
+  - first:
+      213: 1151506010078799547
+    second: DLC_menu_front_boss_42
+  - first:
+      213: 1221587639994728286
+    second: DLC_menu_front_boss_43
+  - first:
+      213: 7002907888258121904
+    second: DLC_menu_front_boss_44
+  - first:
+      213: -2565268346597109653
+    second: DLC_menu_front_boss_45
+  - first:
+      213: 4347330651800901401
+    second: DLC_menu_front_boss_46
+  - first:
+      213: 1254016502063805930
+    second: DLC_menu_front_boss_47
+  - first:
+      213: -2872789954752351184
+    second: DLC_menu_front_boss_48
+  - first:
+      213: 3289924273607938835
+    second: DLC_menu_front_boss_49
+  - first:
+      213: 8985063224320182854
+    second: DLC_menu_front_boss_50
+  - first:
+      213: 2318381492822213226
+    second: DLC_menu_front_boss_51
+  - first:
+      213: 3164422692089890207
+    second: DLC_menu_front_boss_52
+  - first:
+      213: 8531269133485257862
+    second: DLC_menu_front_boss_53
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DLC_menu_front_boss_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2879
+        width: 456
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78b4390916e068ea0800000000000000
+      internalID: -5870989252030674041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DLC_menu_front_boss_1
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 2879
+        width: 456
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7588d3ad5874586b0800000000000000
+      internalID: -5294747146686461865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DLC_menu_front_boss_2
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 2879
+        width: 455
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac8e00996d4b8eb00800000000000000
+      internalID: 858134562797054154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DLC_menu_front_boss_3
+      rect:
+        serializedVersion: 2
+        x: 1667
+        y: 2879
+        width: 454
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0ca42728ea50f0a0800000000000000
+      internalID: -6849875080094897141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DLC_menu_front_boss_4
+      rect:
+        serializedVersion: 2
+        x: 2223
+        y: 2879
+        width: 454
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23ed0fa58b3f269e0800000000000000
+      internalID: -1629472142029431246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DLC_menu_front_boss_5
+      rect:
+        serializedVersion: 2
+        x: 2779
+        y: 2879
+        width: 453
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53704628536ceddc0800000000000000
+      internalID: -3612231917981399243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DLC_menu_front_boss_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2519
+        width: 450
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2b4a7659f3cb7aa0800000000000000
+      internalID: -6162116189461263574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DLC_menu_front_boss_7
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 2519
+        width: 452
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44abc3f4335366b80800000000000000
+      internalID: -8401969560324097468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DLC_menu_front_boss_8
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 2519
+        width: 454
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8a65527aa45e1030800000000000000
+      internalID: 3467301854161234574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DLC_menu_front_boss_9
+      rect:
+        serializedVersion: 2
+        x: 1667
+        y: 2519
+        width: 452
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ca71d32bb94fa3d0800000000000000
+      internalID: -3193252542673749312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DLC_menu_front_boss_10
+      rect:
+        serializedVersion: 2
+        x: 2223
+        y: 2519
+        width: 451
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98093a65a0fe12f50800000000000000
+      internalID: 6855022935516876937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DLC_menu_front_boss_11
+      rect:
+        serializedVersion: 2
+        x: 2779
+        y: 2519
+        width: 451
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62b0519d1e2881130800000000000000
+      internalID: 3537721413820812070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DLC_menu_front_boss_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2159
+        width: 451
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a1307f79fb9a29d0800000000000000
+      internalID: -2798252722570120791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DLC_menu_front_boss_13
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 2159
+        width: 454
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 727d18512ee78fa80800000000000000
+      internalID: -8432850792762714329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DLC_menu_front_boss_14
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 2159
+        width: 454
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 738ed1c71b8a91740800000000000000
+      internalID: 5123311531355662391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DLC_menu_front_boss_15
+      rect:
+        serializedVersion: 2
+        x: 1667
+        y: 2159
+        width: 455
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a326bd5d43e57de20800000000000000
+      internalID: 3375270026756710970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DLC_menu_front_boss_16
+      rect:
+        serializedVersion: 2
+        x: 2223
+        y: 2159
+        width: 456
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc7a20a28d651e470800000000000000
+      internalID: 8422108264577279948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DLC_menu_front_boss_17
+      rect:
+        serializedVersion: 2
+        x: 2779
+        y: 2159
+        width: 456
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 858eac2da5620fc90800000000000000
+      internalID: -7138163237856810920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DLC_menu_front_boss_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1799
+        width: 455
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8b5f6302d510cba0800000000000000
+      internalID: -6070828305950483573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DLC_menu_front_boss_19
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 1799
+        width: 456
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68a777cea10268280800000000000000
+      internalID: -9041503901891200378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DLC_menu_front_boss_20
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 1799
+        width: 456
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a4aa6af32a6bd1b0800000000000000
+      internalID: -5630790206338980697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DLC_menu_front_boss_21
+      rect:
+        serializedVersion: 2
+        x: 1667
+        y: 1799
+        width: 455
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e2634eaa0556ee00800000000000000
+      internalID: 1073639065536127712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DLC_menu_front_boss_22
+      rect:
+        serializedVersion: 2
+        x: 2223
+        y: 1799
+        width: 454
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7038375a10804f20800000000000000
+      internalID: 3404862168912900221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DLC_menu_front_boss_23
+      rect:
+        serializedVersion: 2
+        x: 2779
+        y: 1799
+        width: 454
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdf78eecf613ff930800000000000000
+      internalID: 4179113335505584095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DLC_menu_front_boss_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1439
+        width: 452
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b7cd2cfc95e35d90800000000000000
+      internalID: -7110086924279363656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DLC_menu_front_boss_25
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 1439
+        width: 453
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94901de61377b1ef0800000000000000
+      internalID: -136384309508372151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DLC_menu_front_boss_26
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 1439
+        width: 453
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcfbc68ed2689de30800000000000000
+      internalID: 4528798432028835791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DLC_menu_front_boss_27
+      rect:
+        serializedVersion: 2
+        x: 1667
+        y: 1439
+        width: 454
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3484118800b26cca0800000000000000
+      internalID: -5997058572514408381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DLC_menu_front_boss_28
+      rect:
+        serializedVersion: 2
+        x: 2223
+        y: 1439
+        width: 455
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3c4d83b825517f30800000000000000
+      internalID: 4571528730057198651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DLC_menu_front_boss_29
+      rect:
+        serializedVersion: 2
+        x: 2779
+        y: 1439
+        width: 456
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d4df3e03fadd4750800000000000000
+      internalID: 6290924991957423321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DLC_menu_front_boss_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1079
+        width: 455
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02e97333e63002980800000000000000
+      internalID: -8565842719418114528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DLC_menu_front_boss_31
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 1079
+        width: 457
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dc9421b16ac9c350800000000000000
+      internalID: 6037579296399465684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DLC_menu_front_boss_32
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 1079
+        width: 458
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3a5fddee6e5232b0800000000000000
+      internalID: -5606314755592594881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DLC_menu_front_boss_33
+      rect:
+        serializedVersion: 2
+        x: 1667
+        y: 1079
+        width: 457
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c695a39d3f4732c0800000000000000
+      internalID: -4452002580743743803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DLC_menu_front_boss_34
+      rect:
+        serializedVersion: 2
+        x: 2223
+        y: 1079
+        width: 456
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84f568b068b54cbc0800000000000000
+      internalID: -3763782757297791160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DLC_menu_front_boss_35
+      rect:
+        serializedVersion: 2
+        x: 2779
+        y: 1079
+        width: 456
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e6a14d11d30ec660800000000000000
+      internalID: 7407862633744934631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DLC_menu_front_boss_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 719
+        width: 454
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 405bcb05bc8749210800000000000000
+      internalID: 1338827803864118532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DLC_menu_front_boss_37
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 719
+        width: 453
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 282f1f7809cbe16a0800000000000000
+      internalID: -6476531885170101630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DLC_menu_front_boss_38
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 719
+        width: 452
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac07a2427473a8400800000000000000
+      internalID: 327134701626749130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DLC_menu_front_boss_39
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 719
+        width: 453
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2748d34de5bec40e0800000000000000
+      internalID: -2284192118463429518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DLC_menu_front_boss_40
+      rect:
+        serializedVersion: 2
+        x: 2223
+        y: 719
+        width: 455
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 337814fbbfd547970800000000000000
+      internalID: 8751723311714633523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DLC_menu_front_boss_41
+      rect:
+        serializedVersion: 2
+        x: 2779
+        y: 719
+        width: 456
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14f30cbfe502dbe70800000000000000
+      internalID: 9132491211699928897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DLC_menu_front_boss_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 359
+        width: 456
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb6697f7d98faff00800000000000000
+      internalID: 1151506010078799547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DLC_menu_front_boss_43
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 359
+        width: 457
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5fb4ef7c73f3f010800000000000000
+      internalID: 1221587639994728286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DLC_menu_front_boss_44
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 359
+        width: 456
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b008621f935f2160800000000000000
+      internalID: 7002907888258121904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DLC_menu_front_boss_45
+      rect:
+        serializedVersion: 2
+        x: 1667
+        y: 359
+        width: 456
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b609687b706566cd0800000000000000
+      internalID: -2565268346597109653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DLC_menu_front_boss_46
+      rect:
+        serializedVersion: 2
+        x: 2223
+        y: 359
+        width: 456
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91792c5d132d45c30800000000000000
+      internalID: 4347330651800901401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DLC_menu_front_boss_47
+      rect:
+        serializedVersion: 2
+        x: 2779
+        y: 359
+        width: 456
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae5bdf35d59276110800000000000000
+      internalID: 1254016502063805930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DLC_menu_front_boss_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 455
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 034fca0c1ccc128d0800000000000000
+      internalID: -2872789954752351184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DLC_menu_front_boss_49
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 0
+        width: 456
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 313165232b828ad20800000000000000
+      internalID: 3289924273607938835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DLC_menu_front_boss_50
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 0
+        width: 456
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64ac70ac56b51bc70800000000000000
+      internalID: 8985063224320182854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DLC_menu_front_boss_51
+      rect:
+        serializedVersion: 2
+        x: 1667
+        y: 0
+        width: 456
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6202853fab8c2020800000000000000
+      internalID: 2318381492822213226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DLC_menu_front_boss_52
+      rect:
+        serializedVersion: 2
+        x: 2223
+        y: 0
+        width: 456
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9504313ca94aeb20800000000000000
+      internalID: 3164422692089890207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DLC_menu_front_boss_53
+      rect:
+        serializedVersion: 2
+        x: 2779
+        y: 0
+        width: 457
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 684b4a88318256670800000000000000
+      internalID: 8531269133485257862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      DLC_menu_front_boss_0: -5870989252030674041
+      DLC_menu_front_boss_1: -5294747146686461865
+      DLC_menu_front_boss_10: 6855022935516876937
+      DLC_menu_front_boss_11: 3537721413820812070
+      DLC_menu_front_boss_12: -2798252722570120791
+      DLC_menu_front_boss_13: -8432850792762714329
+      DLC_menu_front_boss_14: 5123311531355662391
+      DLC_menu_front_boss_15: 3375270026756710970
+      DLC_menu_front_boss_16: 8422108264577279948
+      DLC_menu_front_boss_17: -7138163237856810920
+      DLC_menu_front_boss_18: -6070828305950483573
+      DLC_menu_front_boss_19: -9041503901891200378
+      DLC_menu_front_boss_2: 858134562797054154
+      DLC_menu_front_boss_20: -5630790206338980697
+      DLC_menu_front_boss_21: 1073639065536127712
+      DLC_menu_front_boss_22: 3404862168912900221
+      DLC_menu_front_boss_23: 4179113335505584095
+      DLC_menu_front_boss_24: -7110086924279363656
+      DLC_menu_front_boss_25: -136384309508372151
+      DLC_menu_front_boss_26: 4528798432028835791
+      DLC_menu_front_boss_27: -5997058572514408381
+      DLC_menu_front_boss_28: 4571528730057198651
+      DLC_menu_front_boss_29: 6290924991957423321
+      DLC_menu_front_boss_3: -6849875080094897141
+      DLC_menu_front_boss_30: -8565842719418114528
+      DLC_menu_front_boss_31: 6037579296399465684
+      DLC_menu_front_boss_32: -5606314755592594881
+      DLC_menu_front_boss_33: -4452002580743743803
+      DLC_menu_front_boss_34: -3763782757297791160
+      DLC_menu_front_boss_35: 7407862633744934631
+      DLC_menu_front_boss_36: 1338827803864118532
+      DLC_menu_front_boss_37: -6476531885170101630
+      DLC_menu_front_boss_38: 327134701626749130
+      DLC_menu_front_boss_39: -2284192118463429518
+      DLC_menu_front_boss_4: -1629472142029431246
+      DLC_menu_front_boss_40: 8751723311714633523
+      DLC_menu_front_boss_41: 9132491211699928897
+      DLC_menu_front_boss_42: 1151506010078799547
+      DLC_menu_front_boss_43: 1221587639994728286
+      DLC_menu_front_boss_44: 7002907888258121904
+      DLC_menu_front_boss_45: -2565268346597109653
+      DLC_menu_front_boss_46: 4347330651800901401
+      DLC_menu_front_boss_47: 1254016502063805930
+      DLC_menu_front_boss_48: -2872789954752351184
+      DLC_menu_front_boss_49: 3289924273607938835
+      DLC_menu_front_boss_5: -3612231917981399243
+      DLC_menu_front_boss_50: 8985063224320182854
+      DLC_menu_front_boss_51: 2318381492822213226
+      DLC_menu_front_boss_52: 3164422692089890207
+      DLC_menu_front_boss_53: 8531269133485257862
+      DLC_menu_front_boss_6: -6162116189461263574
+      DLC_menu_front_boss_7: -8401969560324097468
+      DLC_menu_front_boss_8: 3467301854161234574
+      DLC_menu_front_boss_9: -3193252542673749312
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

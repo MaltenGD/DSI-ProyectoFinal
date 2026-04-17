@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: ac84af6eff318204e87e0271117aa43d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 246514359062742476
+    second: breakableRelicsCemeteryVessel_0
+  - first:
+      213: -365566999433504434
+    second: breakableRelicsCemeteryVessel_1
+  - first:
+      213: -3520470025596884747
+    second: breakableRelicsCemeteryVessel_2
+  - first:
+      213: -3943250813712090643
+    second: breakableRelicsCemeteryVessel_3
+  - first:
+      213: -2357942372849519474
+    second: breakableRelicsCemeteryVessel_4
+  - first:
+      213: 4259594427501735830
+    second: breakableRelicsCemeteryVessel_5
+  - first:
+      213: -2676842437616340169
+    second: breakableRelicsCemeteryVessel_6
+  - first:
+      213: 4465656515767648503
+    second: breakableRelicsCemeteryVessel_7
+  - first:
+      213: -7874821718712441183
+    second: breakableRelicsCemeteryVessel_8
+  - first:
+      213: 6843353384113061627
+    second: breakableRelicsCemeteryVessel_9
+  - first:
+      213: 7933799616297860997
+    second: breakableRelicsCemeteryVessel_10
+  - first:
+      213: -8173248542899222708
+    second: breakableRelicsCemeteryVessel_11
+  - first:
+      213: 6639274427782416916
+    second: breakableRelicsCemeteryVessel_12
+  - first:
+      213: 8195639185730096119
+    second: breakableRelicsCemeteryVessel_13
+  - first:
+      213: -1837952706931374366
+    second: breakableRelicsCemeteryVessel_14
+  - first:
+      213: -2921514852890394316
+    second: breakableRelicsCemeteryVessel_15
+  - first:
+      213: 9042280948635102061
+    second: breakableRelicsCemeteryVessel_16
+  - first:
+      213: -6471184576577669989
+    second: breakableRelicsCemeteryVessel_17
+  - first:
+      213: -2123901907179168737
+    second: breakableRelicsCemeteryVessel_18
+  - first:
+      213: -673098717560470834
+    second: breakableRelicsCemeteryVessel_19
+  - first:
+      213: 9195080722249995865
+    second: breakableRelicsCemeteryVessel_20
+  - first:
+      213: -338753943628561492
+    second: breakableRelicsCemeteryVessel_21
+  - first:
+      213: 1650436927166030668
+    second: breakableRelicsCemeteryVessel_22
+  - first:
+      213: -3410016015309305523
+    second: breakableRelicsCemeteryVessel_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: breakableRelicsCemeteryVessel_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 94
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc5c7f3e08bcb6300800000000000000
+      internalID: 246514359062742476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableRelicsCemeteryVessel_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 77
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e49192930ce3deaf0800000000000000
+      internalID: -365566999433504434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableRelicsCemeteryVessel_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 79
+        width: 14
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f823e9f927c42fc0800000000000000
+      internalID: -3520470025596884747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableRelicsCemeteryVessel_3
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 70
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de9bb64f642c649c0800000000000000
+      internalID: -3943250813712090643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableRelicsCemeteryVessel_4
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 75
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e847671a7e7e64fd0800000000000000
+      internalID: -2357942372849519474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableRelicsCemeteryVessel_5
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 58
+        width: 29
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69f6972409e1d1b30800000000000000
+      internalID: 4259594427501735830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableRelicsCemeteryVessel_6
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 74
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 733ff2a4cf1f9dad0800000000000000
+      internalID: -2676842437616340169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableRelicsCemeteryVessel_7
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 60
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f04d37e0f239fd30800000000000000
+      internalID: 4465656515767648503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableRelicsCemeteryVessel_8
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 44
+        width: 65
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a62d929e5307b290800000000000000
+      internalID: -7874821718712441183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableRelicsCemeteryVessel_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 36
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfeb68c25a978fe50800000000000000
+      internalID: 6843353384113061627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableRelicsCemeteryVessel_10
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 71
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58f709847b48a1e60800000000000000
+      internalID: 7933799616297860997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableRelicsCemeteryVessel_11
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 53
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c47438301c9c29e80800000000000000
+      internalID: -8173248542899222708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableRelicsCemeteryVessel_12
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 0
+        width: 39
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41a4e4a6ae0732c50800000000000000
+      internalID: 6639274427782416916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableRelicsCemeteryVessel_13
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 57
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fbc6b4ca62ccb170800000000000000
+      internalID: 8195639185730096119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableRelicsCemeteryVessel_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e6436d30c74e76e0800000000000000
+      internalID: -1837952706931374366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableRelicsCemeteryVessel_15
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 19
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 431c07b58b1b477d0800000000000000
+      internalID: -2921514852890394316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableRelicsCemeteryVessel_16
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 21
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6b6dae5d92ac7d70800000000000000
+      internalID: 9042280948635102061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableRelicsCemeteryVessel_17
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 30
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b94f915d9ebb136a0800000000000000
+      internalID: -6471184576577669989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableRelicsCemeteryVessel_18
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 2
+        width: 39
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1c9fc4e7726682e0800000000000000
+      internalID: -2123901907179168737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableRelicsCemeteryVessel_19
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 46
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec28909584ca8a6f0800000000000000
+      internalID: -673098717560470834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableRelicsCemeteryVessel_20
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 17
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 956d0c2033d7b9f70800000000000000
+      internalID: 9195080722249995865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableRelicsCemeteryVessel_21
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 0
+        width: 61
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca3c1c345118c4bf0800000000000000
+      internalID: -338753943628561492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableRelicsCemeteryVessel_22
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 3
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c432bef04a787e610800000000000000
+      internalID: 1650436927166030668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableRelicsCemeteryVessel_23
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 0
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d49881940803da0d0800000000000000
+      internalID: -3410016015309305523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      breakableRelicsCemeteryVessel_0: 246514359062742476
+      breakableRelicsCemeteryVessel_1: -365566999433504434
+      breakableRelicsCemeteryVessel_10: 7933799616297860997
+      breakableRelicsCemeteryVessel_11: -8173248542899222708
+      breakableRelicsCemeteryVessel_12: 6639274427782416916
+      breakableRelicsCemeteryVessel_13: 8195639185730096119
+      breakableRelicsCemeteryVessel_14: -1837952706931374366
+      breakableRelicsCemeteryVessel_15: -2921514852890394316
+      breakableRelicsCemeteryVessel_16: 9042280948635102061
+      breakableRelicsCemeteryVessel_17: -6471184576577669989
+      breakableRelicsCemeteryVessel_18: -2123901907179168737
+      breakableRelicsCemeteryVessel_19: -673098717560470834
+      breakableRelicsCemeteryVessel_2: -3520470025596884747
+      breakableRelicsCemeteryVessel_20: 9195080722249995865
+      breakableRelicsCemeteryVessel_21: -338753943628561492
+      breakableRelicsCemeteryVessel_22: 1650436927166030668
+      breakableRelicsCemeteryVessel_23: -3410016015309305523
+      breakableRelicsCemeteryVessel_3: -3943250813712090643
+      breakableRelicsCemeteryVessel_4: -2357942372849519474
+      breakableRelicsCemeteryVessel_5: 4259594427501735830
+      breakableRelicsCemeteryVessel_6: -2676842437616340169
+      breakableRelicsCemeteryVessel_7: 4465656515767648503
+      breakableRelicsCemeteryVessel_8: -7874821718712441183
+      breakableRelicsCemeteryVessel_9: 6843353384113061627
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

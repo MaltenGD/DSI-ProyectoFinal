@@ -1,0 +1,1729 @@
+fileFormatVersion: 2
+guid: 70d80b8d012a92344bd639a7f1f5d0af
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8297081112625406135
+    second: penitence-system-spritesheet_0
+  - first:
+      213: 122357350440429422
+    second: penitence-system-spritesheet_1
+  - first:
+      213: -1199235360259895438
+    second: penitence-system-spritesheet_2
+  - first:
+      213: 3754603375419688951
+    second: penitence-system-spritesheet_3
+  - first:
+      213: -4192867903557524596
+    second: penitence-system-spritesheet_4
+  - first:
+      213: 8409231296139123662
+    second: penitence-system-spritesheet_5
+  - first:
+      213: -1641566827251156556
+    second: penitence-system-spritesheet_6
+  - first:
+      213: -6531435226461186399
+    second: penitence-system-spritesheet_7
+  - first:
+      213: 2885379287778464369
+    second: penitence-system-spritesheet_8
+  - first:
+      213: -3943157169572167603
+    second: penitence-system-spritesheet_9
+  - first:
+      213: -2849474846165729314
+    second: penitence-system-spritesheet_10
+  - first:
+      213: -2263711984229410766
+    second: penitence-system-spritesheet_11
+  - first:
+      213: 3989335016705341513
+    second: penitence-system-spritesheet_12
+  - first:
+      213: -8866477692633352674
+    second: penitence-system-spritesheet_13
+  - first:
+      213: 3356449139944762117
+    second: penitence-system-spritesheet_14
+  - first:
+      213: 5433469174243367506
+    second: penitence-system-spritesheet_15
+  - first:
+      213: 1191934710780874824
+    second: penitence-system-spritesheet_16
+  - first:
+      213: -488199714642766080
+    second: penitence-system-spritesheet_17
+  - first:
+      213: 7118099464375359285
+    second: penitence-system-spritesheet_18
+  - first:
+      213: -6175469961533708085
+    second: penitence-system-spritesheet_19
+  - first:
+      213: 677190517939507953
+    second: penitence-system-spritesheet_20
+  - first:
+      213: -2048645703423797613
+    second: penitence-system-spritesheet_21
+  - first:
+      213: -4004445609392235848
+    second: penitence-system-spritesheet_22
+  - first:
+      213: -6731189668727845266
+    second: penitence-system-spritesheet_23
+  - first:
+      213: 513477105686821851
+    second: penitence-system-spritesheet_24
+  - first:
+      213: -7028752712079960585
+    second: penitence-system-spritesheet_25
+  - first:
+      213: 7969686919325123581
+    second: penitence-system-spritesheet_26
+  - first:
+      213: 7430579682059645119
+    second: penitence-system-spritesheet_27
+  - first:
+      213: -4015259603996489224
+    second: penitence-system-spritesheet_28
+  - first:
+      213: 8754022992498915489
+    second: penitence-system-spritesheet_29
+  - first:
+      213: -115840707858654134
+    second: penitence-system-spritesheet_30
+  - first:
+      213: 4792062985886375873
+    second: penitence-system-spritesheet_31
+  - first:
+      213: -3746972036326925680
+    second: penitence-system-spritesheet_32
+  - first:
+      213: -5254255341361785636
+    second: penitence-system-spritesheet_33
+  - first:
+      213: 1266066499281132445
+    second: penitence-system-spritesheet_34
+  - first:
+      213: 8702743260450297516
+    second: penitence-system-spritesheet_35
+  - first:
+      213: -7472526628017874621
+    second: penitence-system-spritesheet_36
+  - first:
+      213: -1099087957143655503
+    second: penitence-system-spritesheet_37
+  - first:
+      213: -2306987682561897972
+    second: penitence-system-spritesheet_38
+  - first:
+      213: -448238358195188598
+    second: penitence-system-spritesheet_39
+  - first:
+      213: -99153880617654020
+    second: penitence-system-spritesheet_40
+  - first:
+      213: 7697175494746487723
+    second: penitence-system-spritesheet_41
+  - first:
+      213: -9036853908394666019
+    second: penitence-system-spritesheet_42
+  - first:
+      213: 5797621823610929109
+    second: penitence-system-spritesheet_43
+  - first:
+      213: -4489670534273728479
+    second: penitence-system-spritesheet_44
+  - first:
+      213: -3018347023768398562
+    second: penitence-system-spritesheet_45
+  - first:
+      213: -8630355523283904119
+    second: penitence-system-spritesheet_46
+  - first:
+      213: -4362348892920234213
+    second: penitence-system-spritesheet_47
+  - first:
+      213: 7396190662080726804
+    second: penitence-system-spritesheet_48
+  - first:
+      213: 1165476216835502077
+    second: penitence-system-spritesheet_49
+  - first:
+      213: -3278370226676555446
+    second: penitence-system-spritesheet_50
+  - first:
+      213: -5514813972329243825
+    second: penitence-system-spritesheet_51
+  - first:
+      213: -563534239723073437
+    second: penitence-system-spritesheet_52
+  - first:
+      213: 8841025920630344840
+    second: penitence-system-spritesheet_53
+  - first:
+      213: -2698831779129289558
+    second: penitence-system-spritesheet_54
+  - first:
+      213: -6046482460690645479
+    second: penitence-system-spritesheet_55
+  - first:
+      213: -4905875778824129255
+    second: penitence-system-spritesheet_56
+  - first:
+      213: -4538538416606601149
+    second: penitence-system-spritesheet_57
+  - first:
+      213: -615559203186932860
+    second: penitence-system-spritesheet_58
+  - first:
+      213: 6874768854080723221
+    second: penitence-system-spritesheet_59
+  - first:
+      213: 9093675732179677250
+    second: penitence-system-spritesheet_60
+  - first:
+      213: 6083785744653418835
+    second: penitence-system-spritesheet_61
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: penitence-system-spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 407
+        width: 112
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94f1c5910b8dadc80800000000000000
+      internalID: -8297081112625406135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitence-system-spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 399
+        width: 96
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e67e8a8ac53b2b100800000000000000
+      internalID: 122357350440429422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitence-system-spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 406
+        width: 112
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27f0f9d2bc57b5fe0800000000000000
+      internalID: -1199235360259895438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitence-system-spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 398
+        width: 96
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f78f5090e70b1430800000000000000
+      internalID: 3754603375419688951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitence-system-spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 469
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8321524bd0ffc5c0800000000000000
+      internalID: -4192867903557524596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitence-system-spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 452
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecb58705f4793b470800000000000000
+      internalID: 8409231296139123662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitence-system-spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 469
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b931a20babf739e0800000000000000
+      internalID: -1641566827251156556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitence-system-spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 452
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a6de4d344eab55a0800000000000000
+      internalID: -6531435226461186399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitence-system-spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 469
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1721e42cc2dea0820800000000000000
+      internalID: 2885379287778464369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitence-system-spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 452
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d40cd1e22771749c0800000000000000
+      internalID: -3943157169572167603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitence-system-spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 435
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edf71ed79b1a478d0800000000000000
+      internalID: -2849474846165729314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitence-system-spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 435
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 238163aa1fda590e0800000000000000
+      internalID: -2263711984229410766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitence-system-spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 435
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 948bfb0bf07fc5730800000000000000
+      internalID: 3989335016705341513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitence-system-spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 414
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e16f9a1e381f3f480800000000000000
+      internalID: -8866477692633352674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitence-system-spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 414
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50ba215a5b0849e20800000000000000
+      internalID: 3356449139944762117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitence-system-spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 414
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25a9fcc1d6f876b40800000000000000
+      internalID: 5433469174243367506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitence-system-spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 307
+        width: 110
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8405d87ed4a9a8010800000000000000
+      internalID: 1191934710780874824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitence-system-spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 286
+        width: 94
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 007554532f09939f0800000000000000
+      internalID: -488199714642766080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitence-system-spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 299
+        width: 110
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 537ddf1efb198c260800000000000000
+      internalID: 7118099464375359285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitence-system-spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 285
+        width: 94
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc820bdf9c25c4aa0800000000000000
+      internalID: -6175469961533708085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitence-system-spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 268
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f21c0b203dd56900800000000000000
+      internalID: 677190517939507953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitence-system-spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 251
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3965bc0469fb193e0800000000000000
+      internalID: -2048645703423797613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitence-system-spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 268
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ba9dc94fe95d68c0800000000000000
+      internalID: -4004445609392235848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitence-system-spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 251
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6e82bfd8a20692a0800000000000000
+      internalID: -6731189668727845266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitence-system-spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 268
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdb32c405bc302700800000000000000
+      internalID: 513477105686821851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitence-system-spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 251
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f51966f5aad47e90800000000000000
+      internalID: -7028752712079960585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitence-system-spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 268
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df3837527040a9e60800000000000000
+      internalID: 7969686919325123581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitence-system-spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 251
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb076681ad8be1760800000000000000
+      internalID: 7430579682059645119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitence-system-spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 268
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f940d6f9aee648c0800000000000000
+      internalID: -4015259603996489224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitence-system-spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 251
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a8ff77e7898c7970800000000000000
+      internalID: 8754022992498915489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitence-system-spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 268
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4c1e8d6d73746ef0800000000000000
+      internalID: -115840707858654134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitence-system-spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 251
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cf1e0f65e3d08240800000000000000
+      internalID: 4792062985886375873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitence-system-spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 268
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09a596709c4100cc0800000000000000
+      internalID: -3746972036326925680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitence-system-spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 251
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd49ee2fa922517b0800000000000000
+      internalID: -5254255341361785636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitence-system-spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 268
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9b9cafe5c8f19110800000000000000
+      internalID: 1266066499281132445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitence-system-spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 251
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca69092e2ea56c870800000000000000
+      internalID: 8702743260450297516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitence-system-spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 268
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 349d85a7f904c4890800000000000000
+      internalID: -7472526628017874621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitence-system-spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 251
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bbea8183514fb0f0800000000000000
+      internalID: -1099087957143655503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitence-system-spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 268
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0a42b7fceeebffd0800000000000000
+      internalID: -2306987682561897972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitence-system-spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 251
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8c421d869987c9f0800000000000000
+      internalID: -448238358195188598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitence-system-spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 268
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf8eea7221cbf9ef0800000000000000
+      internalID: -99153880617654020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitence-system-spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 251
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: babb432c45cd1da60800000000000000
+      internalID: 7697175494746487723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitence-system-spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 268
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd71907ef35a69280800000000000000
+      internalID: -9036853908394666019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitence-system-spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 251
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dfb16ad45a457050800000000000000
+      internalID: 5797621823610929109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitence-system-spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 268
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1208316bf6c71b1c0800000000000000
+      internalID: -4489670534273728479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitence-system-spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 251
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e155d6faf5dac16d0800000000000000
+      internalID: -3018347023768398562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitence-system-spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 268
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 989155d8061da3880800000000000000
+      internalID: -8630355523283904119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitence-system-spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 251
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1fbb2b6bc2d573c0800000000000000
+      internalID: -4362348892920234213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitence-system-spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 234
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4170260783c84a660800000000000000
+      internalID: 7396190662080726804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitence-system-spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 234
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dff65aab17a9c2010800000000000000
+      internalID: 1165476216835502077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitence-system-spritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 234
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a412abcf5a3e082d0800000000000000
+      internalID: -3278370226676555446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitence-system-spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 234
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4b54f039e17773b0800000000000000
+      internalID: -5514813972329243825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitence-system-spritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 234
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 360598e389ced28f0800000000000000
+      internalID: -563534239723073437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitence-system-spritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 234
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88c4139ab32a1ba70800000000000000
+      internalID: 8841025920630344840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitence-system-spritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 234
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa49670cbc2db8ad0800000000000000
+      internalID: -2698831779129289558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitence-system-spritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 234
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91e77e5dc34961ca0800000000000000
+      internalID: -6046482460690645479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitence-system-spritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 234
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 915befab8f3daebb0800000000000000
+      internalID: -4905875778824129255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitence-system-spritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 234
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34023b63b5fd301c0800000000000000
+      internalID: -4538538416606601149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitence-system-spritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 234
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48302d38a281577f0800000000000000
+      internalID: -615559203186932860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitence-system-spritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 234
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 519966449d5186f50800000000000000
+      internalID: 6874768854080723221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitence-system-spritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 234
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 240f827e5e9333e70800000000000000
+      internalID: 9093675732179677250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitence-system-spritesheet_61
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 234
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35107a7c6e2fd6450800000000000000
+      internalID: 6083785744653418835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      penitence-system-spritesheet_0: -8297081112625406135
+      penitence-system-spritesheet_1: 122357350440429422
+      penitence-system-spritesheet_10: -2849474846165729314
+      penitence-system-spritesheet_11: -2263711984229410766
+      penitence-system-spritesheet_12: 3989335016705341513
+      penitence-system-spritesheet_13: -8866477692633352674
+      penitence-system-spritesheet_14: 3356449139944762117
+      penitence-system-spritesheet_15: 5433469174243367506
+      penitence-system-spritesheet_16: 1191934710780874824
+      penitence-system-spritesheet_17: -488199714642766080
+      penitence-system-spritesheet_18: 7118099464375359285
+      penitence-system-spritesheet_19: -6175469961533708085
+      penitence-system-spritesheet_2: -1199235360259895438
+      penitence-system-spritesheet_20: 677190517939507953
+      penitence-system-spritesheet_21: -2048645703423797613
+      penitence-system-spritesheet_22: -4004445609392235848
+      penitence-system-spritesheet_23: -6731189668727845266
+      penitence-system-spritesheet_24: 513477105686821851
+      penitence-system-spritesheet_25: -7028752712079960585
+      penitence-system-spritesheet_26: 7969686919325123581
+      penitence-system-spritesheet_27: 7430579682059645119
+      penitence-system-spritesheet_28: -4015259603996489224
+      penitence-system-spritesheet_29: 8754022992498915489
+      penitence-system-spritesheet_3: 3754603375419688951
+      penitence-system-spritesheet_30: -115840707858654134
+      penitence-system-spritesheet_31: 4792062985886375873
+      penitence-system-spritesheet_32: -3746972036326925680
+      penitence-system-spritesheet_33: -5254255341361785636
+      penitence-system-spritesheet_34: 1266066499281132445
+      penitence-system-spritesheet_35: 8702743260450297516
+      penitence-system-spritesheet_36: -7472526628017874621
+      penitence-system-spritesheet_37: -1099087957143655503
+      penitence-system-spritesheet_38: -2306987682561897972
+      penitence-system-spritesheet_39: -448238358195188598
+      penitence-system-spritesheet_4: -4192867903557524596
+      penitence-system-spritesheet_40: -99153880617654020
+      penitence-system-spritesheet_41: 7697175494746487723
+      penitence-system-spritesheet_42: -9036853908394666019
+      penitence-system-spritesheet_43: 5797621823610929109
+      penitence-system-spritesheet_44: -4489670534273728479
+      penitence-system-spritesheet_45: -3018347023768398562
+      penitence-system-spritesheet_46: -8630355523283904119
+      penitence-system-spritesheet_47: -4362348892920234213
+      penitence-system-spritesheet_48: 7396190662080726804
+      penitence-system-spritesheet_49: 1165476216835502077
+      penitence-system-spritesheet_5: 8409231296139123662
+      penitence-system-spritesheet_50: -3278370226676555446
+      penitence-system-spritesheet_51: -5514813972329243825
+      penitence-system-spritesheet_52: -563534239723073437
+      penitence-system-spritesheet_53: 8841025920630344840
+      penitence-system-spritesheet_54: -2698831779129289558
+      penitence-system-spritesheet_55: -6046482460690645479
+      penitence-system-spritesheet_56: -4905875778824129255
+      penitence-system-spritesheet_57: -4538538416606601149
+      penitence-system-spritesheet_58: -615559203186932860
+      penitence-system-spritesheet_59: 6874768854080723221
+      penitence-system-spritesheet_6: -1641566827251156556
+      penitence-system-spritesheet_60: 9093675732179677250
+      penitence-system-spritesheet_61: 6083785744653418835
+      penitence-system-spritesheet_7: -6531435226461186399
+      penitence-system-spritesheet_8: 2885379287778464369
+      penitence-system-spritesheet_9: -3943157169572167603
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

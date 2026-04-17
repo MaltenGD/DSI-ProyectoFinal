@@ -1,0 +1,481 @@
+fileFormatVersion: 2
+guid: 682781b81711ea449ba44e0f5cf8a189
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1054404674521572744
+    second: boat-trail-spritesheet_0
+  - first:
+      213: -1136840846928712896
+    second: boat-trail-spritesheet_1
+  - first:
+      213: -5286162972231665627
+    second: boat-trail-spritesheet_2
+  - first:
+      213: 6602525530722652952
+    second: boat-trail-spritesheet_3
+  - first:
+      213: 7846891337180743150
+    second: boat-trail-spritesheet_4
+  - first:
+      213: -739478210828932064
+    second: boat-trail-spritesheet_5
+  - first:
+      213: 3747780867919611971
+    second: boat-trail-spritesheet_6
+  - first:
+      213: -234562040406010248
+    second: boat-trail-spritesheet_7
+  - first:
+      213: 5386994963000716513
+    second: boat-trail-spritesheet_8
+  - first:
+      213: 2457365531446106860
+    second: boat-trail-spritesheet_9
+  - first:
+      213: 1936040509778989798
+    second: boat-trail-spritesheet_10
+  - first:
+      213: 7168955019383122904
+    second: boat-trail-spritesheet_11
+  - first:
+      213: 7231937655593021545
+    second: boat-trail-spritesheet_12
+  - first:
+      213: -7734395515360180548
+    second: boat-trail-spritesheet_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: boat-trail-spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 119
+        width: 38
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87a51a5f8800e51f0800000000000000
+      internalID: -1054404674521572744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boat-trail-spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 119
+        width: 40
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04be8a0e5412930f0800000000000000
+      internalID: -1136840846928712896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boat-trail-spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 107
+        width: 29
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 528fe47b8c6c3a6b0800000000000000
+      internalID: -5286162972231665627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boat-trail-spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 95
+        width: 26
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 813db2f0df1e0ab50800000000000000
+      internalID: 6602525530722652952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boat-trail-spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 83
+        width: 23
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee58fb7b812c5ec60800000000000000
+      internalID: 7846891337180743150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boat-trail-spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 71
+        width: 22
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02c66643c78dcb5f0800000000000000
+      internalID: -739478210828932064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boat-trail-spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 72
+        width: 67
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3488a50c7dac20430800000000000000
+      internalID: 3747780867919611971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boat-trail-spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 95
+        width: 27
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8761fc7211baebcf0800000000000000
+      internalID: -234562040406010248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boat-trail-spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 83
+        width: 24
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ece978906372ca40800000000000000
+      internalID: 5386994963000716513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boat-trail-spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 71
+        width: 22
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cea52216ee05a1220800000000000000
+      internalID: 2457365531446106860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boat-trail-spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 59
+        width: 36
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e2942806923eda10800000000000000
+      internalID: 1936040509778989798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boat-trail-spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 48
+        width: 37
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dba51d7b9e3d7360800000000000000
+      internalID: 7168955019383122904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boat-trail-spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 47
+        width: 22
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 960b4673bf00d5460800000000000000
+      internalID: 7231937655593021545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boat-trail-spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 47
+        width: 37
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb60592e148e9a490800000000000000
+      internalID: -7734395515360180548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      boat-trail-spritesheet_0: -1054404674521572744
+      boat-trail-spritesheet_1: -1136840846928712896
+      boat-trail-spritesheet_10: 1936040509778989798
+      boat-trail-spritesheet_11: 7168955019383122904
+      boat-trail-spritesheet_12: 7231937655593021545
+      boat-trail-spritesheet_13: -7734395515360180548
+      boat-trail-spritesheet_2: -5286162972231665627
+      boat-trail-spritesheet_3: 6602525530722652952
+      boat-trail-spritesheet_4: 7846891337180743150
+      boat-trail-spritesheet_5: -739478210828932064
+      boat-trail-spritesheet_6: 3747780867919611971
+      boat-trail-spritesheet_7: -234562040406010248
+      boat-trail-spritesheet_8: 5386994963000716513
+      boat-trail-spritesheet_9: 2457365531446106860
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

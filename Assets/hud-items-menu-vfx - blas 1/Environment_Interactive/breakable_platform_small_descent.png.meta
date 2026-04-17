@@ -1,0 +1,2951 @@
+fileFormatVersion: 2
+guid: 6baf137ae2d06ff4da514d3686186132
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8639702799414090565
+    second: breakable_platform_small_descent_0
+  - first:
+      213: 6074312997841477929
+    second: breakable_platform_small_descent_1
+  - first:
+      213: -9060516713308994804
+    second: breakable_platform_small_descent_2
+  - first:
+      213: 7057279851520686449
+    second: breakable_platform_small_descent_3
+  - first:
+      213: 650038770839626576
+    second: breakable_platform_small_descent_4
+  - first:
+      213: 638872895146834095
+    second: breakable_platform_small_descent_5
+  - first:
+      213: 5784883342746101286
+    second: breakable_platform_small_descent_6
+  - first:
+      213: 1933899415142531796
+    second: breakable_platform_small_descent_7
+  - first:
+      213: 7269541230039217993
+    second: breakable_platform_small_descent_8
+  - first:
+      213: 8242349221371866630
+    second: breakable_platform_small_descent_9
+  - first:
+      213: 5959883772840812035
+    second: breakable_platform_small_descent_10
+  - first:
+      213: 4992069793899714183
+    second: breakable_platform_small_descent_11
+  - first:
+      213: 4317284201430714471
+    second: breakable_platform_small_descent_12
+  - first:
+      213: -2170744104889069215
+    second: breakable_platform_small_descent_13
+  - first:
+      213: -5330065026778476096
+    second: breakable_platform_small_descent_14
+  - first:
+      213: 6896210612694036253
+    second: breakable_platform_small_descent_15
+  - first:
+      213: 3227898184634826508
+    second: breakable_platform_small_descent_16
+  - first:
+      213: 2746204385711667509
+    second: breakable_platform_small_descent_17
+  - first:
+      213: -5928835763264719693
+    second: breakable_platform_small_descent_18
+  - first:
+      213: -4219676173933133678
+    second: breakable_platform_small_descent_19
+  - first:
+      213: -2893818904439464349
+    second: breakable_platform_small_descent_20
+  - first:
+      213: 1545792401120759968
+    second: breakable_platform_small_descent_21
+  - first:
+      213: -1877235164549029679
+    second: breakable_platform_small_descent_22
+  - first:
+      213: 2159265168683605733
+    second: breakable_platform_small_descent_23
+  - first:
+      213: 2783889798291640335
+    second: breakable_platform_small_descent_24
+  - first:
+      213: 785184640696623354
+    second: breakable_platform_small_descent_25
+  - first:
+      213: 5446292320754805908
+    second: breakable_platform_small_descent_26
+  - first:
+      213: 4947282118163521630
+    second: breakable_platform_small_descent_27
+  - first:
+      213: 2082007958319014705
+    second: breakable_platform_small_descent_28
+  - first:
+      213: -8244659203725653327
+    second: breakable_platform_small_descent_29
+  - first:
+      213: 8409209603087073603
+    second: breakable_platform_small_descent_30
+  - first:
+      213: -8534241247673430602
+    second: breakable_platform_small_descent_31
+  - first:
+      213: 836654898396627425
+    second: breakable_platform_small_descent_32
+  - first:
+      213: 5239157767803902708
+    second: breakable_platform_small_descent_33
+  - first:
+      213: 3125856985395749902
+    second: breakable_platform_small_descent_34
+  - first:
+      213: 1028183454332976426
+    second: breakable_platform_small_descent_35
+  - first:
+      213: 2381053394866574159
+    second: breakable_platform_small_descent_36
+  - first:
+      213: 2952781743869325533
+    second: breakable_platform_small_descent_37
+  - first:
+      213: -8227635476599679187
+    second: breakable_platform_small_descent_38
+  - first:
+      213: -2924230359481454987
+    second: breakable_platform_small_descent_39
+  - first:
+      213: -1247493724883155789
+    second: breakable_platform_small_descent_40
+  - first:
+      213: -2374080095918879586
+    second: breakable_platform_small_descent_41
+  - first:
+      213: 7438559792332104288
+    second: breakable_platform_small_descent_42
+  - first:
+      213: 2755189828323537635
+    second: breakable_platform_small_descent_43
+  - first:
+      213: 5684458978908711276
+    second: breakable_platform_small_descent_44
+  - first:
+      213: -7462086994140798876
+    second: breakable_platform_small_descent_45
+  - first:
+      213: 2722788478074340077
+    second: breakable_platform_small_descent_46
+  - first:
+      213: -485749754223013114
+    second: breakable_platform_small_descent_47
+  - first:
+      213: 3642094122311736571
+    second: breakable_platform_small_descent_48
+  - first:
+      213: 3293366864991544683
+    second: breakable_platform_small_descent_49
+  - first:
+      213: 5504185530582028474
+    second: breakable_platform_small_descent_50
+  - first:
+      213: 7547957281904093451
+    second: breakable_platform_small_descent_51
+  - first:
+      213: 1295129480889591843
+    second: breakable_platform_small_descent_52
+  - first:
+      213: 8194664428285646234
+    second: breakable_platform_small_descent_53
+  - first:
+      213: 4873905013928367306
+    second: breakable_platform_small_descent_54
+  - first:
+      213: -7158238272843660983
+    second: breakable_platform_small_descent_55
+  - first:
+      213: 7828679065275909486
+    second: breakable_platform_small_descent_56
+  - first:
+      213: 8972311652479556044
+    second: breakable_platform_small_descent_57
+  - first:
+      213: 7479954639879020170
+    second: breakable_platform_small_descent_58
+  - first:
+      213: 6856780111096113813
+    second: breakable_platform_small_descent_59
+  - first:
+      213: 994542697361975650
+    second: breakable_platform_small_descent_60
+  - first:
+      213: 7947823547106456719
+    second: breakable_platform_small_descent_61
+  - first:
+      213: -3898058656702266350
+    second: breakable_platform_small_descent_62
+  - first:
+      213: -683925642610802542
+    second: breakable_platform_small_descent_63
+  - first:
+      213: -803358020754560902
+    second: breakable_platform_small_descent_64
+  - first:
+      213: -2581433522802897645
+    second: breakable_platform_small_descent_65
+  - first:
+      213: -2165355367319478193
+    second: breakable_platform_small_descent_66
+  - first:
+      213: 3738901130025325321
+    second: breakable_platform_small_descent_67
+  - first:
+      213: -966094366179724784
+    second: breakable_platform_small_descent_68
+  - first:
+      213: 1876869864143157606
+    second: breakable_platform_small_descent_69
+  - first:
+      213: 4075772146530166120
+    second: breakable_platform_small_descent_70
+  - first:
+      213: -2581084813510968018
+    second: breakable_platform_small_descent_71
+  - first:
+      213: -2059164157734876174
+    second: breakable_platform_small_descent_72
+  - first:
+      213: 8469178325512609301
+    second: breakable_platform_small_descent_73
+  - first:
+      213: -502143202285401844
+    second: breakable_platform_small_descent_74
+  - first:
+      213: 1294289228882559003
+    second: breakable_platform_small_descent_75
+  - first:
+      213: 8966498455303177288
+    second: breakable_platform_small_descent_76
+  - first:
+      213: 2945168094555445062
+    second: breakable_platform_small_descent_77
+  - first:
+      213: -2394992248527590328
+    second: breakable_platform_small_descent_78
+  - first:
+      213: 228711593997969403
+    second: breakable_platform_small_descent_79
+  - first:
+      213: -62491872314510246
+    second: breakable_platform_small_descent_80
+  - first:
+      213: 8879326789090777182
+    second: breakable_platform_small_descent_81
+  - first:
+      213: 5138260181286713176
+    second: breakable_platform_small_descent_82
+  - first:
+      213: 9101786733877606766
+    second: breakable_platform_small_descent_83
+  - first:
+      213: 2971855262587974112
+    second: breakable_platform_small_descent_84
+  - first:
+      213: -3187016675933402772
+    second: breakable_platform_small_descent_85
+  - first:
+      213: 6122051815971669433
+    second: breakable_platform_small_descent_86
+  - first:
+      213: -7369209979066402676
+    second: breakable_platform_small_descent_87
+  - first:
+      213: -1634236386796006384
+    second: breakable_platform_small_descent_88
+  - first:
+      213: -4078868627512833795
+    second: breakable_platform_small_descent_89
+  - first:
+      213: -841835894379175218
+    second: breakable_platform_small_descent_90
+  - first:
+      213: 7988178899810897228
+    second: breakable_platform_small_descent_91
+  - first:
+      213: -2340544526539649208
+    second: breakable_platform_small_descent_92
+  - first:
+      213: -2746891737497824213
+    second: breakable_platform_small_descent_93
+  - first:
+      213: -8040812938127096808
+    second: breakable_platform_small_descent_94
+  - first:
+      213: 6122568679815819629
+    second: breakable_platform_small_descent_95
+  - first:
+      213: -1317144790245927400
+    second: breakable_platform_small_descent_96
+  - first:
+      213: 7038585772441800484
+    second: breakable_platform_small_descent_97
+  - first:
+      213: -8162008782012393856
+    second: breakable_platform_small_descent_98
+  - first:
+      213: 1204626714003175503
+    second: breakable_platform_small_descent_99
+  - first:
+      213: 7525117462219006451
+    second: breakable_platform_small_descent_100
+  - first:
+      213: 6814276800306477779
+    second: breakable_platform_small_descent_101
+  - first:
+      213: 7204002618653169105
+    second: breakable_platform_small_descent_102
+  - first:
+      213: 3174882323792679950
+    second: breakable_platform_small_descent_103
+  - first:
+      213: 6808267805490668900
+    second: breakable_platform_small_descent_104
+  - first:
+      213: 669720824046011861
+    second: breakable_platform_small_descent_105
+  - first:
+      213: -4582543077532843074
+    second: breakable_platform_small_descent_106
+  - first:
+      213: -8279337733785397696
+    second: breakable_platform_small_descent_107
+  - first:
+      213: -1071288057237367134
+    second: breakable_platform_small_descent_108
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: breakable_platform_small_descent_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 709
+        width: 73
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb4a9fb341c991880800000000000000
+      internalID: -8639702799414090565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent_1
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 704
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92121ea0d7b4c4450800000000000000
+      internalID: 6074312997841477929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent_2
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 703
+        width: 73
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c034abdcd04924280800000000000000
+      internalID: -9060516713308994804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent_3
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 701
+        width: 73
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 179796642ae70f160800000000000000
+      internalID: 7057279851520686449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent_4
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 699
+        width: 73
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 053a02a61d6650900800000000000000
+      internalID: 650038770839626576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent_5
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 695
+        width: 73
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa83ad3638bbdd800800000000000000
+      internalID: 638872895146834095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent_6
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 691
+        width: 73
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 626a47720c8084050800000000000000
+      internalID: 5784883342746101286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent_7
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 557
+        width: 73
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d208e6954796da10800000000000000
+      internalID: 1933899415142531796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent_8
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 551
+        width: 73
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9473b88ab3992e460800000000000000
+      internalID: 7269541230039217993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent_9
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 547
+        width: 73
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60e669e62f4b26270800000000000000
+      internalID: 8242349221371866630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent_10
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 555
+        width: 73
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30e9acee6b2c5b250800000000000000
+      internalID: 5959883772840812035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent_11
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 551
+        width: 73
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78699574705674540800000000000000
+      internalID: 4992069793899714183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent_12
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 548
+        width: 73
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7680fa47b131aeb30800000000000000
+      internalID: 4317284201430714471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent_13
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 581
+        width: 73
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16150d9dcb7ffd1e0800000000000000
+      internalID: -2170744104889069215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent_14
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 445
+        width: 75
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c1d229191ec706b0800000000000000
+      internalID: -5330065026778476096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent_15
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 442
+        width: 78
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1f28e9b30344bf50800000000000000
+      internalID: 6896210612694036253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent_16
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 439
+        width: 83
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0f794afb4ccbcc20800000000000000
+      internalID: 3227898184634826508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent_17
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 433
+        width: 89
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 539b6fab65a7c1620800000000000000
+      internalID: 2746204385711667509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent_18
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 427
+        width: 60
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b479fe194b88bda0800000000000000
+      internalID: -5928835763264719693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent_19
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 431
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 290498960e2b075c0800000000000000
+      internalID: -4219676173933133678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent_20
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 446
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36e539cd90717d7d0800000000000000
+      internalID: -2893818904439464349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent_21
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 464
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a01d45bff1c37510800000000000000
+      internalID: 1545792401120759968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent_22
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 456
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d0ee295098b2f5e0800000000000000
+      internalID: -1877235164549029679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent_23
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 451
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ee924b0b3047fd10800000000000000
+      internalID: 2159265168683605733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent_24
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 430
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f00d109950d52a620800000000000000
+      internalID: 2783889798291640335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent_25
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 462
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af0a0d7454985ea00800000000000000
+      internalID: 785184640696623354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent_26
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 452
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49c2781920e159b40800000000000000
+      internalID: 5446292320754805908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent_27
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 447
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5067c8efd648a440800000000000000
+      internalID: 4947282118163521630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent_28
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 451
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13324270537c4ec10800000000000000
+      internalID: 2082007958319014705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent_29
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 453
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ba07c3e226159d80800000000000000
+      internalID: -8244659203725653327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent_30
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 431
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3410fc1849383b470800000000000000
+      internalID: 8409209603087073603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent_31
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 443
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bd40f43dc8409980800000000000000
+      internalID: -8534241247673430602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent_32
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 447
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e1858282356c9b00800000000000000
+      internalID: 836654898396627425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent_33
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 450
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fa1e284b3a35b840800000000000000
+      internalID: 5239157767803902708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent_34
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 444
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e04ef21ed56416b20800000000000000
+      internalID: 3125856985395749902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent_35
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 439
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2d73777767d44e00800000000000000
+      internalID: 1028183454332976426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent_36
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 426
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f43924082733b0120800000000000000
+      internalID: 2381053394866574159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent_37
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 422
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd0f69ef9536af820800000000000000
+      internalID: 2952781743869325533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent_38
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 441
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d27dfdb302191dd80800000000000000
+      internalID: -8227635476599679187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent_39
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 418
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57ee1b53bfb0b67d0800000000000000
+      internalID: -2924230359481454987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent_40
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 437
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b48fc4111300bee0800000000000000
+      internalID: -1247493724883155789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent_41
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 442
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9c0e6e2bb29d0fd0800000000000000
+      internalID: -2374080095918879586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent_42
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 411
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 062657e48b21b3760800000000000000
+      internalID: 7438559792332104288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent_43
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 440
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e27efd1d866c3620800000000000000
+      internalID: 2755189828323537635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent_44
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 431
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c692222e25143ee40800000000000000
+      internalID: 5684458978908711276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent_45
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 414
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 460ec272a67517890800000000000000
+      internalID: -7462086994140798876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent_46
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 409
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de2c522e1b949c520800000000000000
+      internalID: 2722788478074340077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent_47
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 420
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 603ddc11c254249f0800000000000000
+      internalID: -485749754223013114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent_48
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 366
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfcddeebe415b8230800000000000000
+      internalID: 3642094122311736571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent_49
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 359
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b65ecd6f6b364bd20800000000000000
+      internalID: 3293366864991544683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent_50
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 360
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab0df20e39bc26c40800000000000000
+      internalID: 5504185530582028474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent_51
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 356
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0967b7382bbfb860800000000000000
+      internalID: 7547957281904093451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent_52
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 362
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3286f86a66939f110800000000000000
+      internalID: 1295129480889591843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent_53
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 353
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a95de7d51eb49b170800000000000000
+      internalID: 8194664428285646234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent_54
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 356
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac4123089c693a340800000000000000
+      internalID: 4873905013928367306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent_55
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 353
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9414c818734d8ac90800000000000000
+      internalID: -7158238272843660983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent_56
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 356
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e65ce4ab12e05ac60800000000000000
+      internalID: 7828679065275909486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent_57
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 346
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc9542c19ed048c70800000000000000
+      internalID: 8972311652479556044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent_58
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 350
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8e160e4d132ec760800000000000000
+      internalID: 7479954639879020170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent_59
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 348
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59ae8d8ae2d282f50800000000000000
+      internalID: 6856780111096113813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent_60
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 330
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 269283e50535dcd00800000000000000
+      internalID: 994542697361975650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent_61
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 330
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f84f3ce18675c4e60800000000000000
+      internalID: 7947823547106456719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent_62
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 330
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21400a5fd4057e9c0800000000000000
+      internalID: -3898058656702266350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent_63
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 319
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 290076b60453286f0800000000000000
+      internalID: -683925642610802542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent_64
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 323
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a78a671f226e9d4f0800000000000000
+      internalID: -803358020754560902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent_65
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 318
+        width: 52
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31d4c0653e7ec2cd0800000000000000
+      internalID: -2581433522802897645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent_66
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 340
+        width: 39
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f40ef6614cc13f1e0800000000000000
+      internalID: -2165355367319478193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent_67
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 324
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9035779a4ce33e330800000000000000
+      internalID: 3738901130025325321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent_68
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 300
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 012f954ea4eb792f0800000000000000
+      internalID: -966094366179724784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent_69
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 323
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66973e5823bfb0a10800000000000000
+      internalID: 1876869864143157606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent_70
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 314
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 865ac534c2d009830800000000000000
+      internalID: 4075772146530166120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent_71
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 308
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2df58b89052e2cd0800000000000000
+      internalID: -2581084813510968018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent_72
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 311
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fb0ff3cb116c63e0800000000000000
+      internalID: -2059164157734876174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent_73
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 314
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51edd9fb0d0988570800000000000000
+      internalID: 8469178325512609301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent_74
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 311
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c09c6610b670809f0800000000000000
+      internalID: -502143202285401844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent_75
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 312
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b10c82c323d36f110800000000000000
+      internalID: 1294289228882559003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent_76
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 305
+        width: 47
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8444f6ba6d66f6c70800000000000000
+      internalID: 8966498455303177288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent_77
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 307
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6479acf17c65fd820800000000000000
+      internalID: 2945168094555445062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent_78
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 303
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84ce2ba3d3743ced0800000000000000
+      internalID: -2394992248527590328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent_79
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 285
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf72344abfb8c2300800000000000000
+      internalID: 228711593997969403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent_80
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 295
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a54385529fbf12ff0800000000000000
+      internalID: -62491872314510246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent_81
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 303
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e589d548ba4b93b70800000000000000
+      internalID: 8879326789090777182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent_82
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 296
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 857f0254964ce4740800000000000000
+      internalID: 5138260181286713176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent_83
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 299
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e693326afca005e70800000000000000
+      internalID: 9101786733877606766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent_84
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 295
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e17e62ad962e3920800000000000000
+      internalID: 2971855262587974112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent_85
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 291
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c694eb1083175c3d0800000000000000
+      internalID: -3187016675933402772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent_86
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 294
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b5c68bc0b5e5f450800000000000000
+      internalID: 6122051815971669433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent_87
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 304
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c88bb7a519e4bb990800000000000000
+      internalID: -7369209979066402676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent_88
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 302
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 014910e2aa60259e0800000000000000
+      internalID: -1634236386796006384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent_89
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 297
+        width: 49
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df8cc931892f467c0800000000000000
+      internalID: -4078868627512833795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent_90
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 278
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec22b5cd6b23154f0800000000000000
+      internalID: -841835894379175218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent_91
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 285
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4dcf7dd266bbde60800000000000000
+      internalID: 7988178899810897228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent_92
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 285
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84f8e926727b48fd0800000000000000
+      internalID: -2340544526539649208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent_93
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 284
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b249cf5b48411e9d0800000000000000
+      internalID: -2746891737497824213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent_94
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 269
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 814c19d1c3b496090800000000000000
+      internalID: -8040812938127096808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent_95
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 284
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d61ba5986cbb7f450800000000000000
+      internalID: 6122568679815819629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent_96
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 260
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81692a3bacf88bde0800000000000000
+      internalID: -1317144790245927400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent_97
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 269
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42f038fc7741ea160800000000000000
+      internalID: 7038585772441800484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent_98
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 263
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0865886c148babe80800000000000000
+      internalID: -8162008782012393856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent_99
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 192
+        width: 73
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f48fa1f2d91b7b010800000000000000
+      internalID: 1204626714003175503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent_100
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 191
+        width: 73
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f127ac46769e6860800000000000000
+      internalID: 7525117462219006451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent_101
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 189
+        width: 73
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3daf37375ac219e50800000000000000
+      internalID: 6814276800306477779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent_102
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 186
+        width: 73
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d55ec59632c9f360800000000000000
+      internalID: 7204002618653169105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent_103
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 181
+        width: 73
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e045459f6a27f0c20800000000000000
+      internalID: 3174882323792679950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent_104
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 175
+        width: 73
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 465eff15f73db7e50800000000000000
+      internalID: 6808267805490668900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent_105
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 166
+        width: 73
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d5c1f78a835b4900800000000000000
+      internalID: 669720824046011861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent_106
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 27
+        width: 73
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb3cabfa9598760c0800000000000000
+      internalID: -4582543077532843074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent_107
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 18
+        width: 73
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 046db3a6232e91d80800000000000000
+      internalID: -8279337733785397696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent_108
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 69
+        width: 73
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a69f3810350221f0800000000000000
+      internalID: -1071288057237367134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      breakable_platform_small_descent_0: -8639702799414090565
+      breakable_platform_small_descent_1: 6074312997841477929
+      breakable_platform_small_descent_10: 5959883772840812035
+      breakable_platform_small_descent_100: 7525117462219006451
+      breakable_platform_small_descent_101: 6814276800306477779
+      breakable_platform_small_descent_102: 7204002618653169105
+      breakable_platform_small_descent_103: 3174882323792679950
+      breakable_platform_small_descent_104: 6808267805490668900
+      breakable_platform_small_descent_105: 669720824046011861
+      breakable_platform_small_descent_106: -4582543077532843074
+      breakable_platform_small_descent_107: -8279337733785397696
+      breakable_platform_small_descent_108: -1071288057237367134
+      breakable_platform_small_descent_11: 4992069793899714183
+      breakable_platform_small_descent_12: 4317284201430714471
+      breakable_platform_small_descent_13: -2170744104889069215
+      breakable_platform_small_descent_14: -5330065026778476096
+      breakable_platform_small_descent_15: 6896210612694036253
+      breakable_platform_small_descent_16: 3227898184634826508
+      breakable_platform_small_descent_17: 2746204385711667509
+      breakable_platform_small_descent_18: -5928835763264719693
+      breakable_platform_small_descent_19: -4219676173933133678
+      breakable_platform_small_descent_2: -9060516713308994804
+      breakable_platform_small_descent_20: -2893818904439464349
+      breakable_platform_small_descent_21: 1545792401120759968
+      breakable_platform_small_descent_22: -1877235164549029679
+      breakable_platform_small_descent_23: 2159265168683605733
+      breakable_platform_small_descent_24: 2783889798291640335
+      breakable_platform_small_descent_25: 785184640696623354
+      breakable_platform_small_descent_26: 5446292320754805908
+      breakable_platform_small_descent_27: 4947282118163521630
+      breakable_platform_small_descent_28: 2082007958319014705
+      breakable_platform_small_descent_29: -8244659203725653327
+      breakable_platform_small_descent_3: 7057279851520686449
+      breakable_platform_small_descent_30: 8409209603087073603
+      breakable_platform_small_descent_31: -8534241247673430602
+      breakable_platform_small_descent_32: 836654898396627425
+      breakable_platform_small_descent_33: 5239157767803902708
+      breakable_platform_small_descent_34: 3125856985395749902
+      breakable_platform_small_descent_35: 1028183454332976426
+      breakable_platform_small_descent_36: 2381053394866574159
+      breakable_platform_small_descent_37: 2952781743869325533
+      breakable_platform_small_descent_38: -8227635476599679187
+      breakable_platform_small_descent_39: -2924230359481454987
+      breakable_platform_small_descent_4: 650038770839626576
+      breakable_platform_small_descent_40: -1247493724883155789
+      breakable_platform_small_descent_41: -2374080095918879586
+      breakable_platform_small_descent_42: 7438559792332104288
+      breakable_platform_small_descent_43: 2755189828323537635
+      breakable_platform_small_descent_44: 5684458978908711276
+      breakable_platform_small_descent_45: -7462086994140798876
+      breakable_platform_small_descent_46: 2722788478074340077
+      breakable_platform_small_descent_47: -485749754223013114
+      breakable_platform_small_descent_48: 3642094122311736571
+      breakable_platform_small_descent_49: 3293366864991544683
+      breakable_platform_small_descent_5: 638872895146834095
+      breakable_platform_small_descent_50: 5504185530582028474
+      breakable_platform_small_descent_51: 7547957281904093451
+      breakable_platform_small_descent_52: 1295129480889591843
+      breakable_platform_small_descent_53: 8194664428285646234
+      breakable_platform_small_descent_54: 4873905013928367306
+      breakable_platform_small_descent_55: -7158238272843660983
+      breakable_platform_small_descent_56: 7828679065275909486
+      breakable_platform_small_descent_57: 8972311652479556044
+      breakable_platform_small_descent_58: 7479954639879020170
+      breakable_platform_small_descent_59: 6856780111096113813
+      breakable_platform_small_descent_6: 5784883342746101286
+      breakable_platform_small_descent_60: 994542697361975650
+      breakable_platform_small_descent_61: 7947823547106456719
+      breakable_platform_small_descent_62: -3898058656702266350
+      breakable_platform_small_descent_63: -683925642610802542
+      breakable_platform_small_descent_64: -803358020754560902
+      breakable_platform_small_descent_65: -2581433522802897645
+      breakable_platform_small_descent_66: -2165355367319478193
+      breakable_platform_small_descent_67: 3738901130025325321
+      breakable_platform_small_descent_68: -966094366179724784
+      breakable_platform_small_descent_69: 1876869864143157606
+      breakable_platform_small_descent_7: 1933899415142531796
+      breakable_platform_small_descent_70: 4075772146530166120
+      breakable_platform_small_descent_71: -2581084813510968018
+      breakable_platform_small_descent_72: -2059164157734876174
+      breakable_platform_small_descent_73: 8469178325512609301
+      breakable_platform_small_descent_74: -502143202285401844
+      breakable_platform_small_descent_75: 1294289228882559003
+      breakable_platform_small_descent_76: 8966498455303177288
+      breakable_platform_small_descent_77: 2945168094555445062
+      breakable_platform_small_descent_78: -2394992248527590328
+      breakable_platform_small_descent_79: 228711593997969403
+      breakable_platform_small_descent_8: 7269541230039217993
+      breakable_platform_small_descent_80: -62491872314510246
+      breakable_platform_small_descent_81: 8879326789090777182
+      breakable_platform_small_descent_82: 5138260181286713176
+      breakable_platform_small_descent_83: 9101786733877606766
+      breakable_platform_small_descent_84: 2971855262587974112
+      breakable_platform_small_descent_85: -3187016675933402772
+      breakable_platform_small_descent_86: 6122051815971669433
+      breakable_platform_small_descent_87: -7369209979066402676
+      breakable_platform_small_descent_88: -1634236386796006384
+      breakable_platform_small_descent_89: -4078868627512833795
+      breakable_platform_small_descent_9: 8242349221371866630
+      breakable_platform_small_descent_90: -841835894379175218
+      breakable_platform_small_descent_91: 7988178899810897228
+      breakable_platform_small_descent_92: -2340544526539649208
+      breakable_platform_small_descent_93: -2746891737497824213
+      breakable_platform_small_descent_94: -8040812938127096808
+      breakable_platform_small_descent_95: 6122568679815819629
+      breakable_platform_small_descent_96: -1317144790245927400
+      breakable_platform_small_descent_97: 7038585772441800484
+      breakable_platform_small_descent_98: -8162008782012393856
+      breakable_platform_small_descent_99: 1204626714003175503
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,611 @@
+fileFormatVersion: 2
+guid: b49788fb7128e7c46aab8785186abf17
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6722964077664617062
+    second: ashplatform_64x64_novisible_to_visible_0
+  - first:
+      213: -2633748392623710086
+    second: ashplatform_64x64_novisible_to_visible_1
+  - first:
+      213: 8662108206692713018
+    second: ashplatform_64x64_novisible_to_visible_2
+  - first:
+      213: 7939829372631065280
+    second: ashplatform_64x64_novisible_to_visible_3
+  - first:
+      213: -8726800115263386085
+    second: ashplatform_64x64_novisible_to_visible_4
+  - first:
+      213: 319809229418602950
+    second: ashplatform_64x64_novisible_to_visible_5
+  - first:
+      213: -3436594902876938286
+    second: ashplatform_64x64_novisible_to_visible_6
+  - first:
+      213: -1800219704701782960
+    second: ashplatform_64x64_novisible_to_visible_7
+  - first:
+      213: 6159410053947911396
+    second: ashplatform_64x64_novisible_to_visible_8
+  - first:
+      213: -7921660462802492620
+    second: ashplatform_64x64_novisible_to_visible_9
+  - first:
+      213: -8961408915787275245
+    second: ashplatform_64x64_novisible_to_visible_10
+  - first:
+      213: -3533548114508843648
+    second: ashplatform_64x64_novisible_to_visible_11
+  - first:
+      213: 5960687247692893184
+    second: ashplatform_64x64_novisible_to_visible_12
+  - first:
+      213: 6446687530215776550
+    second: ashplatform_64x64_novisible_to_visible_13
+  - first:
+      213: 168255682491532707
+    second: ashplatform_64x64_novisible_to_visible_14
+  - first:
+      213: 184821749446602543
+    second: ashplatform_64x64_novisible_to_visible_15
+  - first:
+      213: 8033903622977416223
+    second: ashplatform_64x64_novisible_to_visible_16
+  - first:
+      213: 5039953024031068424
+    second: ashplatform_64x64_novisible_to_visible_17
+  - first:
+      213: -8602977137241420196
+    second: ashplatform_64x64_novisible_to_visible_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ashplatform_64x64_novisible_to_visible_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 195
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9db6198acb33b2a0800000000000000
+      internalID: -6722964077664617062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ashplatform_64x64_novisible_to_visible_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 234
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7068e58acb037bd0800000000000000
+      internalID: -2633748392623710086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ashplatform_64x64_novisible_to_visible_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 159
+        width: 53
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a324ae9258df53870800000000000000
+      internalID: 8662108206692713018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ashplatform_64x64_novisible_to_visible_3
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 187
+        width: 35
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c223e45fb0ff2e60800000000000000
+      internalID: 7939829372631065280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ashplatform_64x64_novisible_to_visible_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 126
+        width: 58
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1e43ef188d24e680800000000000000
+      internalID: -8726800115263386085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ashplatform_64x64_novisible_to_visible_5
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 116
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c1236bbcc0307400800000000000000
+      internalID: 319809229418602950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ashplatform_64x64_novisible_to_visible_6
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 160
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2df1a19c423ce40d0800000000000000
+      internalID: -3436594902876938286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ashplatform_64x64_novisible_to_visible_7
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 111
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 054779f67b55407e0800000000000000
+      internalID: -1800219704701782960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ashplatform_64x64_novisible_to_visible_8
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 155
+        width: 29
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ece8836fce9a7550800000000000000
+      internalID: 6159410053947911396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ashplatform_64x64_novisible_to_visible_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 91
+        width: 58
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 433a663a7cb901290800000000000000
+      internalID: -7921660462802492620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ashplatform_64x64_novisible_to_visible_10
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 116
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3142b77121ea2a380800000000000000
+      internalID: -8961408915787275245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ashplatform_64x64_novisible_to_visible_11
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 110
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 085f2fd16b056fec0800000000000000
+      internalID: -3533548114508843648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ashplatform_64x64_novisible_to_visible_12
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 88
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00c8fef787d98b250800000000000000
+      internalID: 5960687247692893184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ashplatform_64x64_novisible_to_visible_13
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 92
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 621a378172c377950800000000000000
+      internalID: 6446687530215776550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ashplatform_64x64_novisible_to_visible_14
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 87
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a5495ad6a3c55200800000000000000
+      internalID: 168255682491532707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ashplatform_64x64_novisible_to_visible_15
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 87
+        width: 51
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2fe782e66e909200800000000000000
+      internalID: 184821749446602543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ashplatform_64x64_novisible_to_visible_16
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 115
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1cea4797c82e7f60800000000000000
+      internalID: 8033903622977416223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ashplatform_64x64_novisible_to_visible_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 45
+        width: 242
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8011702929281f540800000000000000
+      internalID: 5039953024031068424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ashplatform_64x64_novisible_to_visible_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 254
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5e0bebcfd51c9880800000000000000
+      internalID: -8602977137241420196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ashplatform_64x64_novisible_to_visible_0: -6722964077664617062
+      ashplatform_64x64_novisible_to_visible_1: -2633748392623710086
+      ashplatform_64x64_novisible_to_visible_10: -8961408915787275245
+      ashplatform_64x64_novisible_to_visible_11: -3533548114508843648
+      ashplatform_64x64_novisible_to_visible_12: 5960687247692893184
+      ashplatform_64x64_novisible_to_visible_13: 6446687530215776550
+      ashplatform_64x64_novisible_to_visible_14: 168255682491532707
+      ashplatform_64x64_novisible_to_visible_15: 184821749446602543
+      ashplatform_64x64_novisible_to_visible_16: 8033903622977416223
+      ashplatform_64x64_novisible_to_visible_17: 5039953024031068424
+      ashplatform_64x64_novisible_to_visible_18: -8602977137241420196
+      ashplatform_64x64_novisible_to_visible_2: 8662108206692713018
+      ashplatform_64x64_novisible_to_visible_3: 7939829372631065280
+      ashplatform_64x64_novisible_to_visible_4: -8726800115263386085
+      ashplatform_64x64_novisible_to_visible_5: 319809229418602950
+      ashplatform_64x64_novisible_to_visible_6: -3436594902876938286
+      ashplatform_64x64_novisible_to_visible_7: -1800219704701782960
+      ashplatform_64x64_novisible_to_visible_8: 6159410053947911396
+      ashplatform_64x64_novisible_to_visible_9: -7921660462802492620
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

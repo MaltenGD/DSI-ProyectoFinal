@@ -1,0 +1,429 @@
+fileFormatVersion: 2
+guid: d05ef5c42e1a12846bf8584222742f4d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6207424622392135954
+    second: OilBaptismalFont_Fill_fixed_0
+  - first:
+      213: -8640469914670506063
+    second: OilBaptismalFont_Fill_fixed_1
+  - first:
+      213: 4328248788978252471
+    second: OilBaptismalFont_Fill_fixed_2
+  - first:
+      213: -7693338215709764985
+    second: OilBaptismalFont_Fill_fixed_3
+  - first:
+      213: -4764142654328984457
+    second: OilBaptismalFont_Fill_fixed_4
+  - first:
+      213: -6016262226732816601
+    second: OilBaptismalFont_Fill_fixed_5
+  - first:
+      213: -5243149566000643857
+    second: OilBaptismalFont_Fill_fixed_6
+  - first:
+      213: -3199540389558417015
+    second: OilBaptismalFont_Fill_fixed_7
+  - first:
+      213: -1870453372293551032
+    second: OilBaptismalFont_Fill_fixed_8
+  - first:
+      213: 4829821903249697629
+    second: OilBaptismalFont_Fill_fixed_9
+  - first:
+      213: 6714242969108902866
+    second: OilBaptismalFont_Fill_fixed_10
+  - first:
+      213: -2824842218329398700
+    second: OilBaptismalFont_Fill_fixed_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: OilBaptismalFont_Fill_fixed_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 211
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeead4cb13ccad9a0800000000000000
+      internalID: -6207424622392135954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OilBaptismalFont_Fill_fixed_1
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 211
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bf5d9b4462e61880800000000000000
+      internalID: -8640469914670506063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OilBaptismalFont_Fill_fixed_2
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 211
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ba309e6757011c30800000000000000
+      internalID: 4328248788978252471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OilBaptismalFont_Fill_fixed_3
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 211
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7829ea367a5cb3590800000000000000
+      internalID: -7693338215709764985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OilBaptismalFont_Fill_fixed_4
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 211
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77c2f655f7d52edb0800000000000000
+      internalID: -4764142654328984457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OilBaptismalFont_Fill_fixed_5
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 163
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7276dfb5161f18ca0800000000000000
+      internalID: -6016262226732816601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OilBaptismalFont_Fill_fixed_6
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 163
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe0c946cf379c37b0800000000000000
+      internalID: -5243149566000643857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OilBaptismalFont_Fill_fixed_7
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 163
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9890bd3b7f2f893d0800000000000000
+      internalID: -3199540389558417015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OilBaptismalFont_Fill_fixed_8
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 163
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84ce2876190da06e0800000000000000
+      internalID: -1870453372293551032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OilBaptismalFont_Fill_fixed_9
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 163
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5b69977e69f60340800000000000000
+      internalID: 4829821903249697629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OilBaptismalFont_Fill_fixed_10
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 115
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d376652868cd2d50800000000000000
+      internalID: 6714242969108902866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OilBaptismalFont_Fill_fixed_11
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 115
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45223f518f42cc8d0800000000000000
+      internalID: -2824842218329398700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      OilBaptismalFont_Fill_fixed_0: -6207424622392135954
+      OilBaptismalFont_Fill_fixed_1: -8640469914670506063
+      OilBaptismalFont_Fill_fixed_10: 6714242969108902866
+      OilBaptismalFont_Fill_fixed_11: -2824842218329398700
+      OilBaptismalFont_Fill_fixed_2: 4328248788978252471
+      OilBaptismalFont_Fill_fixed_3: -7693338215709764985
+      OilBaptismalFont_Fill_fixed_4: -4764142654328984457
+      OilBaptismalFont_Fill_fixed_5: -6016262226732816601
+      OilBaptismalFont_Fill_fixed_6: -5243149566000643857
+      OilBaptismalFont_Fill_fixed_7: -3199540389558417015
+      OilBaptismalFont_Fill_fixed_8: -1870453372293551032
+      OilBaptismalFont_Fill_fixed_9: 4829821903249697629
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

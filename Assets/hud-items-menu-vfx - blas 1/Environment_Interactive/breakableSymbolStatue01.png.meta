@@ -1,0 +1,897 @@
+fileFormatVersion: 2
+guid: 4d6714818f762fd499192b6fa33746bf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2098636197375565569
+    second: breakableSymbolStatue01_0
+  - first:
+      213: 4377092098582724569
+    second: breakableSymbolStatue01_1
+  - first:
+      213: -2784858579626952056
+    second: breakableSymbolStatue01_2
+  - first:
+      213: -8661060104690514040
+    second: breakableSymbolStatue01_3
+  - first:
+      213: -7896083409609803712
+    second: breakableSymbolStatue01_4
+  - first:
+      213: 4742285800448131444
+    second: breakableSymbolStatue01_5
+  - first:
+      213: -5811921271579514520
+    second: breakableSymbolStatue01_6
+  - first:
+      213: -2465546577908666113
+    second: breakableSymbolStatue01_7
+  - first:
+      213: -2500232200406620428
+    second: breakableSymbolStatue01_8
+  - first:
+      213: 1963080003962171278
+    second: breakableSymbolStatue01_9
+  - first:
+      213: -4207835857923141083
+    second: breakableSymbolStatue01_10
+  - first:
+      213: 1309949070086301509
+    second: breakableSymbolStatue01_11
+  - first:
+      213: 1540192101794053780
+    second: breakableSymbolStatue01_12
+  - first:
+      213: 4072353181589433338
+    second: breakableSymbolStatue01_13
+  - first:
+      213: 9011790671026454037
+    second: breakableSymbolStatue01_14
+  - first:
+      213: -2382990873694201491
+    second: breakableSymbolStatue01_15
+  - first:
+      213: 8554600315536933498
+    second: breakableSymbolStatue01_16
+  - first:
+      213: -1866708581080490541
+    second: breakableSymbolStatue01_17
+  - first:
+      213: 6640876000279914303
+    second: breakableSymbolStatue01_18
+  - first:
+      213: -6263714300616117134
+    second: breakableSymbolStatue01_19
+  - first:
+      213: -7289795969388975425
+    second: breakableSymbolStatue01_20
+  - first:
+      213: -2601366871872839391
+    second: breakableSymbolStatue01_21
+  - first:
+      213: 6297863334710413915
+    second: breakableSymbolStatue01_22
+  - first:
+      213: 3652149661831760982
+    second: breakableSymbolStatue01_23
+  - first:
+      213: 3094033644935144842
+    second: breakableSymbolStatue01_24
+  - first:
+      213: 8186898466993713406
+    second: breakableSymbolStatue01_25
+  - first:
+      213: 380754284736495549
+    second: breakableSymbolStatue01_26
+  - first:
+      213: 2983610407846302921
+    second: breakableSymbolStatue01_27
+  - first:
+      213: -5140350518583297873
+    second: breakableSymbolStatue01_28
+  - first:
+      213: -8357269860104012759
+    second: breakableSymbolStatue01_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: breakableSymbolStatue01_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 70
+        width: 43
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff027ae5f7520e2e0800000000000000
+      internalID: -2098636197375565569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableSymbolStatue01_1
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 182
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9df3135a21e8ebc30800000000000000
+      internalID: 4377092098582724569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableSymbolStatue01_2
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 83
+        width: 44
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88af2ab60e13a59d0800000000000000
+      internalID: -2784858579626952056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableSymbolStatue01_3
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 83
+        width: 137
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8874d9919bbbdc780800000000000000
+      internalID: -8661060104690514040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableSymbolStatue01_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 41
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0483a5569f97b6290800000000000000
+      internalID: -7896083409609803712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableSymbolStatue01_5
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 57
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 471071f4fcbffc140800000000000000
+      internalID: 4742285800448131444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableSymbolStatue01_6
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 35
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86967f87568e75fa0800000000000000
+      internalID: -5811921271579514520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableSymbolStatue01_7
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 55
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff0f29e437e98cdd0800000000000000
+      internalID: -2465546577908666113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableSymbolStatue01_8
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 19
+        width: 29
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f625ce7f046d4dd0800000000000000
+      internalID: -2500232200406620428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableSymbolStatue01_9
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 46
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8f66dddcd24e3b10800000000000000
+      internalID: 1963080003962171278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableSymbolStatue01_10
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 0
+        width: 34
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 522175fc493ca95c0800000000000000
+      internalID: -4207835857923141083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableSymbolStatue01_11
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 0
+        width: 27
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 547e8542dbfdd2210800000000000000
+      internalID: 1309949070086301509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableSymbolStatue01_12
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 32
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49efb496e8cdf5510800000000000000
+      internalID: 1540192101794053780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableSymbolStatue01_13
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 16
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afbe19474a7e38830800000000000000
+      internalID: 4072353181589433338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableSymbolStatue01_14
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 26
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51ef5b86edf401d70800000000000000
+      internalID: 9011790671026454037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableSymbolStatue01_15
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 19
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d69957e0d6aedeed0800000000000000
+      internalID: -2382990873694201491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableSymbolStatue01_16
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 15
+        width: 8
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a72060ba9ab08b670800000000000000
+      internalID: 8554600315536933498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableSymbolStatue01_17
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 3
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dd168d8f6e1816e0800000000000000
+      internalID: -1866708581080490541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableSymbolStatue01_18
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 3
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f37e9129981292c50800000000000000
+      internalID: 6640876000279914303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableSymbolStatue01_19
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 274fd39b701d219a0800000000000000
+      internalID: -6263714300616117134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableSymbolStatue01_20
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 3
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbaee77503175da90800000000000000
+      internalID: -7289795969388975425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableSymbolStatue01_21
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 6
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 121ec87dc9616ebd0800000000000000
+      internalID: -2601366871872839391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableSymbolStatue01_22
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 21
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5a0f5dd551866750800000000000000
+      internalID: 6297863334710413915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableSymbolStatue01_23
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 9
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65c8b0c74ca0fa230800000000000000
+      internalID: 3652149661831760982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableSymbolStatue01_24
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 4
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a856779053730fa20800000000000000
+      internalID: 3094033644935144842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableSymbolStatue01_25
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 0
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef0b95997c4bd9170800000000000000
+      internalID: 8186898466993713406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableSymbolStatue01_26
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 8
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbf3d603106b84500800000000000000
+      internalID: 380754284736495549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableSymbolStatue01_27
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 3
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c456dbabd9e76920800000000000000
+      internalID: 2983610407846302921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableSymbolStatue01_28
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 0
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa8f8d6207ec9a8b0800000000000000
+      internalID: -5140350518583297873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableSymbolStatue01_29
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 8
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92cfb684753050c80800000000000000
+      internalID: -8357269860104012759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      breakableSymbolStatue01_0: -2098636197375565569
+      breakableSymbolStatue01_1: 4377092098582724569
+      breakableSymbolStatue01_10: -4207835857923141083
+      breakableSymbolStatue01_11: 1309949070086301509
+      breakableSymbolStatue01_12: 1540192101794053780
+      breakableSymbolStatue01_13: 4072353181589433338
+      breakableSymbolStatue01_14: 9011790671026454037
+      breakableSymbolStatue01_15: -2382990873694201491
+      breakableSymbolStatue01_16: 8554600315536933498
+      breakableSymbolStatue01_17: -1866708581080490541
+      breakableSymbolStatue01_18: 6640876000279914303
+      breakableSymbolStatue01_19: -6263714300616117134
+      breakableSymbolStatue01_2: -2784858579626952056
+      breakableSymbolStatue01_20: -7289795969388975425
+      breakableSymbolStatue01_21: -2601366871872839391
+      breakableSymbolStatue01_22: 6297863334710413915
+      breakableSymbolStatue01_23: 3652149661831760982
+      breakableSymbolStatue01_24: 3094033644935144842
+      breakableSymbolStatue01_25: 8186898466993713406
+      breakableSymbolStatue01_26: 380754284736495549
+      breakableSymbolStatue01_27: 2983610407846302921
+      breakableSymbolStatue01_28: -5140350518583297873
+      breakableSymbolStatue01_29: -8357269860104012759
+      breakableSymbolStatue01_3: -8661060104690514040
+      breakableSymbolStatue01_4: -7896083409609803712
+      breakableSymbolStatue01_5: 4742285800448131444
+      breakableSymbolStatue01_6: -5811921271579514520
+      breakableSymbolStatue01_7: -2465546577908666113
+      breakableSymbolStatue01_8: -2500232200406620428
+      breakableSymbolStatue01_9: 1963080003962171278
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

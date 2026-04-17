@@ -1,0 +1,2561 @@
+fileFormatVersion: 2
+guid: 05bfbb194b58c714d88c3ae162dd7bbc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1622877473381140392
+    second: breakable_platform_big_wood_0
+  - first:
+      213: 7495029675553640992
+    second: breakable_platform_big_wood_1
+  - first:
+      213: -4793045805262000668
+    second: breakable_platform_big_wood_2
+  - first:
+      213: -5187777804629799151
+    second: breakable_platform_big_wood_3
+  - first:
+      213: -8082850010047855109
+    second: breakable_platform_big_wood_4
+  - first:
+      213: 8558997953957414648
+    second: breakable_platform_big_wood_5
+  - first:
+      213: 6069040855791967737
+    second: breakable_platform_big_wood_6
+  - first:
+      213: 1115142379171634778
+    second: breakable_platform_big_wood_7
+  - first:
+      213: 2134422002978317587
+    second: breakable_platform_big_wood_8
+  - first:
+      213: 4576710242101629358
+    second: breakable_platform_big_wood_9
+  - first:
+      213: -5419951170720954599
+    second: breakable_platform_big_wood_10
+  - first:
+      213: 4130629079223421799
+    second: breakable_platform_big_wood_11
+  - first:
+      213: 5760707745087097891
+    second: breakable_platform_big_wood_12
+  - first:
+      213: 4333971447684006553
+    second: breakable_platform_big_wood_13
+  - first:
+      213: -3997167248345879637
+    second: breakable_platform_big_wood_14
+  - first:
+      213: 2827903859554410647
+    second: breakable_platform_big_wood_15
+  - first:
+      213: -6775173330008790384
+    second: breakable_platform_big_wood_16
+  - first:
+      213: 6603933703866162034
+    second: breakable_platform_big_wood_17
+  - first:
+      213: -2781000106807041326
+    second: breakable_platform_big_wood_18
+  - first:
+      213: -2508955848303619092
+    second: breakable_platform_big_wood_19
+  - first:
+      213: -8682343468595895930
+    second: breakable_platform_big_wood_20
+  - first:
+      213: 7071869365667381881
+    second: breakable_platform_big_wood_21
+  - first:
+      213: -8116729439201767977
+    second: breakable_platform_big_wood_22
+  - first:
+      213: -5540651615174047222
+    second: breakable_platform_big_wood_23
+  - first:
+      213: 2990284530390056472
+    second: breakable_platform_big_wood_24
+  - first:
+      213: -5712311749134201633
+    second: breakable_platform_big_wood_25
+  - first:
+      213: 8902505319076693798
+    second: breakable_platform_big_wood_26
+  - first:
+      213: -6496051116759281478
+    second: breakable_platform_big_wood_27
+  - first:
+      213: 396263942539509686
+    second: breakable_platform_big_wood_28
+  - first:
+      213: 3293983656539712231
+    second: breakable_platform_big_wood_29
+  - first:
+      213: 7392626773730489427
+    second: breakable_platform_big_wood_30
+  - first:
+      213: -7103197134602938216
+    second: breakable_platform_big_wood_31
+  - first:
+      213: 7951918794490206432
+    second: breakable_platform_big_wood_32
+  - first:
+      213: 18654628857766657
+    second: breakable_platform_big_wood_33
+  - first:
+      213: 3534232453237240888
+    second: breakable_platform_big_wood_34
+  - first:
+      213: 3066701330322807726
+    second: breakable_platform_big_wood_35
+  - first:
+      213: -1489513038472942839
+    second: breakable_platform_big_wood_36
+  - first:
+      213: -8092983766486035062
+    second: breakable_platform_big_wood_37
+  - first:
+      213: -4828741576677292047
+    second: breakable_platform_big_wood_38
+  - first:
+      213: 3184962344669142731
+    second: breakable_platform_big_wood_39
+  - first:
+      213: 8403449317647315041
+    second: breakable_platform_big_wood_40
+  - first:
+      213: -361923636093559159
+    second: breakable_platform_big_wood_41
+  - first:
+      213: -2533138617141990265
+    second: breakable_platform_big_wood_42
+  - first:
+      213: -8244858547825313918
+    second: breakable_platform_big_wood_43
+  - first:
+      213: -7578283970206177137
+    second: breakable_platform_big_wood_44
+  - first:
+      213: 6767038706718541674
+    second: breakable_platform_big_wood_45
+  - first:
+      213: -5708161600967312375
+    second: breakable_platform_big_wood_46
+  - first:
+      213: -7826828426034770662
+    second: breakable_platform_big_wood_47
+  - first:
+      213: -2225503762449180673
+    second: breakable_platform_big_wood_48
+  - first:
+      213: 873780373623821123
+    second: breakable_platform_big_wood_49
+  - first:
+      213: 7451993225250566538
+    second: breakable_platform_big_wood_50
+  - first:
+      213: 7218255367844661833
+    second: breakable_platform_big_wood_51
+  - first:
+      213: -3697979277469975871
+    second: breakable_platform_big_wood_52
+  - first:
+      213: -6200066164890027745
+    second: breakable_platform_big_wood_53
+  - first:
+      213: 1848205614337793891
+    second: breakable_platform_big_wood_54
+  - first:
+      213: -6183287757191469855
+    second: breakable_platform_big_wood_55
+  - first:
+      213: -7129240346491526296
+    second: breakable_platform_big_wood_56
+  - first:
+      213: -2141975811266270188
+    second: breakable_platform_big_wood_57
+  - first:
+      213: 9028900157750542770
+    second: breakable_platform_big_wood_58
+  - first:
+      213: -1078237778041975121
+    second: breakable_platform_big_wood_59
+  - first:
+      213: 6062683230450226238
+    second: breakable_platform_big_wood_60
+  - first:
+      213: -4393602110353097425
+    second: breakable_platform_big_wood_61
+  - first:
+      213: 605211639840488314
+    second: breakable_platform_big_wood_62
+  - first:
+      213: -3915561697493952387
+    second: breakable_platform_big_wood_63
+  - first:
+      213: 4779992201464165711
+    second: breakable_platform_big_wood_64
+  - first:
+      213: 3172613428208758571
+    second: breakable_platform_big_wood_65
+  - first:
+      213: 27932763904103900
+    second: breakable_platform_big_wood_66
+  - first:
+      213: -4202288443607129576
+    second: breakable_platform_big_wood_67
+  - first:
+      213: 4348495475354286693
+    second: breakable_platform_big_wood_68
+  - first:
+      213: -4532534001692878904
+    second: breakable_platform_big_wood_69
+  - first:
+      213: -3778049156136225991
+    second: breakable_platform_big_wood_70
+  - first:
+      213: -1463890789464768806
+    second: breakable_platform_big_wood_71
+  - first:
+      213: -4972356820756946538
+    second: breakable_platform_big_wood_72
+  - first:
+      213: -8996167122034739624
+    second: breakable_platform_big_wood_73
+  - first:
+      213: 4121457863963802950
+    second: breakable_platform_big_wood_74
+  - first:
+      213: -6011437067582705065
+    second: breakable_platform_big_wood_75
+  - first:
+      213: -73044733133851469
+    second: breakable_platform_big_wood_76
+  - first:
+      213: -845343016437576047
+    second: breakable_platform_big_wood_77
+  - first:
+      213: -2858486241212217233
+    second: breakable_platform_big_wood_78
+  - first:
+      213: -8176099330934749748
+    second: breakable_platform_big_wood_79
+  - first:
+      213: 2937991449521129296
+    second: breakable_platform_big_wood_80
+  - first:
+      213: -376642780909518062
+    second: breakable_platform_big_wood_81
+  - first:
+      213: 5800663760544806987
+    second: breakable_platform_big_wood_82
+  - first:
+      213: -3036370028109558564
+    second: breakable_platform_big_wood_83
+  - first:
+      213: 4449367757009408037
+    second: breakable_platform_big_wood_84
+  - first:
+      213: 2953169646126774633
+    second: breakable_platform_big_wood_85
+  - first:
+      213: 8672696407612771272
+    second: breakable_platform_big_wood_86
+  - first:
+      213: -7222687816716427624
+    second: breakable_platform_big_wood_87
+  - first:
+      213: 3298215960613271748
+    second: breakable_platform_big_wood_88
+  - first:
+      213: 4215719105907436039
+    second: breakable_platform_big_wood_89
+  - first:
+      213: -446293008498403301
+    second: breakable_platform_big_wood_90
+  - first:
+      213: 7560881687566928323
+    second: breakable_platform_big_wood_91
+  - first:
+      213: -4799947454605002338
+    second: breakable_platform_big_wood_92
+  - first:
+      213: 7570357265894003305
+    second: breakable_platform_big_wood_93
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: breakable_platform_big_wood_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 454
+        width: 512
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 858322d49816a79e0800000000000000
+      internalID: -1622877473381140392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_wood_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 426
+        width: 129
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 022d26097c1b30860800000000000000
+      internalID: 7495029675553640992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_wood_2
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 417
+        width: 131
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4edae291c3eab7db0800000000000000
+      internalID: -4793045805262000668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_wood_3
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 417
+        width: 130
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11f826d929f4108b0800000000000000
+      internalID: -5187777804629799151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_wood_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 389
+        width: 129
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf5c55a9db2f3df80800000000000000
+      internalID: -8082850010047855109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_wood_5
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 419
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f64de6aa4ba7c670800000000000000
+      internalID: 8558997953957414648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_wood_6
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 419
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fd10d0d080993450800000000000000
+      internalID: 6069040855791967737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_wood_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 287
+        width: 512
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5e5288e518c97f00800000000000000
+      internalID: 1115142379171634778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_wood_8
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 379
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 315ec48c08dfe9d10800000000000000
+      internalID: 2134422002978317587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_wood_9
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 377
+        width: 131
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea11c5c77bdb38f30800000000000000
+      internalID: 4576710242101629358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_wood_10
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 380
+        width: 130
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9170739502778c4b0800000000000000
+      internalID: -5419951170720954599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_wood_11
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 379
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76bc2063341f25930800000000000000
+      internalID: 4130629079223421799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_wood_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 235
+        width: 129
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32c02c03c2522ff40800000000000000
+      internalID: 5760707745087097891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_wood_13
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 295
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99204edb11c552c30800000000000000
+      internalID: 4333971447684006553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_wood_14
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 297
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baba486c0953788c0800000000000000
+      internalID: -3997167248345879637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_wood_15
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 287
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79062bfc39bbe3720800000000000000
+      internalID: 2827903859554410647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_wood_16
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 289
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09a2025b0cfb9f1a0800000000000000
+      internalID: -6775173330008790384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_wood_17
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 288
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27b1c2be6b2e5ab50800000000000000
+      internalID: 6603933703866162034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_wood_18
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 294
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d261712327e769d0800000000000000
+      internalID: -2781000106807041326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_wood_19
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 296
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce359b0f2f56e2dd0800000000000000
+      internalID: -2508955848303619092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_wood_20
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 288
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 681a868cd9e128780800000000000000
+      internalID: -8682343468595895930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_wood_21
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 290
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 972429e38b3542260800000000000000
+      internalID: 7071869365667381881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_wood_22
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 290
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dd4c6e44959b5f80800000000000000
+      internalID: -8116729439201767977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_wood_23
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 234
+        width: 132
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0a4b5d26b6ab13b0800000000000000
+      internalID: -5540651615174047222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_wood_24
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 273
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81ebe3befef9f7920800000000000000
+      internalID: 2990284530390056472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_wood_25
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 276
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdcc092babac9b0b0800000000000000
+      internalID: -5712311749134201633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_wood_26
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 255
+        width: 130
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62787929b6d0c8b70800000000000000
+      internalID: 8902505319076693798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_wood_27
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 234
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab098c64de369d5a0800000000000000
+      internalID: -6496051116759281478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_wood_28
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 243
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bffc5cc4ffcf7500800000000000000
+      internalID: 396263942539509686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_wood_29
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 245
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eaedffeea496bd20800000000000000
+      internalID: 3293983656539712231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_wood_30
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 236
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3547f3502e2e79660800000000000000
+      internalID: 7392626773730489427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_wood_31
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 237
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8985b6627df5c6d90800000000000000
+      internalID: -7103197134602938216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_wood_32
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 234
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e857543304ea5e60800000000000000
+      internalID: 7951918794490206432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_wood_33
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 222
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 103eb7e3946424000800000000000000
+      internalID: 18654628857766657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_wood_34
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 224
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 834fcd8e0bd1c0130800000000000000
+      internalID: 3534232453237240888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_wood_35
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 229
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eabdb12ac9c1f8a20800000000000000
+      internalID: 3066701330322807726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_wood_36
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 200
+        width: 258
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90be18588cf245be0800000000000000
+      internalID: -1489513038472942839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_wood_37
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 219
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a85d8919422ffaf80800000000000000
+      internalID: -8092983766486035062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_wood_38
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 214
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f78df9ae1ddcfcb0800000000000000
+      internalID: -4828741576677292047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_wood_39
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 221
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcedff8b062433c20800000000000000
+      internalID: 3184962344669142731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_wood_40
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 212
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 160fd5a81ac0f9470800000000000000
+      internalID: 8403449317647315041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_wood_41
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 217
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98e53dade503afaf0800000000000000
+      internalID: -361923636093559159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_wood_42
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 219
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78c6d6e49db78dcd0800000000000000
+      internalID: -2533138617141990265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_wood_43
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 219
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 287778975d0649d80800000000000000
+      internalID: -8244858547825313918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_wood_44
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 218
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f88e2dc61e684d690800000000000000
+      internalID: -7578283970206177137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_wood_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 136
+        width: 132
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a670747b9d959ed50800000000000000
+      internalID: 6767038706718541674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_wood_46
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 209
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90c71dd544988c0b0800000000000000
+      internalID: -5708161600967312375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_wood_47
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 214
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1d844cc305816390800000000000000
+      internalID: -7826828426034770662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_wood_48
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 211
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff7dbe88e1c6d11e0800000000000000
+      internalID: -2225503762449180673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_wood_49
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 175
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3435e8dce9a402c00800000000000000
+      internalID: 873780373623821123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_wood_50
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 174
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a817da32b5cca6760800000000000000
+      internalID: 7451993225250566538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_wood_51
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 184
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94a007a53056c2460800000000000000
+      internalID: 7218255367844661833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_wood_52
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 185
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ca75ab90732eacc0800000000000000
+      internalID: -3697979277469975871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_wood_53
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 185
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f19bfc12ca0f4f9a0800000000000000
+      internalID: -6200066164890027745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_wood_54
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 174
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36f9c7ac63526a910800000000000000
+      internalID: 1848205614337793891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_wood_55
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 176
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e4a4989b8c803aa0800000000000000
+      internalID: -6183287757191469855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_wood_56
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 161
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8636dfc5da9df0d90800000000000000
+      internalID: -7129240346491526296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_wood_57
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 132
+        width: 130
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41caefb295c2642e0800000000000000
+      internalID: -2141975811266270188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_wood_58
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 151
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b180373bd81d4d70800000000000000
+      internalID: 9028900157750542770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_wood_59
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 97
+        width: 11
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faec66024745901f0800000000000000
+      internalID: -1078237778041975121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_wood_60
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 91
+        width: 114
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3414b0d64af22450800000000000000
+      internalID: 6062683230450226238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_wood_61
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 104
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2d3fffa82ac603c0800000000000000
+      internalID: -4393602110353097425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_wood_62
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 101
+        width: 11
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7bbf96a7c4266800800000000000000
+      internalID: 605211639840488314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_wood_63
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 107
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d785fb4b16129a9c0800000000000000
+      internalID: -3915561697493952387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_wood_64
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 118
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f45b86de491f55240800000000000000
+      internalID: 4779992201464165711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_wood_65
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 121
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2f640e8a13670c20800000000000000
+      internalID: 3172613428208758571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_wood_66
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 119
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd5591663bc336000800000000000000
+      internalID: 27932763904103900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_wood_67
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 109
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 812611bdce87ea5c0800000000000000
+      internalID: -4202288443607129576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_wood_68
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 103
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56ab2e37895f85c30800000000000000
+      internalID: 4348495475354286693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_wood_69
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 101
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c757b007543911c0800000000000000
+      internalID: -4532534001692878904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_wood_70
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 91
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93339883f4ca19bc0800000000000000
+      internalID: -3778049156136225991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_wood_71
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 91
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ade7cff35173fabe0800000000000000
+      internalID: -1463890789464768806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_wood_72
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 61
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 691aa42f0d3aefab0800000000000000
+      internalID: -4972356820756946538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_wood_73
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 64
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 856321f8aa1372380800000000000000
+      internalID: -8996167122034739624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_wood_74
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 91
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64d7d42471c523930800000000000000
+      internalID: 4121457863963802950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_wood_75
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 91
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 752fd1546d5139ca0800000000000000
+      internalID: -6011437067582705065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_wood_76
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 41
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b4f7d4c33e7cfef0800000000000000
+      internalID: -73044733133851469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_wood_77
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 58
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19e81ef510db444f0800000000000000
+      internalID: -845343016437576047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_wood_78
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 39
+        width: 57
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f68443598ed9458d0800000000000000
+      internalID: -2858486241212217233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_wood_79
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 58
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc543533af8a88e80800000000000000
+      internalID: -8176099330934749748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_wood_80
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 60
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05787dd38a7d5c820800000000000000
+      internalID: 2937991449521129296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_wood_81
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 56
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2134ca4e265e5caf0800000000000000
+      internalID: -376642780909518062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_wood_82
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 41
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4831ccf4f8108050800000000000000
+      internalID: 5800663760544806987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_wood_83
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 31
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdc03ebfb85acd5d0800000000000000
+      internalID: -3036370028109558564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_wood_84
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 47
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5205f97b6645fbd30800000000000000
+      internalID: 4449367757009408037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_wood_85
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 50
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9693ad68524cbf820800000000000000
+      internalID: 2953169646126774633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_wood_86
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 44
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cbc09cce6b9b5870800000000000000
+      internalID: 8672696407612771272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_wood_87
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 33
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89e5319b2bbd3cb90800000000000000
+      internalID: -7222687816716427624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_wood_88
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 0
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c8b0e401fd95cd20800000000000000
+      internalID: 3298215960613271748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_wood_89
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 11
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70aa074e03e318a30800000000000000
+      internalID: 4215719105907436039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_wood_90
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 0
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1856b29fd27ec9f0800000000000000
+      internalID: -446293008498403301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_wood_91
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 11
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c9ce28e5d5ade860800000000000000
+      internalID: 7560881687566928323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_wood_92
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 0
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e997ab3a839236db0800000000000000
+      internalID: -4799947454605002338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_wood_93
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 8
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 962d868e2df4f0960800000000000000
+      internalID: 7570357265894003305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      breakable_platform_big_wood_0: -1622877473381140392
+      breakable_platform_big_wood_1: 7495029675553640992
+      breakable_platform_big_wood_10: -5419951170720954599
+      breakable_platform_big_wood_11: 4130629079223421799
+      breakable_platform_big_wood_12: 5760707745087097891
+      breakable_platform_big_wood_13: 4333971447684006553
+      breakable_platform_big_wood_14: -3997167248345879637
+      breakable_platform_big_wood_15: 2827903859554410647
+      breakable_platform_big_wood_16: -6775173330008790384
+      breakable_platform_big_wood_17: 6603933703866162034
+      breakable_platform_big_wood_18: -2781000106807041326
+      breakable_platform_big_wood_19: -2508955848303619092
+      breakable_platform_big_wood_2: -4793045805262000668
+      breakable_platform_big_wood_20: -8682343468595895930
+      breakable_platform_big_wood_21: 7071869365667381881
+      breakable_platform_big_wood_22: -8116729439201767977
+      breakable_platform_big_wood_23: -5540651615174047222
+      breakable_platform_big_wood_24: 2990284530390056472
+      breakable_platform_big_wood_25: -5712311749134201633
+      breakable_platform_big_wood_26: 8902505319076693798
+      breakable_platform_big_wood_27: -6496051116759281478
+      breakable_platform_big_wood_28: 396263942539509686
+      breakable_platform_big_wood_29: 3293983656539712231
+      breakable_platform_big_wood_3: -5187777804629799151
+      breakable_platform_big_wood_30: 7392626773730489427
+      breakable_platform_big_wood_31: -7103197134602938216
+      breakable_platform_big_wood_32: 7951918794490206432
+      breakable_platform_big_wood_33: 18654628857766657
+      breakable_platform_big_wood_34: 3534232453237240888
+      breakable_platform_big_wood_35: 3066701330322807726
+      breakable_platform_big_wood_36: -1489513038472942839
+      breakable_platform_big_wood_37: -8092983766486035062
+      breakable_platform_big_wood_38: -4828741576677292047
+      breakable_platform_big_wood_39: 3184962344669142731
+      breakable_platform_big_wood_4: -8082850010047855109
+      breakable_platform_big_wood_40: 8403449317647315041
+      breakable_platform_big_wood_41: -361923636093559159
+      breakable_platform_big_wood_42: -2533138617141990265
+      breakable_platform_big_wood_43: -8244858547825313918
+      breakable_platform_big_wood_44: -7578283970206177137
+      breakable_platform_big_wood_45: 6767038706718541674
+      breakable_platform_big_wood_46: -5708161600967312375
+      breakable_platform_big_wood_47: -7826828426034770662
+      breakable_platform_big_wood_48: -2225503762449180673
+      breakable_platform_big_wood_49: 873780373623821123
+      breakable_platform_big_wood_5: 8558997953957414648
+      breakable_platform_big_wood_50: 7451993225250566538
+      breakable_platform_big_wood_51: 7218255367844661833
+      breakable_platform_big_wood_52: -3697979277469975871
+      breakable_platform_big_wood_53: -6200066164890027745
+      breakable_platform_big_wood_54: 1848205614337793891
+      breakable_platform_big_wood_55: -6183287757191469855
+      breakable_platform_big_wood_56: -7129240346491526296
+      breakable_platform_big_wood_57: -2141975811266270188
+      breakable_platform_big_wood_58: 9028900157750542770
+      breakable_platform_big_wood_59: -1078237778041975121
+      breakable_platform_big_wood_6: 6069040855791967737
+      breakable_platform_big_wood_60: 6062683230450226238
+      breakable_platform_big_wood_61: -4393602110353097425
+      breakable_platform_big_wood_62: 605211639840488314
+      breakable_platform_big_wood_63: -3915561697493952387
+      breakable_platform_big_wood_64: 4779992201464165711
+      breakable_platform_big_wood_65: 3172613428208758571
+      breakable_platform_big_wood_66: 27932763904103900
+      breakable_platform_big_wood_67: -4202288443607129576
+      breakable_platform_big_wood_68: 4348495475354286693
+      breakable_platform_big_wood_69: -4532534001692878904
+      breakable_platform_big_wood_7: 1115142379171634778
+      breakable_platform_big_wood_70: -3778049156136225991
+      breakable_platform_big_wood_71: -1463890789464768806
+      breakable_platform_big_wood_72: -4972356820756946538
+      breakable_platform_big_wood_73: -8996167122034739624
+      breakable_platform_big_wood_74: 4121457863963802950
+      breakable_platform_big_wood_75: -6011437067582705065
+      breakable_platform_big_wood_76: -73044733133851469
+      breakable_platform_big_wood_77: -845343016437576047
+      breakable_platform_big_wood_78: -2858486241212217233
+      breakable_platform_big_wood_79: -8176099330934749748
+      breakable_platform_big_wood_8: 2134422002978317587
+      breakable_platform_big_wood_80: 2937991449521129296
+      breakable_platform_big_wood_81: -376642780909518062
+      breakable_platform_big_wood_82: 5800663760544806987
+      breakable_platform_big_wood_83: -3036370028109558564
+      breakable_platform_big_wood_84: 4449367757009408037
+      breakable_platform_big_wood_85: 2953169646126774633
+      breakable_platform_big_wood_86: 8672696407612771272
+      breakable_platform_big_wood_87: -7222687816716427624
+      breakable_platform_big_wood_88: 3298215960613271748
+      breakable_platform_big_wood_89: 4215719105907436039
+      breakable_platform_big_wood_9: 4576710242101629358
+      breakable_platform_big_wood_90: -446293008498403301
+      breakable_platform_big_wood_91: 7560881687566928323
+      breakable_platform_big_wood_92: -4799947454605002338
+      breakable_platform_big_wood_93: 7570357265894003305
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

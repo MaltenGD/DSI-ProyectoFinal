@@ -1,0 +1,1027 @@
+fileFormatVersion: 2
+guid: 693ac20798f005e4ba29493f7fcf1968
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8194349693171970467
+    second: soledad-jailed-room-spritesheet_0
+  - first:
+      213: 2794068399813150617
+    second: soledad-jailed-room-spritesheet_1
+  - first:
+      213: -6538578420768619900
+    second: soledad-jailed-room-spritesheet_2
+  - first:
+      213: -7095333295641165817
+    second: soledad-jailed-room-spritesheet_3
+  - first:
+      213: 7650998187202653037
+    second: soledad-jailed-room-spritesheet_4
+  - first:
+      213: -5398676433520336589
+    second: soledad-jailed-room-spritesheet_5
+  - first:
+      213: 7255517971976476421
+    second: soledad-jailed-room-spritesheet_6
+  - first:
+      213: -518066191060503899
+    second: soledad-jailed-room-spritesheet_7
+  - first:
+      213: 1310894108433980127
+    second: soledad-jailed-room-spritesheet_8
+  - first:
+      213: 7546549811379001183
+    second: soledad-jailed-room-spritesheet_9
+  - first:
+      213: -1598405309801633212
+    second: soledad-jailed-room-spritesheet_10
+  - first:
+      213: -8653368099148990931
+    second: soledad-jailed-room-spritesheet_11
+  - first:
+      213: -3141614947533030922
+    second: soledad-jailed-room-spritesheet_12
+  - first:
+      213: 8975925394729046624
+    second: soledad-jailed-room-spritesheet_13
+  - first:
+      213: 2056206970521774608
+    second: soledad-jailed-room-spritesheet_14
+  - first:
+      213: -1560584683428397929
+    second: soledad-jailed-room-spritesheet_15
+  - first:
+      213: -6144870402077548669
+    second: soledad-jailed-room-spritesheet_16
+  - first:
+      213: 7240613708904439822
+    second: soledad-jailed-room-spritesheet_17
+  - first:
+      213: 3726860789856913734
+    second: soledad-jailed-room-spritesheet_18
+  - first:
+      213: 7807309743409027152
+    second: soledad-jailed-room-spritesheet_19
+  - first:
+      213: 7298707435830753907
+    second: soledad-jailed-room-spritesheet_20
+  - first:
+      213: -4538235832894836318
+    second: soledad-jailed-room-spritesheet_21
+  - first:
+      213: 1119779211650250462
+    second: soledad-jailed-room-spritesheet_22
+  - first:
+      213: -952418897427311689
+    second: soledad-jailed-room-spritesheet_23
+  - first:
+      213: 6180278878032180127
+    second: soledad-jailed-room-spritesheet_24
+  - first:
+      213: 9091173401402846489
+    second: soledad-jailed-room-spritesheet_25
+  - first:
+      213: 2420682245709264364
+    second: soledad-jailed-room-spritesheet_26
+  - first:
+      213: -4883845659641871522
+    second: soledad-jailed-room-spritesheet_27
+  - first:
+      213: 4564497273459778023
+    second: soledad-jailed-room-spritesheet_28
+  - first:
+      213: -6640959877321111744
+    second: soledad-jailed-room-spritesheet_29
+  - first:
+      213: 6450342187700044661
+    second: soledad-jailed-room-spritesheet_30
+  - first:
+      213: 8798653687334495832
+    second: soledad-jailed-room-spritesheet_31
+  - first:
+      213: 2143606234401860758
+    second: soledad-jailed-room-spritesheet_32
+  - first:
+      213: 153990786636493300
+    second: soledad-jailed-room-spritesheet_33
+  - first:
+      213: 5650935522059238253
+    second: soledad-jailed-room-spritesheet_34
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: soledad-jailed-room-spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 279
+        width: 339
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a1b8d261ad28b170800000000000000
+      internalID: 8194349693171970467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soledad-jailed-room-spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 454
+        width: 101
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 997c101f76686c620800000000000000
+      internalID: 2794068399813150617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soledad-jailed-room-spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 190
+        width: 167
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4824d06b19d4245a0800000000000000
+      internalID: -6538578420768619900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soledad-jailed-room-spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 457
+        width: 66
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7008e46d5ff488d90800000000000000
+      internalID: -7095333295641165817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soledad-jailed-room-spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 341
+        width: 44
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6b2f55805ecd2a60800000000000000
+      internalID: 7650998187202653037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soledad-jailed-room-spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 146
+        width: 177
+        height: 362
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3316fba136c0415b0800000000000000
+      internalID: -5398676433520336589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soledad-jailed-room-spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 341
+        width: 44
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 507de157727c0b460800000000000000
+      internalID: 7255517971976476421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soledad-jailed-room-spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 332
+        width: 38
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a2f2b74b857fc8f0800000000000000
+      internalID: -518066191060503899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soledad-jailed-room-spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 401
+        width: 66
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fda1c570f3b313210800000000000000
+      internalID: 1310894108433980127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soledad-jailed-room-spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 367
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f575903f11bbab860800000000000000
+      internalID: 7546549811379001183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soledad-jailed-room-spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 367
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44aec26e6d251d9e0800000000000000
+      internalID: -1598405309801633212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soledad-jailed-room-spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 202
+        width: 95
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d26f683bf8f09e780800000000000000
+      internalID: -8653368099148990931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soledad-jailed-room-spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 221
+        width: 114
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f97c37a9ddb664d0800000000000000
+      internalID: -3141614947533030922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soledad-jailed-room-spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 129
+        width: 36
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0629b3b0794e09c70800000000000000
+      internalID: 8975925394729046624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soledad-jailed-room-spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 88
+        width: 61
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01ae1ae685d198c10800000000000000
+      internalID: 2056206970521774608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soledad-jailed-room-spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 217
+        width: 81
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79cb55eaf70b75ae0800000000000000
+      internalID: -1560584683428397929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soledad-jailed-room-spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 125
+        width: 95
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38f1b5d1de809baa0800000000000000
+      internalID: -6144870402077548669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soledad-jailed-room-spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 55
+        width: 90
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e00a21b4ec3db7460800000000000000
+      internalID: 7240613708904439822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soledad-jailed-room-spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 130
+        width: 29
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 649c0c2842878b330800000000000000
+      internalID: 3726860789856913734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soledad-jailed-room-spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 161
+        width: 9
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0585753c8d2295c60800000000000000
+      internalID: 7807309743409027152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soledad-jailed-room-spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 158
+        width: 10
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37ab1302eb73a4560800000000000000
+      internalID: 7298707435830753907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soledad-jailed-room-spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 150
+        width: 6
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a1ba59fd82f401c0800000000000000
+      internalID: -4538235832894836318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soledad-jailed-room-spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 155
+        width: 7
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed6b74992414a8f00800000000000000
+      internalID: 1119779211650250462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soledad-jailed-room-spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 48
+        width: 123
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b3d9751f0458c2f0800000000000000
+      internalID: -952418897427311689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soledad-jailed-room-spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 92
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9335f125e2c4c550800000000000000
+      internalID: 6180278878032180127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soledad-jailed-room-spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 106
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91da81e9a065a2e70800000000000000
+      internalID: 9091173401402846489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soledad-jailed-room-spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 67
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce578995dadf79120800000000000000
+      internalID: 2420682245709264364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soledad-jailed-room-spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 80
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e53863f8f38193cb0800000000000000
+      internalID: -4883845659641871522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soledad-jailed-room-spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 62
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e12fc2261a585f30800000000000000
+      internalID: 4564497273459778023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soledad-jailed-room-spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 36
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04747a84d2296d3a0800000000000000
+      internalID: -6640959877321111744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soledad-jailed-room-spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 51
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 573c3995b08348950800000000000000
+      internalID: 6450342187700044661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soledad-jailed-room-spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 36
+        width: 6
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 856e04f49e81b1a70800000000000000
+      internalID: 8798653687334495832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soledad-jailed-room-spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 49
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69ce5db438e9fbd10800000000000000
+      internalID: 2143606234401860758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soledad-jailed-room-spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 8
+        width: 6
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f1b628fdc5132200800000000000000
+      internalID: 153990786636493300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soledad-jailed-room-spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 22
+        width: 6
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6b3af8dae72c6e40800000000000000
+      internalID: 5650935522059238253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      soledad-jailed-room-spritesheet_0: 8194349693171970467
+      soledad-jailed-room-spritesheet_1: 2794068399813150617
+      soledad-jailed-room-spritesheet_10: -1598405309801633212
+      soledad-jailed-room-spritesheet_11: -8653368099148990931
+      soledad-jailed-room-spritesheet_12: -3141614947533030922
+      soledad-jailed-room-spritesheet_13: 8975925394729046624
+      soledad-jailed-room-spritesheet_14: 2056206970521774608
+      soledad-jailed-room-spritesheet_15: -1560584683428397929
+      soledad-jailed-room-spritesheet_16: -6144870402077548669
+      soledad-jailed-room-spritesheet_17: 7240613708904439822
+      soledad-jailed-room-spritesheet_18: 3726860789856913734
+      soledad-jailed-room-spritesheet_19: 7807309743409027152
+      soledad-jailed-room-spritesheet_2: -6538578420768619900
+      soledad-jailed-room-spritesheet_20: 7298707435830753907
+      soledad-jailed-room-spritesheet_21: -4538235832894836318
+      soledad-jailed-room-spritesheet_22: 1119779211650250462
+      soledad-jailed-room-spritesheet_23: -952418897427311689
+      soledad-jailed-room-spritesheet_24: 6180278878032180127
+      soledad-jailed-room-spritesheet_25: 9091173401402846489
+      soledad-jailed-room-spritesheet_26: 2420682245709264364
+      soledad-jailed-room-spritesheet_27: -4883845659641871522
+      soledad-jailed-room-spritesheet_28: 4564497273459778023
+      soledad-jailed-room-spritesheet_29: -6640959877321111744
+      soledad-jailed-room-spritesheet_3: -7095333295641165817
+      soledad-jailed-room-spritesheet_30: 6450342187700044661
+      soledad-jailed-room-spritesheet_31: 8798653687334495832
+      soledad-jailed-room-spritesheet_32: 2143606234401860758
+      soledad-jailed-room-spritesheet_33: 153990786636493300
+      soledad-jailed-room-spritesheet_34: 5650935522059238253
+      soledad-jailed-room-spritesheet_4: 7650998187202653037
+      soledad-jailed-room-spritesheet_5: -5398676433520336589
+      soledad-jailed-room-spritesheet_6: 7255517971976476421
+      soledad-jailed-room-spritesheet_7: -518066191060503899
+      soledad-jailed-room-spritesheet_8: 1310894108433980127
+      soledad-jailed-room-spritesheet_9: 7546549811379001183
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

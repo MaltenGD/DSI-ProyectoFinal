@@ -1,0 +1,2639 @@
+fileFormatVersion: 2
+guid: 2e57a142f35ecb042a9f80e856a6ba86
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3766543498427454826
+    second: convent-spritesheet_0
+  - first:
+      213: -5340282787929772422
+    second: convent-spritesheet_1
+  - first:
+      213: -6375239182564595314
+    second: convent-spritesheet_2
+  - first:
+      213: 9022731420341455344
+    second: convent-spritesheet_3
+  - first:
+      213: -950501007040452063
+    second: convent-spritesheet_4
+  - first:
+      213: -5154139982347493163
+    second: convent-spritesheet_5
+  - first:
+      213: 5886148352222395186
+    second: convent-spritesheet_6
+  - first:
+      213: 9135217634353158952
+    second: convent-spritesheet_7
+  - first:
+      213: 4642135736773398626
+    second: convent-spritesheet_8
+  - first:
+      213: -3819778868154835770
+    second: convent-spritesheet_9
+  - first:
+      213: 67111293524702582
+    second: convent-spritesheet_10
+  - first:
+      213: -5617934268011851077
+    second: convent-spritesheet_11
+  - first:
+      213: -94318296810348237
+    second: convent-spritesheet_12
+  - first:
+      213: -1470311891809268588
+    second: convent-spritesheet_13
+  - first:
+      213: -3153535193448563204
+    second: convent-spritesheet_14
+  - first:
+      213: 8569141448206129620
+    second: convent-spritesheet_15
+  - first:
+      213: 3589355031994736674
+    second: convent-spritesheet_16
+  - first:
+      213: -1359373119872148924
+    second: convent-spritesheet_17
+  - first:
+      213: -6180257431163294103
+    second: convent-spritesheet_18
+  - first:
+      213: 9119808927814877679
+    second: convent-spritesheet_19
+  - first:
+      213: -299494355938071698
+    second: convent-spritesheet_20
+  - first:
+      213: 8078569141255041198
+    second: convent-spritesheet_21
+  - first:
+      213: 2160994207319892823
+    second: convent-spritesheet_22
+  - first:
+      213: -3575692538793448037
+    second: convent-spritesheet_23
+  - first:
+      213: 3356144377725879517
+    second: convent-spritesheet_24
+  - first:
+      213: 4413464932656056760
+    second: convent-spritesheet_25
+  - first:
+      213: -24137499899129968
+    second: convent-spritesheet_26
+  - first:
+      213: -1564054252530722883
+    second: convent-spritesheet_27
+  - first:
+      213: -7484673667599180867
+    second: convent-spritesheet_28
+  - first:
+      213: -2683983291923910205
+    second: convent-spritesheet_29
+  - first:
+      213: 353146170062713962
+    second: convent-spritesheet_30
+  - first:
+      213: -2289960839690493504
+    second: convent-spritesheet_31
+  - first:
+      213: 8306240568317519035
+    second: convent-spritesheet_32
+  - first:
+      213: 7602257686128240973
+    second: convent-spritesheet_33
+  - first:
+      213: 2717518051919342219
+    second: convent-spritesheet_34
+  - first:
+      213: 3626034196957804966
+    second: convent-spritesheet_35
+  - first:
+      213: -5691469747216159916
+    second: convent-spritesheet_36
+  - first:
+      213: 3930191228733356865
+    second: convent-spritesheet_37
+  - first:
+      213: 1064226021914485821
+    second: convent-spritesheet_38
+  - first:
+      213: -268789887840098896
+    second: convent-spritesheet_39
+  - first:
+      213: -5043856429165191327
+    second: convent-spritesheet_40
+  - first:
+      213: 8275850312251750465
+    second: convent-spritesheet_41
+  - first:
+      213: 2806567484955405813
+    second: convent-spritesheet_42
+  - first:
+      213: -2512907656981537090
+    second: convent-spritesheet_43
+  - first:
+      213: -2310006350247237567
+    second: convent-spritesheet_44
+  - first:
+      213: 5477400269131953858
+    second: convent-spritesheet_45
+  - first:
+      213: -3858189304304829747
+    second: convent-spritesheet_46
+  - first:
+      213: -5655318366153078944
+    second: convent-spritesheet_47
+  - first:
+      213: 4689443886152799130
+    second: convent-spritesheet_48
+  - first:
+      213: -8078658861866690479
+    second: convent-spritesheet_49
+  - first:
+      213: -768914475031291039
+    second: convent-spritesheet_50
+  - first:
+      213: 5953461242335961360
+    second: convent-spritesheet_51
+  - first:
+      213: 8851497332089380063
+    second: convent-spritesheet_52
+  - first:
+      213: 2929158113674911452
+    second: convent-spritesheet_53
+  - first:
+      213: -4000640722608144063
+    second: convent-spritesheet_54
+  - first:
+      213: -2850015606794612401
+    second: convent-spritesheet_55
+  - first:
+      213: 2351957475969572095
+    second: convent-spritesheet_56
+  - first:
+      213: -6383171689845129432
+    second: convent-spritesheet_57
+  - first:
+      213: -7733808052146678932
+    second: convent-spritesheet_58
+  - first:
+      213: -6984028743451444948
+    second: convent-spritesheet_59
+  - first:
+      213: -5196492261516458575
+    second: convent-spritesheet_60
+  - first:
+      213: -6318742917828657519
+    second: convent-spritesheet_61
+  - first:
+      213: 5760308991209913554
+    second: convent-spritesheet_62
+  - first:
+      213: 7293731322150039807
+    second: convent-spritesheet_63
+  - first:
+      213: 1415988773162187121
+    second: convent-spritesheet_64
+  - first:
+      213: -9085022531671530521
+    second: convent-spritesheet_65
+  - first:
+      213: 6574080940658311343
+    second: convent-spritesheet_66
+  - first:
+      213: 7851168851342143929
+    second: convent-spritesheet_67
+  - first:
+      213: 5962102328964881646
+    second: convent-spritesheet_68
+  - first:
+      213: 8161851042160618406
+    second: convent-spritesheet_69
+  - first:
+      213: -3939332208226830891
+    second: convent-spritesheet_70
+  - first:
+      213: 7359738950603443768
+    second: convent-spritesheet_71
+  - first:
+      213: 1282826840316632097
+    second: convent-spritesheet_72
+  - first:
+      213: 8538976732336976328
+    second: convent-spritesheet_73
+  - first:
+      213: 6327207013417686498
+    second: convent-spritesheet_74
+  - first:
+      213: 8672287961609669809
+    second: convent-spritesheet_75
+  - first:
+      213: -1901007784973334770
+    second: convent-spritesheet_76
+  - first:
+      213: -1812579307142612970
+    second: convent-spritesheet_77
+  - first:
+      213: -6869926896991544468
+    second: convent-spritesheet_78
+  - first:
+      213: -2569686313974164402
+    second: convent-spritesheet_79
+  - first:
+      213: -7680343725729809024
+    second: convent-spritesheet_80
+  - first:
+      213: 3958824565912941091
+    second: convent-spritesheet_81
+  - first:
+      213: -7125137321608688567
+    second: convent-spritesheet_82
+  - first:
+      213: -9122204755071467330
+    second: convent-spritesheet_83
+  - first:
+      213: 5184946605411443359
+    second: convent-spritesheet_84
+  - first:
+      213: -3589216482428315850
+    second: convent-spritesheet_85
+  - first:
+      213: -6942842592308010689
+    second: convent-spritesheet_86
+  - first:
+      213: -8995033217498423995
+    second: convent-spritesheet_87
+  - first:
+      213: 7466875410884628727
+    second: convent-spritesheet_88
+  - first:
+      213: -6144172753453832708
+    second: convent-spritesheet_89
+  - first:
+      213: -1675291627585737938
+    second: convent-spritesheet_90
+  - first:
+      213: 2335165041389345821
+    second: convent-spritesheet_91
+  - first:
+      213: -1124884476993237105
+    second: convent-spritesheet_92
+  - first:
+      213: -8588087471811137432
+    second: convent-spritesheet_93
+  - first:
+      213: -1496894397781266416
+    second: convent-spritesheet_94
+  - first:
+      213: -1857199627026476103
+    second: convent-spritesheet_95
+  - first:
+      213: 2256080203722475446
+    second: convent-spritesheet_96
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: convent-spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 975
+        width: 18
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69aac29e4ac8abbc0800000000000000
+      internalID: -3766543498427454826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: convent-spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 973
+        width: 67
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7e2051391183e5b0800000000000000
+      internalID: -5340282787929772422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: convent-spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 973
+        width: 66
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e89e51dadb99687a0800000000000000
+      internalID: -6375239182564595314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: convent-spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 975
+        width: 18
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f9453d1c6e273d70800000000000000
+      internalID: 9022731420341455344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: convent-spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 973
+        width: 67
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12ae3bcbe542fc2f0800000000000000
+      internalID: -950501007040452063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: convent-spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 973
+        width: 66
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d02a8d6ef0d878b0800000000000000
+      internalID: -5154139982347493163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: convent-spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1003
+        width: 67
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23b777d7dbccfa150800000000000000
+      internalID: 5886148352222395186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: convent-spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 974
+        width: 67
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82b1189b900d6ce70800000000000000
+      internalID: 9135217634353158952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: convent-spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 974
+        width: 66
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26056858bdd2c6040800000000000000
+      internalID: 4642135736773398626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: convent-spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 971
+        width: 70
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cc56138b5b6dfac0800000000000000
+      internalID: -3819778868154835770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: convent-spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 998
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 675f4faad5d6ee000800000000000000
+      internalID: 67111293524702582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: convent-spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 998
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb2d8af5c861902b0800000000000000
+      internalID: -5617934268011851077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: convent-spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 837
+        width: 140
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 331acce320ae0bef0800000000000000
+      internalID: -94318296810348237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: convent-spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 883
+        width: 100
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49c0dabdf17689be0800000000000000
+      internalID: -1470311891809268588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: convent-spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 784
+        width: 82
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfd3ecf13746c34d0800000000000000
+      internalID: -3153535193448563204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: convent-spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 975
+        width: 65
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d91762feb4bbe670800000000000000
+      internalID: 8569141448206129620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: convent-spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 854
+        width: 147
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 220aec66263ffc130800000000000000
+      internalID: 3589355031994736674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: convent-spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 799
+        width: 147
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44a5ec88959822de0800000000000000
+      internalID: -1359373119872148924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: convent-spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 896
+        width: 56
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96e2b0b5c905b3aa0800000000000000
+      internalID: -6180257431163294103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: convent-spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 856
+        width: 50
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe187d9a6e1109e70800000000000000
+      internalID: 9119808927814877679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: convent-spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 942
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6ba316587bf7dbf0800000000000000
+      internalID: -299494355938071698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: convent-spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 904
+        width: 66
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea070f5f4d7dc1070800000000000000
+      internalID: 8078569141255041198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: convent-spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 947
+        width: 73
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 753aaf838c46dfd10800000000000000
+      internalID: 2160994207319892823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: convent-spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 921
+        width: 67
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9da33fa496906ec0800000000000000
+      internalID: -3575692538793448037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: convent-spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 929
+        width: 73
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd48649a78b639e20800000000000000
+      internalID: 3356144377725879517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: convent-spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 846
+        width: 57
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b98b9309f6cf3d30800000000000000
+      internalID: 4413464932656056760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: convent-spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 893
+        width: 65
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09f0fbc521f3aaff0800000000000000
+      internalID: -24137499899129968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: convent-spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 858
+        width: 76
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db7977ca1fc5b4ae0800000000000000
+      internalID: -1564054252530722883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: convent-spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 739
+        width: 147
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbbd70f64f8112890800000000000000
+      internalID: -7484673667599180867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: convent-spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 769
+        width: 56
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c1bac59a6390cad0800000000000000
+      internalID: -2683983291923910205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: convent-spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 821
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a64b0641290a6e400800000000000000
+      internalID: 353146170062713962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: convent-spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 825
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c161b0cfbc6830e0800000000000000
+      internalID: -2289960839690493504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: convent-spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 814
+        width: 76
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb4218dd9c1b54370800000000000000
+      internalID: 8306240568317519035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: convent-spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 763
+        width: 84
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4928a84615a08960800000000000000
+      internalID: 7602257686128240973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: convent-spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 762
+        width: 89
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8a2d5b254096b520800000000000000
+      internalID: 2717518051919342219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: convent-spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 742
+        width: 112
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a9b61df3e2425230800000000000000
+      internalID: 3626034196957804966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: convent-spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 705
+        width: 103
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45b6c4b6b66d301b0800000000000000
+      internalID: -5691469747216159916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: convent-spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 751
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14bf1087918da8630800000000000000
+      internalID: 3930191228733356865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: convent-spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 788
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d34a0fcade3e4ce00800000000000000
+      internalID: 1064226021914485821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: convent-spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 788
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b5e2186501154cf0800000000000000
+      internalID: -268789887840098896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: convent-spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 724
+        width: 85
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16fd9891d4f900ab0800000000000000
+      internalID: -5043856429165191327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: convent-spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 770
+        width: 57
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 148321cf20ab9d270800000000000000
+      internalID: 8275850312251750465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: convent-spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 687
+        width: 84
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fdadeaf14ee2f620800000000000000
+      internalID: 2806567484955405813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: convent-spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 578
+        width: 147
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebe9148cccb502dd0800000000000000
+      internalID: -2512907656981537090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: convent-spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 708
+        width: 18
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 148ed90a67531ffd0800000000000000
+      internalID: -2310006350247237567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: convent-spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 736
+        width: 66
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c63d363682a30c40800000000000000
+      internalID: 5477400269131953858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: convent-spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 732
+        width: 165
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcaf2b0f445f47ac0800000000000000
+      internalID: -3858189304304829747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: convent-spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 659
+        width: 84
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06704bdb8e54481b0800000000000000
+      internalID: -5655318366153078944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: convent-spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 724
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a93d3446e50441140800000000000000
+      internalID: 4689443886152799130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: convent-spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 725
+        width: 20
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 158dfd45196d2ef80800000000000000
+      internalID: -8078658861866690479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: convent-spritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 721
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16b9a1ddb544455f0800000000000000
+      internalID: -768914475031291039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: convent-spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 669
+        width: 62
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 011ad750571fe9250800000000000000
+      internalID: 5953461242335961360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: convent-spritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 700
+        width: 43
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdc51812de5d6da70800000000000000
+      internalID: 8851497332089380063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: convent-spritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 698
+        width: 33
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdedb88f8c576a820800000000000000
+      internalID: 2929158113674911452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: convent-spritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 699
+        width: 40
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 141caf6857eda78c0800000000000000
+      internalID: -4000640722608144063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: convent-spritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 676
+        width: 60
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4110b8d7e5b278d0800000000000000
+      internalID: -2850015606794612401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: convent-spritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 660
+        width: 46
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffc9df9fcd4d3a020800000000000000
+      internalID: 2351957475969572095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: convent-spritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 616
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82f7376ea2b6a67a0800000000000000
+      internalID: -6383171689845129432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: convent-spritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 635
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c63ddb25d8efba490800000000000000
+      internalID: -7733808052146678932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: convent-spritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 596
+        width: 22
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c29757d5cdeb31f90800000000000000
+      internalID: -6984028743451444948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: convent-spritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 643
+        width: 78
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b5ce3202d952e7b0800000000000000
+      internalID: -5196492261516458575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: convent-spritesheet_61
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 644
+        width: 51
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19ebecb5bc05f48a0800000000000000
+      internalID: -6318742917828657519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: convent-spritesheet_62
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 578
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dc3e81128ab0ff40800000000000000
+      internalID: 5760308991209913554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: convent-spritesheet_63
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 594
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff0b4ef5ef9883560800000000000000
+      internalID: 7293731322150039807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: convent-spritesheet_64
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 283
+        width: 206
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 179f546794a96a310800000000000000
+      internalID: 1415988773162187121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: convent-spritesheet_65
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 367
+        width: 73
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e36c4754248be180800000000000000
+      internalID: -9085022531671530521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: convent-spritesheet_66
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 596
+        width: 67
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa0ca98d8c3db3b50800000000000000
+      internalID: 6574080940658311343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: convent-spritesheet_67
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 596
+        width: 66
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b13cd71974f4fc60800000000000000
+      internalID: 7851168851342143929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: convent-spritesheet_68
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 326
+        width: 72
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eec1b78ca74adb250800000000000000
+      internalID: 5962102328964881646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: convent-spritesheet_69
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 344
+        width: 30
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aba2ad8748b44170800000000000000
+      internalID: 8161851042160618406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: convent-spritesheet_70
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 529
+        width: 76
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d572646a3ea459c0800000000000000
+      internalID: -3939332208226830891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: convent-spritesheet_71
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 430
+        width: 18
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83e035ef49b032660800000000000000
+      internalID: 7359738950603443768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: convent-spritesheet_72
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 498
+        width: 18
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12cd86de6348dc110800000000000000
+      internalID: 1282826840316632097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: convent-spritesheet_73
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 520
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c1754cb81a808670800000000000000
+      internalID: 8538976732336976328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: convent-spritesheet_74
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 543
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e51f177141cec750800000000000000
+      internalID: 6327207013417686498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: convent-spritesheet_75
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 391
+        width: 20
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bc04ad04f72a5870800000000000000
+      internalID: 8672287961609669809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: convent-spritesheet_76
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 397
+        width: 109
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e078965dd734e95e0800000000000000
+      internalID: -1901007784973334770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: convent-spritesheet_77
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 287
+        width: 117
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6187a8e39bc68d6e0800000000000000
+      internalID: -1812579307142612970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: convent-spritesheet_78
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 560
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6bdae7b2ed19a0a0800000000000000
+      internalID: -6869926896991544468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: convent-spritesheet_79
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 560
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e44136789e3a65cd0800000000000000
+      internalID: -2569686313974164402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: convent-spritesheet_80
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 560
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08d79fad210f96590800000000000000
+      internalID: -7680343725729809024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: convent-spritesheet_81
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 485
+        width: 76
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 322b45bc7f190f630800000000000000
+      internalID: 3958824565912941091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: convent-spritesheet_82
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 494
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94cc2a94b5d6e1d90800000000000000
+      internalID: -7125137321608688567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: convent-spritesheet_83
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 507
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb006955b1b676180800000000000000
+      internalID: -9122204755071467330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: convent-spritesheet_84
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 395
+        width: 85
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f92aae27771a4f740800000000000000
+      internalID: 5184946605411443359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: convent-spritesheet_85
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 445
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63712ee20aa803ec0800000000000000
+      internalID: -3589216482428315850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: convent-spritesheet_86
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 464
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f316702727116af90800000000000000
+      internalID: -6942842592308010689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: convent-spritesheet_87
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 292
+        width: 73
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54dda2842f83b2380800000000000000
+      internalID: -8995033217498423995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: convent-spritesheet_88
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 407
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f090efff9baf9760800000000000000
+      internalID: 7466875410884628727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: convent-spritesheet_89
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 423
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf520c71f638bbaa0800000000000000
+      internalID: -6144172753453832708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: convent-spritesheet_90
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 382
+        width: 29
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2be09a042b20c8e0800000000000000
+      internalID: -1675291627585737938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: convent-spritesheet_91
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 378
+        width: 82
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1c1cef9b3c286020800000000000000
+      internalID: 2335165041389345821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: convent-spritesheet_92
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 295
+        width: 97
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8f877f278b9360f0800000000000000
+      internalID: -1124884476993237105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: convent-spritesheet_93
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 346
+        width: 89
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 860f6be22fbf0d880800000000000000
+      internalID: -8588087471811137432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: convent-spritesheet_94
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 244
+        width: 50
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 010b9f1e976f93be0800000000000000
+      internalID: -1496894397781266416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: convent-spritesheet_95
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 287
+        width: 106
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b3591277c6e936e0800000000000000
+      internalID: -1857199627026476103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: convent-spritesheet_96
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 108
+        width: 444
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b74ba7fdf43f4f10800000000000000
+      internalID: 2256080203722475446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      convent-spritesheet_0: -3766543498427454826
+      convent-spritesheet_1: -5340282787929772422
+      convent-spritesheet_10: 67111293524702582
+      convent-spritesheet_11: -5617934268011851077
+      convent-spritesheet_12: -94318296810348237
+      convent-spritesheet_13: -1470311891809268588
+      convent-spritesheet_14: -3153535193448563204
+      convent-spritesheet_15: 8569141448206129620
+      convent-spritesheet_16: 3589355031994736674
+      convent-spritesheet_17: -1359373119872148924
+      convent-spritesheet_18: -6180257431163294103
+      convent-spritesheet_19: 9119808927814877679
+      convent-spritesheet_2: -6375239182564595314
+      convent-spritesheet_20: -299494355938071698
+      convent-spritesheet_21: 8078569141255041198
+      convent-spritesheet_22: 2160994207319892823
+      convent-spritesheet_23: -3575692538793448037
+      convent-spritesheet_24: 3356144377725879517
+      convent-spritesheet_25: 4413464932656056760
+      convent-spritesheet_26: -24137499899129968
+      convent-spritesheet_27: -1564054252530722883
+      convent-spritesheet_28: -7484673667599180867
+      convent-spritesheet_29: -2683983291923910205
+      convent-spritesheet_3: 9022731420341455344
+      convent-spritesheet_30: 353146170062713962
+      convent-spritesheet_31: -2289960839690493504
+      convent-spritesheet_32: 8306240568317519035
+      convent-spritesheet_33: 7602257686128240973
+      convent-spritesheet_34: 2717518051919342219
+      convent-spritesheet_35: 3626034196957804966
+      convent-spritesheet_36: -5691469747216159916
+      convent-spritesheet_37: 3930191228733356865
+      convent-spritesheet_38: 1064226021914485821
+      convent-spritesheet_39: -268789887840098896
+      convent-spritesheet_4: -950501007040452063
+      convent-spritesheet_40: -5043856429165191327
+      convent-spritesheet_41: 8275850312251750465
+      convent-spritesheet_42: 2806567484955405813
+      convent-spritesheet_43: -2512907656981537090
+      convent-spritesheet_44: -2310006350247237567
+      convent-spritesheet_45: 5477400269131953858
+      convent-spritesheet_46: -3858189304304829747
+      convent-spritesheet_47: -5655318366153078944
+      convent-spritesheet_48: 4689443886152799130
+      convent-spritesheet_49: -8078658861866690479
+      convent-spritesheet_5: -5154139982347493163
+      convent-spritesheet_50: -768914475031291039
+      convent-spritesheet_51: 5953461242335961360
+      convent-spritesheet_52: 8851497332089380063
+      convent-spritesheet_53: 2929158113674911452
+      convent-spritesheet_54: -4000640722608144063
+      convent-spritesheet_55: -2850015606794612401
+      convent-spritesheet_56: 2351957475969572095
+      convent-spritesheet_57: -6383171689845129432
+      convent-spritesheet_58: -7733808052146678932
+      convent-spritesheet_59: -6984028743451444948
+      convent-spritesheet_6: 5886148352222395186
+      convent-spritesheet_60: -5196492261516458575
+      convent-spritesheet_61: -6318742917828657519
+      convent-spritesheet_62: 5760308991209913554
+      convent-spritesheet_63: 7293731322150039807
+      convent-spritesheet_64: 1415988773162187121
+      convent-spritesheet_65: -9085022531671530521
+      convent-spritesheet_66: 6574080940658311343
+      convent-spritesheet_67: 7851168851342143929
+      convent-spritesheet_68: 5962102328964881646
+      convent-spritesheet_69: 8161851042160618406
+      convent-spritesheet_7: 9135217634353158952
+      convent-spritesheet_70: -3939332208226830891
+      convent-spritesheet_71: 7359738950603443768
+      convent-spritesheet_72: 1282826840316632097
+      convent-spritesheet_73: 8538976732336976328
+      convent-spritesheet_74: 6327207013417686498
+      convent-spritesheet_75: 8672287961609669809
+      convent-spritesheet_76: -1901007784973334770
+      convent-spritesheet_77: -1812579307142612970
+      convent-spritesheet_78: -6869926896991544468
+      convent-spritesheet_79: -2569686313974164402
+      convent-spritesheet_8: 4642135736773398626
+      convent-spritesheet_80: -7680343725729809024
+      convent-spritesheet_81: 3958824565912941091
+      convent-spritesheet_82: -7125137321608688567
+      convent-spritesheet_83: -9122204755071467330
+      convent-spritesheet_84: 5184946605411443359
+      convent-spritesheet_85: -3589216482428315850
+      convent-spritesheet_86: -6942842592308010689
+      convent-spritesheet_87: -8995033217498423995
+      convent-spritesheet_88: 7466875410884628727
+      convent-spritesheet_89: -6144172753453832708
+      convent-spritesheet_9: -3819778868154835770
+      convent-spritesheet_90: -1675291627585737938
+      convent-spritesheet_91: 2335165041389345821
+      convent-spritesheet_92: -1124884476993237105
+      convent-spritesheet_93: -8588087471811137432
+      convent-spritesheet_94: -1496894397781266416
+      convent-spritesheet_95: -1857199627026476103
+      convent-spritesheet_96: 2256080203722475446
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

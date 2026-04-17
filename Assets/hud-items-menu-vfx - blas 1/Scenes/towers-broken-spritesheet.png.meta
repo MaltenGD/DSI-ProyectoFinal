@@ -1,0 +1,403 @@
+fileFormatVersion: 2
+guid: e6878de617cc553479fdf986217e0269
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1658592176318625454
+    second: towers-broken-spritesheet_0
+  - first:
+      213: -5988457106587886954
+    second: towers-broken-spritesheet_1
+  - first:
+      213: -2317252467635969536
+    second: towers-broken-spritesheet_2
+  - first:
+      213: 7486101453967619344
+    second: towers-broken-spritesheet_3
+  - first:
+      213: 1682768840920742363
+    second: towers-broken-spritesheet_4
+  - first:
+      213: -7750747668551851617
+    second: towers-broken-spritesheet_5
+  - first:
+      213: -2560846028345532551
+    second: towers-broken-spritesheet_6
+  - first:
+      213: 3590719827914971169
+    second: towers-broken-spritesheet_7
+  - first:
+      213: -1839866897683293829
+    second: towers-broken-spritesheet_8
+  - first:
+      213: -3827508133744236879
+    second: towers-broken-spritesheet_9
+  - first:
+      213: -6983401824600266917
+    second: towers-broken-spritesheet_10
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: towers-broken-spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 303
+        width: 79
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2594947043f7bf8e0800000000000000
+      internalID: -1658592176318625454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: towers-broken-spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 303
+        width: 79
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69a5a216df9b4eca0800000000000000
+      internalID: -5988457106587886954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: towers-broken-spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 303
+        width: 130
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00229a3782777dfd0800000000000000
+      internalID: -2317252467635969536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: towers-broken-spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 469
+        width: 129
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 015764cfb99f3e760800000000000000
+      internalID: 7486101453967619344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: towers-broken-spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 464
+        width: 69
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd93d2a58556a5710800000000000000
+      internalID: 1682768840920742363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: towers-broken-spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 303
+        width: 152
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f91a7488f00df6490800000000000000
+      internalID: -7750747668551851617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: towers-broken-spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 126
+        width: 55
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97f9efbea1c067cd0800000000000000
+      internalID: -2560846028345532551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: towers-broken-spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 126
+        width: 76
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 128d2d6b8acc4d130800000000000000
+      internalID: 3590719827914971169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: towers-broken-spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 95
+        width: 56
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b795699fdca7776e0800000000000000
+      internalID: -1839866897683293829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: towers-broken-spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 95
+        width: 59
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b6a141a1a5f1eac0800000000000000
+      internalID: -3827508133744236879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: towers-broken-spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 94
+        width: 130
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b57e2e84a09f51f90800000000000000
+      internalID: -6983401824600266917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      towers-broken-spritesheet_0: -1658592176318625454
+      towers-broken-spritesheet_1: -5988457106587886954
+      towers-broken-spritesheet_10: -6983401824600266917
+      towers-broken-spritesheet_2: -2317252467635969536
+      towers-broken-spritesheet_3: 7486101453967619344
+      towers-broken-spritesheet_4: 1682768840920742363
+      towers-broken-spritesheet_5: -7750747668551851617
+      towers-broken-spritesheet_6: -2560846028345532551
+      towers-broken-spritesheet_7: 3590719827914971169
+      towers-broken-spritesheet_8: -1839866897683293829
+      towers-broken-spritesheet_9: -3827508133744236879
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

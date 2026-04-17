@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 747e7b2ec575dc744ae1d99e376b6c50
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7493953798300863458
+    second: trunderground-elevator-spritesheet_0
+  - first:
+      213: -7848637530486724674
+    second: trunderground-elevator-spritesheet_1
+  - first:
+      213: 2083562258788796305
+    second: trunderground-elevator-spritesheet_2
+  - first:
+      213: 1721490454474977387
+    second: trunderground-elevator-spritesheet_3
+  - first:
+      213: -7138672737258674185
+    second: trunderground-elevator-spritesheet_4
+  - first:
+      213: 3078035884144758456
+    second: trunderground-elevator-spritesheet_5
+  - first:
+      213: -5134933074216168714
+    second: trunderground-elevator-spritesheet_6
+  - first:
+      213: -2253925893777151735
+    second: trunderground-elevator-spritesheet_7
+  - first:
+      213: -4209136148169356441
+    second: trunderground-elevator-spritesheet_8
+  - first:
+      213: -251486850044118409
+    second: trunderground-elevator-spritesheet_9
+  - first:
+      213: -7380096915322181223
+    second: trunderground-elevator-spritesheet_10
+  - first:
+      213: -31915032005059602
+    second: trunderground-elevator-spritesheet_11
+  - first:
+      213: -7219445064296504251
+    second: trunderground-elevator-spritesheet_12
+  - first:
+      213: -1170363368034738016
+    second: trunderground-elevator-spritesheet_13
+  - first:
+      213: -2182072080269652762
+    second: trunderground-elevator-spritesheet_14
+  - first:
+      213: -4890696696101779689
+    second: trunderground-elevator-spritesheet_15
+  - first:
+      213: 3998695142089854166
+    second: trunderground-elevator-spritesheet_16
+  - first:
+      213: -1994442656480383952
+    second: trunderground-elevator-spritesheet_17
+  - first:
+      213: -3003018824254705130
+    second: trunderground-elevator-spritesheet_18
+  - first:
+      213: 1364499602258605206
+    second: trunderground-elevator-spritesheet_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: trunderground-elevator-spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 981
+        width: 67
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e147611a9b0200890800000000000000
+      internalID: -7493953798300863458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trunderground-elevator-spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 983
+        width: 66
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb72a88ffb9041390800000000000000
+      internalID: -7848637530486724674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trunderground-elevator-spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 981
+        width: 65
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 197448ec5dc4aec10800000000000000
+      internalID: 2083562258788796305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trunderground-elevator-spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 981
+        width: 66
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b60f43f8276f3e710800000000000000
+      internalID: 1721490454474977387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trunderground-elevator-spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 960
+        width: 58
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f76eefb7f65eec90800000000000000
+      internalID: -7138672737258674185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trunderground-elevator-spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 961
+        width: 54
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8be8a58145167ba20800000000000000
+      internalID: 3078035884144758456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trunderground-elevator-spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 954
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f2d0f5339d0db8b0800000000000000
+      internalID: -5134933074216168714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trunderground-elevator-spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 954
+        width: 66
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 909ab57675278b0e0800000000000000
+      internalID: -2253925893777151735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trunderground-elevator-spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 954
+        width: 60
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76b0c1569f42695c0800000000000000
+      internalID: -4209136148169356441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trunderground-elevator-spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 950
+        width: 66
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77a3075da0a828cf0800000000000000
+      internalID: -251486850044118409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trunderground-elevator-spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 566
+        width: 111
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 999e34af4f0a49990800000000000000
+      internalID: -7380096915322181223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trunderground-elevator-spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 760
+        width: 20
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eebd75e827d9e8ff0800000000000000
+      internalID: -31915032005059602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trunderground-elevator-spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 704
+        width: 76
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 544e82bd6f06fcb90800000000000000
+      internalID: -7219445064296504251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trunderground-elevator-spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 318
+        width: 201
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a0e826b7b802cfe0800000000000000
+      internalID: -1170363368034738016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trunderground-elevator-spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 260
+        width: 118
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ecca3d0109b7b1e0800000000000000
+      internalID: -2182072080269652762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trunderground-elevator-spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 260
+        width: 273
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7174da45441c02cb0800000000000000
+      internalID: -4890696696101779689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trunderground-elevator-spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 3
+        width: 317
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dc8855bb083e7730800000000000000
+      internalID: 3998695142089854166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trunderground-elevator-spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 5
+        width: 113
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03ca99f88f05254e0800000000000000
+      internalID: -1994442656480383952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trunderground-elevator-spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 5
+        width: 145
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 612bc7e3a422356d0800000000000000
+      internalID: -3003018824254705130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trunderground-elevator-spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 4
+        width: 139
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69439c8a82dafe210800000000000000
+      internalID: 1364499602258605206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      trunderground-elevator-spritesheet_0: -7493953798300863458
+      trunderground-elevator-spritesheet_1: -7848637530486724674
+      trunderground-elevator-spritesheet_10: -7380096915322181223
+      trunderground-elevator-spritesheet_11: -31915032005059602
+      trunderground-elevator-spritesheet_12: -7219445064296504251
+      trunderground-elevator-spritesheet_13: -1170363368034738016
+      trunderground-elevator-spritesheet_14: -2182072080269652762
+      trunderground-elevator-spritesheet_15: -4890696696101779689
+      trunderground-elevator-spritesheet_16: 3998695142089854166
+      trunderground-elevator-spritesheet_17: -1994442656480383952
+      trunderground-elevator-spritesheet_18: -3003018824254705130
+      trunderground-elevator-spritesheet_19: 1364499602258605206
+      trunderground-elevator-spritesheet_2: 2083562258788796305
+      trunderground-elevator-spritesheet_3: 1721490454474977387
+      trunderground-elevator-spritesheet_4: -7138672737258674185
+      trunderground-elevator-spritesheet_5: 3078035884144758456
+      trunderground-elevator-spritesheet_6: -5134933074216168714
+      trunderground-elevator-spritesheet_7: -2253925893777151735
+      trunderground-elevator-spritesheet_8: -4209136148169356441
+      trunderground-elevator-spritesheet_9: -251486850044118409
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

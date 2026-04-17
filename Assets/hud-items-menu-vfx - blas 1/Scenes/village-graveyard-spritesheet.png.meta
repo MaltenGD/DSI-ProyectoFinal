@@ -1,0 +1,429 @@
+fileFormatVersion: 2
+guid: 6712991954340f949869002d011f4f96
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4904008404214070160
+    second: village-graveyard-spritesheet_0
+  - first:
+      213: -8027618240206987990
+    second: village-graveyard-spritesheet_1
+  - first:
+      213: -1373280961301974538
+    second: village-graveyard-spritesheet_2
+  - first:
+      213: -8636180188437880029
+    second: village-graveyard-spritesheet_3
+  - first:
+      213: -2929924780798034463
+    second: village-graveyard-spritesheet_4
+  - first:
+      213: -5555430107590542376
+    second: village-graveyard-spritesheet_5
+  - first:
+      213: -6667584500239584694
+    second: village-graveyard-spritesheet_6
+  - first:
+      213: 8046931156106449350
+    second: village-graveyard-spritesheet_7
+  - first:
+      213: 2285402391638101168
+    second: village-graveyard-spritesheet_8
+  - first:
+      213: 2418153878516369183
+    second: village-graveyard-spritesheet_9
+  - first:
+      213: 7053099599192505370
+    second: village-graveyard-spritesheet_10
+  - first:
+      213: 3873774880983373082
+    second: village-graveyard-spritesheet_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: village-graveyard-spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 307
+        width: 510
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0744a43c65671fbb0800000000000000
+      internalID: -4904008404214070160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village-graveyard-spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2
+        width: 285
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2d14002ebb289090800000000000000
+      internalID: -8027618240206987990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village-graveyard-spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 284
+        width: 107
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f1f9ccdd3021fce0800000000000000
+      internalID: -1373280961301974538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village-graveyard-spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 216
+        width: 60
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 323e4e300ef162880800000000000000
+      internalID: -8636180188437880029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village-graveyard-spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 269
+        width: 70
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ed3bed6fe0d657d0800000000000000
+      internalID: -2929924780798034463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village-graveyard-spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 215
+        width: 68
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8db3e8640c527e2b0800000000000000
+      internalID: -5555430107590542376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village-graveyard-spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 216
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a42b151393bf773a0800000000000000
+      internalID: -6667584500239584694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village-graveyard-spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 216
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c19fb380417caf60800000000000000
+      internalID: 8046931156106449350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village-graveyard-spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 216
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bcca6add5167bf10800000000000000
+      internalID: 2285402391638101168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village-graveyard-spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 216
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f17833df3220f8120800000000000000
+      internalID: 2418153878516369183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village-graveyard-spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 216
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1cb15f67b4a1e160800000000000000
+      internalID: 7053099599192505370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village-graveyard-spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 39
+        width: 84
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1558d8eab962c530800000000000000
+      internalID: 3873774880983373082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      village-graveyard-spritesheet_0: -4904008404214070160
+      village-graveyard-spritesheet_1: -8027618240206987990
+      village-graveyard-spritesheet_10: 7053099599192505370
+      village-graveyard-spritesheet_11: 3873774880983373082
+      village-graveyard-spritesheet_2: -1373280961301974538
+      village-graveyard-spritesheet_3: -8636180188437880029
+      village-graveyard-spritesheet_4: -2929924780798034463
+      village-graveyard-spritesheet_5: -5555430107590542376
+      village-graveyard-spritesheet_6: -6667584500239584694
+      village-graveyard-spritesheet_7: 8046931156106449350
+      village-graveyard-spritesheet_8: 2285402391638101168
+      village-graveyard-spritesheet_9: 2418153878516369183
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

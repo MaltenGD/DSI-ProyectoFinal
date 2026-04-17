@@ -1,0 +1,949 @@
+fileFormatVersion: 2
+guid: 127cf117bf86bf6419d4b8af4eaafcd5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8546650954412270284
+    second: trap2_anim_0
+  - first:
+      213: -2769567582008791673
+    second: trap2_anim_1
+  - first:
+      213: -2283488055456674973
+    second: trap2_anim_2
+  - first:
+      213: 8294506910186437857
+    second: trap2_anim_3
+  - first:
+      213: 560533394779666176
+    second: trap2_anim_4
+  - first:
+      213: -4725225756775621554
+    second: trap2_anim_5
+  - first:
+      213: 1450716279117197400
+    second: trap2_anim_6
+  - first:
+      213: 33237473161581092
+    second: trap2_anim_7
+  - first:
+      213: -2331366352950606441
+    second: trap2_anim_8
+  - first:
+      213: -8375641512324194095
+    second: trap2_anim_9
+  - first:
+      213: -5810721077282304756
+    second: trap2_anim_10
+  - first:
+      213: 6846675629128242124
+    second: trap2_anim_11
+  - first:
+      213: -7395112829267768848
+    second: trap2_anim_12
+  - first:
+      213: 7013280035374527675
+    second: trap2_anim_13
+  - first:
+      213: 2026632183464786405
+    second: trap2_anim_14
+  - first:
+      213: 3592456557941395746
+    second: trap2_anim_15
+  - first:
+      213: 2947656131745158659
+    second: trap2_anim_16
+  - first:
+      213: 4109313396534237261
+    second: trap2_anim_17
+  - first:
+      213: -4066372959828703351
+    second: trap2_anim_18
+  - first:
+      213: 8813800724234638368
+    second: trap2_anim_19
+  - first:
+      213: 830438831023064139
+    second: trap2_anim_20
+  - first:
+      213: -3477560393382256558
+    second: trap2_anim_21
+  - first:
+      213: -8759801678659168551
+    second: trap2_anim_22
+  - first:
+      213: 8199424939019334991
+    second: trap2_anim_23
+  - first:
+      213: -6223255269392970753
+    second: trap2_anim_24
+  - first:
+      213: 8083173522159699442
+    second: trap2_anim_25
+  - first:
+      213: -299235537276831581
+    second: trap2_anim_26
+  - first:
+      213: -7993165038967097516
+    second: trap2_anim_27
+  - first:
+      213: -1382454055432902282
+    second: trap2_anim_28
+  - first:
+      213: -6301400402447968979
+    second: trap2_anim_29
+  - first:
+      213: -1372552466135133317
+    second: trap2_anim_30
+  - first:
+      213: 1671049234010538363
+    second: trap2_anim_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: trap2_anim_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 204
+        width: 17
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc22ffcc2cdcb9670800000000000000
+      internalID: 8546650954412270284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trap2_anim_1
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 241
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78dadec35f48099d0800000000000000
+      internalID: -2769567582008791673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trap2_anim_2
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 0
+        width: 24
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36b48a546bb6f40e0800000000000000
+      internalID: -2283488055456674973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trap2_anim_3
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 200
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ec7fa0b6120c1370800000000000000
+      internalID: 8294506910186437857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trap2_anim_4
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 192
+        width: 18
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 007f598172a67c700800000000000000
+      internalID: 560533394779666176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trap2_anim_5
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 246
+        width: 65
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4cdcd3a530ac6eb0800000000000000
+      internalID: -4725225756775621554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trap2_anim_6
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 0
+        width: 24
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85038a605caf12410800000000000000
+      internalID: 1450716279117197400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trap2_anim_7
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 0
+        width: 55
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42217054e45167000800000000000000
+      internalID: 33237473161581092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trap2_anim_8
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 203
+        width: 18
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 795c41377a255afd0800000000000000
+      internalID: -2331366352950606441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trap2_anim_9
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 0
+        width: 40
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d0a6ebab6eb3cb80800000000000000
+      internalID: -8375641512324194095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trap2_anim_10
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 193
+        width: 18
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0d86bb77fb2c5fa0800000000000000
+      internalID: -5810721077282304756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trap2_anim_11
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 190
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc3538e9537440f50800000000000000
+      internalID: 6846675629128242124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trap2_anim_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 136
+        width: 17
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f98f8110184f5990800000000000000
+      internalID: -7395112829267768848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trap2_anim_13
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 55
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb476d2c80d245160800000000000000
+      internalID: 7013280035374527675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trap2_anim_14
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 133
+        width: 19
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e9fac9bb3b002c10800000000000000
+      internalID: 2026632183464786405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trap2_anim_15
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 130
+        width: 23
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2219e1fa438fad130800000000000000
+      internalID: 3592456557941395746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trap2_anim_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 68
+        width: 17
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3061cac62ad28e820800000000000000
+      internalID: 2947656131745158659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trap2_anim_17
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 69
+        width: 19
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d485d2713c6370930800000000000000
+      internalID: 4109313396534237261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trap2_anim_18
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 66
+        width: 23
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 987082d66575197c0800000000000000
+      internalID: -4066372959828703351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trap2_anim_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 17
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0241619af09e05a70800000000000000
+      internalID: 8813800724234638368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trap2_anim_20
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 2
+        width: 19
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4402da87bf468b00800000000000000
+      internalID: 830438831023064139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trap2_anim_21
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 0
+        width: 23
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 250ab734f393dbfc0800000000000000
+      internalID: -3477560393382256558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trap2_anim_22
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 0
+        width: 17
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d656a0e8ceee6680800000000000000
+      internalID: -8759801678659168551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trap2_anim_23
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 0
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f45f9b42a853ac170800000000000000
+      internalID: 8199424939019334991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trap2_anim_24
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 2
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffb01410e4e82a9a0800000000000000
+      internalID: -6223255269392970753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trap2_anim_25
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 0
+        width: 21
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f50c2eed733d2070800000000000000
+      internalID: 8083173522159699442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trap2_anim_26
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 0
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a8f0704dd6e8dbf0800000000000000
+      internalID: -299235537276831581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trap2_anim_27
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 0
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4577b452fb2921190800000000000000
+      internalID: -7993165038967097516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trap2_anim_28
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 2
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 679af937c5980dce0800000000000000
+      internalID: -1382454055432902282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trap2_anim_29
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 0
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d25d59068bdec88a0800000000000000
+      internalID: -6301400402447968979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trap2_anim_30
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 0
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b73dd6cddc6b3fce0800000000000000
+      internalID: -1372552466135133317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trap2_anim_31
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 0
+        width: 65
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b71036bbc62c03710800000000000000
+      internalID: 1671049234010538363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      trap2_anim_0: 8546650954412270284
+      trap2_anim_1: -2769567582008791673
+      trap2_anim_10: -5810721077282304756
+      trap2_anim_11: 6846675629128242124
+      trap2_anim_12: -7395112829267768848
+      trap2_anim_13: 7013280035374527675
+      trap2_anim_14: 2026632183464786405
+      trap2_anim_15: 3592456557941395746
+      trap2_anim_16: 2947656131745158659
+      trap2_anim_17: 4109313396534237261
+      trap2_anim_18: -4066372959828703351
+      trap2_anim_19: 8813800724234638368
+      trap2_anim_2: -2283488055456674973
+      trap2_anim_20: 830438831023064139
+      trap2_anim_21: -3477560393382256558
+      trap2_anim_22: -8759801678659168551
+      trap2_anim_23: 8199424939019334991
+      trap2_anim_24: -6223255269392970753
+      trap2_anim_25: 8083173522159699442
+      trap2_anim_26: -299235537276831581
+      trap2_anim_27: -7993165038967097516
+      trap2_anim_28: -1382454055432902282
+      trap2_anim_29: -6301400402447968979
+      trap2_anim_3: 8294506910186437857
+      trap2_anim_30: -1372552466135133317
+      trap2_anim_31: 1671049234010538363
+      trap2_anim_4: 560533394779666176
+      trap2_anim_5: -4725225756775621554
+      trap2_anim_6: 1450716279117197400
+      trap2_anim_7: 33237473161581092
+      trap2_anim_8: -2331366352950606441
+      trap2_anim_9: -8375641512324194095
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

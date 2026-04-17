@@ -1,0 +1,767 @@
+fileFormatVersion: 2
+guid: 9c03645085315ba4cbedef4eca962bf0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6058005341386489677
+    second: breakableBarrel01_0
+  - first:
+      213: 1594567232982965257
+    second: breakableBarrel01_1
+  - first:
+      213: -6852173592737864150
+    second: breakableBarrel01_2
+  - first:
+      213: 3186480451566430117
+    second: breakableBarrel01_3
+  - first:
+      213: 3448609856829060041
+    second: breakableBarrel01_4
+  - first:
+      213: -6188674630490732590
+    second: breakableBarrel01_5
+  - first:
+      213: -2231785950011410254
+    second: breakableBarrel01_6
+  - first:
+      213: 3287998523147422719
+    second: breakableBarrel01_7
+  - first:
+      213: 2625214746878283211
+    second: breakableBarrel01_8
+  - first:
+      213: -7740048050194988919
+    second: breakableBarrel01_9
+  - first:
+      213: -8160072962613050060
+    second: breakableBarrel01_10
+  - first:
+      213: -8482660986138351164
+    second: breakableBarrel01_11
+  - first:
+      213: -5022142356718345781
+    second: breakableBarrel01_12
+  - first:
+      213: -1125785581935172450
+    second: breakableBarrel01_13
+  - first:
+      213: -7915752632249871086
+    second: breakableBarrel01_14
+  - first:
+      213: -726656775893469382
+    second: breakableBarrel01_15
+  - first:
+      213: 8984418091136012876
+    second: breakableBarrel01_16
+  - first:
+      213: 2717966394327501885
+    second: breakableBarrel01_17
+  - first:
+      213: 3522106830330372014
+    second: breakableBarrel01_18
+  - first:
+      213: 6189244146657958905
+    second: breakableBarrel01_19
+  - first:
+      213: -2453525932210873377
+    second: breakableBarrel01_20
+  - first:
+      213: 3795547061149435563
+    second: breakableBarrel01_21
+  - first:
+      213: -7457914181502461168
+    second: breakableBarrel01_22
+  - first:
+      213: -8522130672903539773
+    second: breakableBarrel01_23
+  - first:
+      213: 6551630423013988873
+    second: breakableBarrel01_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: breakableBarrel01_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 65
+        width: 49
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b04d3b1d34adeba0800000000000000
+      internalID: -6058005341386489677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableBarrel01_1
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 76
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90c5d64337a012610800000000000000
+      internalID: 1594567232982965257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableBarrel01_2
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 61
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a262c89fb6038e0a0800000000000000
+      internalID: -6852173592737864150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableBarrel01_3
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 60
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a7e7578617a83c20800000000000000
+      internalID: 3186480451566430117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableBarrel01_4
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 91
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c3f43da46cebdf20800000000000000
+      internalID: 3448609856829060041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableBarrel01_5
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 77
+        width: 20
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d7c02b66396d1aa0800000000000000
+      internalID: -6188674630490732590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableBarrel01_6
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 75
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b8bcd2c08a1701e0800000000000000
+      internalID: -2231785950011410254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableBarrel01_7
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 65
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffb063a7c3151ad20800000000000000
+      internalID: 3287998523147422719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableBarrel01_8
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 55
+        width: 56
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcd0cce37e2ae6420800000000000000
+      internalID: 2625214746878283211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableBarrel01_9
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 0
+        width: 87
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9804caf8e43d59490800000000000000
+      internalID: -7740048050194988919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableBarrel01_10
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 19
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4350e2adfd891ce80800000000000000
+      internalID: -8160072962613050060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableBarrel01_11
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 66
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c9a823b6c8874a80800000000000000
+      internalID: -8482660986138351164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableBarrel01_12
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 60
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc12c509224cd4ab0800000000000000
+      internalID: -5022142356718345781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableBarrel01_13
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 63
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e946f775af76060f0800000000000000
+      internalID: -1125785581935172450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableBarrel01_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21512e0abe8952290800000000000000
+      internalID: -7915752632249871086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableBarrel01_15
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 7
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a373d3723856ae5f0800000000000000
+      internalID: -726656775893469382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableBarrel01_16
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 0
+        width: 59
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4251c307a01fac70800000000000000
+      internalID: 8984418091136012876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableBarrel01_17
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 59
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3c0755090828b520800000000000000
+      internalID: 2717966394327501885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableBarrel01_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 20
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaf91d2508901e030800000000000000
+      internalID: 3522106830330372014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableBarrel01_19
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 7
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fb96b562cc94e550800000000000000
+      internalID: 6189244146657958905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableBarrel01_20
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 13
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdb9c5bf92353fdd0800000000000000
+      internalID: -2453525932210873377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableBarrel01_21
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 5
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba6071441fd7ca430800000000000000
+      internalID: 3795547061149435563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableBarrel01_22
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 0
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01b923ec09a208890800000000000000
+      internalID: -7457914181502461168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableBarrel01_23
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 2
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c3bf102e4f4bb980800000000000000
+      internalID: -8522130672903539773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableBarrel01_24
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 0
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90a146f58211cea50800000000000000
+      internalID: 6551630423013988873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      breakableBarrel01_0: -6058005341386489677
+      breakableBarrel01_1: 1594567232982965257
+      breakableBarrel01_10: -8160072962613050060
+      breakableBarrel01_11: -8482660986138351164
+      breakableBarrel01_12: -5022142356718345781
+      breakableBarrel01_13: -1125785581935172450
+      breakableBarrel01_14: -7915752632249871086
+      breakableBarrel01_15: -726656775893469382
+      breakableBarrel01_16: 8984418091136012876
+      breakableBarrel01_17: 2717966394327501885
+      breakableBarrel01_18: 3522106830330372014
+      breakableBarrel01_19: 6189244146657958905
+      breakableBarrel01_2: -6852173592737864150
+      breakableBarrel01_20: -2453525932210873377
+      breakableBarrel01_21: 3795547061149435563
+      breakableBarrel01_22: -7457914181502461168
+      breakableBarrel01_23: -8522130672903539773
+      breakableBarrel01_24: 6551630423013988873
+      breakableBarrel01_3: 3186480451566430117
+      breakableBarrel01_4: 3448609856829060041
+      breakableBarrel01_5: -6188674630490732590
+      breakableBarrel01_6: -2231785950011410254
+      breakableBarrel01_7: 3287998523147422719
+      breakableBarrel01_8: 2625214746878283211
+      breakableBarrel01_9: -7740048050194988919
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

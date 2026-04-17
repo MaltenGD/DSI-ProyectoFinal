@@ -1,0 +1,351 @@
+fileFormatVersion: 2
+guid: 73c8bc74e4e110e47ad841fa8262f9fe
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3025090513874062986
+    second: bridge-background-sprite-sheet_0
+  - first:
+      213: -19464277567318115
+    second: bridge-background-sprite-sheet_1
+  - first:
+      213: -349338342089547837
+    second: bridge-background-sprite-sheet_2
+  - first:
+      213: -3206866390850151616
+    second: bridge-background-sprite-sheet_3
+  - first:
+      213: 3479497731097484445
+    second: bridge-background-sprite-sheet_4
+  - first:
+      213: -4778697487662590649
+    second: bridge-background-sprite-sheet_5
+  - first:
+      213: 8358351199994947682
+    second: bridge-background-sprite-sheet_6
+  - first:
+      213: 936006433981488343
+    second: bridge-background-sprite-sheet_7
+  - first:
+      213: 3643030685849691035
+    second: bridge-background-sprite-sheet_8
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bridge-background-sprite-sheet_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 987
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8e0ed47bc74bf920800000000000000
+      internalID: 3025090513874062986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bridge-background-sprite-sheet_1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 987
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d975ac9b759dabff0800000000000000
+      internalID: -19464277567318115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bridge-background-sprite-sheet_2
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 987
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cf1455f0a6e62bf0800000000000000
+      internalID: -349338342089547837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bridge-background-sprite-sheet_3
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 987
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04bdc3b120cee73d0800000000000000
+      internalID: -3206866390850151616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bridge-background-sprite-sheet_4
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 871
+        width: 368
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9cd7d250c8a94030800000000000000
+      internalID: 3479497731097484445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bridge-background-sprite-sheet_5
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 510
+        width: 1002
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 745d1de14f7aeadb0800000000000000
+      internalID: -4778697487662590649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bridge-background-sprite-sheet_6
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 871
+        width: 316
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 268a8a7c124def370800000000000000
+      internalID: 8358351199994947682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bridge-background-sprite-sheet_7
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 133
+        width: 1002
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dc52fc74ec5dfc00800000000000000
+      internalID: 936006433981488343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bridge-background-sprite-sheet_8
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 0
+        width: 1002
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b932bef6b15ae8230800000000000000
+      internalID: 3643030685849691035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      bridge-background-sprite-sheet_0: 3025090513874062986
+      bridge-background-sprite-sheet_1: -19464277567318115
+      bridge-background-sprite-sheet_2: -349338342089547837
+      bridge-background-sprite-sheet_3: -3206866390850151616
+      bridge-background-sprite-sheet_4: 3479497731097484445
+      bridge-background-sprite-sheet_5: -4778697487662590649
+      bridge-background-sprite-sheet_6: 8358351199994947682
+      bridge-background-sprite-sheet_7: 936006433981488343
+      bridge-background-sprite-sheet_8: 3643030685849691035
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,819 @@
+fileFormatVersion: 2
+guid: 16ba140fac3fcc447a67177cdfb65195
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -137140510196268452
+    second: reja_lateral_invertedBell_descending_0
+  - first:
+      213: -4232966154863336496
+    second: reja_lateral_invertedBell_descending_1
+  - first:
+      213: -3146571754693367764
+    second: reja_lateral_invertedBell_descending_2
+  - first:
+      213: 2141089561917344523
+    second: reja_lateral_invertedBell_descending_3
+  - first:
+      213: 2560246277854757834
+    second: reja_lateral_invertedBell_descending_4
+  - first:
+      213: 2347037173810421600
+    second: reja_lateral_invertedBell_descending_5
+  - first:
+      213: 1662119338688610486
+    second: reja_lateral_invertedBell_descending_6
+  - first:
+      213: -3237061042041351027
+    second: reja_lateral_invertedBell_descending_7
+  - first:
+      213: -2083887672920687136
+    second: reja_lateral_invertedBell_descending_8
+  - first:
+      213: -1033071257302045900
+    second: reja_lateral_invertedBell_descending_9
+  - first:
+      213: 211378082763504138
+    second: reja_lateral_invertedBell_descending_10
+  - first:
+      213: -4572368031605397714
+    second: reja_lateral_invertedBell_descending_11
+  - first:
+      213: 6632611957573912229
+    second: reja_lateral_invertedBell_descending_12
+  - first:
+      213: 8551364305113640481
+    second: reja_lateral_invertedBell_descending_13
+  - first:
+      213: -289473822555328591
+    second: reja_lateral_invertedBell_descending_14
+  - first:
+      213: 379408325609785120
+    second: reja_lateral_invertedBell_descending_15
+  - first:
+      213: 3498176093161680528
+    second: reja_lateral_invertedBell_descending_16
+  - first:
+      213: 2208899250226160339
+    second: reja_lateral_invertedBell_descending_17
+  - first:
+      213: 7425832737807814102
+    second: reja_lateral_invertedBell_descending_18
+  - first:
+      213: 472309143613598532
+    second: reja_lateral_invertedBell_descending_19
+  - first:
+      213: -6179321791362248839
+    second: reja_lateral_invertedBell_descending_20
+  - first:
+      213: -4707056336692958940
+    second: reja_lateral_invertedBell_descending_21
+  - first:
+      213: 9100511752991339325
+    second: reja_lateral_invertedBell_descending_22
+  - first:
+      213: 1139881081801093228
+    second: reja_lateral_invertedBell_descending_23
+  - first:
+      213: 114247389045330230
+    second: reja_lateral_invertedBell_descending_24
+  - first:
+      213: -2875297613130695534
+    second: reja_lateral_invertedBell_descending_25
+  - first:
+      213: 4955384557598509191
+    second: reja_lateral_invertedBell_descending_26
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: reja_lateral_invertedBell_descending_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 364
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c528f6dbe67c81ef0800000000000000
+      internalID: -137140510196268452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reja_lateral_invertedBell_descending_1
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 363
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d3ae1995bb7145c0800000000000000
+      internalID: -4232966154863336496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reja_lateral_invertedBell_descending_2
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 361
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c28693d09a12554d0800000000000000
+      internalID: -3146571754693367764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reja_lateral_invertedBell_descending_3
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 355
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0b4162dc9da6bd10800000000000000
+      internalID: 2141089561917344523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reja_lateral_invertedBell_descending_4
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 345
+        width: 19
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac38c09cc62d78320800000000000000
+      internalID: 2560246277854757834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reja_lateral_invertedBell_descending_5
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 340
+        width: 19
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06f5b9bdfd9529020800000000000000
+      internalID: 2347037173810421600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reja_lateral_invertedBell_descending_6
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 314
+        width: 19
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b087d47bb8011710800000000000000
+      internalID: 1662119338688610486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reja_lateral_invertedBell_descending_7
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 162
+        width: 19
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d849ed80226a313d0800000000000000
+      internalID: -3237061042041351027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reja_lateral_invertedBell_descending_8
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 0
+        width: 37
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ed3fbfc33b8413e0800000000000000
+      internalID: -2083887672920687136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reja_lateral_invertedBell_descending_9
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 130
+        width: 28
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43b68d83a2bc9a1f0800000000000000
+      internalID: -1033071257302045900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reja_lateral_invertedBell_descending_10
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 0
+        width: 33
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0afb601f37fee200800000000000000
+      internalID: 211378082763504138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reja_lateral_invertedBell_descending_11
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 0
+        width: 46
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e27eecd208fab80c0800000000000000
+      internalID: -4572368031605397714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reja_lateral_invertedBell_descending_12
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 0
+        width: 37
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a683303f65cb0c50800000000000000
+      internalID: 6632611957573912229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reja_lateral_invertedBell_descending_13
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 127
+        width: 39
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12ee047478c8ca670800000000000000
+      internalID: 8551364305113640481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reja_lateral_invertedBell_descending_14
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 0
+        width: 37
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bfa0d297159bfbf0800000000000000
+      internalID: -289473822555328591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reja_lateral_invertedBell_descending_15
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 0
+        width: 34
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0270cc8acdde34500800000000000000
+      internalID: 379408325609785120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reja_lateral_invertedBell_descending_16
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09e6aa26f940c8030800000000000000
+      internalID: 3498176093161680528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reja_lateral_invertedBell_descending_17
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 23
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d26b523a2697ae10800000000000000
+      internalID: 2208899250226160339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reja_lateral_invertedBell_descending_18
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 26
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dd4082088bdd0760800000000000000
+      internalID: 7425832737807814102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reja_lateral_invertedBell_descending_19
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 10
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44be149e9aafd8600800000000000000
+      internalID: 472309143613598532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reja_lateral_invertedBell_descending_20
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 12
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97fc509f193ae3aa0800000000000000
+      internalID: -6179321791362248839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reja_lateral_invertedBell_descending_21
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 16
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4292aa9633d2daeb0800000000000000
+      internalID: -4707056336692958940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reja_lateral_invertedBell_descending_22
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 5
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d33f05709338b4e70800000000000000
+      internalID: 9100511752991339325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reja_lateral_invertedBell_descending_23
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 5
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6031f6fdcba1df00800000000000000
+      internalID: 1139881081801093228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reja_lateral_invertedBell_descending_24
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 6
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63110902563e59100800000000000000
+      internalID: 114247389045330230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reja_lateral_invertedBell_descending_25
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 8
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29cf0d90e04e818d0800000000000000
+      internalID: -2875297613130695534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reja_lateral_invertedBell_descending_26
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 1
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7888d19100015c440800000000000000
+      internalID: 4955384557598509191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      reja_lateral_invertedBell_descending_0: -137140510196268452
+      reja_lateral_invertedBell_descending_1: -4232966154863336496
+      reja_lateral_invertedBell_descending_10: 211378082763504138
+      reja_lateral_invertedBell_descending_11: -4572368031605397714
+      reja_lateral_invertedBell_descending_12: 6632611957573912229
+      reja_lateral_invertedBell_descending_13: 8551364305113640481
+      reja_lateral_invertedBell_descending_14: -289473822555328591
+      reja_lateral_invertedBell_descending_15: 379408325609785120
+      reja_lateral_invertedBell_descending_16: 3498176093161680528
+      reja_lateral_invertedBell_descending_17: 2208899250226160339
+      reja_lateral_invertedBell_descending_18: 7425832737807814102
+      reja_lateral_invertedBell_descending_19: 472309143613598532
+      reja_lateral_invertedBell_descending_2: -3146571754693367764
+      reja_lateral_invertedBell_descending_20: -6179321791362248839
+      reja_lateral_invertedBell_descending_21: -4707056336692958940
+      reja_lateral_invertedBell_descending_22: 9100511752991339325
+      reja_lateral_invertedBell_descending_23: 1139881081801093228
+      reja_lateral_invertedBell_descending_24: 114247389045330230
+      reja_lateral_invertedBell_descending_25: -2875297613130695534
+      reja_lateral_invertedBell_descending_26: 4955384557598509191
+      reja_lateral_invertedBell_descending_3: 2141089561917344523
+      reja_lateral_invertedBell_descending_4: 2560246277854757834
+      reja_lateral_invertedBell_descending_5: 2347037173810421600
+      reja_lateral_invertedBell_descending_6: 1662119338688610486
+      reja_lateral_invertedBell_descending_7: -3237061042041351027
+      reja_lateral_invertedBell_descending_8: -2083887672920687136
+      reja_lateral_invertedBell_descending_9: -1033071257302045900
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

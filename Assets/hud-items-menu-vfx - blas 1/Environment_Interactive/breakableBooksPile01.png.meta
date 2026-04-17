@@ -1,0 +1,715 @@
+fileFormatVersion: 2
+guid: 2b586f073b40e904799dd60f2983baef
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2201410484495626144
+    second: breakableBooksPile01_0
+  - first:
+      213: 4392386891584414930
+    second: breakableBooksPile01_1
+  - first:
+      213: -4681420702627706920
+    second: breakableBooksPile01_2
+  - first:
+      213: -1284975274075046500
+    second: breakableBooksPile01_3
+  - first:
+      213: -7534867662674904071
+    second: breakableBooksPile01_4
+  - first:
+      213: -5962150384616937940
+    second: breakableBooksPile01_5
+  - first:
+      213: 1134289330047150726
+    second: breakableBooksPile01_6
+  - first:
+      213: 1958392045245914108
+    second: breakableBooksPile01_7
+  - first:
+      213: 7750821218125632136
+    second: breakableBooksPile01_8
+  - first:
+      213: 845720120041721786
+    second: breakableBooksPile01_9
+  - first:
+      213: 1753397740424479312
+    second: breakableBooksPile01_10
+  - first:
+      213: -7176707405855246269
+    second: breakableBooksPile01_11
+  - first:
+      213: -7355561359837937114
+    second: breakableBooksPile01_12
+  - first:
+      213: -7808362716727311028
+    second: breakableBooksPile01_13
+  - first:
+      213: -2416400779434822520
+    second: breakableBooksPile01_14
+  - first:
+      213: 7308538891941661401
+    second: breakableBooksPile01_15
+  - first:
+      213: -2670515723057983607
+    second: breakableBooksPile01_16
+  - first:
+      213: -7112267651832749156
+    second: breakableBooksPile01_17
+  - first:
+      213: -839940203397605256
+    second: breakableBooksPile01_18
+  - first:
+      213: -4046542796639291674
+    second: breakableBooksPile01_19
+  - first:
+      213: -1145135151740897249
+    second: breakableBooksPile01_20
+  - first:
+      213: -326469345537883961
+    second: breakableBooksPile01_21
+  - first:
+      213: 2000716995744238511
+    second: breakableBooksPile01_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: breakableBooksPile01_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 35
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0afae2d0c2bfc8e10800000000000000
+      internalID: 2201410484495626144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableBooksPile01_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 19
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d4a8f42b94e4fc30800000000000000
+      internalID: 4392386891584414930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableBooksPile01_2
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 60
+        width: 31
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d747b79ca0480fb0800000000000000
+      internalID: -4681420702627706920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableBooksPile01_3
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 20
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9db89bdbc9da2ee0800000000000000
+      internalID: -1284975274075046500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableBooksPile01_4
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 0
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fb3fa048c5ce6790800000000000000
+      internalID: -7534867662674904071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableBooksPile01_5
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 36
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c26e27360df224da0800000000000000
+      internalID: -5962150384616937940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableBooksPile01_6
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 24
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68ae9fdc22ecdbf00800000000000000
+      internalID: 1134289330047150726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableBooksPile01_7
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 45
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfb55db603b9d2b10800000000000000
+      internalID: 1958392045245914108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableBooksPile01_8
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 8
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88250ff05d2709b60800000000000000
+      internalID: 7750821218125632136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableBooksPile01_9
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 41
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abfcc76e7f99cbb00800000000000000
+      internalID: 845720120041721786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableBooksPile01_10
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 25
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05249fb74f1555810800000000000000
+      internalID: 1753397740424479312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableBooksPile01_11
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 32
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 348351163a6376c90800000000000000
+      internalID: -7176707405855246269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableBooksPile01_12
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 45
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62245472aebcbe990800000000000000
+      internalID: -7355561359837937114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableBooksPile01_13
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 18
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c458018ca7f13a390800000000000000
+      internalID: -7808362716727311028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableBooksPile01_14
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 10
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8847fc23b48377ed0800000000000000
+      internalID: -2416400779434822520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableBooksPile01_15
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 18
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9da4f4166652d6560800000000000000
+      internalID: 7308538891941661401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableBooksPile01_16
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 70
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98f8800591c60fad0800000000000000
+      internalID: -2670515723057983607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableBooksPile01_17
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 0
+        width: 34
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c93e109c0462c4d90800000000000000
+      internalID: -7112267651832749156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableBooksPile01_18
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 66
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8789aefc5dee754f0800000000000000
+      internalID: -839940203397605256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableBooksPile01_19
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 0
+        width: 34
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e636e514cac7d7c0800000000000000
+      internalID: -4046542796639291674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableBooksPile01_20
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 20
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f18bbac85a9ab10f0800000000000000
+      internalID: -1145135151740897249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableBooksPile01_21
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 0
+        width: 30
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c009252cd5287bf0800000000000000
+      internalID: -326469345537883961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakableBooksPile01_22
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 0
+        width: 32
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fab0c63e189f3cb10800000000000000
+      internalID: 2000716995744238511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      breakableBooksPile01_0: 2201410484495626144
+      breakableBooksPile01_1: 4392386891584414930
+      breakableBooksPile01_10: 1753397740424479312
+      breakableBooksPile01_11: -7176707405855246269
+      breakableBooksPile01_12: -7355561359837937114
+      breakableBooksPile01_13: -7808362716727311028
+      breakableBooksPile01_14: -2416400779434822520
+      breakableBooksPile01_15: 7308538891941661401
+      breakableBooksPile01_16: -2670515723057983607
+      breakableBooksPile01_17: -7112267651832749156
+      breakableBooksPile01_18: -839940203397605256
+      breakableBooksPile01_19: -4046542796639291674
+      breakableBooksPile01_2: -4681420702627706920
+      breakableBooksPile01_20: -1145135151740897249
+      breakableBooksPile01_21: -326469345537883961
+      breakableBooksPile01_22: 2000716995744238511
+      breakableBooksPile01_3: -1284975274075046500
+      breakableBooksPile01_4: -7534867662674904071
+      breakableBooksPile01_5: -5962150384616937940
+      breakableBooksPile01_6: 1134289330047150726
+      breakableBooksPile01_7: 1958392045245914108
+      breakableBooksPile01_8: 7750821218125632136
+      breakableBooksPile01_9: 845720120041721786
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

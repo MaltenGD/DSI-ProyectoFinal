@@ -1,0 +1,1937 @@
+fileFormatVersion: 2
+guid: 1c94e605058da0449a44f3cb2d524797
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1624824536880770322
+    second: MovingGrass_Gardens_2_0
+  - first:
+      213: 2922342374306192422
+    second: MovingGrass_Gardens_2_1
+  - first:
+      213: -262909696718061941
+    second: MovingGrass_Gardens_2_2
+  - first:
+      213: 2536712018203367989
+    second: MovingGrass_Gardens_2_3
+  - first:
+      213: 371698063233270576
+    second: MovingGrass_Gardens_2_4
+  - first:
+      213: 4434450670042734874
+    second: MovingGrass_Gardens_2_5
+  - first:
+      213: -5636383794004365884
+    second: MovingGrass_Gardens_2_6
+  - first:
+      213: 708699412580627235
+    second: MovingGrass_Gardens_2_7
+  - first:
+      213: -1046670791138915792
+    second: MovingGrass_Gardens_2_8
+  - first:
+      213: -6963689448777090399
+    second: MovingGrass_Gardens_2_9
+  - first:
+      213: -7248700227046065131
+    second: MovingGrass_Gardens_2_10
+  - first:
+      213: 4799118076963243144
+    second: MovingGrass_Gardens_2_11
+  - first:
+      213: -7247280687787576438
+    second: MovingGrass_Gardens_2_12
+  - first:
+      213: -7883892350781271307
+    second: MovingGrass_Gardens_2_13
+  - first:
+      213: -4389479033893936557
+    second: MovingGrass_Gardens_2_14
+  - first:
+      213: 4961038546503001192
+    second: MovingGrass_Gardens_2_15
+  - first:
+      213: -3653942710258469423
+    second: MovingGrass_Gardens_2_16
+  - first:
+      213: -2952817659043250254
+    second: MovingGrass_Gardens_2_17
+  - first:
+      213: 6590552041648402372
+    second: MovingGrass_Gardens_2_18
+  - first:
+      213: 4022069241663972736
+    second: MovingGrass_Gardens_2_19
+  - first:
+      213: -846410223116499395
+    second: MovingGrass_Gardens_2_20
+  - first:
+      213: 7919114559806750200
+    second: MovingGrass_Gardens_2_21
+  - first:
+      213: -1857229347512574299
+    second: MovingGrass_Gardens_2_22
+  - first:
+      213: 4399298715038655223
+    second: MovingGrass_Gardens_2_23
+  - first:
+      213: -6594895496956384053
+    second: MovingGrass_Gardens_2_24
+  - first:
+      213: -225611749780261191
+    second: MovingGrass_Gardens_2_25
+  - first:
+      213: -6053883502024286824
+    second: MovingGrass_Gardens_2_26
+  - first:
+      213: 2191659171759227337
+    second: MovingGrass_Gardens_2_27
+  - first:
+      213: -8335764560614558148
+    second: MovingGrass_Gardens_2_28
+  - first:
+      213: 9142465622964720232
+    second: MovingGrass_Gardens_2_29
+  - first:
+      213: -637173578945109699
+    second: MovingGrass_Gardens_2_30
+  - first:
+      213: 1170134063912267785
+    second: MovingGrass_Gardens_2_31
+  - first:
+      213: -7353107848399054106
+    second: MovingGrass_Gardens_2_32
+  - first:
+      213: -3358902572052129225
+    second: MovingGrass_Gardens_2_33
+  - first:
+      213: 960642263278218176
+    second: MovingGrass_Gardens_2_34
+  - first:
+      213: -1378229118136852125
+    second: MovingGrass_Gardens_2_35
+  - first:
+      213: 733538125501312343
+    second: MovingGrass_Gardens_2_36
+  - first:
+      213: 6343346506093443715
+    second: MovingGrass_Gardens_2_37
+  - first:
+      213: -8584473176216707283
+    second: MovingGrass_Gardens_2_38
+  - first:
+      213: 1595043952892446680
+    second: MovingGrass_Gardens_2_39
+  - first:
+      213: 4655276814697974679
+    second: MovingGrass_Gardens_2_40
+  - first:
+      213: 5082559944744825293
+    second: MovingGrass_Gardens_2_41
+  - first:
+      213: -2170126078879961834
+    second: MovingGrass_Gardens_2_42
+  - first:
+      213: 528923147829125474
+    second: MovingGrass_Gardens_2_43
+  - first:
+      213: 9118458103574196837
+    second: MovingGrass_Gardens_2_44
+  - first:
+      213: -6207850886331595843
+    second: MovingGrass_Gardens_2_45
+  - first:
+      213: 8504591760099855429
+    second: MovingGrass_Gardens_2_46
+  - first:
+      213: -5480912201809076573
+    second: MovingGrass_Gardens_2_47
+  - first:
+      213: -7768246697602526416
+    second: MovingGrass_Gardens_2_48
+  - first:
+      213: -7971316202041163683
+    second: MovingGrass_Gardens_2_49
+  - first:
+      213: 7946449936493405719
+    second: MovingGrass_Gardens_2_50
+  - first:
+      213: -5536614260270353355
+    second: MovingGrass_Gardens_2_51
+  - first:
+      213: 5136773210559800156
+    second: MovingGrass_Gardens_2_52
+  - first:
+      213: 4334497855120703604
+    second: MovingGrass_Gardens_2_53
+  - first:
+      213: 1322775571556018770
+    second: MovingGrass_Gardens_2_54
+  - first:
+      213: 7063733096239154991
+    second: MovingGrass_Gardens_2_55
+  - first:
+      213: 1662161760857281491
+    second: MovingGrass_Gardens_2_56
+  - first:
+      213: -8951215244804100187
+    second: MovingGrass_Gardens_2_57
+  - first:
+      213: -386841941099528619
+    second: MovingGrass_Gardens_2_58
+  - first:
+      213: 8843474266944053913
+    second: MovingGrass_Gardens_2_59
+  - first:
+      213: -4182029134967852
+    second: MovingGrass_Gardens_2_60
+  - first:
+      213: 6115664550303339539
+    second: MovingGrass_Gardens_2_61
+  - first:
+      213: -948715361128774195
+    second: MovingGrass_Gardens_2_62
+  - first:
+      213: -851069506749621024
+    second: MovingGrass_Gardens_2_63
+  - first:
+      213: 7838011152324720071
+    second: MovingGrass_Gardens_2_64
+  - first:
+      213: -6511216202583225222
+    second: MovingGrass_Gardens_2_65
+  - first:
+      213: -1478088088706805714
+    second: MovingGrass_Gardens_2_66
+  - first:
+      213: -3334745494814869782
+    second: MovingGrass_Gardens_2_67
+  - first:
+      213: -2222160779148845216
+    second: MovingGrass_Gardens_2_68
+  - first:
+      213: 8537083874776379894
+    second: MovingGrass_Gardens_2_69
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MovingGrass_Gardens_2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 81
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21ded1fbe498c8610800000000000000
+      internalID: 1624824536880770322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovingGrass_Gardens_2_1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 77
+        width: 41
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62c979cf7ee3e8820800000000000000
+      internalID: 2922342374306192422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovingGrass_Gardens_2_2
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 102
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8e3d171605f95cf0800000000000000
+      internalID: -262909696718061941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovingGrass_Gardens_2_3
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 103
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53ad976f326343320800000000000000
+      internalID: 2536712018203367989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovingGrass_Gardens_2_4
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 102
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03348be4b69882500800000000000000
+      internalID: 371698063233270576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovingGrass_Gardens_2_5
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 103
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a11e3e1c3655a8d30800000000000000
+      internalID: 4434450670042734874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovingGrass_Gardens_2_6
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 101
+        width: 42
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cde99c5dca87c1b0800000000000000
+      internalID: -5636383794004365884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovingGrass_Gardens_2_7
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 99
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32375636c5ec5d900800000000000000
+      internalID: 708699412580627235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovingGrass_Gardens_2_8
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 100
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03a4361067a7971f0800000000000000
+      internalID: -1046670791138915792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovingGrass_Gardens_2_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 82
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aa718f67510c5f90800000000000000
+      internalID: -6963689448777090399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovingGrass_Gardens_2_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 54
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51c30ab7c81776b90800000000000000
+      internalID: -7248700227046065131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovingGrass_Gardens_2_11
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 81
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 884cc84d674e99240800000000000000
+      internalID: 4799118076963243144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovingGrass_Gardens_2_12
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 52
+        width: 41
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a837fd8bc9c7c6b90800000000000000
+      internalID: -7247280687787576438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovingGrass_Gardens_2_13
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 78
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f253487da9c69290800000000000000
+      internalID: -7883892350781271307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovingGrass_Gardens_2_14
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 77
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3522abb33107513c0800000000000000
+      internalID: -4389479033893936557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovingGrass_Gardens_2_15
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 78
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 864e459f54629d440800000000000000
+      internalID: 4961038546503001192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovingGrass_Gardens_2_16
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 76
+        width: 46
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d57a65e6769a4dc0800000000000000
+      internalID: -3653942710258469423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovingGrass_Gardens_2_17
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 75
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bff93adbfb7507d0800000000000000
+      internalID: -2952817659043250254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovingGrass_Gardens_2_18
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 75
+        width: 40
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cfad24e928567b50800000000000000
+      internalID: 6590552041648402372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovingGrass_Gardens_2_19
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 52
+        width: 40
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 085e76b5aa241d730800000000000000
+      internalID: 4022069241663972736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovingGrass_Gardens_2_20
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 75
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d36c1e4f262f044f0800000000000000
+      internalID: -846410223116499395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovingGrass_Gardens_2_21
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 76
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fdb7e02cb856ed60800000000000000
+      internalID: 7919114559806750200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovingGrass_Gardens_2_22
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 51
+        width: 46
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ae151b9fbbc936e0800000000000000
+      internalID: -1857229347512574299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovingGrass_Gardens_2_23
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 74
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f226b27fd27d0d30800000000000000
+      internalID: 4399298715038655223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovingGrass_Gardens_2_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 55
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcc671d9c793a74a0800000000000000
+      internalID: -6594895496956384053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovingGrass_Gardens_2_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 27
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b671351f477edcf0800000000000000
+      internalID: -225611749780261191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovingGrass_Gardens_2_26
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 54
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89d9e3e97094cfba0800000000000000
+      internalID: -6053883502024286824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovingGrass_Gardens_2_27
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 26
+        width: 41
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c18f61a7665a6e10800000000000000
+      internalID: 2191659171759227337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovingGrass_Gardens_2_28
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 53
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3677410c4a615c80800000000000000
+      internalID: -8335764560614558148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovingGrass_Gardens_2_29
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 52
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86258049b0090ee70800000000000000
+      internalID: 9142465622964720232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovingGrass_Gardens_2_30
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 53
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3166be710e4827f0800000000000000
+      internalID: -637173578945109699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovingGrass_Gardens_2_31
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 49
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90033134bb62d3010800000000000000
+      internalID: 1170134063912267785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovingGrass_Gardens_2_32
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 50
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ea990dce5384f990800000000000000
+      internalID: -7353107848399054106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovingGrass_Gardens_2_33
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 50
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73adfad28e7c261d0800000000000000
+      internalID: -3358902572052129225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovingGrass_Gardens_2_34
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 49
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cbecea7c03e45d00800000000000000
+      internalID: 960642263278218176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovingGrass_Gardens_2_35
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 50
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3616a525beb8fdce0800000000000000
+      internalID: -1378229118136852125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovingGrass_Gardens_2_36
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 51
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75d26b7e90d0e2a00800000000000000
+      internalID: 733538125501312343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovingGrass_Gardens_2_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 28
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38a3aeee908180850800000000000000
+      internalID: 6343346506093443715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovingGrass_Gardens_2_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2fdbb3f023ddd880800000000000000
+      internalID: -8584473176216707283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovingGrass_Gardens_2_39
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 27
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d70a45360cb22610800000000000000
+      internalID: 1595043952892446680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovingGrass_Gardens_2_40
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 27
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79b4f27299dda9040800000000000000
+      internalID: 4655276814697974679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovingGrass_Gardens_2_41
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 0
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc1f4285751e88640800000000000000
+      internalID: 5082559944744825293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovingGrass_Gardens_2_42
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 26
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61d6c8e34d922e1e0800000000000000
+      internalID: -2170126078879961834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovingGrass_Gardens_2_43
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 27
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26126d3fccc175700800000000000000
+      internalID: 528923147829125474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovingGrass_Gardens_2_44
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 26
+        width: 46
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56272d265554b8e70800000000000000
+      internalID: 9118458103574196837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovingGrass_Gardens_2_45
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 24
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db38c9d628849d9a0800000000000000
+      internalID: -6207850886331595843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovingGrass_Gardens_2_46
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 25
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54c47748521660670800000000000000
+      internalID: 8504591760099855429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovingGrass_Gardens_2_47
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 30
+        width: 40
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aed01e3463efe3b0800000000000000
+      internalID: -5480912201809076573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovingGrass_Gardens_2_48
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 24
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 033dcc559c4a13490800000000000000
+      internalID: -7768246697602526416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovingGrass_Gardens_2_49
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 25
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d504509e522306190800000000000000
+      internalID: -7971316202041163683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovingGrass_Gardens_2_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7166d1a7d16774e60800000000000000
+      internalID: 7946449936493405719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovingGrass_Gardens_2_51
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 0
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 534393e1aaef923b0800000000000000
+      internalID: -5536614260270353355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovingGrass_Gardens_2_52
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c53e82be40c794740800000000000000
+      internalID: 5136773210559800156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovingGrass_Gardens_2_53
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 0
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 470892685da372c30800000000000000
+      internalID: 4334497855120703604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovingGrass_Gardens_2_54
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 1
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25a292cbf517b5210800000000000000
+      internalID: 1322775571556018770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovingGrass_Gardens_2_55
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 2
+        width: 40
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f27418563db670260800000000000000
+      internalID: 7063733096239154991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovingGrass_Gardens_2_56
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d3d223a05f211710800000000000000
+      internalID: 1662161760857281491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovingGrass_Gardens_2_57
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 0
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5afe3611925e6c380800000000000000
+      internalID: -8951215244804100187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovingGrass_Gardens_2_58
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 0
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55e3a8cdd49a1aaf0800000000000000
+      internalID: -386841941099528619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovingGrass_Gardens_2_59
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 0
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9922285bdf45aba70800000000000000
+      internalID: 8843474266944053913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovingGrass_Gardens_2_60
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4db48f6777421fff0800000000000000
+      internalID: -4182029134967852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovingGrass_Gardens_2_61
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 1
+        width: 46
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 314974e91843fd450800000000000000
+      internalID: 6115664550303339539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovingGrass_Gardens_2_62
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 0
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc586f2d76c75d2f0800000000000000
+      internalID: -948715361128774195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovingGrass_Gardens_2_63
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 0
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ec9503fac46034f0800000000000000
+      internalID: -851069506749621024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovingGrass_Gardens_2_64
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1
+        width: 44
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c57ddf8d9536cc60800000000000000
+      internalID: 7838011152324720071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovingGrass_Gardens_2_65
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 0
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7c42459c5383a5a0800000000000000
+      internalID: -6511216202583225222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovingGrass_Gardens_2_66
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 0
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2015ede6b6cc7be0800000000000000
+      internalID: -1478088088706805714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovingGrass_Gardens_2_67
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 5
+        width: 40
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae6b93504aa98b1d0800000000000000
+      internalID: -3334745494814869782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovingGrass_Gardens_2_68
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 0
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06f170d7b8c4921e0800000000000000
+      internalID: -2222160779148845216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovingGrass_Gardens_2_69
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 0
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f1f2cd7d80d97670800000000000000
+      internalID: 8537083874776379894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      MovingGrass_Gardens_2_0: 1624824536880770322
+      MovingGrass_Gardens_2_1: 2922342374306192422
+      MovingGrass_Gardens_2_10: -7248700227046065131
+      MovingGrass_Gardens_2_11: 4799118076963243144
+      MovingGrass_Gardens_2_12: -7247280687787576438
+      MovingGrass_Gardens_2_13: -7883892350781271307
+      MovingGrass_Gardens_2_14: -4389479033893936557
+      MovingGrass_Gardens_2_15: 4961038546503001192
+      MovingGrass_Gardens_2_16: -3653942710258469423
+      MovingGrass_Gardens_2_17: -2952817659043250254
+      MovingGrass_Gardens_2_18: 6590552041648402372
+      MovingGrass_Gardens_2_19: 4022069241663972736
+      MovingGrass_Gardens_2_2: -262909696718061941
+      MovingGrass_Gardens_2_20: -846410223116499395
+      MovingGrass_Gardens_2_21: 7919114559806750200
+      MovingGrass_Gardens_2_22: -1857229347512574299
+      MovingGrass_Gardens_2_23: 4399298715038655223
+      MovingGrass_Gardens_2_24: -6594895496956384053
+      MovingGrass_Gardens_2_25: -225611749780261191
+      MovingGrass_Gardens_2_26: -6053883502024286824
+      MovingGrass_Gardens_2_27: 2191659171759227337
+      MovingGrass_Gardens_2_28: -8335764560614558148
+      MovingGrass_Gardens_2_29: 9142465622964720232
+      MovingGrass_Gardens_2_3: 2536712018203367989
+      MovingGrass_Gardens_2_30: -637173578945109699
+      MovingGrass_Gardens_2_31: 1170134063912267785
+      MovingGrass_Gardens_2_32: -7353107848399054106
+      MovingGrass_Gardens_2_33: -3358902572052129225
+      MovingGrass_Gardens_2_34: 960642263278218176
+      MovingGrass_Gardens_2_35: -1378229118136852125
+      MovingGrass_Gardens_2_36: 733538125501312343
+      MovingGrass_Gardens_2_37: 6343346506093443715
+      MovingGrass_Gardens_2_38: -8584473176216707283
+      MovingGrass_Gardens_2_39: 1595043952892446680
+      MovingGrass_Gardens_2_4: 371698063233270576
+      MovingGrass_Gardens_2_40: 4655276814697974679
+      MovingGrass_Gardens_2_41: 5082559944744825293
+      MovingGrass_Gardens_2_42: -2170126078879961834
+      MovingGrass_Gardens_2_43: 528923147829125474
+      MovingGrass_Gardens_2_44: 9118458103574196837
+      MovingGrass_Gardens_2_45: -6207850886331595843
+      MovingGrass_Gardens_2_46: 8504591760099855429
+      MovingGrass_Gardens_2_47: -5480912201809076573
+      MovingGrass_Gardens_2_48: -7768246697602526416
+      MovingGrass_Gardens_2_49: -7971316202041163683
+      MovingGrass_Gardens_2_5: 4434450670042734874
+      MovingGrass_Gardens_2_50: 7946449936493405719
+      MovingGrass_Gardens_2_51: -5536614260270353355
+      MovingGrass_Gardens_2_52: 5136773210559800156
+      MovingGrass_Gardens_2_53: 4334497855120703604
+      MovingGrass_Gardens_2_54: 1322775571556018770
+      MovingGrass_Gardens_2_55: 7063733096239154991
+      MovingGrass_Gardens_2_56: 1662161760857281491
+      MovingGrass_Gardens_2_57: -8951215244804100187
+      MovingGrass_Gardens_2_58: -386841941099528619
+      MovingGrass_Gardens_2_59: 8843474266944053913
+      MovingGrass_Gardens_2_6: -5636383794004365884
+      MovingGrass_Gardens_2_60: -4182029134967852
+      MovingGrass_Gardens_2_61: 6115664550303339539
+      MovingGrass_Gardens_2_62: -948715361128774195
+      MovingGrass_Gardens_2_63: -851069506749621024
+      MovingGrass_Gardens_2_64: 7838011152324720071
+      MovingGrass_Gardens_2_65: -6511216202583225222
+      MovingGrass_Gardens_2_66: -1478088088706805714
+      MovingGrass_Gardens_2_67: -3334745494814869782
+      MovingGrass_Gardens_2_68: -2222160779148845216
+      MovingGrass_Gardens_2_69: 8537083874776379894
+      MovingGrass_Gardens_2_7: 708699412580627235
+      MovingGrass_Gardens_2_8: -1046670791138915792
+      MovingGrass_Gardens_2_9: -6963689448777090399
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

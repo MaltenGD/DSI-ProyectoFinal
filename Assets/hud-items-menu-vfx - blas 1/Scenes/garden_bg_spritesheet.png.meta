@@ -1,0 +1,455 @@
+fileFormatVersion: 2
+guid: 2d4087f341039ac428743a259ed0d5e1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6264602171413538208
+    second: garden_bg_spritesheet_0
+  - first:
+      213: 4594719453560383846
+    second: garden_bg_spritesheet_1
+  - first:
+      213: 6744146589950982735
+    second: garden_bg_spritesheet_2
+  - first:
+      213: 7308678853358981357
+    second: garden_bg_spritesheet_3
+  - first:
+      213: -4569765432444453798
+    second: garden_bg_spritesheet_4
+  - first:
+      213: -8266461297586026509
+    second: garden_bg_spritesheet_5
+  - first:
+      213: -5055592930932235164
+    second: garden_bg_spritesheet_6
+  - first:
+      213: 3779352909534166550
+    second: garden_bg_spritesheet_7
+  - first:
+      213: -5841694543141903577
+    second: garden_bg_spritesheet_8
+  - first:
+      213: -5457691058898465651
+    second: garden_bg_spritesheet_9
+  - first:
+      213: -3198294738261368810
+    second: garden_bg_spritesheet_10
+  - first:
+      213: 1444553053642795218
+    second: garden_bg_spritesheet_11
+  - first:
+      213: 1483271263433527846
+    second: garden_bg_spritesheet_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: garden_bg_spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 418
+        width: 490
+        height: 603
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06a51c13489af09a0800000000000000
+      internalID: -6264602171413538208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden_bg_spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 412
+        width: 305
+        height: 612
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6692b08cff8b3cf30800000000000000
+      internalID: 4594719453560383846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden_bg_spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 890
+        width: 124
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4ab03f6795089d50800000000000000
+      internalID: 6744146589950982735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden_bg_spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 757
+        width: 124
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de01fdfa1b4ad6560800000000000000
+      internalID: 7308678853358981357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden_bg_spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 487
+        width: 124
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5cf9440d8ee490c0800000000000000
+      internalID: -4569765432444453798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden_bg_spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 207
+        width: 340
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f7ced75f31a74d80800000000000000
+      internalID: -8266461297586026509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden_bg_spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 342
+        width: 124
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 464eec6d30de6d9b0800000000000000
+      internalID: -5055592930932235164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden_bg_spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 208
+        width: 124
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61e7f958275f27430800000000000000
+      internalID: 3779352909534166550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden_bg_spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 0
+        width: 78
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72360bd73c12eeea0800000000000000
+      internalID: -5841694543141903577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden_bg_spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 3
+        width: 124
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8c0884e5e26244b0800000000000000
+      internalID: -5457691058898465651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden_bg_spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 3
+        width: 68
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6102eee71ef5d93d0800000000000000
+      internalID: -3198294738261368810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden_bg_spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 59
+        width: 211
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d8a59549551c0410800000000000000
+      internalID: 1444553053642795218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden_bg_spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 59
+        width: 211
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 622108afa53a59410800000000000000
+      internalID: 1483271263433527846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      garden_bg_spritesheet_0: -6264602171413538208
+      garden_bg_spritesheet_1: 4594719453560383846
+      garden_bg_spritesheet_10: -3198294738261368810
+      garden_bg_spritesheet_11: 1444553053642795218
+      garden_bg_spritesheet_12: 1483271263433527846
+      garden_bg_spritesheet_2: 6744146589950982735
+      garden_bg_spritesheet_3: 7308678853358981357
+      garden_bg_spritesheet_4: -4569765432444453798
+      garden_bg_spritesheet_5: -8266461297586026509
+      garden_bg_spritesheet_6: -5055592930932235164
+      garden_bg_spritesheet_7: 3779352909534166550
+      garden_bg_spritesheet_8: -5841694543141903577
+      garden_bg_spritesheet_9: -5457691058898465651
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

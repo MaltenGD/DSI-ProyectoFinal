@@ -1,0 +1,3835 @@
+fileFormatVersion: 2
+guid: f32e6484946f1cd43a7a9cac2f97f375
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6971597193839382222
+    second: breakable_platform_big_cathedral_anim_0
+  - first:
+      213: 8915219997369822084
+    second: breakable_platform_big_cathedral_anim_1
+  - first:
+      213: 2419887434200157909
+    second: breakable_platform_big_cathedral_anim_2
+  - first:
+      213: 1744052773693038853
+    second: breakable_platform_big_cathedral_anim_3
+  - first:
+      213: 5989646721468900351
+    second: breakable_platform_big_cathedral_anim_4
+  - first:
+      213: 922771593356828817
+    second: breakable_platform_big_cathedral_anim_5
+  - first:
+      213: -3038493266688139968
+    second: breakable_platform_big_cathedral_anim_6
+  - first:
+      213: 6910760177087598952
+    second: breakable_platform_big_cathedral_anim_7
+  - first:
+      213: 5542475045234974686
+    second: breakable_platform_big_cathedral_anim_8
+  - first:
+      213: -6038685063183818282
+    second: breakable_platform_big_cathedral_anim_9
+  - first:
+      213: -2037792251545712436
+    second: breakable_platform_big_cathedral_anim_10
+  - first:
+      213: 5519919291297325421
+    second: breakable_platform_big_cathedral_anim_11
+  - first:
+      213: 7354906376028985346
+    second: breakable_platform_big_cathedral_anim_12
+  - first:
+      213: -3913214232702836126
+    second: breakable_platform_big_cathedral_anim_13
+  - first:
+      213: -8617466581794445252
+    second: breakable_platform_big_cathedral_anim_14
+  - first:
+      213: 2485042143101111030
+    second: breakable_platform_big_cathedral_anim_15
+  - first:
+      213: 6285723946592781890
+    second: breakable_platform_big_cathedral_anim_16
+  - first:
+      213: 1909480131997307017
+    second: breakable_platform_big_cathedral_anim_17
+  - first:
+      213: 6910278759873554456
+    second: breakable_platform_big_cathedral_anim_18
+  - first:
+      213: -8286227543596682483
+    second: breakable_platform_big_cathedral_anim_19
+  - first:
+      213: -1066172927512543088
+    second: breakable_platform_big_cathedral_anim_20
+  - first:
+      213: -3773005288926221019
+    second: breakable_platform_big_cathedral_anim_21
+  - first:
+      213: 3353485354102746913
+    second: breakable_platform_big_cathedral_anim_22
+  - first:
+      213: 2917622783717733587
+    second: breakable_platform_big_cathedral_anim_23
+  - first:
+      213: -9156130693671964292
+    second: breakable_platform_big_cathedral_anim_24
+  - first:
+      213: 4749395491765954634
+    second: breakable_platform_big_cathedral_anim_25
+  - first:
+      213: 231247166251821976
+    second: breakable_platform_big_cathedral_anim_26
+  - first:
+      213: 7407630581605668420
+    second: breakable_platform_big_cathedral_anim_27
+  - first:
+      213: -5157765382127340672
+    second: breakable_platform_big_cathedral_anim_28
+  - first:
+      213: 8598942753066518988
+    second: breakable_platform_big_cathedral_anim_29
+  - first:
+      213: 5526198255457507867
+    second: breakable_platform_big_cathedral_anim_30
+  - first:
+      213: -9091560154186981494
+    second: breakable_platform_big_cathedral_anim_31
+  - first:
+      213: -6155174194225620479
+    second: breakable_platform_big_cathedral_anim_32
+  - first:
+      213: -2506762746451895085
+    second: breakable_platform_big_cathedral_anim_33
+  - first:
+      213: -8636737129518919143
+    second: breakable_platform_big_cathedral_anim_34
+  - first:
+      213: -5342126346520771172
+    second: breakable_platform_big_cathedral_anim_35
+  - first:
+      213: -4216371635211892097
+    second: breakable_platform_big_cathedral_anim_36
+  - first:
+      213: -5214093402943349207
+    second: breakable_platform_big_cathedral_anim_37
+  - first:
+      213: 6477909978778439673
+    second: breakable_platform_big_cathedral_anim_38
+  - first:
+      213: 4062724789518007802
+    second: breakable_platform_big_cathedral_anim_39
+  - first:
+      213: 6511070927921875153
+    second: breakable_platform_big_cathedral_anim_40
+  - first:
+      213: 1505539826466633809
+    second: breakable_platform_big_cathedral_anim_41
+  - first:
+      213: -8900387557670265576
+    second: breakable_platform_big_cathedral_anim_42
+  - first:
+      213: -4149772681058117131
+    second: breakable_platform_big_cathedral_anim_43
+  - first:
+      213: -6350090409984043474
+    second: breakable_platform_big_cathedral_anim_44
+  - first:
+      213: -6136141826104312534
+    second: breakable_platform_big_cathedral_anim_45
+  - first:
+      213: 8225267133713779294
+    second: breakable_platform_big_cathedral_anim_46
+  - first:
+      213: 6547174329507247529
+    second: breakable_platform_big_cathedral_anim_47
+  - first:
+      213: 5410025654646212108
+    second: breakable_platform_big_cathedral_anim_48
+  - first:
+      213: -8564974462143941900
+    second: breakable_platform_big_cathedral_anim_49
+  - first:
+      213: 7509318082896182350
+    second: breakable_platform_big_cathedral_anim_50
+  - first:
+      213: 5754183949381702882
+    second: breakable_platform_big_cathedral_anim_51
+  - first:
+      213: -7881168461132304440
+    second: breakable_platform_big_cathedral_anim_52
+  - first:
+      213: -5861425718855133778
+    second: breakable_platform_big_cathedral_anim_53
+  - first:
+      213: 3478209500692339470
+    second: breakable_platform_big_cathedral_anim_54
+  - first:
+      213: 5657531802275872890
+    second: breakable_platform_big_cathedral_anim_55
+  - first:
+      213: -7397226757626524790
+    second: breakable_platform_big_cathedral_anim_56
+  - first:
+      213: -5151504968134674368
+    second: breakable_platform_big_cathedral_anim_57
+  - first:
+      213: 485554348667612474
+    second: breakable_platform_big_cathedral_anim_58
+  - first:
+      213: -1662766939906628431
+    second: breakable_platform_big_cathedral_anim_59
+  - first:
+      213: -8392198149602532774
+    second: breakable_platform_big_cathedral_anim_60
+  - first:
+      213: -291134367599186809
+    second: breakable_platform_big_cathedral_anim_61
+  - first:
+      213: 6820310294563457660
+    second: breakable_platform_big_cathedral_anim_62
+  - first:
+      213: -8024448954014504994
+    second: breakable_platform_big_cathedral_anim_63
+  - first:
+      213: -567838513290829825
+    second: breakable_platform_big_cathedral_anim_64
+  - first:
+      213: 4900406202495003296
+    second: breakable_platform_big_cathedral_anim_65
+  - first:
+      213: -5419153585493983738
+    second: breakable_platform_big_cathedral_anim_66
+  - first:
+      213: 8373343235335415953
+    second: breakable_platform_big_cathedral_anim_67
+  - first:
+      213: 1070301882720299396
+    second: breakable_platform_big_cathedral_anim_68
+  - first:
+      213: 4462795339850737728
+    second: breakable_platform_big_cathedral_anim_69
+  - first:
+      213: 8041750380593521873
+    second: breakable_platform_big_cathedral_anim_70
+  - first:
+      213: 6862029836701288838
+    second: breakable_platform_big_cathedral_anim_71
+  - first:
+      213: 8392486217728217570
+    second: breakable_platform_big_cathedral_anim_72
+  - first:
+      213: -5370763759561858261
+    second: breakable_platform_big_cathedral_anim_73
+  - first:
+      213: -1694328969439719181
+    second: breakable_platform_big_cathedral_anim_74
+  - first:
+      213: -5822402777206478170
+    second: breakable_platform_big_cathedral_anim_75
+  - first:
+      213: 4947384962381071837
+    second: breakable_platform_big_cathedral_anim_76
+  - first:
+      213: 4004761008527950143
+    second: breakable_platform_big_cathedral_anim_77
+  - first:
+      213: -2370036521032988875
+    second: breakable_platform_big_cathedral_anim_78
+  - first:
+      213: -626116997888073977
+    second: breakable_platform_big_cathedral_anim_79
+  - first:
+      213: -7493882346140722147
+    second: breakable_platform_big_cathedral_anim_80
+  - first:
+      213: -1595637074547784708
+    second: breakable_platform_big_cathedral_anim_81
+  - first:
+      213: -5418278895576699266
+    second: breakable_platform_big_cathedral_anim_82
+  - first:
+      213: -8622132054478550744
+    second: breakable_platform_big_cathedral_anim_83
+  - first:
+      213: -4842928652817859442
+    second: breakable_platform_big_cathedral_anim_84
+  - first:
+      213: 6609218892605684545
+    second: breakable_platform_big_cathedral_anim_85
+  - first:
+      213: 755333751695852707
+    second: breakable_platform_big_cathedral_anim_86
+  - first:
+      213: -3792525749392517963
+    second: breakable_platform_big_cathedral_anim_87
+  - first:
+      213: 8826626207409941996
+    second: breakable_platform_big_cathedral_anim_88
+  - first:
+      213: -8038312643162263254
+    second: breakable_platform_big_cathedral_anim_89
+  - first:
+      213: 6255173874313994781
+    second: breakable_platform_big_cathedral_anim_90
+  - first:
+      213: 5020300955247773511
+    second: breakable_platform_big_cathedral_anim_91
+  - first:
+      213: -4832385785540608592
+    second: breakable_platform_big_cathedral_anim_92
+  - first:
+      213: 94839382410774413
+    second: breakable_platform_big_cathedral_anim_93
+  - first:
+      213: -8626174688251940471
+    second: breakable_platform_big_cathedral_anim_94
+  - first:
+      213: -6741252635350091359
+    second: breakable_platform_big_cathedral_anim_95
+  - first:
+      213: 8560838962703879524
+    second: breakable_platform_big_cathedral_anim_96
+  - first:
+      213: 1788024794430481231
+    second: breakable_platform_big_cathedral_anim_97
+  - first:
+      213: 4389635619512984720
+    second: breakable_platform_big_cathedral_anim_98
+  - first:
+      213: -6410475138093738642
+    second: breakable_platform_big_cathedral_anim_99
+  - first:
+      213: 1766248269543760149
+    second: breakable_platform_big_cathedral_anim_100
+  - first:
+      213: -3080923750612159476
+    second: breakable_platform_big_cathedral_anim_101
+  - first:
+      213: -3141823015794476833
+    second: breakable_platform_big_cathedral_anim_102
+  - first:
+      213: 6770421084006074682
+    second: breakable_platform_big_cathedral_anim_103
+  - first:
+      213: 1614759078497737324
+    second: breakable_platform_big_cathedral_anim_104
+  - first:
+      213: -4135287117302099141
+    second: breakable_platform_big_cathedral_anim_105
+  - first:
+      213: -4362858725083068277
+    second: breakable_platform_big_cathedral_anim_106
+  - first:
+      213: 1487790938238566638
+    second: breakable_platform_big_cathedral_anim_107
+  - first:
+      213: -8080449939599112886
+    second: breakable_platform_big_cathedral_anim_108
+  - first:
+      213: -3718759740414306834
+    second: breakable_platform_big_cathedral_anim_109
+  - first:
+      213: 4995361723958761139
+    second: breakable_platform_big_cathedral_anim_110
+  - first:
+      213: -2183108525455475446
+    second: breakable_platform_big_cathedral_anim_111
+  - first:
+      213: -4103736334082121537
+    second: breakable_platform_big_cathedral_anim_112
+  - first:
+      213: -2724541534333653235
+    second: breakable_platform_big_cathedral_anim_113
+  - first:
+      213: 7090530966103618451
+    second: breakable_platform_big_cathedral_anim_114
+  - first:
+      213: -4011262920778897232
+    second: breakable_platform_big_cathedral_anim_115
+  - first:
+      213: -1548860553747977287
+    second: breakable_platform_big_cathedral_anim_116
+  - first:
+      213: 7999730376922362013
+    second: breakable_platform_big_cathedral_anim_117
+  - first:
+      213: 1122668542815630486
+    second: breakable_platform_big_cathedral_anim_118
+  - first:
+      213: 8520914334641920736
+    second: breakable_platform_big_cathedral_anim_119
+  - first:
+      213: -2547197941863047837
+    second: breakable_platform_big_cathedral_anim_120
+  - first:
+      213: 9183894358251568066
+    second: breakable_platform_big_cathedral_anim_121
+  - first:
+      213: 293385069800547860
+    second: breakable_platform_big_cathedral_anim_122
+  - first:
+      213: -315226647578231198
+    second: breakable_platform_big_cathedral_anim_123
+  - first:
+      213: 1913890722740145910
+    second: breakable_platform_big_cathedral_anim_124
+  - first:
+      213: 4855728431524772619
+    second: breakable_platform_big_cathedral_anim_125
+  - first:
+      213: -4641429477851861098
+    second: breakable_platform_big_cathedral_anim_126
+  - first:
+      213: -7186652688212467325
+    second: breakable_platform_big_cathedral_anim_127
+  - first:
+      213: 683068721884941219
+    second: breakable_platform_big_cathedral_anim_128
+  - first:
+      213: -2594041303103583620
+    second: breakable_platform_big_cathedral_anim_129
+  - first:
+      213: -2886070231643516048
+    second: breakable_platform_big_cathedral_anim_130
+  - first:
+      213: -7804307594800874734
+    second: breakable_platform_big_cathedral_anim_131
+  - first:
+      213: -8182269066719814568
+    second: breakable_platform_big_cathedral_anim_132
+  - first:
+      213: -8139353631479688470
+    second: breakable_platform_big_cathedral_anim_133
+  - first:
+      213: -2639047653999824282
+    second: breakable_platform_big_cathedral_anim_134
+  - first:
+      213: -34722915071312286
+    second: breakable_platform_big_cathedral_anim_135
+  - first:
+      213: 6167568277381754559
+    second: breakable_platform_big_cathedral_anim_136
+  - first:
+      213: -1852196924417316146
+    second: breakable_platform_big_cathedral_anim_137
+  - first:
+      213: 928282353803141287
+    second: breakable_platform_big_cathedral_anim_138
+  - first:
+      213: 4826461053612618857
+    second: breakable_platform_big_cathedral_anim_139
+  - first:
+      213: -376846558757561388
+    second: breakable_platform_big_cathedral_anim_140
+  - first:
+      213: -7550904566769663416
+    second: breakable_platform_big_cathedral_anim_141
+  - first:
+      213: 5091147850509867125
+    second: breakable_platform_big_cathedral_anim_142
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: breakable_platform_big_cathedral_anim_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 550
+        width: 136
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 231f7101a49ef3f90800000000000000
+      internalID: -6971597193839382222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_cathedral_anim_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 526
+        width: 136
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48befad4a5939bb70800000000000000
+      internalID: 8915219997369822084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_cathedral_anim_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 499
+        width: 406
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5de8eefdcca259120800000000000000
+      internalID: 2419887434200157909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_cathedral_anim_3
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 525
+        width: 272
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 501228dd1ce143810800000000000000
+      internalID: 1744052773693038853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_cathedral_anim_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 469
+        width: 406
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff3ac3b65ff7f1350800000000000000
+      internalID: 5989646721468900351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_cathedral_anim_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 437
+        width: 134
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 190ead600e75ecc00800000000000000
+      internalID: 922771593356828817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_cathedral_anim_6
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 438
+        width: 79
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04d13aaf87a15d5d0800000000000000
+      internalID: -3038493266688139968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_cathedral_anim_7
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 446
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 861d83b24c3f7ef50800000000000000
+      internalID: 6910760177087598952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_cathedral_anim_8
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 439
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edf92b730b3daec40800000000000000
+      internalID: 5542475045234974686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_cathedral_anim_9
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 449
+        width: 40
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d1a87aede7423ca0800000000000000
+      internalID: -6038685063183818282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_cathedral_anim_10
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 437
+        width: 157
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc803907ebe48b3e0800000000000000
+      internalID: -2037792251545712436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_cathedral_anim_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 402
+        width: 136
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d616a928951ba9c40800000000000000
+      internalID: 5519919291297325421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_cathedral_anim_12
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 437
+        width: 36
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 208967b8160e11660800000000000000
+      internalID: 7354906376028985346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_cathedral_anim_13
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 363
+        width: 150
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 262aeb1736871b9c0800000000000000
+      internalID: -3913214232702836126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_cathedral_anim_14
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 400
+        width: 272
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c38a7581dcb986880800000000000000
+      internalID: -8617466581794445252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_cathedral_anim_15
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 363
+        width: 122
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6faca6fa9a4ac7220800000000000000
+      internalID: 2485042143101111030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_cathedral_anim_16
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 363
+        width: 137
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24644d050a06b3750800000000000000
+      internalID: 6285723946592781890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_cathedral_anim_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 368
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9809d5d2016df7a10800000000000000
+      internalID: 1909480131997307017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_cathedral_anim_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 136
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 818a03d7bed36ef50800000000000000
+      internalID: 6910278759873554456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_cathedral_anim_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 270
+        width: 136
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d03bcdf83f7610d80800000000000000
+      internalID: -8286227543596682483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_cathedral_anim_20
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 325
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0900a7a0f513431f0800000000000000
+      internalID: -1066172927512543088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_cathedral_anim_21
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 318
+        width: 115
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52de1e11ea793abc0800000000000000
+      internalID: -3773005288926221019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_cathedral_anim_22
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 328
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12fe4ca7929f98e20800000000000000
+      internalID: 3353485354102746913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_cathedral_anim_23
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 318
+        width: 137
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d4f41ca67a7d7820800000000000000
+      internalID: 2917622783717733587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_cathedral_anim_24
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 298
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c71b1a635a3eee080800000000000000
+      internalID: -9156130693671964292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_cathedral_anim_25
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 269
+        width: 53
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a482d80590e39e140800000000000000
+      internalID: 4749395491765954634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_cathedral_anim_26
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 297
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89b61cf821e853300800000000000000
+      internalID: 231247166251821976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_cathedral_anim_27
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 303
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4461de344c03dc660800000000000000
+      internalID: 7407630581605668420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_cathedral_anim_28
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 300
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0833e7346bfeb68b0800000000000000
+      internalID: -5157765382127340672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_cathedral_anim_29
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 297
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc90370ffd4955770800000000000000
+      internalID: 8598942753066518988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_cathedral_anim_30
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 298
+        width: 40
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1a9de6c80001bc40800000000000000
+      internalID: 5526198255457507867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_cathedral_anim_31
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 293
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8fd69b753a44d180800000000000000
+      internalID: -9091560154186981494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_cathedral_anim_32
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 300
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10ad78e8ead649aa0800000000000000
+      internalID: -6155174194225620479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_cathedral_anim_33
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 286
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dc5d814090363dd0800000000000000
+      internalID: -2506762746451895085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_cathedral_anim_34
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 298
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91219901755242880800000000000000
+      internalID: -8636737129518919143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_cathedral_anim_35
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 278
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c95cf524464fcd5b0800000000000000
+      internalID: -5342126346520771172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_cathedral_anim_36
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 289
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7a892a46507c75c0800000000000000
+      internalID: -4216371635211892097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_cathedral_anim_37
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 285
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92e9adbeca1d3a7b0800000000000000
+      internalID: -5214093402943349207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_cathedral_anim_38
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 288
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ff0c04edc826e950800000000000000
+      internalID: 6477909978778439673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_cathedral_anim_39
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 291
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afdf46bbba2b16830800000000000000
+      internalID: 4062724789518007802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_cathedral_anim_40
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 280
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d808260388fb5a50800000000000000
+      internalID: 6511070927921875153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_cathedral_anim_41
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 279
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1583fb7de70c4e410800000000000000
+      internalID: 1505539826466633809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_cathedral_anim_42
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 277
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81dd1cd2ca87b7480800000000000000
+      internalID: -8900387557670265576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_cathedral_anim_43
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 280
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f919e6abbb0966c0800000000000000
+      internalID: -4149772681058117131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_cathedral_anim_44
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 272
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2659459a62ffd7a0800000000000000
+      internalID: -6350090409984043474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_cathedral_anim_45
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 268
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2db2a3158b08daa0800000000000000
+      internalID: -6136141826104312534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_cathedral_anim_46
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 280
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5a84b7f0e4062270800000000000000
+      internalID: 8225267133713779294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_cathedral_anim_47
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 277
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a5f5d04d5c3cda50800000000000000
+      internalID: 6547174329507247529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_cathedral_anim_48
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 271
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0600fa5ba5441b40800000000000000
+      internalID: 5410025654646212108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_cathedral_anim_49
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 270
+        width: 29
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f23e991b19132980800000000000000
+      internalID: -8564974462143941900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_cathedral_anim_50
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 271
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4cb174a205763860800000000000000
+      internalID: 7509318082896182350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_cathedral_anim_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 213
+        width: 271
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e49623a0d7fadf40800000000000000
+      internalID: 5754183949381702882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_cathedral_anim_52
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 268
+        width: 36
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cf62337a0770a290800000000000000
+      internalID: -7881168461132304440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_cathedral_anim_53
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 211
+        width: 105
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea51d462d5808aea0800000000000000
+      internalID: -5861425718855133778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_cathedral_anim_54
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 250
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0bd72fcc15154030800000000000000
+      internalID: 3478209500692339470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_cathedral_anim_55
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 216
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7001240337938e40800000000000000
+      internalID: 5657531802275872890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_cathedral_anim_56
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 238
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8b08a4c475c75990800000000000000
+      internalID: -7397226757626524790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_cathedral_anim_57
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 220
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0483cab768d2288b0800000000000000
+      internalID: -5151504968134674368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_cathedral_anim_58
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 214
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3daa778b190db600800000000000000
+      internalID: 485554348667612474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_cathedral_anim_59
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 221
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b42a92274aace8e0800000000000000
+      internalID: -1662766939906628431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_cathedral_anim_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 145
+        width: 406
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5220482f3ce88b80800000000000000
+      internalID: -8392198149602532774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_cathedral_anim_61
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 40
+        width: 140
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78ca75dc5dea5fbf0800000000000000
+      internalID: -291134367599186809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_cathedral_anim_62
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 174
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7a056dc31c96ae50800000000000000
+      internalID: 6820310294563457660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_cathedral_anim_63
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 180
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed7e5b1113e63a090800000000000000
+      internalID: -8024448954014504994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_cathedral_anim_64
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 104
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fff938571e1ae18f0800000000000000
+      internalID: -567838513290829825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_cathedral_anim_65
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 105
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aae5da4a7db10440800000000000000
+      internalID: 4900406202495003296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_cathedral_anim_66
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 119
+        width: 40
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60eb851a68c4bc4b0800000000000000
+      internalID: -5419153585493983738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_cathedral_anim_67
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 91
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19866940f47143470800000000000000
+      internalID: 8373343235335415953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_cathedral_anim_68
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 76
+        width: 36
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 489a9f144e97ade00800000000000000
+      internalID: 1070301882720299396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_cathedral_anim_69
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 113
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 048621977b80fed30800000000000000
+      internalID: 4462795339850737728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_cathedral_anim_70
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 121
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d4a3a73d590a9f60800000000000000
+      internalID: 8041750380593521873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_cathedral_anim_71
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 78
+        width: 29
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68946b6a7c3da3f50800000000000000
+      internalID: 6862029836701288838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_cathedral_anim_72
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 106
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e15d0eefb9187470800000000000000
+      internalID: 8392486217728217570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_cathedral_anim_73
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 79
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2326c2f0d63775b0800000000000000
+      internalID: -5370763759561858261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_cathedral_anim_74
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 118
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f054eb77c88c78e0800000000000000
+      internalID: -1694328969439719181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_cathedral_anim_75
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 94
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aa2c55c58ba23fa0800000000000000
+      internalID: -5822402777206478170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_cathedral_anim_76
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 76
+        width: 137
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd545d13964a8a440800000000000000
+      internalID: 4947384962381071837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_cathedral_anim_77
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 58
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f31c4ab4be4c39730800000000000000
+      internalID: 4004761008527950143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_cathedral_anim_78
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 63
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53740235750fb1fd0800000000000000
+      internalID: -2370036521032988875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_cathedral_anim_79
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 56
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70f1c0168e59f47f0800000000000000
+      internalID: -626116997888073977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_cathedral_anim_80
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 55
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1c16b1e5b1600890800000000000000
+      internalID: -7493882346140722147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_cathedral_anim_81
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 45
+        width: 40
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf3c225e8882bd9e0800000000000000
+      internalID: -1595637074547784708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_cathedral_anim_82
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 40
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7ea72f3d086ec4b0800000000000000
+      internalID: -5418278895576699266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_cathedral_anim_83
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 48
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8290c461498085880800000000000000
+      internalID: -8622132054478550744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_cathedral_anim_84
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 45
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8cfa389c067accb0800000000000000
+      internalID: -4842928652817859442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_cathedral_anim_85
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 52
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14bff80d099a8bb50800000000000000
+      internalID: 6609218892605684545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_cathedral_anim_86
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 47
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a4c1b49b0c7b7a00800000000000000
+      internalID: 755333751695852707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_cathedral_anim_87
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 49
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b4dfe1bced3e5bc0800000000000000
+      internalID: -3792525749392517963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_cathedral_anim_88
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 51
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceda2d925c97e7a70800000000000000
+      internalID: 8826626207409941996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_cathedral_anim_89
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 46
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2138c66d3d227090800000000000000
+      internalID: -8038312643162263254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_cathedral_anim_90
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 33
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d122ac25f77dec650800000000000000
+      internalID: 6255173874313994781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_cathedral_anim_91
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 29
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 747091fbe11bba540800000000000000
+      internalID: 5020300955247773511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_cathedral_anim_92
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 42
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bd743b2bbaefecb0800000000000000
+      internalID: -4832385785540608592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_cathedral_anim_93
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 42
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d87cf437aefe05100800000000000000
+      internalID: 94839382410774413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_cathedral_anim_94
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 40
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 981f64013dba94880800000000000000
+      internalID: -8626174688251940471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_cathedral_anim_95
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 44
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a9bac0e1724272a0800000000000000
+      internalID: -6741252635350091359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_cathedral_anim_96
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 42
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46dc947eda53ec670800000000000000
+      internalID: 8560838962703879524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_cathedral_anim_97
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 44
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f43ae91c31750d810800000000000000
+      internalID: 1788024794430481231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_cathedral_anim_98
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 41
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0942972b65e1bec30800000000000000
+      internalID: 4389635619512984720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_cathedral_anim_99
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 46
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e65137873da6907a0800000000000000
+      internalID: -6410475138093738642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_cathedral_anim_100
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 45
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 511ed437179f28810800000000000000
+      internalID: 1766248269543760149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_cathedral_anim_101
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 29
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c04b2b81c2c5e35d0800000000000000
+      internalID: -3080923750612159476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_cathedral_anim_102
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 0
+        width: 53
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd87c6cfc900664d0800000000000000
+      internalID: -3141823015794476833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_cathedral_anim_103
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 28
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a394ffbca1e55fd50800000000000000
+      internalID: 6770421084006074682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_cathedral_anim_104
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 34
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6ad1b793d6c86610800000000000000
+      internalID: 1614759078497737324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_cathedral_anim_105
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 19
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3395f8c6428c96c0800000000000000
+      internalID: -4135287117302099141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_cathedral_anim_106
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 32
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b88c53eda130473c0800000000000000
+      internalID: -4362858725083068277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_cathedral_anim_107
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 0
+        width: 53
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee041c5c9f1b5a410800000000000000
+      internalID: 1487790938238566638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_cathedral_anim_108
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 37
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a454edc87997cdf80800000000000000
+      internalID: -8080449939599112886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_cathedral_anim_109
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 38
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee5d49b08bf446cc0800000000000000
+      internalID: -3718759740414306834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_cathedral_anim_110
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 28
+        width: 40
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b615297507135540800000000000000
+      internalID: 4995361723958761139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_cathedral_anim_111
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 20
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0d791adc5a04b1e0800000000000000
+      internalID: -2183108525455475446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_cathedral_anim_112
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 22
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb0eb23fb899c07c0800000000000000
+      internalID: -4103736334082121537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_cathedral_anim_113
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 31
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0fae36e8eb703ad0800000000000000
+      internalID: -2724541534333653235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_cathedral_anim_114
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 28
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 393738fa850a66260800000000000000
+      internalID: 7090530966103618451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_cathedral_anim_115
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 16
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b8274a40a12558c0800000000000000
+      internalID: -4011262920778897232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_cathedral_anim_116
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 20
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bbac375887518ae0800000000000000
+      internalID: -1548860553747977287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_cathedral_anim_117
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 22
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d90fb57b460c40f60800000000000000
+      internalID: 7999730376922362013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_cathedral_anim_118
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 31
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 694f70f6715849f00800000000000000
+      internalID: 1122668542815630486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_cathedral_anim_119
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 28
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ea9ddd017e504670800000000000000
+      internalID: 8520914334641920736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_cathedral_anim_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36d95aea7f886acd0800000000000000
+      internalID: -2547197941863047837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_cathedral_anim_121
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 3
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cb7c4ea24fb37f70800000000000000
+      internalID: 9183894358251568066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_cathedral_anim_122
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 16
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4166dd3aa20521400800000000000000
+      internalID: 293385069800547860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_cathedral_anim_123
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 11
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26ebc5fb80710abf0800000000000000
+      internalID: -315226647578231198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_cathedral_anim_124
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 19
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fe87dbd8718f8a10800000000000000
+      internalID: 1913890722740145910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_cathedral_anim_125
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 11
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0b7cce1843036340800000000000000
+      internalID: 4855728431524772619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_cathedral_anim_126
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 10
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69fec923b74569fb0800000000000000
+      internalID: -4641429477851861098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_cathedral_anim_127
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 9
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3816df2e471e34c90800000000000000
+      internalID: -7186652688212467325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_cathedral_anim_128
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 3
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3abc12d226fba7900800000000000000
+      internalID: 683068721884941219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_cathedral_anim_129
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 16
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7ac1dbbd2d100cd0800000000000000
+      internalID: -2594041303103583620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_cathedral_anim_130
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 11
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0731f065a6e92f7d0800000000000000
+      internalID: -2886070231643516048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_cathedral_anim_131
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 19
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21bb20e679781b390800000000000000
+      internalID: -7804307594800874734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_cathedral_anim_132
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 11
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85c9f75a2adb27e80800000000000000
+      internalID: -8182269066719814568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_cathedral_anim_133
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 10
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae21e5e0ff43b0f80800000000000000
+      internalID: -8139353631479688470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_cathedral_anim_134
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 0
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66233061428306bd0800000000000000
+      internalID: -2639047653999824282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_cathedral_anim_135
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 8
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26ebb9551b3a48ff0800000000000000
+      internalID: -34722915071312286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_cathedral_anim_136
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 2
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbeae4dcbaa979550800000000000000
+      internalID: 6167568277381754559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_cathedral_anim_137
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 0
+        width: 36
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecae80ae5bcab46e0800000000000000
+      internalID: -1852196924417316146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_cathedral_anim_138
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 1
+        width: 29
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a023bde1ebe1ec00800000000000000
+      internalID: 928282353803141287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_cathedral_anim_139
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 2
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96476dea1c80bf240800000000000000
+      internalID: 4826461053612618857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_cathedral_anim_140
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 0
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4db5d6a2d0c25caf0800000000000000
+      internalID: -376846558757561388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_cathedral_anim_141
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 8
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 842c1dc8d4cc53790800000000000000
+      internalID: -7550904566769663416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_big_cathedral_anim_142
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 2
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57852a8fef367a640800000000000000
+      internalID: 5091147850509867125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      breakable_platform_big_cathedral_anim_0: -6971597193839382222
+      breakable_platform_big_cathedral_anim_1: 8915219997369822084
+      breakable_platform_big_cathedral_anim_10: -2037792251545712436
+      breakable_platform_big_cathedral_anim_100: 1766248269543760149
+      breakable_platform_big_cathedral_anim_101: -3080923750612159476
+      breakable_platform_big_cathedral_anim_102: -3141823015794476833
+      breakable_platform_big_cathedral_anim_103: 6770421084006074682
+      breakable_platform_big_cathedral_anim_104: 1614759078497737324
+      breakable_platform_big_cathedral_anim_105: -4135287117302099141
+      breakable_platform_big_cathedral_anim_106: -4362858725083068277
+      breakable_platform_big_cathedral_anim_107: 1487790938238566638
+      breakable_platform_big_cathedral_anim_108: -8080449939599112886
+      breakable_platform_big_cathedral_anim_109: -3718759740414306834
+      breakable_platform_big_cathedral_anim_11: 5519919291297325421
+      breakable_platform_big_cathedral_anim_110: 4995361723958761139
+      breakable_platform_big_cathedral_anim_111: -2183108525455475446
+      breakable_platform_big_cathedral_anim_112: -4103736334082121537
+      breakable_platform_big_cathedral_anim_113: -2724541534333653235
+      breakable_platform_big_cathedral_anim_114: 7090530966103618451
+      breakable_platform_big_cathedral_anim_115: -4011262920778897232
+      breakable_platform_big_cathedral_anim_116: -1548860553747977287
+      breakable_platform_big_cathedral_anim_117: 7999730376922362013
+      breakable_platform_big_cathedral_anim_118: 1122668542815630486
+      breakable_platform_big_cathedral_anim_119: 8520914334641920736
+      breakable_platform_big_cathedral_anim_12: 7354906376028985346
+      breakable_platform_big_cathedral_anim_120: -2547197941863047837
+      breakable_platform_big_cathedral_anim_121: 9183894358251568066
+      breakable_platform_big_cathedral_anim_122: 293385069800547860
+      breakable_platform_big_cathedral_anim_123: -315226647578231198
+      breakable_platform_big_cathedral_anim_124: 1913890722740145910
+      breakable_platform_big_cathedral_anim_125: 4855728431524772619
+      breakable_platform_big_cathedral_anim_126: -4641429477851861098
+      breakable_platform_big_cathedral_anim_127: -7186652688212467325
+      breakable_platform_big_cathedral_anim_128: 683068721884941219
+      breakable_platform_big_cathedral_anim_129: -2594041303103583620
+      breakable_platform_big_cathedral_anim_13: -3913214232702836126
+      breakable_platform_big_cathedral_anim_130: -2886070231643516048
+      breakable_platform_big_cathedral_anim_131: -7804307594800874734
+      breakable_platform_big_cathedral_anim_132: -8182269066719814568
+      breakable_platform_big_cathedral_anim_133: -8139353631479688470
+      breakable_platform_big_cathedral_anim_134: -2639047653999824282
+      breakable_platform_big_cathedral_anim_135: -34722915071312286
+      breakable_platform_big_cathedral_anim_136: 6167568277381754559
+      breakable_platform_big_cathedral_anim_137: -1852196924417316146
+      breakable_platform_big_cathedral_anim_138: 928282353803141287
+      breakable_platform_big_cathedral_anim_139: 4826461053612618857
+      breakable_platform_big_cathedral_anim_14: -8617466581794445252
+      breakable_platform_big_cathedral_anim_140: -376846558757561388
+      breakable_platform_big_cathedral_anim_141: -7550904566769663416
+      breakable_platform_big_cathedral_anim_142: 5091147850509867125
+      breakable_platform_big_cathedral_anim_15: 2485042143101111030
+      breakable_platform_big_cathedral_anim_16: 6285723946592781890
+      breakable_platform_big_cathedral_anim_17: 1909480131997307017
+      breakable_platform_big_cathedral_anim_18: 6910278759873554456
+      breakable_platform_big_cathedral_anim_19: -8286227543596682483
+      breakable_platform_big_cathedral_anim_2: 2419887434200157909
+      breakable_platform_big_cathedral_anim_20: -1066172927512543088
+      breakable_platform_big_cathedral_anim_21: -3773005288926221019
+      breakable_platform_big_cathedral_anim_22: 3353485354102746913
+      breakable_platform_big_cathedral_anim_23: 2917622783717733587
+      breakable_platform_big_cathedral_anim_24: -9156130693671964292
+      breakable_platform_big_cathedral_anim_25: 4749395491765954634
+      breakable_platform_big_cathedral_anim_26: 231247166251821976
+      breakable_platform_big_cathedral_anim_27: 7407630581605668420
+      breakable_platform_big_cathedral_anim_28: -5157765382127340672
+      breakable_platform_big_cathedral_anim_29: 8598942753066518988
+      breakable_platform_big_cathedral_anim_3: 1744052773693038853
+      breakable_platform_big_cathedral_anim_30: 5526198255457507867
+      breakable_platform_big_cathedral_anim_31: -9091560154186981494
+      breakable_platform_big_cathedral_anim_32: -6155174194225620479
+      breakable_platform_big_cathedral_anim_33: -2506762746451895085
+      breakable_platform_big_cathedral_anim_34: -8636737129518919143
+      breakable_platform_big_cathedral_anim_35: -5342126346520771172
+      breakable_platform_big_cathedral_anim_36: -4216371635211892097
+      breakable_platform_big_cathedral_anim_37: -5214093402943349207
+      breakable_platform_big_cathedral_anim_38: 6477909978778439673
+      breakable_platform_big_cathedral_anim_39: 4062724789518007802
+      breakable_platform_big_cathedral_anim_4: 5989646721468900351
+      breakable_platform_big_cathedral_anim_40: 6511070927921875153
+      breakable_platform_big_cathedral_anim_41: 1505539826466633809
+      breakable_platform_big_cathedral_anim_42: -8900387557670265576
+      breakable_platform_big_cathedral_anim_43: -4149772681058117131
+      breakable_platform_big_cathedral_anim_44: -6350090409984043474
+      breakable_platform_big_cathedral_anim_45: -6136141826104312534
+      breakable_platform_big_cathedral_anim_46: 8225267133713779294
+      breakable_platform_big_cathedral_anim_47: 6547174329507247529
+      breakable_platform_big_cathedral_anim_48: 5410025654646212108
+      breakable_platform_big_cathedral_anim_49: -8564974462143941900
+      breakable_platform_big_cathedral_anim_5: 922771593356828817
+      breakable_platform_big_cathedral_anim_50: 7509318082896182350
+      breakable_platform_big_cathedral_anim_51: 5754183949381702882
+      breakable_platform_big_cathedral_anim_52: -7881168461132304440
+      breakable_platform_big_cathedral_anim_53: -5861425718855133778
+      breakable_platform_big_cathedral_anim_54: 3478209500692339470
+      breakable_platform_big_cathedral_anim_55: 5657531802275872890
+      breakable_platform_big_cathedral_anim_56: -7397226757626524790
+      breakable_platform_big_cathedral_anim_57: -5151504968134674368
+      breakable_platform_big_cathedral_anim_58: 485554348667612474
+      breakable_platform_big_cathedral_anim_59: -1662766939906628431
+      breakable_platform_big_cathedral_anim_6: -3038493266688139968
+      breakable_platform_big_cathedral_anim_60: -8392198149602532774
+      breakable_platform_big_cathedral_anim_61: -291134367599186809
+      breakable_platform_big_cathedral_anim_62: 6820310294563457660
+      breakable_platform_big_cathedral_anim_63: -8024448954014504994
+      breakable_platform_big_cathedral_anim_64: -567838513290829825
+      breakable_platform_big_cathedral_anim_65: 4900406202495003296
+      breakable_platform_big_cathedral_anim_66: -5419153585493983738
+      breakable_platform_big_cathedral_anim_67: 8373343235335415953
+      breakable_platform_big_cathedral_anim_68: 1070301882720299396
+      breakable_platform_big_cathedral_anim_69: 4462795339850737728
+      breakable_platform_big_cathedral_anim_7: 6910760177087598952
+      breakable_platform_big_cathedral_anim_70: 8041750380593521873
+      breakable_platform_big_cathedral_anim_71: 6862029836701288838
+      breakable_platform_big_cathedral_anim_72: 8392486217728217570
+      breakable_platform_big_cathedral_anim_73: -5370763759561858261
+      breakable_platform_big_cathedral_anim_74: -1694328969439719181
+      breakable_platform_big_cathedral_anim_75: -5822402777206478170
+      breakable_platform_big_cathedral_anim_76: 4947384962381071837
+      breakable_platform_big_cathedral_anim_77: 4004761008527950143
+      breakable_platform_big_cathedral_anim_78: -2370036521032988875
+      breakable_platform_big_cathedral_anim_79: -626116997888073977
+      breakable_platform_big_cathedral_anim_8: 5542475045234974686
+      breakable_platform_big_cathedral_anim_80: -7493882346140722147
+      breakable_platform_big_cathedral_anim_81: -1595637074547784708
+      breakable_platform_big_cathedral_anim_82: -5418278895576699266
+      breakable_platform_big_cathedral_anim_83: -8622132054478550744
+      breakable_platform_big_cathedral_anim_84: -4842928652817859442
+      breakable_platform_big_cathedral_anim_85: 6609218892605684545
+      breakable_platform_big_cathedral_anim_86: 755333751695852707
+      breakable_platform_big_cathedral_anim_87: -3792525749392517963
+      breakable_platform_big_cathedral_anim_88: 8826626207409941996
+      breakable_platform_big_cathedral_anim_89: -8038312643162263254
+      breakable_platform_big_cathedral_anim_9: -6038685063183818282
+      breakable_platform_big_cathedral_anim_90: 6255173874313994781
+      breakable_platform_big_cathedral_anim_91: 5020300955247773511
+      breakable_platform_big_cathedral_anim_92: -4832385785540608592
+      breakable_platform_big_cathedral_anim_93: 94839382410774413
+      breakable_platform_big_cathedral_anim_94: -8626174688251940471
+      breakable_platform_big_cathedral_anim_95: -6741252635350091359
+      breakable_platform_big_cathedral_anim_96: 8560838962703879524
+      breakable_platform_big_cathedral_anim_97: 1788024794430481231
+      breakable_platform_big_cathedral_anim_98: 4389635619512984720
+      breakable_platform_big_cathedral_anim_99: -6410475138093738642
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

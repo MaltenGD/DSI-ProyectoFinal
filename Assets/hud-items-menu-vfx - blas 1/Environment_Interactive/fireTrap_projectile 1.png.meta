@@ -1,0 +1,1261 @@
+fileFormatVersion: 2
+guid: 137c604c33dee4c46bfc7e85e81f6952
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3863798159568489149
+    second: fireTrap_projectile 1_0
+  - first:
+      213: -7768815086019509899
+    second: fireTrap_projectile 1_1
+  - first:
+      213: -6294379054442057736
+    second: fireTrap_projectile 1_2
+  - first:
+      213: -954006841431408919
+    second: fireTrap_projectile 1_3
+  - first:
+      213: 1475451817905428724
+    second: fireTrap_projectile 1_4
+  - first:
+      213: -3328758830871866141
+    second: fireTrap_projectile 1_5
+  - first:
+      213: 8878629751116154541
+    second: fireTrap_projectile 1_6
+  - first:
+      213: -7040040618336895639
+    second: fireTrap_projectile 1_7
+  - first:
+      213: -8809333397335857756
+    second: fireTrap_projectile 1_8
+  - first:
+      213: 6052085554968130345
+    second: fireTrap_projectile 1_9
+  - first:
+      213: 4811398767083091751
+    second: fireTrap_projectile 1_10
+  - first:
+      213: 4955298138918374327
+    second: fireTrap_projectile 1_11
+  - first:
+      213: -3720441320283279357
+    second: fireTrap_projectile 1_12
+  - first:
+      213: -9071249098136156937
+    second: fireTrap_projectile 1_13
+  - first:
+      213: 8995529389518961038
+    second: fireTrap_projectile 1_14
+  - first:
+      213: -3837433555870549651
+    second: fireTrap_projectile 1_15
+  - first:
+      213: 1232976488469263017
+    second: fireTrap_projectile 1_16
+  - first:
+      213: -2192927451887144242
+    second: fireTrap_projectile 1_17
+  - first:
+      213: -7974370565724821465
+    second: fireTrap_projectile 1_18
+  - first:
+      213: -9197720560616133321
+    second: fireTrap_projectile 1_19
+  - first:
+      213: 4324578682102078149
+    second: fireTrap_projectile 1_20
+  - first:
+      213: 4491970972107636143
+    second: fireTrap_projectile 1_21
+  - first:
+      213: -1145039641138219454
+    second: fireTrap_projectile 1_22
+  - first:
+      213: -4323264979417315725
+    second: fireTrap_projectile 1_23
+  - first:
+      213: -1042672750639100190
+    second: fireTrap_projectile 1_24
+  - first:
+      213: 6927545013622754105
+    second: fireTrap_projectile 1_25
+  - first:
+      213: 6759305393371126417
+    second: fireTrap_projectile 1_26
+  - first:
+      213: 7030188538698415102
+    second: fireTrap_projectile 1_27
+  - first:
+      213: 8402598818773835167
+    second: fireTrap_projectile 1_28
+  - first:
+      213: -7287231899262352252
+    second: fireTrap_projectile 1_29
+  - first:
+      213: -990512670648176644
+    second: fireTrap_projectile 1_30
+  - first:
+      213: 2469866566063353314
+    second: fireTrap_projectile 1_31
+  - first:
+      213: 3444676366438691258
+    second: fireTrap_projectile 1_32
+  - first:
+      213: 6291137432751855417
+    second: fireTrap_projectile 1_33
+  - first:
+      213: 7821686653144101255
+    second: fireTrap_projectile 1_34
+  - first:
+      213: -7652051801746975532
+    second: fireTrap_projectile 1_35
+  - first:
+      213: -8385152762289831747
+    second: fireTrap_projectile 1_36
+  - first:
+      213: -7797241265875032789
+    second: fireTrap_projectile 1_37
+  - first:
+      213: -5108054139250153468
+    second: fireTrap_projectile 1_38
+  - first:
+      213: 1806338855125517430
+    second: fireTrap_projectile 1_39
+  - first:
+      213: -7746959543997094136
+    second: fireTrap_projectile 1_40
+  - first:
+      213: -2117833903770697006
+    second: fireTrap_projectile 1_41
+  - first:
+      213: 4570826892587699911
+    second: fireTrap_projectile 1_42
+  - first:
+      213: 5083269298366026954
+    second: fireTrap_projectile 1_43
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fireTrap_projectile 1_0
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 437
+        width: 48
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dba43e074f7fe9530800000000000000
+      internalID: 3863798159568489149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireTrap_projectile 1_1
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 437
+        width: 48
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5718c1817df9f2490800000000000000
+      internalID: -7768815086019509899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireTrap_projectile 1_2
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 436
+        width: 51
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ff625a599fd5a8a0800000000000000
+      internalID: -6294379054442057736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireTrap_projectile 1_3
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 436
+        width: 51
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ee303f05dfa2c2f0800000000000000
+      internalID: -954006841431408919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireTrap_projectile 1_4
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 308
+        width: 55
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f815717c9bd97410800000000000000
+      internalID: 1475451817905428724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireTrap_projectile 1_5
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 308
+        width: 55
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e410f6da7fddc1d0800000000000000
+      internalID: -3328758830871866141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireTrap_projectile 1_6
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 320
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da64e77b7ba373b70800000000000000
+      internalID: 8878629751116154541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireTrap_projectile 1_7
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 329
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96d35bb7b50cc4e90800000000000000
+      internalID: -7040040618336895639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireTrap_projectile 1_8
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 323
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a5afcfe2f5feb580800000000000000
+      internalID: -8809333397335857756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireTrap_projectile 1_9
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 307
+        width: 41
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 923f5263fb35df350800000000000000
+      internalID: 6052085554968130345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireTrap_projectile 1_10
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 320
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7277db0dfa585c240800000000000000
+      internalID: 4811398767083091751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireTrap_projectile 1_11
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 329
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bb426e2761c4c440800000000000000
+      internalID: 4955298138918374327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireTrap_projectile 1_12
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 323
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30074d8b4565e5cc0800000000000000
+      internalID: -3720441320283279357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireTrap_projectile 1_13
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 307
+        width: 41
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f4038cb1037c1280800000000000000
+      internalID: -9071249098136156937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireTrap_projectile 1_14
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 320
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e893dd4c15a86dc70800000000000000
+      internalID: 8995529389518961038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireTrap_projectile 1_15
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 320
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d69fb253382bebac0800000000000000
+      internalID: -3837433555870549651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireTrap_projectile 1_16
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 322
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a27e9b65996c1110800000000000000
+      internalID: 1232976488469263017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireTrap_projectile 1_17
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 322
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec27014e9182191e0800000000000000
+      internalID: -2192927451887144242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireTrap_projectile 1_18
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 193
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72824a27838555190800000000000000
+      internalID: -7974370565724821465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireTrap_projectile 1_19
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 195
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73d2b29b1e12b5080800000000000000
+      internalID: -9197720560616133321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireTrap_projectile 1_20
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 179
+        width: 47
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cadbe5166df30c30800000000000000
+      internalID: 4324578682102078149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireTrap_projectile 1_21
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 193
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fad77d5bccfa65e30800000000000000
+      internalID: 4491970972107636143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireTrap_projectile 1_22
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 195
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 246373853800c10f0800000000000000
+      internalID: -1145039641138219454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireTrap_projectile 1_23
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 179
+        width: 47
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 376c1f7286da004c0800000000000000
+      internalID: -4323264979417315725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireTrap_projectile 1_24
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 195
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ee4d2958aea781f0800000000000000
+      internalID: -1042672750639100190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireTrap_projectile 1_25
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 195
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93b43867c75932060800000000000000
+      internalID: 6927545013622754105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireTrap_projectile 1_26
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 179
+        width: 48
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19a94446170edcd50800000000000000
+      internalID: 6759305393371126417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireTrap_projectile 1_27
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 195
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efb34297a3f309160800000000000000
+      internalID: 7030188538698415102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireTrap_projectile 1_28
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 195
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9d91275b170c9470800000000000000
+      internalID: 8402598818773835167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireTrap_projectile 1_29
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 179
+        width: 48
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4848290723d8eda90800000000000000
+      internalID: -7287231899262352252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireTrap_projectile 1_30
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 61
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cffed7859fdf042f0800000000000000
+      internalID: -990512670648176644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireTrap_projectile 1_31
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 73
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ede1d05e8ab64220800000000000000
+      internalID: 2469866566063353314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireTrap_projectile 1_32
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 52
+        width: 41
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab1f2c397e2fdcf20800000000000000
+      internalID: 3444676366438691258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireTrap_projectile 1_33
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 61
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9375658c92c9e4750800000000000000
+      internalID: 6291137432751855417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireTrap_projectile 1_34
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 73
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7817119e1963c8c60800000000000000
+      internalID: 7821686653144101255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireTrap_projectile 1_35
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 52
+        width: 41
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d4dbf9bd637ec590800000000000000
+      internalID: -7652051801746975532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireTrap_projectile 1_36
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 62
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db044583df3f1ab80800000000000000
+      internalID: -8385152762289831747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireTrap_projectile 1_37
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 70
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2560875162aac390800000000000000
+      internalID: -7797241265875032789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireTrap_projectile 1_38
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 52
+        width: 45
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 408e780f2db8c19b0800000000000000
+      internalID: -5108054139250153468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireTrap_projectile 1_39
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 62
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6740ebb4e97611910800000000000000
+      internalID: 1806338855125517430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireTrap_projectile 1_40
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 70
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8072bb207554d7490800000000000000
+      internalID: -7746959543997094136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireTrap_projectile 1_41
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 52
+        width: 45
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d208780941fb92e0800000000000000
+      internalID: -2117833903770697006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireTrap_projectile 1_42
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 52
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ce0e7e67d6de6f30800000000000000
+      internalID: 4570826892587699911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireTrap_projectile 1_43
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 52
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac491ca9e766b8640800000000000000
+      internalID: 5083269298366026954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      fireTrap_projectile 1_0: 3863798159568489149
+      fireTrap_projectile 1_1: -7768815086019509899
+      fireTrap_projectile 1_10: 4811398767083091751
+      fireTrap_projectile 1_11: 4955298138918374327
+      fireTrap_projectile 1_12: -3720441320283279357
+      fireTrap_projectile 1_13: -9071249098136156937
+      fireTrap_projectile 1_14: 8995529389518961038
+      fireTrap_projectile 1_15: -3837433555870549651
+      fireTrap_projectile 1_16: 1232976488469263017
+      fireTrap_projectile 1_17: -2192927451887144242
+      fireTrap_projectile 1_18: -7974370565724821465
+      fireTrap_projectile 1_19: -9197720560616133321
+      fireTrap_projectile 1_2: -6294379054442057736
+      fireTrap_projectile 1_20: 4324578682102078149
+      fireTrap_projectile 1_21: 4491970972107636143
+      fireTrap_projectile 1_22: -1145039641138219454
+      fireTrap_projectile 1_23: -4323264979417315725
+      fireTrap_projectile 1_24: -1042672750639100190
+      fireTrap_projectile 1_25: 6927545013622754105
+      fireTrap_projectile 1_26: 6759305393371126417
+      fireTrap_projectile 1_27: 7030188538698415102
+      fireTrap_projectile 1_28: 8402598818773835167
+      fireTrap_projectile 1_29: -7287231899262352252
+      fireTrap_projectile 1_3: -954006841431408919
+      fireTrap_projectile 1_30: -990512670648176644
+      fireTrap_projectile 1_31: 2469866566063353314
+      fireTrap_projectile 1_32: 3444676366438691258
+      fireTrap_projectile 1_33: 6291137432751855417
+      fireTrap_projectile 1_34: 7821686653144101255
+      fireTrap_projectile 1_35: -7652051801746975532
+      fireTrap_projectile 1_36: -8385152762289831747
+      fireTrap_projectile 1_37: -7797241265875032789
+      fireTrap_projectile 1_38: -5108054139250153468
+      fireTrap_projectile 1_39: 1806338855125517430
+      fireTrap_projectile 1_4: 1475451817905428724
+      fireTrap_projectile 1_40: -7746959543997094136
+      fireTrap_projectile 1_41: -2117833903770697006
+      fireTrap_projectile 1_42: 4570826892587699911
+      fireTrap_projectile 1_43: 5083269298366026954
+      fireTrap_projectile 1_5: -3328758830871866141
+      fireTrap_projectile 1_6: 8878629751116154541
+      fireTrap_projectile 1_7: -7040040618336895639
+      fireTrap_projectile 1_8: -8809333397335857756
+      fireTrap_projectile 1_9: 6052085554968130345
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1729 @@
+fileFormatVersion: 2
+guid: 211d6a7386665c2468059b5e04fefd0e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2321640121115663796
+    second: candelabra03_breaking_anim_0
+  - first:
+      213: -8689580262702482492
+    second: candelabra03_breaking_anim_1
+  - first:
+      213: -4908664514797532115
+    second: candelabra03_breaking_anim_2
+  - first:
+      213: -3632624059717683435
+    second: candelabra03_breaking_anim_3
+  - first:
+      213: -7198655053601267479
+    second: candelabra03_breaking_anim_4
+  - first:
+      213: -6349907511602389683
+    second: candelabra03_breaking_anim_5
+  - first:
+      213: -7966280719088000471
+    second: candelabra03_breaking_anim_6
+  - first:
+      213: 5440356725550326475
+    second: candelabra03_breaking_anim_7
+  - first:
+      213: -977452390879520572
+    second: candelabra03_breaking_anim_8
+  - first:
+      213: -3471678620134844140
+    second: candelabra03_breaking_anim_9
+  - first:
+      213: 6611174915635355838
+    second: candelabra03_breaking_anim_10
+  - first:
+      213: -6262554576843778776
+    second: candelabra03_breaking_anim_11
+  - first:
+      213: 1154900767742239669
+    second: candelabra03_breaking_anim_12
+  - first:
+      213: 4138202909516428112
+    second: candelabra03_breaking_anim_13
+  - first:
+      213: -8986842303468444956
+    second: candelabra03_breaking_anim_14
+  - first:
+      213: 7239687382034045998
+    second: candelabra03_breaking_anim_15
+  - first:
+      213: 96646430094677729
+    second: candelabra03_breaking_anim_16
+  - first:
+      213: 5844925251408512888
+    second: candelabra03_breaking_anim_17
+  - first:
+      213: 4541218858481480768
+    second: candelabra03_breaking_anim_18
+  - first:
+      213: -2074062806020442036
+    second: candelabra03_breaking_anim_19
+  - first:
+      213: 266772918595554324
+    second: candelabra03_breaking_anim_20
+  - first:
+      213: -7707702505913175279
+    second: candelabra03_breaking_anim_21
+  - first:
+      213: -5343995555142086959
+    second: candelabra03_breaking_anim_22
+  - first:
+      213: 7901593237869135876
+    second: candelabra03_breaking_anim_23
+  - first:
+      213: 3521235918518763990
+    second: candelabra03_breaking_anim_24
+  - first:
+      213: 6031717514744371450
+    second: candelabra03_breaking_anim_25
+  - first:
+      213: -5328103066550315615
+    second: candelabra03_breaking_anim_26
+  - first:
+      213: -5781117882491446947
+    second: candelabra03_breaking_anim_27
+  - first:
+      213: -2011138503980629987
+    second: candelabra03_breaking_anim_28
+  - first:
+      213: -2785928870365445357
+    second: candelabra03_breaking_anim_29
+  - first:
+      213: 6045560212903117729
+    second: candelabra03_breaking_anim_30
+  - first:
+      213: -5585449340393784984
+    second: candelabra03_breaking_anim_31
+  - first:
+      213: -4149163037960815834
+    second: candelabra03_breaking_anim_32
+  - first:
+      213: 2561658538503806993
+    second: candelabra03_breaking_anim_33
+  - first:
+      213: -2310294107006702082
+    second: candelabra03_breaking_anim_34
+  - first:
+      213: 1748996017490963170
+    second: candelabra03_breaking_anim_35
+  - first:
+      213: 4326733424110542582
+    second: candelabra03_breaking_anim_36
+  - first:
+      213: -6347400560846764332
+    second: candelabra03_breaking_anim_37
+  - first:
+      213: 2840617571698145537
+    second: candelabra03_breaking_anim_38
+  - first:
+      213: 7927826630200565531
+    second: candelabra03_breaking_anim_39
+  - first:
+      213: 4418974146377063462
+    second: candelabra03_breaking_anim_40
+  - first:
+      213: 8279552616705351468
+    second: candelabra03_breaking_anim_41
+  - first:
+      213: 5579972631247284177
+    second: candelabra03_breaking_anim_42
+  - first:
+      213: -355627732216131395
+    second: candelabra03_breaking_anim_43
+  - first:
+      213: -3950075368286561690
+    second: candelabra03_breaking_anim_44
+  - first:
+      213: -7731579826557243156
+    second: candelabra03_breaking_anim_45
+  - first:
+      213: 6190310441777769003
+    second: candelabra03_breaking_anim_46
+  - first:
+      213: -6358648266307163953
+    second: candelabra03_breaking_anim_47
+  - first:
+      213: 6884876710468323255
+    second: candelabra03_breaking_anim_48
+  - first:
+      213: 5892495963446736967
+    second: candelabra03_breaking_anim_49
+  - first:
+      213: 2149889376086372142
+    second: candelabra03_breaking_anim_50
+  - first:
+      213: -2713686410621714533
+    second: candelabra03_breaking_anim_51
+  - first:
+      213: -9095666334148178197
+    second: candelabra03_breaking_anim_52
+  - first:
+      213: -8463740870600001949
+    second: candelabra03_breaking_anim_53
+  - first:
+      213: -9128645737017121041
+    second: candelabra03_breaking_anim_54
+  - first:
+      213: -7641257363391729282
+    second: candelabra03_breaking_anim_55
+  - first:
+      213: 3166437088828873639
+    second: candelabra03_breaking_anim_56
+  - first:
+      213: -6471360204177125452
+    second: candelabra03_breaking_anim_57
+  - first:
+      213: 1112366823840662171
+    second: candelabra03_breaking_anim_58
+  - first:
+      213: -1851895331542590774
+    second: candelabra03_breaking_anim_59
+  - first:
+      213: 4175701566567761529
+    second: candelabra03_breaking_anim_60
+  - first:
+      213: -251059539452957765
+    second: candelabra03_breaking_anim_61
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: candelabra03_breaking_anim_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 259
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c422b944c90e7cfd0800000000000000
+      internalID: -2321640121115663796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candelabra03_breaking_anim_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 267
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cb7f5a5ac8686780800000000000000
+      internalID: -8689580262702482492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candelabra03_breaking_anim_2
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 233
+        width: 32
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2c8de981abe0ebb0800000000000000
+      internalID: -4908664514797532115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candelabra03_breaking_anim_3
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 256
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5177df50aa3569dc0800000000000000
+      internalID: -3632624059717683435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candelabra03_breaking_anim_4
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 268
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e0a68d6e5d391c90800000000000000
+      internalID: -7198655053601267479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candelabra03_breaking_anim_5
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 268
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4dda5ee2c890e7a0800000000000000
+      internalID: -6349907511602389683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candelabra03_breaking_anim_6
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 265
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92267b5a4e5127190800000000000000
+      internalID: -7966280719088000471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candelabra03_breaking_anim_7
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 233
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc2a5dd1e97008b40800000000000000
+      internalID: 5440356725550326475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candelabra03_breaking_anim_8
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 256
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c815c0ba346f62f0800000000000000
+      internalID: -977452390879520572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candelabra03_breaking_anim_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 246
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4195b8050be12dfc0800000000000000
+      internalID: -3471678620134844140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candelabra03_breaking_anim_10
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 233
+        width: 39
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb02b6aee8c9fbb50800000000000000
+      internalID: 6611174915635355838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candelabra03_breaking_anim_11
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 233
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 825dab4facfe619a0800000000000000
+      internalID: -6262554576843778776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candelabra03_breaking_anim_12
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 214
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b32a1c1128070010800000000000000
+      internalID: 1154900767742239669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candelabra03_breaking_anim_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 199
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 053f63efe99dd6930800000000000000
+      internalID: 4138202909516428112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candelabra03_breaking_anim_14
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 209
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e26f411a82584380800000000000000
+      internalID: -8986842303468444956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candelabra03_breaking_anim_15
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 207
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2c54030159887460800000000000000
+      internalID: 7239687382034045998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candelabra03_breaking_anim_16
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 200
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e65a968a6b575100800000000000000
+      internalID: 96646430094677729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candelabra03_breaking_anim_17
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 202
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8774ae46c885d1150800000000000000
+      internalID: 5844925251408512888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candelabra03_breaking_anim_18
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 202
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 044f71bcd76a50f30800000000000000
+      internalID: 4541218858481480768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candelabra03_breaking_anim_19
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 187
+        width: 52
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c483d45edd27733e0800000000000000
+      internalID: -2074062806020442036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candelabra03_breaking_anim_20
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 201
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41c05985e84c3b300800000000000000
+      internalID: 266772918595554324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candelabra03_breaking_anim_21
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 201
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11338a4786db80590800000000000000
+      internalID: -7707702505913175279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candelabra03_breaking_anim_22
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 198
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1de4d763b5056d5b0800000000000000
+      internalID: -5343995555142086959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candelabra03_breaking_anim_23
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 102
+        width: 35
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40881d67f2918ad60800000000000000
+      internalID: 7901593237869135876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candelabra03_breaking_anim_24
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 191
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d148ad5961fdd030800000000000000
+      internalID: 3521235918518763990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candelabra03_breaking_anim_25
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 183
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af817db4f17f4b350800000000000000
+      internalID: 6031717514744371450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candelabra03_breaking_anim_26
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 165
+        width: 40
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a5599f8d76ce06b0800000000000000
+      internalID: -5328103066550315615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candelabra03_breaking_anim_27
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 165
+        width: 40
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5950716ae755cfa0800000000000000
+      internalID: -5781117882491446947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candelabra03_breaking_anim_28
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 124
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d10cf14af200714e0800000000000000
+      internalID: -2011138503980629987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candelabra03_breaking_anim_29
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 129
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 313cc50f3746659d0800000000000000
+      internalID: -2785928870365445357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candelabra03_breaking_anim_30
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 139
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a3435e9bf426e350800000000000000
+      internalID: 6045560212903117729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candelabra03_breaking_anim_31
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 135
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86973eafa6f7c72b0800000000000000
+      internalID: -5585449340393784984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candelabra03_breaking_anim_32
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 133
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62b3a2f33363b66c0800000000000000
+      internalID: -4149163037960815834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candelabra03_breaking_anim_33
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 140
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 110ad575ed6dc8320800000000000000
+      internalID: 2561658538503806993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candelabra03_breaking_anim_34
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 131
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efdef2900cf20ffd0800000000000000
+      internalID: -2310294107006702082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candelabra03_breaking_anim_35
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 131
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ea2f108c9ea54810800000000000000
+      internalID: 1748996017490963170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candelabra03_breaking_anim_36
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 116
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fe1bed0025ab0c30800000000000000
+      internalID: 4326733424110542582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candelabra03_breaking_anim_37
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 121
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d60d93e1d089e7a0800000000000000
+      internalID: -6347400560846764332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candelabra03_breaking_anim_38
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 91
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 109fcc791a6eb6720800000000000000
+      internalID: 2840617571698145537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candelabra03_breaking_anim_39
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 120
+        width: 38
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1f9cf5115c450e60800000000000000
+      internalID: 7927826630200565531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candelabra03_breaking_anim_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 106
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62c907ac299535d30800000000000000
+      internalID: 4418974146377063462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candelabra03_breaking_anim_41
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 91
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2fd0e9ec31e6e270800000000000000
+      internalID: 8279552616705351468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candelabra03_breaking_anim_42
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 91
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d765ed4b8b007d40800000000000000
+      internalID: 5579972631247284177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candelabra03_breaking_anim_43
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 92
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db0daf4367e801bf0800000000000000
+      internalID: -355627732216131395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candelabra03_breaking_anim_44
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 64
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66a524581638e29c0800000000000000
+      internalID: -3950075368286561690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candelabra03_breaking_anim_45
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 49
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce0ba758c19e3b490800000000000000
+      internalID: -7731579826557243156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candelabra03_breaking_anim_46
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 43
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2a2e839c8668e550800000000000000
+      internalID: 6190310441777769003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candelabra03_breaking_anim_47
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 43
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc8ab13671b81c7a0800000000000000
+      internalID: -6358648266307163953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candelabra03_breaking_anim_48
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 60
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b703d9f3eefb8f50800000000000000
+      internalID: 6884876710468323255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candelabra03_breaking_anim_49
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 0
+        width: 48
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7487aa5ebd956c150800000000000000
+      internalID: 5892495963446736967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candelabra03_breaking_anim_50
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 41
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2fa3083ff0f5dd10800000000000000
+      internalID: 2149889376086372142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candelabra03_breaking_anim_51
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 47
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9f7617569c075ad0800000000000000
+      internalID: -2713686410621714533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candelabra03_breaking_anim_52
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 29
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bee4e95f8a3b5c180800000000000000
+      internalID: -9095666334148178197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candelabra03_breaking_anim_53
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 37
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3667ee06580ca8a80800000000000000
+      internalID: -8463740870600001949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candelabra03_breaking_anim_54
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 46
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe6e5bc5119805180800000000000000
+      internalID: -9128645737017121041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candelabra03_breaking_anim_55
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 19
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e71b2b1c9ecc4f590800000000000000
+      internalID: -7641257363391729282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candelabra03_breaking_anim_56
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 36
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ab544b71c171fb20800000000000000
+      internalID: 3166437088828873639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candelabra03_breaking_anim_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bf4c685e2c1136a0800000000000000
+      internalID: -6471360204177125452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candelabra03_breaking_anim_58
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 16
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b92c3f29bbbef6f00800000000000000
+      internalID: 1112366823840662171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candelabra03_breaking_anim_59
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 0
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aca133af10fbc46e0800000000000000
+      internalID: -1851895331542590774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candelabra03_breaking_anim_60
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 0
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9764053737213f930800000000000000
+      internalID: 4175701566567761529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candelabra03_breaking_anim_61
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 0
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbbee65ddae048cf0800000000000000
+      internalID: -251059539452957765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      candelabra03_breaking_anim_0: -2321640121115663796
+      candelabra03_breaking_anim_1: -8689580262702482492
+      candelabra03_breaking_anim_10: 6611174915635355838
+      candelabra03_breaking_anim_11: -6262554576843778776
+      candelabra03_breaking_anim_12: 1154900767742239669
+      candelabra03_breaking_anim_13: 4138202909516428112
+      candelabra03_breaking_anim_14: -8986842303468444956
+      candelabra03_breaking_anim_15: 7239687382034045998
+      candelabra03_breaking_anim_16: 96646430094677729
+      candelabra03_breaking_anim_17: 5844925251408512888
+      candelabra03_breaking_anim_18: 4541218858481480768
+      candelabra03_breaking_anim_19: -2074062806020442036
+      candelabra03_breaking_anim_2: -4908664514797532115
+      candelabra03_breaking_anim_20: 266772918595554324
+      candelabra03_breaking_anim_21: -7707702505913175279
+      candelabra03_breaking_anim_22: -5343995555142086959
+      candelabra03_breaking_anim_23: 7901593237869135876
+      candelabra03_breaking_anim_24: 3521235918518763990
+      candelabra03_breaking_anim_25: 6031717514744371450
+      candelabra03_breaking_anim_26: -5328103066550315615
+      candelabra03_breaking_anim_27: -5781117882491446947
+      candelabra03_breaking_anim_28: -2011138503980629987
+      candelabra03_breaking_anim_29: -2785928870365445357
+      candelabra03_breaking_anim_3: -3632624059717683435
+      candelabra03_breaking_anim_30: 6045560212903117729
+      candelabra03_breaking_anim_31: -5585449340393784984
+      candelabra03_breaking_anim_32: -4149163037960815834
+      candelabra03_breaking_anim_33: 2561658538503806993
+      candelabra03_breaking_anim_34: -2310294107006702082
+      candelabra03_breaking_anim_35: 1748996017490963170
+      candelabra03_breaking_anim_36: 4326733424110542582
+      candelabra03_breaking_anim_37: -6347400560846764332
+      candelabra03_breaking_anim_38: 2840617571698145537
+      candelabra03_breaking_anim_39: 7927826630200565531
+      candelabra03_breaking_anim_4: -7198655053601267479
+      candelabra03_breaking_anim_40: 4418974146377063462
+      candelabra03_breaking_anim_41: 8279552616705351468
+      candelabra03_breaking_anim_42: 5579972631247284177
+      candelabra03_breaking_anim_43: -355627732216131395
+      candelabra03_breaking_anim_44: -3950075368286561690
+      candelabra03_breaking_anim_45: -7731579826557243156
+      candelabra03_breaking_anim_46: 6190310441777769003
+      candelabra03_breaking_anim_47: -6358648266307163953
+      candelabra03_breaking_anim_48: 6884876710468323255
+      candelabra03_breaking_anim_49: 5892495963446736967
+      candelabra03_breaking_anim_5: -6349907511602389683
+      candelabra03_breaking_anim_50: 2149889376086372142
+      candelabra03_breaking_anim_51: -2713686410621714533
+      candelabra03_breaking_anim_52: -9095666334148178197
+      candelabra03_breaking_anim_53: -8463740870600001949
+      candelabra03_breaking_anim_54: -9128645737017121041
+      candelabra03_breaking_anim_55: -7641257363391729282
+      candelabra03_breaking_anim_56: 3166437088828873639
+      candelabra03_breaking_anim_57: -6471360204177125452
+      candelabra03_breaking_anim_58: 1112366823840662171
+      candelabra03_breaking_anim_59: -1851895331542590774
+      candelabra03_breaking_anim_6: -7966280719088000471
+      candelabra03_breaking_anim_60: 4175701566567761529
+      candelabra03_breaking_anim_61: -251059539452957765
+      candelabra03_breaking_anim_7: 5440356725550326475
+      candelabra03_breaking_anim_8: -977452390879520572
+      candelabra03_breaking_anim_9: -3471678620134844140
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

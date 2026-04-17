@@ -1,0 +1,1053 @@
+fileFormatVersion: 2
+guid: 7993b6b4c1db67c48b3ee6aa6f99df71
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5999606411045458925
+    second: boss-rush-a-plus-spritesheet_0
+  - first:
+      213: -3231988691501301968
+    second: boss-rush-a-plus-spritesheet_1
+  - first:
+      213: 4358703634693401420
+    second: boss-rush-a-plus-spritesheet_2
+  - first:
+      213: -2791856060367963422
+    second: boss-rush-a-plus-spritesheet_3
+  - first:
+      213: 1771083400209809837
+    second: boss-rush-a-plus-spritesheet_4
+  - first:
+      213: 3271559322792700273
+    second: boss-rush-a-plus-spritesheet_5
+  - first:
+      213: -1559241964941633230
+    second: boss-rush-a-plus-spritesheet_6
+  - first:
+      213: -4832060888586347223
+    second: boss-rush-a-plus-spritesheet_7
+  - first:
+      213: -4123273727975407845
+    second: boss-rush-a-plus-spritesheet_8
+  - first:
+      213: 5914932763052420727
+    second: boss-rush-a-plus-spritesheet_9
+  - first:
+      213: -590080176127584097
+    second: boss-rush-a-plus-spritesheet_10
+  - first:
+      213: 8825141994328714088
+    second: boss-rush-a-plus-spritesheet_11
+  - first:
+      213: -5139243798298721538
+    second: boss-rush-a-plus-spritesheet_12
+  - first:
+      213: -2335251299513745268
+    second: boss-rush-a-plus-spritesheet_13
+  - first:
+      213: 7305149184838747770
+    second: boss-rush-a-plus-spritesheet_14
+  - first:
+      213: 265467617851738506
+    second: boss-rush-a-plus-spritesheet_15
+  - first:
+      213: -6101002402084083314
+    second: boss-rush-a-plus-spritesheet_16
+  - first:
+      213: 572137603898520647
+    second: boss-rush-a-plus-spritesheet_17
+  - first:
+      213: -6608042150470001199
+    second: boss-rush-a-plus-spritesheet_18
+  - first:
+      213: -4634615712353651887
+    second: boss-rush-a-plus-spritesheet_19
+  - first:
+      213: -4180965326352780858
+    second: boss-rush-a-plus-spritesheet_20
+  - first:
+      213: 2212940914617529151
+    second: boss-rush-a-plus-spritesheet_21
+  - first:
+      213: -6662525334457856371
+    second: boss-rush-a-plus-spritesheet_22
+  - first:
+      213: -7420893983567594722
+    second: boss-rush-a-plus-spritesheet_23
+  - first:
+      213: -505458854377690797
+    second: boss-rush-a-plus-spritesheet_24
+  - first:
+      213: -4908199374880081856
+    second: boss-rush-a-plus-spritesheet_25
+  - first:
+      213: -3647966459942991784
+    second: boss-rush-a-plus-spritesheet_26
+  - first:
+      213: 4975238285611459623
+    second: boss-rush-a-plus-spritesheet_27
+  - first:
+      213: -2091041153728519932
+    second: boss-rush-a-plus-spritesheet_28
+  - first:
+      213: 6217672269075289971
+    second: boss-rush-a-plus-spritesheet_29
+  - first:
+      213: 7958230175007063428
+    second: boss-rush-a-plus-spritesheet_30
+  - first:
+      213: -6282784319069350347
+    second: boss-rush-a-plus-spritesheet_31
+  - first:
+      213: -627554655798417618
+    second: boss-rush-a-plus-spritesheet_32
+  - first:
+      213: -2106538200297564907
+    second: boss-rush-a-plus-spritesheet_33
+  - first:
+      213: 2717355416005786850
+    second: boss-rush-a-plus-spritesheet_34
+  - first:
+      213: -7029344582753562930
+    second: boss-rush-a-plus-spritesheet_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: boss-rush-a-plus-spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 203
+        width: 49
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31caa75a1cd1dbca0800000000000000
+      internalID: -5999606411045458925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss-rush-a-plus-spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 235
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03f3cfca86ba523d0800000000000000
+      internalID: -3231988691501301968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss-rush-a-plus-spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 203
+        width: 50
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4baa13ccd93d7c30800000000000000
+      internalID: 4358703634693401420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss-rush-a-plus-spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 235
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eafeb974b55149d0800000000000000
+      internalID: -2791856060367963422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss-rush-a-plus-spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 203
+        width: 50
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da1c81908f6249810800000000000000
+      internalID: 1771083400209809837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss-rush-a-plus-spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 235
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1792da0eed9e66d20800000000000000
+      internalID: 3271559322792700273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss-rush-a-plus-spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 203
+        width: 50
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23995c0b1b57c5ae0800000000000000
+      internalID: -1559241964941633230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss-rush-a-plus-spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 235
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92d90c2293211fcb0800000000000000
+      internalID: -4832060888586347223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss-rush-a-plus-spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 203
+        width: 50
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1f3354f36037c6c0800000000000000
+      internalID: -4123273727975407845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss-rush-a-plus-spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 235
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77e2f046200161250800000000000000
+      internalID: 5914932763052420727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss-rush-a-plus-spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 203
+        width: 50
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f985ae8c43d9fc7f0800000000000000
+      internalID: -590080176127584097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss-rush-a-plus-spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 235
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86b6850e2e3397a70800000000000000
+      internalID: 8825141994328714088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss-rush-a-plus-spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 203
+        width: 50
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef2864c8efcbda8b0800000000000000
+      internalID: -5139243798298721538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss-rush-a-plus-spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 235
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c80c637d055879fd0800000000000000
+      internalID: -2335251299513745268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss-rush-a-plus-spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 203
+        width: 50
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a764c81ba7a116560800000000000000
+      internalID: 7305149184838747770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss-rush-a-plus-spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 235
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a890c6554612fa300800000000000000
+      internalID: 265467617851738506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss-rush-a-plus-spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 151
+        width: 49
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8929f9c3a2e45ba0800000000000000
+      internalID: -6101002402084083314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss-rush-a-plus-spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 183
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 744b3039e14a0f700800000000000000
+      internalID: 572137603898520647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss-rush-a-plus-spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 151
+        width: 50
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dd5d60dca48b44a0800000000000000
+      internalID: -6608042150470001199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss-rush-a-plus-spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 183
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15377ba90998eafb0800000000000000
+      internalID: -4634615712353651887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss-rush-a-plus-spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 151
+        width: 50
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c17488ff2a3af5c0800000000000000
+      internalID: -4180965326352780858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss-rush-a-plus-spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 183
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f33b4b48902f5be10800000000000000
+      internalID: 2212940914617529151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss-rush-a-plus-spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 151
+        width: 50
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8e49940284f983a0800000000000000
+      internalID: -6662525334457856371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss-rush-a-plus-spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 183
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1bbe915d30b30990800000000000000
+      internalID: -7420893983567594722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss-rush-a-plus-spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 151
+        width: 50
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 359ed3899df3cf8f0800000000000000
+      internalID: -505458854377690797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss-rush-a-plus-spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 183
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0487a7d5ca292ebb0800000000000000
+      internalID: -4908199374880081856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss-rush-a-plus-spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 151
+        width: 50
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8580f8a15d1df5dc0800000000000000
+      internalID: -3647966459942991784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss-rush-a-plus-spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 183
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7246bce5cd89b0540800000000000000
+      internalID: 4975238285611459623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss-rush-a-plus-spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 151
+        width: 50
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 401e94546212bf2e0800000000000000
+      internalID: -2091041153728519932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss-rush-a-plus-spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 183
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37797007cfb994650800000000000000
+      internalID: 6217672269075289971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss-rush-a-plus-spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 151
+        width: 50
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48d371efd20517e60800000000000000
+      internalID: 7958230175007063428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss-rush-a-plus-spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 183
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5361a7d03f01fc8a0800000000000000
+      internalID: -6282784319069350347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss-rush-a-plus-spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 99
+        width: 49
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e272eff8d5a7a47f0800000000000000
+      internalID: -627554655798417618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss-rush-a-plus-spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 131
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5151971faa214c2e0800000000000000
+      internalID: -2106538200297564907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss-rush-a-plus-spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 99
+        width: 50
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ec328b8a5cf5b520800000000000000
+      internalID: 2717355416005786850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss-rush-a-plus-spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 131
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ece48255850c27e90800000000000000
+      internalID: -7029344582753562930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      boss-rush-a-plus-spritesheet_0: -5999606411045458925
+      boss-rush-a-plus-spritesheet_1: -3231988691501301968
+      boss-rush-a-plus-spritesheet_10: -590080176127584097
+      boss-rush-a-plus-spritesheet_11: 8825141994328714088
+      boss-rush-a-plus-spritesheet_12: -5139243798298721538
+      boss-rush-a-plus-spritesheet_13: -2335251299513745268
+      boss-rush-a-plus-spritesheet_14: 7305149184838747770
+      boss-rush-a-plus-spritesheet_15: 265467617851738506
+      boss-rush-a-plus-spritesheet_16: -6101002402084083314
+      boss-rush-a-plus-spritesheet_17: 572137603898520647
+      boss-rush-a-plus-spritesheet_18: -6608042150470001199
+      boss-rush-a-plus-spritesheet_19: -4634615712353651887
+      boss-rush-a-plus-spritesheet_2: 4358703634693401420
+      boss-rush-a-plus-spritesheet_20: -4180965326352780858
+      boss-rush-a-plus-spritesheet_21: 2212940914617529151
+      boss-rush-a-plus-spritesheet_22: -6662525334457856371
+      boss-rush-a-plus-spritesheet_23: -7420893983567594722
+      boss-rush-a-plus-spritesheet_24: -505458854377690797
+      boss-rush-a-plus-spritesheet_25: -4908199374880081856
+      boss-rush-a-plus-spritesheet_26: -3647966459942991784
+      boss-rush-a-plus-spritesheet_27: 4975238285611459623
+      boss-rush-a-plus-spritesheet_28: -2091041153728519932
+      boss-rush-a-plus-spritesheet_29: 6217672269075289971
+      boss-rush-a-plus-spritesheet_3: -2791856060367963422
+      boss-rush-a-plus-spritesheet_30: 7958230175007063428
+      boss-rush-a-plus-spritesheet_31: -6282784319069350347
+      boss-rush-a-plus-spritesheet_32: -627554655798417618
+      boss-rush-a-plus-spritesheet_33: -2106538200297564907
+      boss-rush-a-plus-spritesheet_34: 2717355416005786850
+      boss-rush-a-plus-spritesheet_35: -7029344582753562930
+      boss-rush-a-plus-spritesheet_4: 1771083400209809837
+      boss-rush-a-plus-spritesheet_5: 3271559322792700273
+      boss-rush-a-plus-spritesheet_6: -1559241964941633230
+      boss-rush-a-plus-spritesheet_7: -4832060888586347223
+      boss-rush-a-plus-spritesheet_8: -4123273727975407845
+      boss-rush-a-plus-spritesheet_9: 5914932763052420727
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

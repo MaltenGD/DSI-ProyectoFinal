@@ -1,0 +1,429 @@
+fileFormatVersion: 2
+guid: ead969de6a4120f458cf5c05a7f92be7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -602929694169065804
+    second: pontiff-boss-fight-spritesheet_0
+  - first:
+      213: 7039880639933610508
+    second: pontiff-boss-fight-spritesheet_1
+  - first:
+      213: 2936170784332102566
+    second: pontiff-boss-fight-spritesheet_2
+  - first:
+      213: -2241058087683611217
+    second: pontiff-boss-fight-spritesheet_3
+  - first:
+      213: -7250629012597944184
+    second: pontiff-boss-fight-spritesheet_4
+  - first:
+      213: -762768111057587365
+    second: pontiff-boss-fight-spritesheet_5
+  - first:
+      213: 8292333256145246539
+    second: pontiff-boss-fight-spritesheet_6
+  - first:
+      213: 914962771282961282
+    second: pontiff-boss-fight-spritesheet_7
+  - first:
+      213: 2271112263945354224
+    second: pontiff-boss-fight-spritesheet_8
+  - first:
+      213: 3305419640961750422
+    second: pontiff-boss-fight-spritesheet_9
+  - first:
+      213: -4359081795104001881
+    second: pontiff-boss-fight-spritesheet_10
+  - first:
+      213: -6966751713004695609
+    second: pontiff-boss-fight-spritesheet_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pontiff-boss-fight-spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 990
+        width: 165
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b6948a33a6f1a7f0800000000000000
+      internalID: -602929694169065804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pontiff-boss-fight-spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 985
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0a7464a42ea2b160800000000000000
+      internalID: 7039880639933610508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pontiff-boss-fight-spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 709
+        width: 278
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6abbef795cf5fb820800000000000000
+      internalID: 2936170784332102566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pontiff-boss-fight-spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 683
+        width: 200
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa52a9afa8926e0e0800000000000000
+      internalID: -2241058087683611217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pontiff-boss-fight-spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 957
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88055f91457906b90800000000000000
+      internalID: -7250629012597944184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pontiff-boss-fight-spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 957
+        width: 165
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b53ba6eb17a1a65f0800000000000000
+      internalID: -762768111057587365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pontiff-boss-fight-spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 902
+        width: 165
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4912bb6929441370800000000000000
+      internalID: 8292333256145246539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pontiff-boss-fight-spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 681
+        width: 150
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2832705fac992bc00800000000000000
+      internalID: 914962771282961282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pontiff-boss-fight-spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 561
+        width: 199
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fbfe79329c948f10800000000000000
+      internalID: 2271112263945354224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pontiff-boss-fight-spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 682
+        width: 118
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 695df1d86a53fdd20800000000000000
+      internalID: 3305419640961750422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pontiff-boss-fight-spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 323
+        width: 277
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a034f7e33e6183c0800000000000000
+      internalID: -4359081795104001881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pontiff-boss-fight-spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 12
+        width: 356
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cfc20c7a30215f90800000000000000
+      internalID: -6966751713004695609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      pontiff-boss-fight-spritesheet_0: -602929694169065804
+      pontiff-boss-fight-spritesheet_1: 7039880639933610508
+      pontiff-boss-fight-spritesheet_10: -4359081795104001881
+      pontiff-boss-fight-spritesheet_11: -6966751713004695609
+      pontiff-boss-fight-spritesheet_2: 2936170784332102566
+      pontiff-boss-fight-spritesheet_3: -2241058087683611217
+      pontiff-boss-fight-spritesheet_4: -7250629012597944184
+      pontiff-boss-fight-spritesheet_5: -762768111057587365
+      pontiff-boss-fight-spritesheet_6: 8292333256145246539
+      pontiff-boss-fight-spritesheet_7: 914962771282961282
+      pontiff-boss-fight-spritesheet_8: 2271112263945354224
+      pontiff-boss-fight-spritesheet_9: 3305419640961750422
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

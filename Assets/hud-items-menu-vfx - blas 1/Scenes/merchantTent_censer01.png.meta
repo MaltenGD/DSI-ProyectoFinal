@@ -1,0 +1,793 @@
+fileFormatVersion: 2
+guid: 2117cc9772700ea41a51d44306519379
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4250758605368428081
+    second: merchantTent_censer01_0
+  - first:
+      213: 2984976009517806779
+    second: merchantTent_censer01_1
+  - first:
+      213: -6466672679748983144
+    second: merchantTent_censer01_2
+  - first:
+      213: 6826778301102149912
+    second: merchantTent_censer01_3
+  - first:
+      213: 4019093657581488393
+    second: merchantTent_censer01_4
+  - first:
+      213: 8656594842214596632
+    second: merchantTent_censer01_5
+  - first:
+      213: 5167065931712168790
+    second: merchantTent_censer01_6
+  - first:
+      213: 4558882813442139811
+    second: merchantTent_censer01_7
+  - first:
+      213: 545052725075480527
+    second: merchantTent_censer01_8
+  - first:
+      213: -7565473630670846715
+    second: merchantTent_censer01_9
+  - first:
+      213: 8610450795572389401
+    second: merchantTent_censer01_10
+  - first:
+      213: 8551194724564080165
+    second: merchantTent_censer01_11
+  - first:
+      213: -409310794045358451
+    second: merchantTent_censer01_12
+  - first:
+      213: 7872502715582588664
+    second: merchantTent_censer01_13
+  - first:
+      213: -1975454708857797281
+    second: merchantTent_censer01_14
+  - first:
+      213: -5901165018030939239
+    second: merchantTent_censer01_15
+  - first:
+      213: 1447917187853471292
+    second: merchantTent_censer01_16
+  - first:
+      213: -3165236654431548014
+    second: merchantTent_censer01_17
+  - first:
+      213: 1755073694689430006
+    second: merchantTent_censer01_18
+  - first:
+      213: -5102586647483707797
+    second: merchantTent_censer01_19
+  - first:
+      213: 7254597319145227147
+    second: merchantTent_censer01_20
+  - first:
+      213: 6339564964420676595
+    second: merchantTent_censer01_21
+  - first:
+      213: 8800174357187042132
+    second: merchantTent_censer01_22
+  - first:
+      213: 3424554469296773114
+    second: merchantTent_censer01_23
+  - first:
+      213: 9060202382379241708
+    second: merchantTent_censer01_24
+  - first:
+      213: 5768473059581671799
+    second: merchantTent_censer01_25
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: merchantTent_censer01_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 430
+        width: 46
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1368bea1e6abdfa30800000000000000
+      internalID: 4250758605368428081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: merchantTent_censer01_1
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 429
+        width: 47
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb43f569dd3cc6920800000000000000
+      internalID: 2984976009517806779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: merchantTent_censer01_2
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 429
+        width: 47
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 896a6dca573c146a0800000000000000
+      internalID: -6466672679748983144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: merchantTent_censer01_3
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 428
+        width: 47
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 811d98de1b69dbe50800000000000000
+      internalID: 6826778301102149912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: merchantTent_censer01_4
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 428
+        width: 47
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9098b233360b6c730800000000000000
+      internalID: 4019093657581488393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: merchantTent_censer01_5
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 428
+        width: 47
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8100ea6f427622870800000000000000
+      internalID: 8656594842214596632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: merchantTent_censer01_6
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 428
+        width: 47
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6530abea61b15b740800000000000000
+      internalID: 5167065931712168790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: merchantTent_censer01_7
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 288
+        width: 47
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a62adbc3c7644f30800000000000000
+      internalID: 4558882813442139811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: merchantTent_censer01_8
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 288
+        width: 47
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcf8bfdc09a609700800000000000000
+      internalID: 545052725075480527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: merchantTent_censer01_9
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 288
+        width: 47
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 505874601d9020790800000000000000
+      internalID: -7565473630670846715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: merchantTent_censer01_10
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 289
+        width: 47
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9166212e0677e7770800000000000000
+      internalID: 8610450795572389401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: merchantTent_censer01_11
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 289
+        width: 47
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52616dabb42fba670800000000000000
+      internalID: 8551194724564080165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: merchantTent_censer01_12
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 290
+        width: 47
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8e713e5006d15af0800000000000000
+      internalID: -409310794045358451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: merchantTent_censer01_13
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 290
+        width: 47
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f6299f628fb04d60800000000000000
+      internalID: 7872502715582588664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: merchantTent_censer01_14
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 149
+        width: 47
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5588a0a866c594e0800000000000000
+      internalID: -1975454708857797281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: merchantTent_censer01_15
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 149
+        width: 47
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 993ed4b8ea9da1ea0800000000000000
+      internalID: -5901165018030939239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: merchantTent_censer01_16
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 148
+        width: 47
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3e403ec209081410800000000000000
+      internalID: 1447917187853471292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: merchantTent_censer01_17
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 148
+        width: 47
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29dcf8e6802d214d0800000000000000
+      internalID: -3165236654431548014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: merchantTent_censer01_18
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 148
+        width: 47
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f9889ef9364b5810800000000000000
+      internalID: 1755073694689430006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: merchantTent_censer01_19
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 148
+        width: 47
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6e05119a78ff29b0800000000000000
+      internalID: -5102586647483707797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: merchantTent_censer01_20
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 148
+        width: 47
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b83072443d18da460800000000000000
+      internalID: 7254597319145227147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: merchantTent_censer01_21
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 8
+        width: 47
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fb6ec62fb8aaf750800000000000000
+      internalID: 6339564964420676595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: merchantTent_censer01_22
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 8
+        width: 47
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45b92a9d3ff702a70800000000000000
+      internalID: 8800174357187042132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: merchantTent_censer01_23
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 9
+        width: 47
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af719605526768f20800000000000000
+      internalID: 3424554469296773114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: merchantTent_censer01_24
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 9
+        width: 47
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce0dcd2501e4cbd70800000000000000
+      internalID: 9060202382379241708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: merchantTent_censer01_25
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 10
+        width: 47
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 779b6cc5fabbd0050800000000000000
+      internalID: 5768473059581671799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      merchantTent_censer01_0: 4250758605368428081
+      merchantTent_censer01_1: 2984976009517806779
+      merchantTent_censer01_10: 8610450795572389401
+      merchantTent_censer01_11: 8551194724564080165
+      merchantTent_censer01_12: -409310794045358451
+      merchantTent_censer01_13: 7872502715582588664
+      merchantTent_censer01_14: -1975454708857797281
+      merchantTent_censer01_15: -5901165018030939239
+      merchantTent_censer01_16: 1447917187853471292
+      merchantTent_censer01_17: -3165236654431548014
+      merchantTent_censer01_18: 1755073694689430006
+      merchantTent_censer01_19: -5102586647483707797
+      merchantTent_censer01_2: -6466672679748983144
+      merchantTent_censer01_20: 7254597319145227147
+      merchantTent_censer01_21: 6339564964420676595
+      merchantTent_censer01_22: 8800174357187042132
+      merchantTent_censer01_23: 3424554469296773114
+      merchantTent_censer01_24: 9060202382379241708
+      merchantTent_censer01_25: 5768473059581671799
+      merchantTent_censer01_3: 6826778301102149912
+      merchantTent_censer01_4: 4019093657581488393
+      merchantTent_censer01_5: 8656594842214596632
+      merchantTent_censer01_6: 5167065931712168790
+      merchantTent_censer01_7: 4558882813442139811
+      merchantTent_censer01_8: 545052725075480527
+      merchantTent_censer01_9: -7565473630670846715
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

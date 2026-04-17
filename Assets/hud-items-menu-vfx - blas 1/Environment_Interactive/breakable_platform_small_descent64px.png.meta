@@ -1,0 +1,2951 @@
+fileFormatVersion: 2
+guid: b1ddbae0ea2249f42be27c196fc91d6f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8556140235059458893
+    second: breakable_platform_small_descent64px_0
+  - first:
+      213: 7647761608406021923
+    second: breakable_platform_small_descent64px_1
+  - first:
+      213: -7367920259373692363
+    second: breakable_platform_small_descent64px_2
+  - first:
+      213: -5178809998170806431
+    second: breakable_platform_small_descent64px_3
+  - first:
+      213: 4405766576352924910
+    second: breakable_platform_small_descent64px_4
+  - first:
+      213: -3397960309302783882
+    second: breakable_platform_small_descent64px_5
+  - first:
+      213: 3608051243683652600
+    second: breakable_platform_small_descent64px_6
+  - first:
+      213: 27312744796099323
+    second: breakable_platform_small_descent64px_7
+  - first:
+      213: -2798985194056226187
+    second: breakable_platform_small_descent64px_8
+  - first:
+      213: 3871896559635955741
+    second: breakable_platform_small_descent64px_9
+  - first:
+      213: -5524082856851820895
+    second: breakable_platform_small_descent64px_10
+  - first:
+      213: -3731123358833984847
+    second: breakable_platform_small_descent64px_11
+  - first:
+      213: 7118055511529064094
+    second: breakable_platform_small_descent64px_12
+  - first:
+      213: -2578029738110824370
+    second: breakable_platform_small_descent64px_13
+  - first:
+      213: 7757386207902133535
+    second: breakable_platform_small_descent64px_14
+  - first:
+      213: -5565648193436871710
+    second: breakable_platform_small_descent64px_15
+  - first:
+      213: -3920955777490768526
+    second: breakable_platform_small_descent64px_16
+  - first:
+      213: -1375231499766116869
+    second: breakable_platform_small_descent64px_17
+  - first:
+      213: 1161106406772525994
+    second: breakable_platform_small_descent64px_18
+  - first:
+      213: 7988373265011990479
+    second: breakable_platform_small_descent64px_19
+  - first:
+      213: 2317460548403464919
+    second: breakable_platform_small_descent64px_20
+  - first:
+      213: -2964483883499300017
+    second: breakable_platform_small_descent64px_21
+  - first:
+      213: -5203371718868827894
+    second: breakable_platform_small_descent64px_22
+  - first:
+      213: -2147141622222965711
+    second: breakable_platform_small_descent64px_23
+  - first:
+      213: 6132667153667916187
+    second: breakable_platform_small_descent64px_24
+  - first:
+      213: 5889564668725228796
+    second: breakable_platform_small_descent64px_25
+  - first:
+      213: 9043495544829621481
+    second: breakable_platform_small_descent64px_26
+  - first:
+      213: -8840057693594694211
+    second: breakable_platform_small_descent64px_27
+  - first:
+      213: 8089553242757939197
+    second: breakable_platform_small_descent64px_28
+  - first:
+      213: 2365069116894885589
+    second: breakable_platform_small_descent64px_29
+  - first:
+      213: -6944740479013348852
+    second: breakable_platform_small_descent64px_30
+  - first:
+      213: 4306137890217458898
+    second: breakable_platform_small_descent64px_31
+  - first:
+      213: -4583559027283586464
+    second: breakable_platform_small_descent64px_32
+  - first:
+      213: -5636327298310963901
+    second: breakable_platform_small_descent64px_33
+  - first:
+      213: 8769662437362737709
+    second: breakable_platform_small_descent64px_34
+  - first:
+      213: -5110956192741549526
+    second: breakable_platform_small_descent64px_35
+  - first:
+      213: -4390945242665686546
+    second: breakable_platform_small_descent64px_36
+  - first:
+      213: 5846747960228806889
+    second: breakable_platform_small_descent64px_37
+  - first:
+      213: -4528499009969576726
+    second: breakable_platform_small_descent64px_38
+  - first:
+      213: 1285590687464032233
+    second: breakable_platform_small_descent64px_39
+  - first:
+      213: -2878480217246043494
+    second: breakable_platform_small_descent64px_40
+  - first:
+      213: -9115441401597732715
+    second: breakable_platform_small_descent64px_41
+  - first:
+      213: -3222057559171479021
+    second: breakable_platform_small_descent64px_42
+  - first:
+      213: 2531683240101774299
+    second: breakable_platform_small_descent64px_43
+  - first:
+      213: -2855098041334976707
+    second: breakable_platform_small_descent64px_44
+  - first:
+      213: -5186598967268936791
+    second: breakable_platform_small_descent64px_45
+  - first:
+      213: 5496812831422827086
+    second: breakable_platform_small_descent64px_46
+  - first:
+      213: 3221579401728696767
+    second: breakable_platform_small_descent64px_47
+  - first:
+      213: -3909832336564977488
+    second: breakable_platform_small_descent64px_48
+  - first:
+      213: 7426080202701043734
+    second: breakable_platform_small_descent64px_49
+  - first:
+      213: 4057890742404246
+    second: breakable_platform_small_descent64px_50
+  - first:
+      213: -2846923995548241617
+    second: breakable_platform_small_descent64px_51
+  - first:
+      213: 2439494971090403545
+    second: breakable_platform_small_descent64px_52
+  - first:
+      213: -3346942931196021389
+    second: breakable_platform_small_descent64px_53
+  - first:
+      213: -315760602971351285
+    second: breakable_platform_small_descent64px_54
+  - first:
+      213: -8603057967346449849
+    second: breakable_platform_small_descent64px_55
+  - first:
+      213: -6073689068377843518
+    second: breakable_platform_small_descent64px_56
+  - first:
+      213: 1616158436577224737
+    second: breakable_platform_small_descent64px_57
+  - first:
+      213: -7779962340946020929
+    second: breakable_platform_small_descent64px_58
+  - first:
+      213: 5690538640499438308
+    second: breakable_platform_small_descent64px_59
+  - first:
+      213: 6552687543131704492
+    second: breakable_platform_small_descent64px_60
+  - first:
+      213: -346441381375110304
+    second: breakable_platform_small_descent64px_61
+  - first:
+      213: 7945530305922408581
+    second: breakable_platform_small_descent64px_62
+  - first:
+      213: -442883172642060841
+    second: breakable_platform_small_descent64px_63
+  - first:
+      213: -9073768758627290966
+    second: breakable_platform_small_descent64px_64
+  - first:
+      213: -8392734297387400817
+    second: breakable_platform_small_descent64px_65
+  - first:
+      213: 6953207899408248895
+    second: breakable_platform_small_descent64px_66
+  - first:
+      213: -6155628871671976447
+    second: breakable_platform_small_descent64px_67
+  - first:
+      213: 3123144587124126020
+    second: breakable_platform_small_descent64px_68
+  - first:
+      213: -8133640222360404184
+    second: breakable_platform_small_descent64px_69
+  - first:
+      213: 8161078416866930708
+    second: breakable_platform_small_descent64px_70
+  - first:
+      213: -3420583360650689405
+    second: breakable_platform_small_descent64px_71
+  - first:
+      213: -1649227853823453578
+    second: breakable_platform_small_descent64px_72
+  - first:
+      213: -994117449705484174
+    second: breakable_platform_small_descent64px_73
+  - first:
+      213: 4766613197082070838
+    second: breakable_platform_small_descent64px_74
+  - first:
+      213: 4243967848583264119
+    second: breakable_platform_small_descent64px_75
+  - first:
+      213: 7821915249895817938
+    second: breakable_platform_small_descent64px_76
+  - first:
+      213: 84084133725152253
+    second: breakable_platform_small_descent64px_77
+  - first:
+      213: 340580024293575299
+    second: breakable_platform_small_descent64px_78
+  - first:
+      213: 4399478507186773825
+    second: breakable_platform_small_descent64px_79
+  - first:
+      213: -9123800712855387516
+    second: breakable_platform_small_descent64px_80
+  - first:
+      213: 6823631305568791387
+    second: breakable_platform_small_descent64px_81
+  - first:
+      213: -6024008603538186543
+    second: breakable_platform_small_descent64px_82
+  - first:
+      213: 4225935721066321390
+    second: breakable_platform_small_descent64px_83
+  - first:
+      213: 7078939728766595217
+    second: breakable_platform_small_descent64px_84
+  - first:
+      213: -8520579355128093928
+    second: breakable_platform_small_descent64px_85
+  - first:
+      213: 2707733456479351883
+    second: breakable_platform_small_descent64px_86
+  - first:
+      213: -1482467340397586204
+    second: breakable_platform_small_descent64px_87
+  - first:
+      213: -6699526421210760851
+    second: breakable_platform_small_descent64px_88
+  - first:
+      213: 5942507986602615482
+    second: breakable_platform_small_descent64px_89
+  - first:
+      213: 1281625326206803487
+    second: breakable_platform_small_descent64px_90
+  - first:
+      213: -6262344981032431565
+    second: breakable_platform_small_descent64px_91
+  - first:
+      213: 71743434148756884
+    second: breakable_platform_small_descent64px_92
+  - first:
+      213: 1751230603069920598
+    second: breakable_platform_small_descent64px_93
+  - first:
+      213: -7531884357863963203
+    second: breakable_platform_small_descent64px_94
+  - first:
+      213: 4795967935343874163
+    second: breakable_platform_small_descent64px_95
+  - first:
+      213: 6776155887473322558
+    second: breakable_platform_small_descent64px_96
+  - first:
+      213: -3922003066999156114
+    second: breakable_platform_small_descent64px_97
+  - first:
+      213: -2268073958284776685
+    second: breakable_platform_small_descent64px_98
+  - first:
+      213: 6303378876091291720
+    second: breakable_platform_small_descent64px_99
+  - first:
+      213: -3445401157268932478
+    second: breakable_platform_small_descent64px_100
+  - first:
+      213: 6939427331251913676
+    second: breakable_platform_small_descent64px_101
+  - first:
+      213: -6379816180092977949
+    second: breakable_platform_small_descent64px_102
+  - first:
+      213: -610906387614866408
+    second: breakable_platform_small_descent64px_103
+  - first:
+      213: -2146261236192739649
+    second: breakable_platform_small_descent64px_104
+  - first:
+      213: 2108499184486583943
+    second: breakable_platform_small_descent64px_105
+  - first:
+      213: 5275468376307568926
+    second: breakable_platform_small_descent64px_106
+  - first:
+      213: 5584355321820784669
+    second: breakable_platform_small_descent64px_107
+  - first:
+      213: 3219822396914074333
+    second: breakable_platform_small_descent64px_108
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: breakable_platform_small_descent64px_0
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 709
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bc8ad0e9cb724980800000000000000
+      internalID: -8556140235059458893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent64px_1
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 704
+        width: 66
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32739ebc9ae422a60800000000000000
+      internalID: 7647761608406021923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent64px_2
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 703
+        width: 66
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53a80ae9f83efb990800000000000000
+      internalID: -7367920259373692363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent64px_3
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 701
+        width: 66
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 167a9c3cebb2128b0800000000000000
+      internalID: -5178809998170806431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent64px_4
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 699
+        width: 66
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee41ec2cb5d642d30800000000000000
+      internalID: 4405766576352924910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent64px_5
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 695
+        width: 66
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67091231a1508d0d0800000000000000
+      internalID: -3397960309302783882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent64px_6
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 691
+        width: 66
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f3ab276d7f521230800000000000000
+      internalID: 3608051243683652600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent64px_7
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 557
+        width: 66
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf29963fbc8016000800000000000000
+      internalID: 27312744796099323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent64px_8
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 551
+        width: 66
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57a63b0bbc10829d0800000000000000
+      internalID: -2798985194056226187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent64px_9
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 547
+        width: 66
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d108824286dbbb530800000000000000
+      internalID: 3871896559635955741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent64px_10
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 555
+        width: 66
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aea587d8e38653b0800000000000000
+      internalID: -5524082856851820895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent64px_11
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 551
+        width: 66
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bab98fc213683cc0800000000000000
+      internalID: -3731123358833984847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent64px_12
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 548
+        width: 66
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e96833056c968c260800000000000000
+      internalID: 7118055511529064094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent64px_13
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 581
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e40d287bc9ff83cd0800000000000000
+      internalID: -2578029738110824370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent64px_14
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 445
+        width: 72
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1d658bd7a5c7ab60800000000000000
+      internalID: 7757386207902133535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent64px_15
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 442
+        width: 78
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e39665c478d2c2b0800000000000000
+      internalID: -5565648193436871710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent64px_16
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 439
+        width: 83
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27da5a69e77f599c0800000000000000
+      internalID: -3920955777490768526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent64px_17
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 433
+        width: 89
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfd438cbc323aece0800000000000000
+      internalID: -1375231499766116869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent64px_18
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 427
+        width: 60
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aab4b1a00241d1010800000000000000
+      internalID: 1161106406772525994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent64px_19
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 431
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcf544a09276cde60800000000000000
+      internalID: 7988373265011990479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent64px_20
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 446
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7da02902716492020800000000000000
+      internalID: 2317460548403464919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent64px_21
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 464
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4b57ad4d990cd6d0800000000000000
+      internalID: -2964483883499300017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent64px_22
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 456
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0182868df8e9c7b0800000000000000
+      internalID: -5203371718868827894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent64px_23
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 451
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 134b1f41212d332e0800000000000000
+      internalID: -2147141622222965711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent64px_24
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 430
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b910514b84c9b1550800000000000000
+      internalID: 6132667153667916187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent64px_25
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 462
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf4fe09acdfebb150800000000000000
+      internalID: 5889564668725228796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent64px_26
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 452
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e4b5659843f08d70800000000000000
+      internalID: 9043495544829621481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent64px_27
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 447
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbd44534d5ec15580800000000000000
+      internalID: -8840057693594694211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent64px_28
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 451
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dff323260ddd34070800000000000000
+      internalID: 8089553242757939197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent64px_29
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 453
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d634c5c4d962d020800000000000000
+      internalID: 2365069116894885589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent64px_30
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 431
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0a122344535f9f90800000000000000
+      internalID: -6944740479013348852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent64px_31
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 443
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dcf244a89972cb30800000000000000
+      internalID: 4306137890217458898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent64px_32
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 447
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0621ab3795de360c0800000000000000
+      internalID: -4583559027283586464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent64px_33
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 450
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34d765a4f2eb7c1b0800000000000000
+      internalID: -5636327298310963901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent64px_34
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 444
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d22a71be58914b970800000000000000
+      internalID: 8769662437362737709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent64px_35
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 439
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2a9e05fb6c3219b0800000000000000
+      internalID: -5110956192741549526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent64px_36
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 426
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee968b6e09a3013c0800000000000000
+      internalID: -4390945242665686546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent64px_37
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 422
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e08dacda42d32150800000000000000
+      internalID: 5846747960228806889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent64px_38
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 441
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae42e09b42a8721c0800000000000000
+      internalID: -4528499009969576726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent64px_39
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 418
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e708dc3be557d110800000000000000
+      internalID: 1285590687464032233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent64px_40
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 437
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a927f064e759d08d0800000000000000
+      internalID: -2878480217246043494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent64px_41
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 442
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 598d0e647527f7180800000000000000
+      internalID: -9115441401597732715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent64px_42
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 411
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31ac8bb98b3f843d0800000000000000
+      internalID: -3222057559171479021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent64px_43
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 440
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd383125e78522320800000000000000
+      internalID: 2531683240101774299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent64px_44
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 431
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3fa0575577a068d0800000000000000
+      internalID: -2855098041334976707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent64px_45
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 414
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a3f68318bf7508b0800000000000000
+      internalID: -5186598967268936791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent64px_46
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 409
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4a44c5952a984c40800000000000000
+      internalID: 5496812831422827086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent64px_47
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 420
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb121cfa56955bc20800000000000000
+      internalID: 3221579401728696767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent64px_48
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 366
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b085bf743c7db9c0800000000000000
+      internalID: -3909832336564977488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent64px_49
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 359
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6187e8b699cbe0760800000000000000
+      internalID: 7426080202701043734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent64px_50
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 360
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6940d3051aa6e0000800000000000000
+      internalID: 4057890742404246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent64px_51
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 356
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f21bfcea5b1bd78d0800000000000000
+      internalID: -2846923995548241617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent64px_52
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 362
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d0023f40c3dad120800000000000000
+      internalID: 2439494971090403545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent64px_53
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 353
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3757e8e03254d81d0800000000000000
+      internalID: -3346942931196021389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent64px_54
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 356
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0754d197613e9bf0800000000000000
+      internalID: -315760602971351285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent64px_55
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 353
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74288321c5ccb9880800000000000000
+      internalID: -8603057967346449849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent64px_56
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 356
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c85a2bd8fbe5bba0800000000000000
+      internalID: -6073689068377843518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent64px_57
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 346
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 128afe8098fbd6610800000000000000
+      internalID: 1616158436577224737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent64px_58
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 350
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb5fefd8875080490800000000000000
+      internalID: -7779962340946020929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent64px_59
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 348
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e27a976ebad8fe40800000000000000
+      internalID: 5690538640499438308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent64px_60
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 330
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cac0e745a92dfea50800000000000000
+      internalID: 6552687543131704492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent64px_61
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 330
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06314af2661313bf0800000000000000
+      internalID: -346441381375110304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent64px_62
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 330
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5802b9c47b1344e60800000000000000
+      internalID: 7945530305922408581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent64px_63
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 319
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d50ca9d9109ad9f0800000000000000
+      internalID: -442883172642060841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent64px_64
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 323
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa0bbff836f731280800000000000000
+      internalID: -9073768758627290966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent64px_65
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 318
+        width: 52
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f818cf58f94078b80800000000000000
+      internalID: -8392734297387400817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent64px_66
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 340
+        width: 39
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f303badaeb1ce7060800000000000000
+      internalID: 6953207899408248895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent64px_67
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 324
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10e6ad6b720d29aa0800000000000000
+      internalID: -6155628871671976447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent64px_68
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 300
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 441b7b17473a75b20800000000000000
+      internalID: 3123144587124126020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent64px_69
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 323
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82ff067cf418f1f80800000000000000
+      internalID: -8133640222360404184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent64px_70
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 314
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 410f575b499f14170800000000000000
+      internalID: 8161078416866930708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent64px_71
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 308
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 384cdc77e85a780d0800000000000000
+      internalID: -3420583360650689405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent64px_72
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 311
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6765c234104cc19e0800000000000000
+      internalID: -1649227853823453578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent64px_73
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 314
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2709941527f2432f0800000000000000
+      internalID: -994117449705484174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent64px_74
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 311
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63f04c9b279662240800000000000000
+      internalID: 4766613197082070838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent64px_75
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 312
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 777fbf4d54a95ea30800000000000000
+      internalID: 4243967848583264119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent64px_76
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 305
+        width: 47
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d2404d3a760d8c60800000000000000
+      internalID: 7821915249895817938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent64px_77
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 307
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df32fe9f21aba2100800000000000000
+      internalID: 84084133725152253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent64px_78
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 303
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38acc954abbf9b400800000000000000
+      internalID: 340580024293575299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent64px_79
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 285
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14f55d194661e0d30800000000000000
+      internalID: 4399478507186773825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent64px_80
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 295
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4828cc4779fb16180800000000000000
+      internalID: -9123800712855387516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent64px_81
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 303
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5ba9aee48862be50800000000000000
+      internalID: 6823631305568791387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent64px_82
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 296
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1de9536771c666ca0800000000000000
+      internalID: -6024008603538186543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent64px_83
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 299
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee5dac9f52a85aa30800000000000000
+      internalID: 4225935721066321390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent64px_84
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 295
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 190788f6d227d3260800000000000000
+      internalID: 7078939728766595217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent64px_85
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 291
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81320117832d0c980800000000000000
+      internalID: -8520579355128093928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent64px_86
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 294
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4474e38b3dc39520800000000000000
+      internalID: 2707733456479351883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent64px_87
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 304
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e8db70fec73d6be0800000000000000
+      internalID: -1482467340397586204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent64px_88
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 302
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d69736c27308603a0800000000000000
+      internalID: -6699526421210760851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent64px_89
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 297
+        width: 49
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab2ee507787087250800000000000000
+      internalID: 5942507986602615482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent64px_90
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 278
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1e53bf917f39c110800000000000000
+      internalID: 1281625326206803487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent64px_91
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 285
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3309c984b6ea719a0800000000000000
+      internalID: -6262344981032431565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent64px_92
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 285
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49d3763f542eef000800000000000000
+      internalID: 71743434148756884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent64px_93
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 284
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65596cf74fe9d4810800000000000000
+      internalID: 1751230603069920598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent64px_94
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 269
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db58238051f597790800000000000000
+      internalID: -7531884357863963203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent64px_95
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 284
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 370d5545d63be8240800000000000000
+      internalID: 4795967935343874163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent64px_96
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 260
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3ae487c0edb90e50800000000000000
+      internalID: 6776155887473322558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent64px_97
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 269
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e62d58f7dfe3299c0800000000000000
+      internalID: -3922003066999156114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent64px_98
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 263
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31b2f1070ce2680e0800000000000000
+      internalID: -2268073958284776685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent64px_99
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 192
+        width: 66
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8485f1ae0b91a7750800000000000000
+      internalID: 6303378876091291720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent64px_100
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 191
+        width: 66
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 288f348e6e97f20d0800000000000000
+      internalID: -3445401157268932478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent64px_101
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 189
+        width: 66
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc348ef146ccd4060800000000000000
+      internalID: 6939427331251913676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent64px_102
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 186
+        width: 66
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ecb4456cf65677a0800000000000000
+      internalID: -6379816180092977949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent64px_103
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 181
+        width: 67
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 814e23f80ef9587f0800000000000000
+      internalID: -610906387614866408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent64px_104
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 175
+        width: 67
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbe7a8de6c2f632e0800000000000000
+      internalID: -2146261236192739649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent64px_105
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 166
+        width: 67
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78e068446d4e24d10800000000000000
+      internalID: 2108499184486583943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent64px_106
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 27
+        width: 67
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e119e91a98a363940800000000000000
+      internalID: 5275468376307568926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent64px_107
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 18
+        width: 67
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d18a0b8f39d9f7d40800000000000000
+      internalID: 5584355321820784669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_descent64px_108
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 69
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd209ef196b1fac20800000000000000
+      internalID: 3219822396914074333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      breakable_platform_small_descent64px_0: -8556140235059458893
+      breakable_platform_small_descent64px_1: 7647761608406021923
+      breakable_platform_small_descent64px_10: -5524082856851820895
+      breakable_platform_small_descent64px_100: -3445401157268932478
+      breakable_platform_small_descent64px_101: 6939427331251913676
+      breakable_platform_small_descent64px_102: -6379816180092977949
+      breakable_platform_small_descent64px_103: -610906387614866408
+      breakable_platform_small_descent64px_104: -2146261236192739649
+      breakable_platform_small_descent64px_105: 2108499184486583943
+      breakable_platform_small_descent64px_106: 5275468376307568926
+      breakable_platform_small_descent64px_107: 5584355321820784669
+      breakable_platform_small_descent64px_108: 3219822396914074333
+      breakable_platform_small_descent64px_11: -3731123358833984847
+      breakable_platform_small_descent64px_12: 7118055511529064094
+      breakable_platform_small_descent64px_13: -2578029738110824370
+      breakable_platform_small_descent64px_14: 7757386207902133535
+      breakable_platform_small_descent64px_15: -5565648193436871710
+      breakable_platform_small_descent64px_16: -3920955777490768526
+      breakable_platform_small_descent64px_17: -1375231499766116869
+      breakable_platform_small_descent64px_18: 1161106406772525994
+      breakable_platform_small_descent64px_19: 7988373265011990479
+      breakable_platform_small_descent64px_2: -7367920259373692363
+      breakable_platform_small_descent64px_20: 2317460548403464919
+      breakable_platform_small_descent64px_21: -2964483883499300017
+      breakable_platform_small_descent64px_22: -5203371718868827894
+      breakable_platform_small_descent64px_23: -2147141622222965711
+      breakable_platform_small_descent64px_24: 6132667153667916187
+      breakable_platform_small_descent64px_25: 5889564668725228796
+      breakable_platform_small_descent64px_26: 9043495544829621481
+      breakable_platform_small_descent64px_27: -8840057693594694211
+      breakable_platform_small_descent64px_28: 8089553242757939197
+      breakable_platform_small_descent64px_29: 2365069116894885589
+      breakable_platform_small_descent64px_3: -5178809998170806431
+      breakable_platform_small_descent64px_30: -6944740479013348852
+      breakable_platform_small_descent64px_31: 4306137890217458898
+      breakable_platform_small_descent64px_32: -4583559027283586464
+      breakable_platform_small_descent64px_33: -5636327298310963901
+      breakable_platform_small_descent64px_34: 8769662437362737709
+      breakable_platform_small_descent64px_35: -5110956192741549526
+      breakable_platform_small_descent64px_36: -4390945242665686546
+      breakable_platform_small_descent64px_37: 5846747960228806889
+      breakable_platform_small_descent64px_38: -4528499009969576726
+      breakable_platform_small_descent64px_39: 1285590687464032233
+      breakable_platform_small_descent64px_4: 4405766576352924910
+      breakable_platform_small_descent64px_40: -2878480217246043494
+      breakable_platform_small_descent64px_41: -9115441401597732715
+      breakable_platform_small_descent64px_42: -3222057559171479021
+      breakable_platform_small_descent64px_43: 2531683240101774299
+      breakable_platform_small_descent64px_44: -2855098041334976707
+      breakable_platform_small_descent64px_45: -5186598967268936791
+      breakable_platform_small_descent64px_46: 5496812831422827086
+      breakable_platform_small_descent64px_47: 3221579401728696767
+      breakable_platform_small_descent64px_48: -3909832336564977488
+      breakable_platform_small_descent64px_49: 7426080202701043734
+      breakable_platform_small_descent64px_5: -3397960309302783882
+      breakable_platform_small_descent64px_50: 4057890742404246
+      breakable_platform_small_descent64px_51: -2846923995548241617
+      breakable_platform_small_descent64px_52: 2439494971090403545
+      breakable_platform_small_descent64px_53: -3346942931196021389
+      breakable_platform_small_descent64px_54: -315760602971351285
+      breakable_platform_small_descent64px_55: -8603057967346449849
+      breakable_platform_small_descent64px_56: -6073689068377843518
+      breakable_platform_small_descent64px_57: 1616158436577224737
+      breakable_platform_small_descent64px_58: -7779962340946020929
+      breakable_platform_small_descent64px_59: 5690538640499438308
+      breakable_platform_small_descent64px_6: 3608051243683652600
+      breakable_platform_small_descent64px_60: 6552687543131704492
+      breakable_platform_small_descent64px_61: -346441381375110304
+      breakable_platform_small_descent64px_62: 7945530305922408581
+      breakable_platform_small_descent64px_63: -442883172642060841
+      breakable_platform_small_descent64px_64: -9073768758627290966
+      breakable_platform_small_descent64px_65: -8392734297387400817
+      breakable_platform_small_descent64px_66: 6953207899408248895
+      breakable_platform_small_descent64px_67: -6155628871671976447
+      breakable_platform_small_descent64px_68: 3123144587124126020
+      breakable_platform_small_descent64px_69: -8133640222360404184
+      breakable_platform_small_descent64px_7: 27312744796099323
+      breakable_platform_small_descent64px_70: 8161078416866930708
+      breakable_platform_small_descent64px_71: -3420583360650689405
+      breakable_platform_small_descent64px_72: -1649227853823453578
+      breakable_platform_small_descent64px_73: -994117449705484174
+      breakable_platform_small_descent64px_74: 4766613197082070838
+      breakable_platform_small_descent64px_75: 4243967848583264119
+      breakable_platform_small_descent64px_76: 7821915249895817938
+      breakable_platform_small_descent64px_77: 84084133725152253
+      breakable_platform_small_descent64px_78: 340580024293575299
+      breakable_platform_small_descent64px_79: 4399478507186773825
+      breakable_platform_small_descent64px_8: -2798985194056226187
+      breakable_platform_small_descent64px_80: -9123800712855387516
+      breakable_platform_small_descent64px_81: 6823631305568791387
+      breakable_platform_small_descent64px_82: -6024008603538186543
+      breakable_platform_small_descent64px_83: 4225935721066321390
+      breakable_platform_small_descent64px_84: 7078939728766595217
+      breakable_platform_small_descent64px_85: -8520579355128093928
+      breakable_platform_small_descent64px_86: 2707733456479351883
+      breakable_platform_small_descent64px_87: -1482467340397586204
+      breakable_platform_small_descent64px_88: -6699526421210760851
+      breakable_platform_small_descent64px_89: 5942507986602615482
+      breakable_platform_small_descent64px_9: 3871896559635955741
+      breakable_platform_small_descent64px_90: 1281625326206803487
+      breakable_platform_small_descent64px_91: -6262344981032431565
+      breakable_platform_small_descent64px_92: 71743434148756884
+      breakable_platform_small_descent64px_93: 1751230603069920598
+      breakable_platform_small_descent64px_94: -7531884357863963203
+      breakable_platform_small_descent64px_95: 4795967935343874163
+      breakable_platform_small_descent64px_96: 6776155887473322558
+      breakable_platform_small_descent64px_97: -3922003066999156114
+      breakable_platform_small_descent64px_98: -2268073958284776685
+      breakable_platform_small_descent64px_99: 6303378876091291720
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,481 @@
+fileFormatVersion: 2
+guid: 34072b77ea7ee5f4d8acfaeab5bacdc1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7910806421397853706
+    second: BloodBaptismalFont_emptying_0
+  - first:
+      213: -5963443572552570983
+    second: BloodBaptismalFont_emptying_1
+  - first:
+      213: -8488874869763414708
+    second: BloodBaptismalFont_emptying_2
+  - first:
+      213: -816521660359578875
+    second: BloodBaptismalFont_emptying_3
+  - first:
+      213: 1275769562295306605
+    second: BloodBaptismalFont_emptying_4
+  - first:
+      213: 7876094374431498495
+    second: BloodBaptismalFont_emptying_5
+  - first:
+      213: -3339675689189296686
+    second: BloodBaptismalFont_emptying_6
+  - first:
+      213: -6699598136465866077
+    second: BloodBaptismalFont_emptying_7
+  - first:
+      213: -1082862632393460629
+    second: BloodBaptismalFont_emptying_8
+  - first:
+      213: 2107298421349339576
+    second: BloodBaptismalFont_emptying_9
+  - first:
+      213: -8743054432407560616
+    second: BloodBaptismalFont_emptying_10
+  - first:
+      213: -6203979202038022666
+    second: BloodBaptismalFont_emptying_11
+  - first:
+      213: -5791487522170642066
+    second: BloodBaptismalFont_emptying_12
+  - first:
+      213: 105591018292563203
+    second: BloodBaptismalFont_emptying_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BloodBaptismalFont_emptying_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 230
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a065c4ae684d8cd60800000000000000
+      internalID: 7910806421397853706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodBaptismalFont_emptying_1
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 230
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 997eaeb9aa79d3da0800000000000000
+      internalID: -5963443572552570983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodBaptismalFont_emptying_2
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 230
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c45e20d2845713a80800000000000000
+      internalID: -8488874869763414708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodBaptismalFont_emptying_3
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 230
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50bead240e12ba4f0800000000000000
+      internalID: -816521660359578875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodBaptismalFont_emptying_4
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 230
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d690ed758a174b110800000000000000
+      internalID: 1275769562295306605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodBaptismalFont_emptying_5
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 119
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff0217daa128d4d60800000000000000
+      internalID: 7876094374431498495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodBaptismalFont_emptying_6
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 119
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d53dd0b7a617a1d0800000000000000
+      internalID: -3339675689189296686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodBaptismalFont_emptying_7
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 118
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a2451aadfe3603a0800000000000000
+      internalID: -6699598136465866077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodBaptismalFont_emptying_8
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 117
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b64b4af4c26e8f0f0800000000000000
+      internalID: -1082862632393460629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodBaptismalFont_emptying_9
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 117
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b1d440dfb0ae3d10800000000000000
+      internalID: 2107298421349339576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodBaptismalFont_emptying_10
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 5
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85e5170015e6aa680800000000000000
+      internalID: -8743054432407560616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodBaptismalFont_emptying_11
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 4
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fdbc9c29c907e9a0800000000000000
+      internalID: -6203979202038022666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodBaptismalFont_emptying_12
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 8
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6169ef78c080afa0800000000000000
+      internalID: -5791487522170642066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodBaptismalFont_emptying_13
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 8
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30dccc0c872277100800000000000000
+      internalID: 105591018292563203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BloodBaptismalFont_emptying_0: 7910806421397853706
+      BloodBaptismalFont_emptying_1: -5963443572552570983
+      BloodBaptismalFont_emptying_10: -8743054432407560616
+      BloodBaptismalFont_emptying_11: -6203979202038022666
+      BloodBaptismalFont_emptying_12: -5791487522170642066
+      BloodBaptismalFont_emptying_13: 105591018292563203
+      BloodBaptismalFont_emptying_2: -8488874869763414708
+      BloodBaptismalFont_emptying_3: -816521660359578875
+      BloodBaptismalFont_emptying_4: 1275769562295306605
+      BloodBaptismalFont_emptying_5: 7876094374431498495
+      BloodBaptismalFont_emptying_6: -3339675689189296686
+      BloodBaptismalFont_emptying_7: -6699598136465866077
+      BloodBaptismalFont_emptying_8: -1082862632393460629
+      BloodBaptismalFont_emptying_9: 2107298421349339576
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

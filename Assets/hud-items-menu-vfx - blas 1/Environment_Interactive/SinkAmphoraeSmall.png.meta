@@ -1,0 +1,1027 @@
+fileFormatVersion: 2
+guid: 81f5483c6d5011f4695f7947a915bd67
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8607585996102777526
+    second: SinkAmphoraeSmall_0
+  - first:
+      213: 4786968307693330563
+    second: SinkAmphoraeSmall_1
+  - first:
+      213: 7798871909026994685
+    second: SinkAmphoraeSmall_2
+  - first:
+      213: 272207458387507784
+    second: SinkAmphoraeSmall_3
+  - first:
+      213: -6798188451617825834
+    second: SinkAmphoraeSmall_4
+  - first:
+      213: 1129097791786792386
+    second: SinkAmphoraeSmall_5
+  - first:
+      213: -6421066841188251680
+    second: SinkAmphoraeSmall_6
+  - first:
+      213: 5192943739093335001
+    second: SinkAmphoraeSmall_7
+  - first:
+      213: -5095096027781071416
+    second: SinkAmphoraeSmall_8
+  - first:
+      213: 531764573112744334
+    second: SinkAmphoraeSmall_9
+  - first:
+      213: 4868684053544694156
+    second: SinkAmphoraeSmall_10
+  - first:
+      213: -6228728818511356987
+    second: SinkAmphoraeSmall_11
+  - first:
+      213: 4242639076771116605
+    second: SinkAmphoraeSmall_12
+  - first:
+      213: -5526871191486109353
+    second: SinkAmphoraeSmall_13
+  - first:
+      213: -7297588450081340833
+    second: SinkAmphoraeSmall_14
+  - first:
+      213: -8641923788086188490
+    second: SinkAmphoraeSmall_15
+  - first:
+      213: 6301477325733802885
+    second: SinkAmphoraeSmall_16
+  - first:
+      213: 6234824989588356316
+    second: SinkAmphoraeSmall_17
+  - first:
+      213: 9125968628286710297
+    second: SinkAmphoraeSmall_18
+  - first:
+      213: -5754365367486113603
+    second: SinkAmphoraeSmall_19
+  - first:
+      213: -4005306432972396602
+    second: SinkAmphoraeSmall_20
+  - first:
+      213: 625072770085721631
+    second: SinkAmphoraeSmall_21
+  - first:
+      213: 3585865366076463806
+    second: SinkAmphoraeSmall_22
+  - first:
+      213: 8025108987655990951
+    second: SinkAmphoraeSmall_23
+  - first:
+      213: 4600765227169644642
+    second: SinkAmphoraeSmall_24
+  - first:
+      213: -2431700229585023075
+    second: SinkAmphoraeSmall_25
+  - first:
+      213: 6056232846271577843
+    second: SinkAmphoraeSmall_26
+  - first:
+      213: 3667169735534405926
+    second: SinkAmphoraeSmall_27
+  - first:
+      213: 7003466571053832353
+    second: SinkAmphoraeSmall_28
+  - first:
+      213: 4033038616065699375
+    second: SinkAmphoraeSmall_29
+  - first:
+      213: -161736303935626778
+    second: SinkAmphoraeSmall_30
+  - first:
+      213: 5470263290206310165
+    second: SinkAmphoraeSmall_31
+  - first:
+      213: 4197476135240709881
+    second: SinkAmphoraeSmall_32
+  - first:
+      213: 6549828224720738313
+    second: SinkAmphoraeSmall_33
+  - first:
+      213: 3057700107708204729
+    second: SinkAmphoraeSmall_34
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SinkAmphoraeSmall_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 251
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ba3557cbd9447770800000000000000
+      internalID: 8607585996102777526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SinkAmphoraeSmall_1
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 276
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3802d1b305abe6240800000000000000
+      internalID: 4786968307693330563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SinkAmphoraeSmall_2
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 251
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df9935a5ea82b3c60800000000000000
+      internalID: 7798871909026994685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SinkAmphoraeSmall_3
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 280
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84a366ebd3317c300800000000000000
+      internalID: 272207458387507784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SinkAmphoraeSmall_4
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 270
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6db18212f9bf7a1a0800000000000000
+      internalID: -6798188451617825834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SinkAmphoraeSmall_5
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 281
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c5312c957c5baf00800000000000000
+      internalID: 1129097791786792386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SinkAmphoraeSmall_6
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 271
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e74feb6ab9c3e6a0800000000000000
+      internalID: -6421066841188251680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SinkAmphoraeSmall_7
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 254
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9db3f3b31da011840800000000000000
+      internalID: 5192943739093335001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SinkAmphoraeSmall_8
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 251
+        width: 39
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cdfa9f58259a49b0800000000000000
+      internalID: -5095096027781071416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SinkAmphoraeSmall_9
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 251
+        width: 39
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e89b584df05316700800000000000000
+      internalID: 531764573112744334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SinkAmphoraeSmall_10
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 201
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c81f32fe95a019340800000000000000
+      internalID: 4868684053544694156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SinkAmphoraeSmall_11
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 191
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cb546a042c1f89a0800000000000000
+      internalID: -6228728818511356987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SinkAmphoraeSmall_12
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 200
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d36322903c1e0ea30800000000000000
+      internalID: 4242639076771116605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SinkAmphoraeSmall_13
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 187
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75961281feb9c43b0800000000000000
+      internalID: -5526871191486109353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SinkAmphoraeSmall_14
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 193
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5288eb08f1c9ba90800000000000000
+      internalID: -7297588450081340833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SinkAmphoraeSmall_15
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 183
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 636ef130a18b11880800000000000000
+      internalID: -8641923788086188490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SinkAmphoraeSmall_16
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 186
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 583ba88bd38537750800000000000000
+      internalID: 6301477325733802885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SinkAmphoraeSmall_17
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 171
+        width: 42
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdc74256b4c868650800000000000000
+      internalID: 6234824989588356316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SinkAmphoraeSmall_18
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 182
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9126360bd14f5ae70800000000000000
+      internalID: 9125968628286710297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SinkAmphoraeSmall_19
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 171
+        width: 40
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db81e2baf236420b0800000000000000
+      internalID: -5754365367486113603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SinkAmphoraeSmall_20
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 171
+        width: 39
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c7e71e250b4a68c0800000000000000
+      internalID: -4005306432972396602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SinkAmphoraeSmall_21
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 171
+        width: 41
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f169ab36f54bca800800000000000000
+      internalID: 625072770085721631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SinkAmphoraeSmall_22
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 105
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eba1d5d3d8d83c130800000000000000
+      internalID: 3585865366076463806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SinkAmphoraeSmall_23
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 91
+        width: 47
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aea70dfa1aee5f60800000000000000
+      internalID: 8025108987655990951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SinkAmphoraeSmall_24
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 102
+        width: 19
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2608a64299339df30800000000000000
+      internalID: 4600765227169644642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SinkAmphoraeSmall_25
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 13
+        width: 135
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9f495f568dd04ed0800000000000000
+      internalID: -2431700229585023075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SinkAmphoraeSmall_26
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 93
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fef117bfaf0c0450800000000000000
+      internalID: 6056232846271577843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SinkAmphoraeSmall_27
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 93
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6296799e17764e230800000000000000
+      internalID: 3667169735534405926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SinkAmphoraeSmall_28
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 93
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a89cfb8dbf413160800000000000000
+      internalID: 7003466571053832353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SinkAmphoraeSmall_29
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 118
+        width: 6
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2e670cd04b38f730800000000000000
+      internalID: 4033038616065699375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SinkAmphoraeSmall_30
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 102
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e1e1a040b561cdf0800000000000000
+      internalID: -161736303935626778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SinkAmphoraeSmall_31
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 93
+        width: 39
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51f4b90da774aeb40800000000000000
+      internalID: 5470263290206310165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SinkAmphoraeSmall_32
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 93
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f6b33a4e4e604a30800000000000000
+      internalID: 4197476135240709881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SinkAmphoraeSmall_33
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 93
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9089e42611aa5ea50800000000000000
+      internalID: 6549828224720738313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SinkAmphoraeSmall_34
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 13
+        width: 55
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b60f9d2c022f6a20800000000000000
+      internalID: 3057700107708204729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SinkAmphoraeSmall_0: 8607585996102777526
+      SinkAmphoraeSmall_1: 4786968307693330563
+      SinkAmphoraeSmall_10: 4868684053544694156
+      SinkAmphoraeSmall_11: -6228728818511356987
+      SinkAmphoraeSmall_12: 4242639076771116605
+      SinkAmphoraeSmall_13: -5526871191486109353
+      SinkAmphoraeSmall_14: -7297588450081340833
+      SinkAmphoraeSmall_15: -8641923788086188490
+      SinkAmphoraeSmall_16: 6301477325733802885
+      SinkAmphoraeSmall_17: 6234824989588356316
+      SinkAmphoraeSmall_18: 9125968628286710297
+      SinkAmphoraeSmall_19: -5754365367486113603
+      SinkAmphoraeSmall_2: 7798871909026994685
+      SinkAmphoraeSmall_20: -4005306432972396602
+      SinkAmphoraeSmall_21: 625072770085721631
+      SinkAmphoraeSmall_22: 3585865366076463806
+      SinkAmphoraeSmall_23: 8025108987655990951
+      SinkAmphoraeSmall_24: 4600765227169644642
+      SinkAmphoraeSmall_25: -2431700229585023075
+      SinkAmphoraeSmall_26: 6056232846271577843
+      SinkAmphoraeSmall_27: 3667169735534405926
+      SinkAmphoraeSmall_28: 7003466571053832353
+      SinkAmphoraeSmall_29: 4033038616065699375
+      SinkAmphoraeSmall_3: 272207458387507784
+      SinkAmphoraeSmall_30: -161736303935626778
+      SinkAmphoraeSmall_31: 5470263290206310165
+      SinkAmphoraeSmall_32: 4197476135240709881
+      SinkAmphoraeSmall_33: 6549828224720738313
+      SinkAmphoraeSmall_34: 3057700107708204729
+      SinkAmphoraeSmall_4: -6798188451617825834
+      SinkAmphoraeSmall_5: 1129097791786792386
+      SinkAmphoraeSmall_6: -6421066841188251680
+      SinkAmphoraeSmall_7: 5192943739093335001
+      SinkAmphoraeSmall_8: -5095096027781071416
+      SinkAmphoraeSmall_9: 531764573112744334
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

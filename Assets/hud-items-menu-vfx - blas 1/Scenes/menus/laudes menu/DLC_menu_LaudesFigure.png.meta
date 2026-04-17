@@ -1,0 +1,377 @@
+fileFormatVersion: 2
+guid: 2af4dfd718724784d837f05ac3cfc840
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5459201872023442717
+    second: DLC_menu_LaudesFigure_0
+  - first:
+      213: -7834318385812805724
+    second: DLC_menu_LaudesFigure_1
+  - first:
+      213: -69365810407935103
+    second: DLC_menu_LaudesFigure_2
+  - first:
+      213: 2528939349859664475
+    second: DLC_menu_LaudesFigure_3
+  - first:
+      213: 3615679748698948194
+    second: DLC_menu_LaudesFigure_4
+  - first:
+      213: -1819366310568534524
+    second: DLC_menu_LaudesFigure_5
+  - first:
+      213: -901369458393644068
+    second: DLC_menu_LaudesFigure_6
+  - first:
+      213: -4730947602226723160
+    second: DLC_menu_LaudesFigure_7
+  - first:
+      213: 4227873161880375164
+    second: DLC_menu_LaudesFigure_8
+  - first:
+      213: 7270339110210062938
+    second: DLC_menu_LaudesFigure_9
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DLC_menu_LaudesFigure_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 281
+        width: 88
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ea25ec42d40d34b0800000000000000
+      internalID: -5459201872023442717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DLC_menu_LaudesFigure_1
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 281
+        width: 88
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a7e054afe8e64390800000000000000
+      internalID: -7834318385812805724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DLC_menu_LaudesFigure_2
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 281
+        width: 88
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 183f317b920990ff0800000000000000
+      internalID: -69365810407935103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DLC_menu_LaudesFigure_3
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 281
+        width: 88
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5284e690f8981320800000000000000
+      internalID: 2528939349859664475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DLC_menu_LaudesFigure_4
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 141
+        width: 88
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26246c223997d2230800000000000000
+      internalID: 3615679748698948194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DLC_menu_LaudesFigure_5
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 141
+        width: 87
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40edf3edaff40c6e0800000000000000
+      internalID: -1819366310568534524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DLC_menu_LaudesFigure_6
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 141
+        width: 86
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd38f05d041bd73f0800000000000000
+      internalID: -901369458393644068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DLC_menu_LaudesFigure_7
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 141
+        width: 87
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a64a4ea83c485eb0800000000000000
+      internalID: -4730947602226723160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DLC_menu_LaudesFigure_8
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1
+        width: 87
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7f89419d3c6caa30800000000000000
+      internalID: 4227873161880375164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DLC_menu_LaudesFigure_9
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1
+        width: 88
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5a43bc96ee65e460800000000000000
+      internalID: 7270339110210062938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      DLC_menu_LaudesFigure_0: -5459201872023442717
+      DLC_menu_LaudesFigure_1: -7834318385812805724
+      DLC_menu_LaudesFigure_2: -69365810407935103
+      DLC_menu_LaudesFigure_3: 2528939349859664475
+      DLC_menu_LaudesFigure_4: 3615679748698948194
+      DLC_menu_LaudesFigure_5: -1819366310568534524
+      DLC_menu_LaudesFigure_6: -901369458393644068
+      DLC_menu_LaudesFigure_7: -4730947602226723160
+      DLC_menu_LaudesFigure_8: 4227873161880375164
+      DLC_menu_LaudesFigure_9: 7270339110210062938
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

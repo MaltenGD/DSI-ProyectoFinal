@@ -1,0 +1,429 @@
+fileFormatVersion: 2
+guid: 0c650181b6dbeac45b038380501cce64
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4064912087709596069
+    second: shield-pieces-spritesheet_0
+  - first:
+      213: -4330354698984649006
+    second: shield-pieces-spritesheet_1
+  - first:
+      213: 5351214562576640651
+    second: shield-pieces-spritesheet_2
+  - first:
+      213: -1648572874193150303
+    second: shield-pieces-spritesheet_3
+  - first:
+      213: 2177327031447665195
+    second: shield-pieces-spritesheet_4
+  - first:
+      213: 8846541023635387545
+    second: shield-pieces-spritesheet_5
+  - first:
+      213: 280309033058916195
+    second: shield-pieces-spritesheet_6
+  - first:
+      213: -4814202300636815922
+    second: shield-pieces-spritesheet_7
+  - first:
+      213: -2176472726098005909
+    second: shield-pieces-spritesheet_8
+  - first:
+      213: 3192674249691719329
+    second: shield-pieces-spritesheet_9
+  - first:
+      213: -1677375024026915847
+    second: shield-pieces-spritesheet_10
+  - first:
+      213: 20819684345572594
+    second: shield-pieces-spritesheet_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: shield-pieces-spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 183
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a93f17c108796830800000000000000
+      internalID: 4064912087709596069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield-pieces-spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 199
+        width: 46
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2de839f285d77e3c0800000000000000
+      internalID: -4330354698984649006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield-pieces-spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 204
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8a274fea45534a40800000000000000
+      internalID: 5351214562576640651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield-pieces-spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 194
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ae5f5794b71f19e0800000000000000
+      internalID: -1648572874193150303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield-pieces-spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 197
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2a3b4d266b673e10800000000000000
+      internalID: 2177327031447665195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield-pieces-spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 169
+        width: 50
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99435b4a03a35ca70800000000000000
+      internalID: 8846541023635387545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield-pieces-spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 178
+        width: 43
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3675fc6949bd3e300800000000000000
+      internalID: 280309033058916195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield-pieces-spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 136
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecd9ca9a384803db0800000000000000
+      internalID: -4814202300636815922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield-pieces-spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 76
+        width: 65
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b603a99469d9bc1e0800000000000000
+      internalID: -2176472726098005909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield-pieces-spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 112
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a669688058ae4c20800000000000000
+      internalID: 3192674249691719329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield-pieces-spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 99
+        width: 45
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fb63c18d44c8b8e0800000000000000
+      internalID: -1677375024026915847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield-pieces-spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 70
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fce0c18467f94000800000000000000
+      internalID: 20819684345572594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      shield-pieces-spritesheet_0: 4064912087709596069
+      shield-pieces-spritesheet_1: -4330354698984649006
+      shield-pieces-spritesheet_10: -1677375024026915847
+      shield-pieces-spritesheet_11: 20819684345572594
+      shield-pieces-spritesheet_2: 5351214562576640651
+      shield-pieces-spritesheet_3: -1648572874193150303
+      shield-pieces-spritesheet_4: 2177327031447665195
+      shield-pieces-spritesheet_5: 8846541023635387545
+      shield-pieces-spritesheet_6: 280309033058916195
+      shield-pieces-spritesheet_7: -4814202300636815922
+      shield-pieces-spritesheet_8: -2176472726098005909
+      shield-pieces-spritesheet_9: 3192674249691719329
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

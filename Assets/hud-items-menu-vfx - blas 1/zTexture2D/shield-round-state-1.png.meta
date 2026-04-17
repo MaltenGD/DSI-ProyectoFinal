@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 2f4582f97862e9542ba87050f231684e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8064625719198842071
+    second: shield-round-state-1_0
+  - first:
+      213: -1239781303141463331
+    second: shield-round-state-1_1
+  - first:
+      213: -1212182234597435748
+    second: shield-round-state-1_2
+  - first:
+      213: -4685020951494756130
+    second: shield-round-state-1_3
+  - first:
+      213: 347386275750017492
+    second: shield-round-state-1_4
+  - first:
+      213: -3272829567343857301
+    second: shield-round-state-1_5
+  - first:
+      213: 2497271404483695326
+    second: shield-round-state-1_6
+  - first:
+      213: 1551047229647165385
+    second: shield-round-state-1_7
+  - first:
+      213: -4975347071131311019
+    second: shield-round-state-1_8
+  - first:
+      213: -8085043593023864085
+    second: shield-round-state-1_9
+  - first:
+      213: -6893624616219704899
+    second: shield-round-state-1_10
+  - first:
+      213: -8612989361915841497
+    second: shield-round-state-1_11
+  - first:
+      213: 8517376313210141121
+    second: shield-round-state-1_12
+  - first:
+      213: 4047770943642730392
+    second: shield-round-state-1_13
+  - first:
+      213: -7959047187003557015
+    second: shield-round-state-1_14
+  - first:
+      213: -37104701726943752
+    second: shield-round-state-1_15
+  - first:
+      213: -6929361752634011842
+    second: shield-round-state-1_16
+  - first:
+      213: -8431859638122310456
+    second: shield-round-state-1_17
+  - first:
+      213: 2274252806758639991
+    second: shield-round-state-1_18
+  - first:
+      213: 8459205212194751145
+    second: shield-round-state-1_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: shield-round-state-1_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 118
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9238ca8f2a1b41090800000000000000
+      internalID: -8064625719198842071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield-round-state-1_1
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 158
+        width: 64
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dda051339796bcee0800000000000000
+      internalID: -1239781303141463331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield-round-state-1_2
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 112
+        width: 81
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c96d7c71ea67d2fe0800000000000000
+      internalID: -1212182234597435748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield-round-state-1_3
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 175
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed874e454467bfeb0800000000000000
+      internalID: -4685020951494756130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield-round-state-1_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 94
+        width: 60
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d9fced2af922d400800000000000000
+      internalID: 347386275750017492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield-round-state-1_5
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 113
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b61f21449d29492d0800000000000000
+      internalID: -3272829567343857301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield-round-state-1_6
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 80
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed2ddfb7c1718a220800000000000000
+      internalID: 2497271404483695326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield-round-state-1_7
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 80
+        width: 82
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c719f0dc3d668510800000000000000
+      internalID: 1551047229647165385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield-round-state-1_8
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 118
+        width: 19
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55420f6033404fab0800000000000000
+      internalID: -4975347071131311019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield-round-state-1_9
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 82
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be2c34440b72ccf80800000000000000
+      internalID: -8085043593023864085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield-round-state-1_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 41
+        width: 51
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db1065f7fece450a0800000000000000
+      internalID: -6893624616219704899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield-round-state-1_11
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 21
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 724b9c41fc3887880800000000000000
+      internalID: -8612989361915841497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield-round-state-1_12
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 2
+        width: 50
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c9773f31acc33670800000000000000
+      internalID: 8517376313210141121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield-round-state-1_13
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 45
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89ff8fb2a329c2830800000000000000
+      internalID: 4047770943642730392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield-round-state-1_14
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 0
+        width: 36
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96bb41490c8cb8190800000000000000
+      internalID: -7959047187003557015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield-round-state-1_15
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 27
+        width: 49
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f5911a687d2c7ff0800000000000000
+      internalID: -37104701726943752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield-round-state-1_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 14
+        width: 62
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3f42160336f5df90800000000000000
+      internalID: -6929361752634011842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield-round-state-1_17
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 0
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c414c145540cfa80800000000000000
+      internalID: -8431859638122310456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield-round-state-1_18
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 0
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 779a844d0e4cf8f10800000000000000
+      internalID: 2274252806758639991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield-round-state-1_19
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 5
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a2400b5252256570800000000000000
+      internalID: 8459205212194751145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      shield-round-state-1_0: -8064625719198842071
+      shield-round-state-1_1: -1239781303141463331
+      shield-round-state-1_10: -6893624616219704899
+      shield-round-state-1_11: -8612989361915841497
+      shield-round-state-1_12: 8517376313210141121
+      shield-round-state-1_13: 4047770943642730392
+      shield-round-state-1_14: -7959047187003557015
+      shield-round-state-1_15: -37104701726943752
+      shield-round-state-1_16: -6929361752634011842
+      shield-round-state-1_17: -8431859638122310456
+      shield-round-state-1_18: 2274252806758639991
+      shield-round-state-1_19: 8459205212194751145
+      shield-round-state-1_2: -1212182234597435748
+      shield-round-state-1_3: -4685020951494756130
+      shield-round-state-1_4: 347386275750017492
+      shield-round-state-1_5: -3272829567343857301
+      shield-round-state-1_6: 2497271404483695326
+      shield-round-state-1_7: 1551047229647165385
+      shield-round-state-1_8: -4975347071131311019
+      shield-round-state-1_9: -8085043593023864085
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

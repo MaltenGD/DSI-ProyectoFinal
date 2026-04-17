@@ -1,0 +1,7241 @@
+fileFormatVersion: 2
+guid: 075c5d4bc7926cc44b00b6a82c07f26c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8584548431285073667
+    second: enemySpawEffect_0
+  - first:
+      213: 2460829205352558336
+    second: enemySpawEffect_1
+  - first:
+      213: 8656963111841695617
+    second: enemySpawEffect_2
+  - first:
+      213: 6001273299177799068
+    second: enemySpawEffect_3
+  - first:
+      213: 5245531820661728611
+    second: enemySpawEffect_4
+  - first:
+      213: -6955114142375055416
+    second: enemySpawEffect_5
+  - first:
+      213: 8759274495873245080
+    second: enemySpawEffect_6
+  - first:
+      213: -775390559186896592
+    second: enemySpawEffect_7
+  - first:
+      213: 6533418707968389703
+    second: enemySpawEffect_8
+  - first:
+      213: -7613211542007326980
+    second: enemySpawEffect_9
+  - first:
+      213: 1026511487292431526
+    second: enemySpawEffect_10
+  - first:
+      213: -4378763907688750299
+    second: enemySpawEffect_11
+  - first:
+      213: -114684072481421206
+    second: enemySpawEffect_12
+  - first:
+      213: -3607940069145716544
+    second: enemySpawEffect_13
+  - first:
+      213: 3019516331063494532
+    second: enemySpawEffect_14
+  - first:
+      213: 7321161820930416630
+    second: enemySpawEffect_15
+  - first:
+      213: 1333358008128720405
+    second: enemySpawEffect_16
+  - first:
+      213: 6929013944313936434
+    second: enemySpawEffect_17
+  - first:
+      213: 8445102182009915816
+    second: enemySpawEffect_18
+  - first:
+      213: -8449900822411696740
+    second: enemySpawEffect_19
+  - first:
+      213: -7773899381698971745
+    second: enemySpawEffect_20
+  - first:
+      213: 4688146763139948358
+    second: enemySpawEffect_21
+  - first:
+      213: 5678421897414018245
+    second: enemySpawEffect_22
+  - first:
+      213: -303094221753859961
+    second: enemySpawEffect_23
+  - first:
+      213: -511219058944329027
+    second: enemySpawEffect_24
+  - first:
+      213: 5015890780220109299
+    second: enemySpawEffect_25
+  - first:
+      213: -7146032678421203791
+    second: enemySpawEffect_26
+  - first:
+      213: 6690964909844893853
+    second: enemySpawEffect_27
+  - first:
+      213: -3674725930197099653
+    second: enemySpawEffect_28
+  - first:
+      213: -6947454987319950577
+    second: enemySpawEffect_29
+  - first:
+      213: 1618350057189841542
+    second: enemySpawEffect_30
+  - first:
+      213: 5740536759882388543
+    second: enemySpawEffect_31
+  - first:
+      213: 3171211737168148125
+    second: enemySpawEffect_32
+  - first:
+      213: 5951057726912945740
+    second: enemySpawEffect_33
+  - first:
+      213: 5331869547939503910
+    second: enemySpawEffect_34
+  - first:
+      213: 7666258429440837720
+    second: enemySpawEffect_35
+  - first:
+      213: 2781336259877899268
+    second: enemySpawEffect_36
+  - first:
+      213: -7024929494962980655
+    second: enemySpawEffect_37
+  - first:
+      213: -2504644349248240172
+    second: enemySpawEffect_38
+  - first:
+      213: 7081627480926752187
+    second: enemySpawEffect_39
+  - first:
+      213: -5257855885234255383
+    second: enemySpawEffect_40
+  - first:
+      213: -5955106948107263629
+    second: enemySpawEffect_41
+  - first:
+      213: 7242671969531968136
+    second: enemySpawEffect_42
+  - first:
+      213: -7967350135229832632
+    second: enemySpawEffect_43
+  - first:
+      213: 5900280736415786938
+    second: enemySpawEffect_44
+  - first:
+      213: -386453998848559867
+    second: enemySpawEffect_45
+  - first:
+      213: -6063084261989184180
+    second: enemySpawEffect_46
+  - first:
+      213: 1639606079647833542
+    second: enemySpawEffect_47
+  - first:
+      213: -4912608490307113629
+    second: enemySpawEffect_48
+  - first:
+      213: -2838102138425268250
+    second: enemySpawEffect_49
+  - first:
+      213: -3732150250001157367
+    second: enemySpawEffect_50
+  - first:
+      213: 372620126804339108
+    second: enemySpawEffect_51
+  - first:
+      213: 708882495492287748
+    second: enemySpawEffect_52
+  - first:
+      213: 3454901612071337591
+    second: enemySpawEffect_53
+  - first:
+      213: 6622867564414931048
+    second: enemySpawEffect_54
+  - first:
+      213: 4205355560858263483
+    second: enemySpawEffect_55
+  - first:
+      213: -881561995837214899
+    second: enemySpawEffect_56
+  - first:
+      213: 118713403057253529
+    second: enemySpawEffect_57
+  - first:
+      213: -186798051851511030
+    second: enemySpawEffect_58
+  - first:
+      213: 4416114254631544161
+    second: enemySpawEffect_59
+  - first:
+      213: -2065242729721388166
+    second: enemySpawEffect_60
+  - first:
+      213: 2362930355703142767
+    second: enemySpawEffect_61
+  - first:
+      213: -4178406879145801056
+    second: enemySpawEffect_62
+  - first:
+      213: 8809456814167129821
+    second: enemySpawEffect_63
+  - first:
+      213: -3729505493850574914
+    second: enemySpawEffect_64
+  - first:
+      213: -2348422867240060793
+    second: enemySpawEffect_65
+  - first:
+      213: -5095061702177822318
+    second: enemySpawEffect_66
+  - first:
+      213: 4368026040608796549
+    second: enemySpawEffect_67
+  - first:
+      213: -1980349597055615041
+    second: enemySpawEffect_68
+  - first:
+      213: -2270603724424058126
+    second: enemySpawEffect_69
+  - first:
+      213: -2892147150725803337
+    second: enemySpawEffect_70
+  - first:
+      213: -9153487307158363244
+    second: enemySpawEffect_71
+  - first:
+      213: -5337570064524194310
+    second: enemySpawEffect_72
+  - first:
+      213: 6232937230126380628
+    second: enemySpawEffect_73
+  - first:
+      213: 3363149553932130781
+    second: enemySpawEffect_74
+  - first:
+      213: -94498520468616594
+    second: enemySpawEffect_75
+  - first:
+      213: -2858165222716315616
+    second: enemySpawEffect_76
+  - first:
+      213: 7005687527836170219
+    second: enemySpawEffect_77
+  - first:
+      213: -2846645612378776350
+    second: enemySpawEffect_78
+  - first:
+      213: 689793443902126608
+    second: enemySpawEffect_79
+  - first:
+      213: 9008711597375307167
+    second: enemySpawEffect_80
+  - first:
+      213: -7607170970082081577
+    second: enemySpawEffect_81
+  - first:
+      213: 8382704320163514483
+    second: enemySpawEffect_82
+  - first:
+      213: -7958221362476655850
+    second: enemySpawEffect_83
+  - first:
+      213: 3002467434135820461
+    second: enemySpawEffect_84
+  - first:
+      213: -2456909019843946797
+    second: enemySpawEffect_85
+  - first:
+      213: -176538279670739639
+    second: enemySpawEffect_86
+  - first:
+      213: -4211103795592076020
+    second: enemySpawEffect_87
+  - first:
+      213: 3509528609729837746
+    second: enemySpawEffect_88
+  - first:
+      213: -3997136972907854025
+    second: enemySpawEffect_89
+  - first:
+      213: 6512030124661956569
+    second: enemySpawEffect_90
+  - first:
+      213: -3827246027459711906
+    second: enemySpawEffect_91
+  - first:
+      213: 1973503492397232703
+    second: enemySpawEffect_92
+  - first:
+      213: -5072142997561884437
+    second: enemySpawEffect_93
+  - first:
+      213: -8631057075477177177
+    second: enemySpawEffect_94
+  - first:
+      213: 7344000058912774385
+    second: enemySpawEffect_95
+  - first:
+      213: -3667043336029740985
+    second: enemySpawEffect_96
+  - first:
+      213: -6443696204792257403
+    second: enemySpawEffect_97
+  - first:
+      213: 2210807618913116745
+    second: enemySpawEffect_98
+  - first:
+      213: 2243657418989116103
+    second: enemySpawEffect_99
+  - first:
+      213: -2083368458584816582
+    second: enemySpawEffect_100
+  - first:
+      213: -7416458671021823530
+    second: enemySpawEffect_101
+  - first:
+      213: 1415496993229339119
+    second: enemySpawEffect_102
+  - first:
+      213: 6041910056727709698
+    second: enemySpawEffect_103
+  - first:
+      213: 7921105693702417549
+    second: enemySpawEffect_104
+  - first:
+      213: 3429935857337215428
+    second: enemySpawEffect_105
+  - first:
+      213: 6923803470888513126
+    second: enemySpawEffect_106
+  - first:
+      213: -4114096004188536214
+    second: enemySpawEffect_107
+  - first:
+      213: 169302356328699421
+    second: enemySpawEffect_108
+  - first:
+      213: 7617048220986991193
+    second: enemySpawEffect_109
+  - first:
+      213: -3236056465811382432
+    second: enemySpawEffect_110
+  - first:
+      213: -3107805846476317773
+    second: enemySpawEffect_111
+  - first:
+      213: 2999431899166850324
+    second: enemySpawEffect_112
+  - first:
+      213: 8507827746771128310
+    second: enemySpawEffect_113
+  - first:
+      213: 5251353189269162859
+    second: enemySpawEffect_114
+  - first:
+      213: -1573417897512240000
+    second: enemySpawEffect_115
+  - first:
+      213: 5101354202917713029
+    second: enemySpawEffect_116
+  - first:
+      213: -3034717580266013244
+    second: enemySpawEffect_117
+  - first:
+      213: 4465842812578073023
+    second: enemySpawEffect_118
+  - first:
+      213: 3276789989753779116
+    second: enemySpawEffect_119
+  - first:
+      213: -5031056492400873024
+    second: enemySpawEffect_120
+  - first:
+      213: 3130743992581035304
+    second: enemySpawEffect_121
+  - first:
+      213: -1562377776200859826
+    second: enemySpawEffect_122
+  - first:
+      213: 4667934828641236982
+    second: enemySpawEffect_123
+  - first:
+      213: 8178540407519292227
+    second: enemySpawEffect_124
+  - first:
+      213: 4537523615800683440
+    second: enemySpawEffect_125
+  - first:
+      213: 7093358409336838361
+    second: enemySpawEffect_126
+  - first:
+      213: 6437334576861014320
+    second: enemySpawEffect_127
+  - first:
+      213: -290704665539110404
+    second: enemySpawEffect_128
+  - first:
+      213: -2074160640745045815
+    second: enemySpawEffect_129
+  - first:
+      213: 7869827827497969711
+    second: enemySpawEffect_130
+  - first:
+      213: -2348010231988038981
+    second: enemySpawEffect_131
+  - first:
+      213: -5495943718129975999
+    second: enemySpawEffect_132
+  - first:
+      213: 1022588010378520427
+    second: enemySpawEffect_133
+  - first:
+      213: -2338848318985962125
+    second: enemySpawEffect_134
+  - first:
+      213: -2677921363058206538
+    second: enemySpawEffect_135
+  - first:
+      213: -5637778871295133398
+    second: enemySpawEffect_136
+  - first:
+      213: 1976934860095724809
+    second: enemySpawEffect_137
+  - first:
+      213: -798428662493183900
+    second: enemySpawEffect_138
+  - first:
+      213: -5321865238428535492
+    second: enemySpawEffect_139
+  - first:
+      213: -1806173134269669170
+    second: enemySpawEffect_140
+  - first:
+      213: 5516039034365462741
+    second: enemySpawEffect_141
+  - first:
+      213: 5663751152622924087
+    second: enemySpawEffect_142
+  - first:
+      213: 6571809347733704826
+    second: enemySpawEffect_143
+  - first:
+      213: 7707575130685001365
+    second: enemySpawEffect_144
+  - first:
+      213: -2726910725471105333
+    second: enemySpawEffect_145
+  - first:
+      213: 1352317584445483666
+    second: enemySpawEffect_146
+  - first:
+      213: 4545706690587980303
+    second: enemySpawEffect_147
+  - first:
+      213: 5454297293655012403
+    second: enemySpawEffect_148
+  - first:
+      213: 5655781769448990884
+    second: enemySpawEffect_149
+  - first:
+      213: 3150193887499317279
+    second: enemySpawEffect_150
+  - first:
+      213: 9003701762263897222
+    second: enemySpawEffect_151
+  - first:
+      213: -8546778711351428302
+    second: enemySpawEffect_152
+  - first:
+      213: -2450187289906276862
+    second: enemySpawEffect_153
+  - first:
+      213: 3872073353254637319
+    second: enemySpawEffect_154
+  - first:
+      213: 2636612923524980828
+    second: enemySpawEffect_155
+  - first:
+      213: -1852784903700725401
+    second: enemySpawEffect_156
+  - first:
+      213: 7828079431259749400
+    second: enemySpawEffect_157
+  - first:
+      213: -1649114643772564150
+    second: enemySpawEffect_158
+  - first:
+      213: -7711070254695087138
+    second: enemySpawEffect_159
+  - first:
+      213: -5855868992893853053
+    second: enemySpawEffect_160
+  - first:
+      213: 891379391638499320
+    second: enemySpawEffect_161
+  - first:
+      213: 1329539000129169307
+    second: enemySpawEffect_162
+  - first:
+      213: 2803636973339125985
+    second: enemySpawEffect_163
+  - first:
+      213: -5024654016361105925
+    second: enemySpawEffect_164
+  - first:
+      213: 6496763889750539449
+    second: enemySpawEffect_165
+  - first:
+      213: 2859169617992655201
+    second: enemySpawEffect_166
+  - first:
+      213: 6594647940245758880
+    second: enemySpawEffect_167
+  - first:
+      213: -4766388571544760926
+    second: enemySpawEffect_168
+  - first:
+      213: -1782199272837754930
+    second: enemySpawEffect_169
+  - first:
+      213: 1095239862174755637
+    second: enemySpawEffect_170
+  - first:
+      213: -3831725522421484371
+    second: enemySpawEffect_171
+  - first:
+      213: -10409837443823877
+    second: enemySpawEffect_172
+  - first:
+      213: 4214818478067665459
+    second: enemySpawEffect_173
+  - first:
+      213: -2207806306176506793
+    second: enemySpawEffect_174
+  - first:
+      213: 1922748503807717313
+    second: enemySpawEffect_175
+  - first:
+      213: -5028817901061023868
+    second: enemySpawEffect_176
+  - first:
+      213: 280814806599263445
+    second: enemySpawEffect_177
+  - first:
+      213: -4518228606088676607
+    second: enemySpawEffect_178
+  - first:
+      213: 4621732384886493055
+    second: enemySpawEffect_179
+  - first:
+      213: 8346082435195017247
+    second: enemySpawEffect_180
+  - first:
+      213: 8347305334518015263
+    second: enemySpawEffect_181
+  - first:
+      213: 1669051048124157779
+    second: enemySpawEffect_182
+  - first:
+      213: -8234467045227147887
+    second: enemySpawEffect_183
+  - first:
+      213: 3955097321067805773
+    second: enemySpawEffect_184
+  - first:
+      213: 6191352866114089260
+    second: enemySpawEffect_185
+  - first:
+      213: -1584090469514447888
+    second: enemySpawEffect_186
+  - first:
+      213: 6083563464683071090
+    second: enemySpawEffect_187
+  - first:
+      213: 9180238969196075596
+    second: enemySpawEffect_188
+  - first:
+      213: -5921688790152374223
+    second: enemySpawEffect_189
+  - first:
+      213: 3684969823619638007
+    second: enemySpawEffect_190
+  - first:
+      213: 5243866087348118288
+    second: enemySpawEffect_191
+  - first:
+      213: 1525366940579760068
+    second: enemySpawEffect_192
+  - first:
+      213: 5529948281189282460
+    second: enemySpawEffect_193
+  - first:
+      213: 8776611913267175876
+    second: enemySpawEffect_194
+  - first:
+      213: -7363737408937771904
+    second: enemySpawEffect_195
+  - first:
+      213: 611745155226515458
+    second: enemySpawEffect_196
+  - first:
+      213: 230486811935339213
+    second: enemySpawEffect_197
+  - first:
+      213: -5466469382069260904
+    second: enemySpawEffect_198
+  - first:
+      213: -9151423487169786996
+    second: enemySpawEffect_199
+  - first:
+      213: -8105246647985325085
+    second: enemySpawEffect_200
+  - first:
+      213: -2120298481135145041
+    second: enemySpawEffect_201
+  - first:
+      213: 6991269506000760995
+    second: enemySpawEffect_202
+  - first:
+      213: 6961744985260284311
+    second: enemySpawEffect_203
+  - first:
+      213: 4218756463188599807
+    second: enemySpawEffect_204
+  - first:
+      213: -2989326938542273575
+    second: enemySpawEffect_205
+  - first:
+      213: -5701840125824173067
+    second: enemySpawEffect_206
+  - first:
+      213: 574289319095651493
+    second: enemySpawEffect_207
+  - first:
+      213: -3619243620162102507
+    second: enemySpawEffect_208
+  - first:
+      213: -1728920317535286822
+    second: enemySpawEffect_209
+  - first:
+      213: -4474977526238004671
+    second: enemySpawEffect_210
+  - first:
+      213: -5348318263919450133
+    second: enemySpawEffect_211
+  - first:
+      213: -7651879379739376896
+    second: enemySpawEffect_212
+  - first:
+      213: -384696833263115870
+    second: enemySpawEffect_213
+  - first:
+      213: 8829387255778922857
+    second: enemySpawEffect_214
+  - first:
+      213: -6084807751513065728
+    second: enemySpawEffect_215
+  - first:
+      213: -816434220021848369
+    second: enemySpawEffect_216
+  - first:
+      213: 3804471815935326737
+    second: enemySpawEffect_217
+  - first:
+      213: 1019954566087111947
+    second: enemySpawEffect_218
+  - first:
+      213: 921245903004192717
+    second: enemySpawEffect_219
+  - first:
+      213: -4093960076573538497
+    second: enemySpawEffect_220
+  - first:
+      213: -4750610529703722513
+    second: enemySpawEffect_221
+  - first:
+      213: 5678256845693924004
+    second: enemySpawEffect_222
+  - first:
+      213: 2842377598501239463
+    second: enemySpawEffect_223
+  - first:
+      213: -7073802619255451431
+    second: enemySpawEffect_224
+  - first:
+      213: -7422876682352519462
+    second: enemySpawEffect_225
+  - first:
+      213: 8156711887898014789
+    second: enemySpawEffect_226
+  - first:
+      213: 8039327472519306721
+    second: enemySpawEffect_227
+  - first:
+      213: 5655156676770592537
+    second: enemySpawEffect_228
+  - first:
+      213: -7233888688376939537
+    second: enemySpawEffect_229
+  - first:
+      213: 1373462445490678933
+    second: enemySpawEffect_230
+  - first:
+      213: -4304552467651562048
+    second: enemySpawEffect_231
+  - first:
+      213: -8063570270449827488
+    second: enemySpawEffect_232
+  - first:
+      213: -3316805396410653963
+    second: enemySpawEffect_233
+  - first:
+      213: 548203813473721328
+    second: enemySpawEffect_234
+  - first:
+      213: 4309771901720904992
+    second: enemySpawEffect_235
+  - first:
+      213: 1588856617302008243
+    second: enemySpawEffect_236
+  - first:
+      213: 2368616206076778635
+    second: enemySpawEffect_237
+  - first:
+      213: -3282620172017655651
+    second: enemySpawEffect_238
+  - first:
+      213: -7219600915190965880
+    second: enemySpawEffect_239
+  - first:
+      213: 3935552789136248266
+    second: enemySpawEffect_240
+  - first:
+      213: -6108343851727028971
+    second: enemySpawEffect_241
+  - first:
+      213: 4980197942926893893
+    second: enemySpawEffect_242
+  - first:
+      213: 9174310084990036280
+    second: enemySpawEffect_243
+  - first:
+      213: -5636220273783189246
+    second: enemySpawEffect_244
+  - first:
+      213: 3758613468226157279
+    second: enemySpawEffect_245
+  - first:
+      213: -4878121988546507080
+    second: enemySpawEffect_246
+  - first:
+      213: 1231219951339307570
+    second: enemySpawEffect_247
+  - first:
+      213: -1447372054334387075
+    second: enemySpawEffect_248
+  - first:
+      213: -988615776451380743
+    second: enemySpawEffect_249
+  - first:
+      213: -3732699170715669921
+    second: enemySpawEffect_250
+  - first:
+      213: 3952747296617535185
+    second: enemySpawEffect_251
+  - first:
+      213: -5182484128324395419
+    second: enemySpawEffect_252
+  - first:
+      213: -208922395482781767
+    second: enemySpawEffect_253
+  - first:
+      213: 8451146364024789282
+    second: enemySpawEffect_254
+  - first:
+      213: -2311834646159069296
+    second: enemySpawEffect_255
+  - first:
+      213: -6015932383061624456
+    second: enemySpawEffect_256
+  - first:
+      213: -4761103580220569742
+    second: enemySpawEffect_257
+  - first:
+      213: 5467398395584277107
+    second: enemySpawEffect_258
+  - first:
+      213: -2816734626720459517
+    second: enemySpawEffect_259
+  - first:
+      213: 4448698226355893029
+    second: enemySpawEffect_260
+  - first:
+      213: -8652037529442059881
+    second: enemySpawEffect_261
+  - first:
+      213: -2025729427575734707
+    second: enemySpawEffect_262
+  - first:
+      213: 5699742865290403601
+    second: enemySpawEffect_263
+  - first:
+      213: -514587954449016733
+    second: enemySpawEffect_264
+  - first:
+      213: -5084824312794055382
+    second: enemySpawEffect_265
+  - first:
+      213: -4333568296556323441
+    second: enemySpawEffect_266
+  - first:
+      213: -317922183878810909
+    second: enemySpawEffect_267
+  - first:
+      213: 2206260675883678636
+    second: enemySpawEffect_268
+  - first:
+      213: -2108051889055044932
+    second: enemySpawEffect_269
+  - first:
+      213: 1846357582219615583
+    second: enemySpawEffect_270
+  - first:
+      213: 8183559165190403495
+    second: enemySpawEffect_271
+  - first:
+      213: -875197391699663183
+    second: enemySpawEffect_272
+  - first:
+      213: -4472539369130696479
+    second: enemySpawEffect_273
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: enemySpawEffect_0
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1008
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df8cd144fae8dd880800000000000000
+      internalID: -8584548431285073667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_1
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 809
+        width: 30
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00f22fdcf1f962220800000000000000
+      internalID: 2460829205352558336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 991
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1870cfa6516b32870800000000000000
+      internalID: 8656963111841695617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_3
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 989
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9d778df44ec84350800000000000000
+      internalID: 6001273299177799068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_4
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 962
+        width: 25
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 365ec8c166fdbc840800000000000000
+      internalID: 5245531820661728611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_5
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 966
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cf607b89887a7f90800000000000000
+      internalID: -6955114142375055416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_6
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 910
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89fd9a0deb13f8970800000000000000
+      internalID: 8759274495873245080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_7
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 767
+        width: 120
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 039397505624d35f0800000000000000
+      internalID: -775390559186896592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_8
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 939
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 742f85903bd5baa50800000000000000
+      internalID: 6533418707968389703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_9
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 946
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf6dfb66070785690800000000000000
+      internalID: -7613211542007326980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_10
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 941
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ac5ced42c6ee3e00800000000000000
+      internalID: 1026511487292431526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_11
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 928
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52329e6fc618b33c0800000000000000
+      internalID: -4378763907688750299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_12
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 871
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a688956917f886ef0800000000000000
+      internalID: -114684072481421206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_13
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 914
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c8dbaf6f950eedc0800000000000000
+      internalID: -3607940069145716544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_14
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 901
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 487c782ea1a77e920800000000000000
+      internalID: 3019516331063494532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_15
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 888
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ff95bf03edf99560800000000000000
+      internalID: 7321161820930416630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_16
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 880
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51e4fe04b0a018210800000000000000
+      internalID: 1333358008128720405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_17
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 887
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23a7f8a887dc82060800000000000000
+      internalID: 6929013944313936434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_18
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 879
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a9c392c0b7033570800000000000000
+      internalID: 8445102182009915816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_19
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 863
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c95aed4b8fbebba80800000000000000
+      internalID: -8449900822411696740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_20
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 871
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f97343243bf8d1490800000000000000
+      internalID: -7773899381698971745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_21
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 838
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64f9ad764a4af0140800000000000000
+      internalID: 4688146763139948358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_22
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 582
+        width: 53
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c4892051aecdce40800000000000000
+      internalID: 5678421897414018245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_23
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 812
+        width: 33
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78043e249613bcbf0800000000000000
+      internalID: -303094221753859961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_24
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 843
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbab63579f8c7e8f0800000000000000
+      internalID: -511219058944329027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_25
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 805
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f13d2bd6160c9540800000000000000
+      internalID: 5015890780220109299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_26
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 796
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b4fe59e32134dc90800000000000000
+      internalID: -7146032678421203791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_27
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 781
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9098ef92251bdc50800000000000000
+      internalID: 6690964909844893853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_28
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 787
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7b5fab6c30c00dc0800000000000000
+      internalID: -3674725930197099653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_29
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 775
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0347cb8f7ea59f90800000000000000
+      internalID: -6947454987319950577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_30
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 768
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68a98097dc8857610800000000000000
+      internalID: 1618350057189841542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_31
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 773
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f349cd8b4cb7aaf40800000000000000
+      internalID: 5740536759882388543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_32
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 766
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d96f47de548620c20800000000000000
+      internalID: 3171211737168148125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_33
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 762
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4e5d7af877669250800000000000000
+      internalID: 5951057726912945740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_34
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 750
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62f18a9ba1b9ef940800000000000000
+      internalID: 5331869547939503910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_35
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 548
+        width: 39
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8584a2b8c65046a60800000000000000
+      internalID: 7666258429440837720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_36
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 695
+        width: 60
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40c8fea979a499620800000000000000
+      internalID: 2781336259877899268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_37
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 741
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d8319018df628e90800000000000000
+      internalID: -7024929494962980655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_38
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 739
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d58e5a0c37bd3dd0800000000000000
+      internalID: -2504644349248240172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_39
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 738
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbd88408caef64260800000000000000
+      internalID: 7081627480926752187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 723
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e94a600ee75807b0800000000000000
+      internalID: -5257855885234255383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_41
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 724
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3712b9e38c53b5da0800000000000000
+      internalID: -5955106948107263629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_42
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 712
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88ab1a078c3238460800000000000000
+      internalID: 7242671969531968136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_43
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 708
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 842277cc3494e6190800000000000000
+      internalID: -7967350135229832632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_44
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 707
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab7a429911202e150800000000000000
+      internalID: 5900280736415786938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_45
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 701
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5053a94b22a03aaf0800000000000000
+      internalID: -386453998848559867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_46
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 688
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4d8fd0ccf89bdba0800000000000000
+      internalID: -6063084261989184180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_47
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 694
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cddafcda0d01c610800000000000000
+      internalID: 1639606079647833542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_48
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 693
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36d2dae2b98e2dbb0800000000000000
+      internalID: -4912608490307113629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_49
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 687
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e7a2ea54290d98d0800000000000000
+      internalID: -2838102138425268250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_50
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 680
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 903bb441f1db43cc0800000000000000
+      internalID: -3732150250001157367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_51
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 675
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a96556f700db2500800000000000000
+      internalID: 372620126804339108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_52
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 673
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40d6f43bfd476d900800000000000000
+      internalID: 708882495492287748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_53
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 664
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77ebf6916b642ff20800000000000000
+      internalID: 3454901612071337591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_54
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 666
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 860986bd5f629eb50800000000000000
+      internalID: 6622867564414931048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_55
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 670
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbf9b270a9c6c5a30800000000000000
+      internalID: 4205355560858263483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_56
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 661
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4f63a6190014c3f0800000000000000
+      internalID: -881561995837214899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_57
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 657
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99c2e4b0631c5a100800000000000000
+      internalID: 118713403057253529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_58
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 648
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0bd7aa592c586df0800000000000000
+      internalID: -186798051851511030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_59
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 574
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1652ada5480394d30800000000000000
+      internalID: 4416114254631544161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_60
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 622
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a73afffeda8c653e0800000000000000
+      internalID: -2065242729721388166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_61
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 584
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f695ca0a3a0dac020800000000000000
+      internalID: 2362930355703142767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_62
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 583
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aa4771e4115306c0800000000000000
+      internalID: -4178406879145801056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_63
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 599
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dde73984c4a714a70800000000000000
+      internalID: 8809456814167129821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_64
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 578
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebf2b2b53822e3cc0800000000000000
+      internalID: -3729505493850574914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_65
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 535
+        width: 66
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78870cf38d9b86fd0800000000000000
+      internalID: -2348422867240060793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_66
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 557
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2996efc6064ba49b0800000000000000
+      internalID: -5095061702177822318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_67
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 565
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58fa4288a885e9c30800000000000000
+      internalID: 4368026040608796549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_68
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 568
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbf7968a8826484e0800000000000000
+      internalID: -1980349597055615041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_69
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 545
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fa660c51f13d70e0800000000000000
+      internalID: -2270603724424058126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_70
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 556
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b294da5d770dd7d0800000000000000
+      internalID: -2892147150725803337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_71
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 556
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49367c89ac748f080800000000000000
+      internalID: -9153487307158363244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_72
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 560
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afdc6445e442de5b0800000000000000
+      internalID: -5337570064524194310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_73
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 554
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4567df42367df7650800000000000000
+      internalID: 6232937230126380628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_74
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 551
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd953a853be4cae20800000000000000
+      internalID: 3363149553932130781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_75
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 548
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6a0ba7a81640bef0800000000000000
+      internalID: -94498520468616594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_76
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 552
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0286e968fd1c558d0800000000000000
+      internalID: -2858165222716315616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_77
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 531
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be73f0850b3393160800000000000000
+      internalID: 7005687527836170219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_78
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 528
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ec1db0d5eeae78d0800000000000000
+      internalID: -2846645612378776350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_79
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 380
+        width: 46
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01afd288b73a29900800000000000000
+      internalID: 689793443902126608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_80
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 531
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9d3f75b77f550d70800000000000000
+      internalID: 9008711597375307167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_81
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 534
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d40896ae46ed6690800000000000000
+      internalID: -7607170970082081577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_82
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 527
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3788a7c6a29555470800000000000000
+      internalID: 8382704320163514483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_83
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 440
+        width: 79
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61b57a5d5d7be8190800000000000000
+      internalID: -7958221362476655850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_84
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 515
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da8185d3938eaa920800000000000000
+      internalID: 3002467434135820461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_85
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 509
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d69fb2834e47edd0800000000000000
+      internalID: -2456909019843946797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_86
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 516
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94d87f6be5fcc8df0800000000000000
+      internalID: -176538279670739639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_87
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 490
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c056f67c8672f85c0800000000000000
+      internalID: -4211103795592076020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_88
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 490
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ba74002da954b030800000000000000
+      internalID: 3509528609729837746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_89
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 486
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7374f33d9115788c0800000000000000
+      internalID: -3997136972907854025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_90
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 451
+        width: 61
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9df5e1b65e06f5a50800000000000000
+      internalID: 6512030124661956569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_91
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 454
+        width: 60
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5c2d310404e2eac0800000000000000
+      internalID: -3827246027459711906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_92
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 380
+        width: 257
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f32745368fa436b10800000000000000
+      internalID: 1973503492397232703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_93
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 476
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be0c65c21d02c99b0800000000000000
+      internalID: -5072142997561884437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_94
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 472
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ac9f04b153583880800000000000000
+      internalID: -8631057075477177177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_95
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 409
+        width: 68
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f891f5b4212be560800000000000000
+      internalID: 7344000058912774385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_96
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 461
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 740ebf3c38b0c1dc0800000000000000
+      internalID: -3667043336029740985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_97
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 459
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58423d021746396a0800000000000000
+      internalID: -6443696204792257403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_98
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 457
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9422b08e0dd5eae10800000000000000
+      internalID: 2210807618913116745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_99
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 449
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ca14800982132f10800000000000000
+      internalID: 2243657418989116103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_100
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 430
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a348cc1dc636613e0800000000000000
+      internalID: -2083368458584816582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_101
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 423
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d9e06ef122731990800000000000000
+      internalID: -7416458671021823530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_102
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 381
+        width: 56
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe97116040bd4a310800000000000000
+      internalID: 1415496993229339119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_103
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 380
+        width: 73
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2088d186f2d29d350800000000000000
+      internalID: 6041910056727709698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_104
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 421
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8ce47d19ab6ded60800000000000000
+      internalID: 7921105693702417549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 401
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c9a5fa5d74999f20800000000000000
+      internalID: 3429935857337215428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_106
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 406
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66e2de8a29a461060800000000000000
+      internalID: 6923803470888513126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_107
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 400
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a620d7a4b7bc7e6c0800000000000000
+      internalID: -4114096004188536214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_108
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 390
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d16db98989b795200800000000000000
+      internalID: 169302356328699421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_109
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 394
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95263f8000135b960800000000000000
+      internalID: 7617048220986991193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_110
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 396
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06fd43a2ac73713d0800000000000000
+      internalID: -3236056465811382432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_111
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 383
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bb95e96c0bded4d0800000000000000
+      internalID: -3107805846476317773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_112
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 380
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41db0ddab6f10a920800000000000000
+      internalID: 2999431899166850324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_113
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 376
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ff41806240e11670800000000000000
+      internalID: 8507827746771128310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_114
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 368
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6bc08c17ed80e840800000000000000
+      internalID: 5251353189269162859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_115
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 368
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08c7a8f22c81a2ae0800000000000000
+      internalID: -1573417897512240000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_116
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 364
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5843b529e96abc640800000000000000
+      internalID: 5101354202917713029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_117
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 364
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cd7c9a707482e5d0800000000000000
+      internalID: -3034717580266013244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_118
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 357
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb98272806cd9fd30800000000000000
+      internalID: 4465842812578073023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_119
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 359
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca374de622f797d20800000000000000
+      internalID: 3276789989753779116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_120
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 353
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c1f58d96c81e2ab0800000000000000
+      internalID: -5031056492400873024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_121
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 343
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8251b78e213a27b20800000000000000
+      internalID: 3130743992581035304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_122
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 350
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4f359cb0b1515ae0800000000000000
+      internalID: -1562377776200859826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_123
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 344
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f7b5dfaef5d7c040800000000000000
+      internalID: 4667934828641236982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_124
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 344
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34bad5b3b23008170800000000000000
+      internalID: 8178540407519292227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_125
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 350
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bbeebf00b588fe30800000000000000
+      internalID: 4537523615800683440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_126
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 342
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d85d0d14eba07260800000000000000
+      internalID: 7093358409336838361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_127
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 335
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 039e322f0b1065950800000000000000
+      internalID: 6437334576861014320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_128
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 334
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf91efb95a537fbf0800000000000000
+      internalID: -290704665539110404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_129
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 317
+        width: 47
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c08b49f2e91733e0800000000000000
+      internalID: -2074160640745045815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_130
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 302
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f28208586be373d60800000000000000
+      internalID: 7869827827497969711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_131
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 323
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb2de5162213a6fd0800000000000000
+      internalID: -2348010231988038981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_132
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 323
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14db25f9e4c7ab3b0800000000000000
+      internalID: -5495943718129975999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_133
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 310
+        width: 38
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b676f26a066f03e00800000000000000
+      internalID: 1022588010378520427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_134
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 256
+        width: 39
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37d725b78ddba8fd0800000000000000
+      internalID: -2338848318985962125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_135
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 307
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b85c7265bc16dad0800000000000000
+      internalID: -2677921363058206538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_136
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 299
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a29304e9cf592c1b0800000000000000
+      internalID: -5637778871295133398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_137
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 272
+        width: 63
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90d9710f7cb7f6b10800000000000000
+      internalID: 1976934860095724809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_138
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 285
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4608a999c596be4f0800000000000000
+      internalID: -798428662493183900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_139
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 285
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c35b7f813cfe426b0800000000000000
+      internalID: -5321865238428535492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_140
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 312
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec0a0099a1f2fe6e0800000000000000
+      internalID: -1806173134269669170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_141
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 302
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d8ca8ac648ec8c40800000000000000
+      internalID: 5516039034365462741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_142
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 296
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7317c4c5aafa99e40800000000000000
+      internalID: 5663751152622924087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_143
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 248
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a70524768c1c33b50800000000000000
+      internalID: 6571809347733704826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_144
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 296
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59e4d10bebec6fa60800000000000000
+      internalID: 7707575130685001365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_145
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 206
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bce871a9421182ad0800000000000000
+      internalID: -2726910725471105333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_146
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 275
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29a236c9da564c210800000000000000
+      internalID: 1352317584445483666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_147
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 268
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f02fc91a628951f30800000000000000
+      internalID: 4545706690587980303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_148
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 268
+        width: 9
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3347eaf8d7e81bb40800000000000000
+      internalID: 5454297293655012403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_149
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 290
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a8232fbd8f5d7e40800000000000000
+      internalID: 5655781769448990884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_150
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 290
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f10f00676acb7bb20800000000000000
+      internalID: 3150193887499317279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_151
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 246
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6845c439c0393fc70800000000000000
+      internalID: 9003701762263897222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_152
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 287
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23bf6087b0eb36980800000000000000
+      internalID: -8546778711351428302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_153
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 267
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20695f734af2ffdd0800000000000000
+      internalID: -2450187289906276862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_154
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 247
+        width: 18
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70f8ffc133e5cb530800000000000000
+      internalID: 3872073353254637319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_155
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 251
+        width: 12
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5029ec0c71279420800000000000000
+      internalID: 2636612923524980828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_156
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 241
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76146b152f59946e0800000000000000
+      internalID: -1852784903700725401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_157
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 245
+        width: 18
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81c77cd84cce2ac60800000000000000
+      internalID: 7828079431259749400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_158
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 283
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4d9a0808fa2d19e0800000000000000
+      internalID: -1649114643772564150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_159
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 261
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed381d65576ccf490800000000000000
+      internalID: -7711070254695087138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_160
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 256
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 382665b3d26cbbea0800000000000000
+      internalID: -5855868992893853053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_161
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 255
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ff67be75d0de5c00800000000000000
+      internalID: 891379391638499320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_162
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 246
+        width: 25
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b972ab92da8737210800000000000000
+      internalID: 1329539000129169307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_163
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 252
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e8a70319f488e620800000000000000
+      internalID: 2803636973339125985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_164
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 225
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf57e8b3bc7d44ab0800000000000000
+      internalID: -5024654016361105925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_165
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 252
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bc7a2e1654292a50800000000000000
+      internalID: 6496763889750539449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_166
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 247
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 161aa097e9fcda720800000000000000
+      internalID: 2859169617992655201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_167
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 224
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a32c199c55e48b50800000000000000
+      internalID: 6594647940245758880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_168
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 235
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2adc79bf8d26addb0800000000000000
+      internalID: -4766388571544760926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_169
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 242
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecfcb8f243b5447e0800000000000000
+      internalID: -1782199272837754930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_170
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 239
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53b26c01ad2133f00800000000000000
+      internalID: 1095239862174755637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_171
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 237
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da4f44f40f9f2dac0800000000000000
+      internalID: -3831725522421484371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_172
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 236
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf6cdf8de440bdff0800000000000000
+      internalID: -10409837443823877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_173
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 236
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33ac9f1231b0e7a30800000000000000
+      internalID: 4214818478067665459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_174
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 236
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7546b7bacdb4c51e0800000000000000
+      internalID: -2207806306176506793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_175
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 225
+        width: 36
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cf6fd9b399feaa10800000000000000
+      internalID: 1922748503807717313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_176
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 231
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 487d12743cc063ab0800000000000000
+      internalID: -5028817901061023868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_177
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 230
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d4e40b2497a5e300800000000000000
+      internalID: 280814806599263445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_178
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 219
+        width: 41
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10b731875070c41c0800000000000000
+      internalID: -4518228606088676607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_179
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 230
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7f0418fd11b32040800000000000000
+      internalID: 4621732384886493055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_180
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 226
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f181def51cd33d370800000000000000
+      internalID: 8346082435195017247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_181
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 232
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f156bafc9f597d370800000000000000
+      internalID: 8347305334518015263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_182
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 211
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35f0f63d519a92710800000000000000
+      internalID: 1669051048124157779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_183
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 211
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19d4396b9db49bd80800000000000000
+      internalID: -8234467045227147887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_184
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 215
+        width: 25
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4c785afe0453e630800000000000000
+      internalID: 3955097321067805773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_185
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 209
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c21b3d7e0aa1ce550800000000000000
+      internalID: 6191352866114089260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_186
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 206
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f372806c1e240ae0800000000000000
+      internalID: -1584090469514447888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_187
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 202
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 276aaf03db82d6450800000000000000
+      internalID: 6083563464683071090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_188
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 206
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4a512814b2c66f70800000000000000
+      internalID: 9180238969196075596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_189
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 206
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1381e887b6fe1dda0800000000000000
+      internalID: -5921688790152374223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_190
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 206
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f2e1e0e784a32330800000000000000
+      internalID: 3684969823619638007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_191
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 206
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0132a1a5c64f5c840800000000000000
+      internalID: 5243866087348118288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_192
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 199
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c7816596213b2510800000000000000
+      internalID: 1525366940579760068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_193
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 193
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c92b19ea9a25ebc40800000000000000
+      internalID: 5529948281189282460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_194
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 189
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c160cdd80accc970800000000000000
+      internalID: 8776611913267175876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_195
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 182
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08c320167dfbec990800000000000000
+      internalID: -7363737408937771904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_196
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 187
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 208b75e3afa5d7800800000000000000
+      internalID: 611745155226515458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_197
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 180
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc271d6c88ad23300800000000000000
+      internalID: 230486811935339213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_198
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 177
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89d66324f033324b0800000000000000
+      internalID: -5466469382069260904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_199
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 175
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8b041223dc9ff080800000000000000
+      internalID: -9151423487169786996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_200
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 171
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ebb8e9fd11648f80800000000000000
+      internalID: -8105246647985325085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_201
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 171
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fafa326e3cf2392e0800000000000000
+      internalID: -2120298481135145041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_202
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 168
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a0323a039af50160800000000000000
+      internalID: 6991269506000760995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_203
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 155
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 799db4fdd261d9060800000000000000
+      internalID: 6961744985260284311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_204
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 160
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff36d3eb6a80c8a30800000000000000
+      internalID: 4218756463188599807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_205
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 153
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9db8eaeccf6c386d0800000000000000
+      internalID: -2989326938542273575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_206
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 153
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fb7e2e7d9efed0b0800000000000000
+      internalID: -5701840125824173067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_207
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 148
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ac4ffec71948f700800000000000000
+      internalID: 574289319095651493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_208
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 148
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51b93a06a1dd5cdc0800000000000000
+      internalID: -3619243620162102507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_209
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 105
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad98a54a124a108e0800000000000000
+      internalID: -1728920317535286822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_210
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 144
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14a3aba36afa5e1c0800000000000000
+      internalID: -4474977526238004671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_211
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 143
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be7e85520e4f6c5b0800000000000000
+      internalID: -5348318263919450133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_212
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 144
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0038f7ade301fc590800000000000000
+      internalID: -7651879379739376896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_213
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 79
+        width: 49
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a16223b44849aaf0800000000000000
+      internalID: -384696833263115870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_214
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 42
+        width: 92
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9615015dde8488a70800000000000000
+      internalID: 8829387255778922857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_215
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 128
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0073584b69b6e8ba0800000000000000
+      internalID: -6084807751513065728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_216
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 134
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc6ef1d07617ba4f0800000000000000
+      internalID: -816434220021848369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_217
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 134
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11a7fcaa5f23cc430800000000000000
+      internalID: 3804471815935326737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_218
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 126
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b05f8ae164b972e00800000000000000
+      internalID: 1019954566087111947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_219
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 42
+        width: 88
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcf495f844ce8cc00800000000000000
+      internalID: 921245903004192717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_220
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 121
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f37043740055f27c0800000000000000
+      internalID: -4093960076573538497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_221
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 122
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe187ce94e0721eb0800000000000000
+      internalID: -4750610529703722513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_222
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 116
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a2340734883dce40800000000000000
+      internalID: 5678256845693924004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_223
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 74
+        width: 83
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aab134cd57227720800000000000000
+      internalID: 2842377598501239463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_224
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 117
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d01d041ffdc4dd90800000000000000
+      internalID: -7073802619255451431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_225
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 115
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad619d84cf4acf890800000000000000
+      internalID: -7422876682352519462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_226
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 110
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 544fd55fe36723170800000000000000
+      internalID: 8156711887898014789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_227
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 67
+        width: 12
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ed5d88fdbd619f60800000000000000
+      internalID: 8039327472519306721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_228
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 69
+        width: 12
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 917f61409072b7e40800000000000000
+      internalID: 5655156676770592537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_229
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 106
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feb739090901c9b90800000000000000
+      internalID: -7233888688376939537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_230
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 46
+        width: 47
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59cafc731d48f0310800000000000000
+      internalID: 1373462445490678933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_231
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 101
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c5f89056582344c0800000000000000
+      internalID: -4304552467651562048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_232
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 98
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0610078cf81781090800000000000000
+      internalID: -8063570270449827488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_233
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 102
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f228dda01758f1d0800000000000000
+      internalID: -3316805396410653963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_234
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 91
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fb9d9eb67c9b9700800000000000000
+      internalID: 548203813473721328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_235
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 99
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 025c801e5b26fcb30800000000000000
+      internalID: 4309771901720904992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_236
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 86
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b1a051eca0cc0610800000000000000
+      internalID: 1588856617302008243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_237
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 92
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b889074d3e30fd020800000000000000
+      internalID: 2368616206076778635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_238
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 46
+        width: 83
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d902b5a785ac172d0800000000000000
+      internalID: -3282620172017655651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_239
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 89
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88915fdf733decb90800000000000000
+      internalID: -7219600915190965880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_240
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 0
+        width: 94
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acd83470964ed9630800000000000000
+      internalID: 3935552789136248266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_241
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 73
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51d7ed751adca3ba0800000000000000
+      internalID: -6108343851727028971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_242
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 83
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 543e94394a73d1540800000000000000
+      internalID: 4980197942926893893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_243
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 72
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8396d1b2a62b15f70800000000000000
+      internalID: 9174310084990036280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_244
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 39
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2015c41e58f18c1b0800000000000000
+      internalID: -5636220273783189246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_245
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 72
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fda7e9d0907492430800000000000000
+      internalID: 3758613468226157279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_246
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 53
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bec9a595ed6d4cb0800000000000000
+      internalID: -4878121988546507080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_247
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 58
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23204ffb50c261110800000000000000
+      internalID: 1231219951339307570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_248
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 58
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7c429bf8c6e9ebe0800000000000000
+      internalID: -1447372054334387075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_249
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 61
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f9b441703bb742f0800000000000000
+      internalID: -988615776451380743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_250
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 59
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5ae81481e9c23cc0800000000000000
+      internalID: -3732699170715669921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_251
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 54
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d616c549bafad630800000000000000
+      internalID: 3952747296617535185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_252
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 58
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56edf1da42e1418b0800000000000000
+      internalID: -5182484128324395419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_253
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 55
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b700af2032c91df0800000000000000
+      internalID: -208922395482781767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_254
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 56
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 229188c87d0884570800000000000000
+      internalID: 8451146364024789282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_255
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 47
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09f6f3053a6baefd0800000000000000
+      internalID: -2311834646159069296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_256
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 44
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 879b7d21f5d138ca0800000000000000
+      internalID: -6015932383061624456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_257
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 52
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 277cc1ae4892dedb0800000000000000
+      internalID: -4761103580220569742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_258
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37a675e8fd910eb40800000000000000
+      internalID: 5467398395584277107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_259
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 39
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 305d8cbd7c2f8e8d0800000000000000
+      internalID: -2816734626720459517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_260
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 36
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5237ad67773fcbd30800000000000000
+      internalID: 4448698226355893029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_261
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 41
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 799f14a15b9cde780800000000000000
+      internalID: -8652037529442059881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_262
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 42
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4efa4281d923e3e0800000000000000
+      internalID: -2025729427575734707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_263
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 38
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11f93bcffed891f40800000000000000
+      internalID: 5699742865290403601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_264
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 37
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3681f595bf0dbd8f0800000000000000
+      internalID: -514587954449016733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_265
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 30
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2df3a26a331f69b0800000000000000
+      internalID: -5084824312794055382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_266
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 29
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8d9dd138921cd3c0800000000000000
+      internalID: -4333568296556323441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_267
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 6
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e2efab4573869bf0800000000000000
+      internalID: -317922183878810909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_268
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 6
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cabb5fb35663e9e10800000000000000
+      internalID: 2206260675883678636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_269
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 6
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cba68c0d9f1beb2e0800000000000000
+      internalID: -2108051889055044932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_270
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 0
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5d9c8840749f9910800000000000000
+      internalID: 1846357582219615583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_271
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 0
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a5f09fc3b7d19170800000000000000
+      internalID: 8183559165190403495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_272
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 0
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b6a467fb9caad3f0800000000000000
+      internalID: -875197391699663183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySpawEffect_273
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 0
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e0e30be3295ee1c0800000000000000
+      internalID: -4472539369130696479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      enemySpawEffect_0: -8584548431285073667
+      enemySpawEffect_1: 2460829205352558336
+      enemySpawEffect_10: 1026511487292431526
+      enemySpawEffect_100: -2083368458584816582
+      enemySpawEffect_101: -7416458671021823530
+      enemySpawEffect_102: 1415496993229339119
+      enemySpawEffect_103: 6041910056727709698
+      enemySpawEffect_104: 7921105693702417549
+      enemySpawEffect_105: 3429935857337215428
+      enemySpawEffect_106: 6923803470888513126
+      enemySpawEffect_107: -4114096004188536214
+      enemySpawEffect_108: 169302356328699421
+      enemySpawEffect_109: 7617048220986991193
+      enemySpawEffect_11: -4378763907688750299
+      enemySpawEffect_110: -3236056465811382432
+      enemySpawEffect_111: -3107805846476317773
+      enemySpawEffect_112: 2999431899166850324
+      enemySpawEffect_113: 8507827746771128310
+      enemySpawEffect_114: 5251353189269162859
+      enemySpawEffect_115: -1573417897512240000
+      enemySpawEffect_116: 5101354202917713029
+      enemySpawEffect_117: -3034717580266013244
+      enemySpawEffect_118: 4465842812578073023
+      enemySpawEffect_119: 3276789989753779116
+      enemySpawEffect_12: -114684072481421206
+      enemySpawEffect_120: -5031056492400873024
+      enemySpawEffect_121: 3130743992581035304
+      enemySpawEffect_122: -1562377776200859826
+      enemySpawEffect_123: 4667934828641236982
+      enemySpawEffect_124: 8178540407519292227
+      enemySpawEffect_125: 4537523615800683440
+      enemySpawEffect_126: 7093358409336838361
+      enemySpawEffect_127: 6437334576861014320
+      enemySpawEffect_128: -290704665539110404
+      enemySpawEffect_129: -2074160640745045815
+      enemySpawEffect_13: -3607940069145716544
+      enemySpawEffect_130: 7869827827497969711
+      enemySpawEffect_131: -2348010231988038981
+      enemySpawEffect_132: -5495943718129975999
+      enemySpawEffect_133: 1022588010378520427
+      enemySpawEffect_134: -2338848318985962125
+      enemySpawEffect_135: -2677921363058206538
+      enemySpawEffect_136: -5637778871295133398
+      enemySpawEffect_137: 1976934860095724809
+      enemySpawEffect_138: -798428662493183900
+      enemySpawEffect_139: -5321865238428535492
+      enemySpawEffect_14: 3019516331063494532
+      enemySpawEffect_140: -1806173134269669170
+      enemySpawEffect_141: 5516039034365462741
+      enemySpawEffect_142: 5663751152622924087
+      enemySpawEffect_143: 6571809347733704826
+      enemySpawEffect_144: 7707575130685001365
+      enemySpawEffect_145: -2726910725471105333
+      enemySpawEffect_146: 1352317584445483666
+      enemySpawEffect_147: 4545706690587980303
+      enemySpawEffect_148: 5454297293655012403
+      enemySpawEffect_149: 5655781769448990884
+      enemySpawEffect_15: 7321161820930416630
+      enemySpawEffect_150: 3150193887499317279
+      enemySpawEffect_151: 9003701762263897222
+      enemySpawEffect_152: -8546778711351428302
+      enemySpawEffect_153: -2450187289906276862
+      enemySpawEffect_154: 3872073353254637319
+      enemySpawEffect_155: 2636612923524980828
+      enemySpawEffect_156: -1852784903700725401
+      enemySpawEffect_157: 7828079431259749400
+      enemySpawEffect_158: -1649114643772564150
+      enemySpawEffect_159: -7711070254695087138
+      enemySpawEffect_16: 1333358008128720405
+      enemySpawEffect_160: -5855868992893853053
+      enemySpawEffect_161: 891379391638499320
+      enemySpawEffect_162: 1329539000129169307
+      enemySpawEffect_163: 2803636973339125985
+      enemySpawEffect_164: -5024654016361105925
+      enemySpawEffect_165: 6496763889750539449
+      enemySpawEffect_166: 2859169617992655201
+      enemySpawEffect_167: 6594647940245758880
+      enemySpawEffect_168: -4766388571544760926
+      enemySpawEffect_169: -1782199272837754930
+      enemySpawEffect_17: 6929013944313936434
+      enemySpawEffect_170: 1095239862174755637
+      enemySpawEffect_171: -3831725522421484371
+      enemySpawEffect_172: -10409837443823877
+      enemySpawEffect_173: 4214818478067665459
+      enemySpawEffect_174: -2207806306176506793
+      enemySpawEffect_175: 1922748503807717313
+      enemySpawEffect_176: -5028817901061023868
+      enemySpawEffect_177: 280814806599263445
+      enemySpawEffect_178: -4518228606088676607
+      enemySpawEffect_179: 4621732384886493055
+      enemySpawEffect_18: 8445102182009915816
+      enemySpawEffect_180: 8346082435195017247
+      enemySpawEffect_181: 8347305334518015263
+      enemySpawEffect_182: 1669051048124157779
+      enemySpawEffect_183: -8234467045227147887
+      enemySpawEffect_184: 3955097321067805773
+      enemySpawEffect_185: 6191352866114089260
+      enemySpawEffect_186: -1584090469514447888
+      enemySpawEffect_187: 6083563464683071090
+      enemySpawEffect_188: 9180238969196075596
+      enemySpawEffect_189: -5921688790152374223
+      enemySpawEffect_19: -8449900822411696740
+      enemySpawEffect_190: 3684969823619638007
+      enemySpawEffect_191: 5243866087348118288
+      enemySpawEffect_192: 1525366940579760068
+      enemySpawEffect_193: 5529948281189282460
+      enemySpawEffect_194: 8776611913267175876
+      enemySpawEffect_195: -7363737408937771904
+      enemySpawEffect_196: 611745155226515458
+      enemySpawEffect_197: 230486811935339213
+      enemySpawEffect_198: -5466469382069260904
+      enemySpawEffect_199: -9151423487169786996
+      enemySpawEffect_2: 8656963111841695617
+      enemySpawEffect_20: -7773899381698971745
+      enemySpawEffect_200: -8105246647985325085
+      enemySpawEffect_201: -2120298481135145041
+      enemySpawEffect_202: 6991269506000760995
+      enemySpawEffect_203: 6961744985260284311
+      enemySpawEffect_204: 4218756463188599807
+      enemySpawEffect_205: -2989326938542273575
+      enemySpawEffect_206: -5701840125824173067
+      enemySpawEffect_207: 574289319095651493
+      enemySpawEffect_208: -3619243620162102507
+      enemySpawEffect_209: -1728920317535286822
+      enemySpawEffect_21: 4688146763139948358
+      enemySpawEffect_210: -4474977526238004671
+      enemySpawEffect_211: -5348318263919450133
+      enemySpawEffect_212: -7651879379739376896
+      enemySpawEffect_213: -384696833263115870
+      enemySpawEffect_214: 8829387255778922857
+      enemySpawEffect_215: -6084807751513065728
+      enemySpawEffect_216: -816434220021848369
+      enemySpawEffect_217: 3804471815935326737
+      enemySpawEffect_218: 1019954566087111947
+      enemySpawEffect_219: 921245903004192717
+      enemySpawEffect_22: 5678421897414018245
+      enemySpawEffect_220: -4093960076573538497
+      enemySpawEffect_221: -4750610529703722513
+      enemySpawEffect_222: 5678256845693924004
+      enemySpawEffect_223: 2842377598501239463
+      enemySpawEffect_224: -7073802619255451431
+      enemySpawEffect_225: -7422876682352519462
+      enemySpawEffect_226: 8156711887898014789
+      enemySpawEffect_227: 8039327472519306721
+      enemySpawEffect_228: 5655156676770592537
+      enemySpawEffect_229: -7233888688376939537
+      enemySpawEffect_23: -303094221753859961
+      enemySpawEffect_230: 1373462445490678933
+      enemySpawEffect_231: -4304552467651562048
+      enemySpawEffect_232: -8063570270449827488
+      enemySpawEffect_233: -3316805396410653963
+      enemySpawEffect_234: 548203813473721328
+      enemySpawEffect_235: 4309771901720904992
+      enemySpawEffect_236: 1588856617302008243
+      enemySpawEffect_237: 2368616206076778635
+      enemySpawEffect_238: -3282620172017655651
+      enemySpawEffect_239: -7219600915190965880
+      enemySpawEffect_24: -511219058944329027
+      enemySpawEffect_240: 3935552789136248266
+      enemySpawEffect_241: -6108343851727028971
+      enemySpawEffect_242: 4980197942926893893
+      enemySpawEffect_243: 9174310084990036280
+      enemySpawEffect_244: -5636220273783189246
+      enemySpawEffect_245: 3758613468226157279
+      enemySpawEffect_246: -4878121988546507080
+      enemySpawEffect_247: 1231219951339307570
+      enemySpawEffect_248: -1447372054334387075
+      enemySpawEffect_249: -988615776451380743
+      enemySpawEffect_25: 5015890780220109299
+      enemySpawEffect_250: -3732699170715669921
+      enemySpawEffect_251: 3952747296617535185
+      enemySpawEffect_252: -5182484128324395419
+      enemySpawEffect_253: -208922395482781767
+      enemySpawEffect_254: 8451146364024789282
+      enemySpawEffect_255: -2311834646159069296
+      enemySpawEffect_256: -6015932383061624456
+      enemySpawEffect_257: -4761103580220569742
+      enemySpawEffect_258: 5467398395584277107
+      enemySpawEffect_259: -2816734626720459517
+      enemySpawEffect_26: -7146032678421203791
+      enemySpawEffect_260: 4448698226355893029
+      enemySpawEffect_261: -8652037529442059881
+      enemySpawEffect_262: -2025729427575734707
+      enemySpawEffect_263: 5699742865290403601
+      enemySpawEffect_264: -514587954449016733
+      enemySpawEffect_265: -5084824312794055382
+      enemySpawEffect_266: -4333568296556323441
+      enemySpawEffect_267: -317922183878810909
+      enemySpawEffect_268: 2206260675883678636
+      enemySpawEffect_269: -2108051889055044932
+      enemySpawEffect_27: 6690964909844893853
+      enemySpawEffect_270: 1846357582219615583
+      enemySpawEffect_271: 8183559165190403495
+      enemySpawEffect_272: -875197391699663183
+      enemySpawEffect_273: -4472539369130696479
+      enemySpawEffect_28: -3674725930197099653
+      enemySpawEffect_29: -6947454987319950577
+      enemySpawEffect_3: 6001273299177799068
+      enemySpawEffect_30: 1618350057189841542
+      enemySpawEffect_31: 5740536759882388543
+      enemySpawEffect_32: 3171211737168148125
+      enemySpawEffect_33: 5951057726912945740
+      enemySpawEffect_34: 5331869547939503910
+      enemySpawEffect_35: 7666258429440837720
+      enemySpawEffect_36: 2781336259877899268
+      enemySpawEffect_37: -7024929494962980655
+      enemySpawEffect_38: -2504644349248240172
+      enemySpawEffect_39: 7081627480926752187
+      enemySpawEffect_4: 5245531820661728611
+      enemySpawEffect_40: -5257855885234255383
+      enemySpawEffect_41: -5955106948107263629
+      enemySpawEffect_42: 7242671969531968136
+      enemySpawEffect_43: -7967350135229832632
+      enemySpawEffect_44: 5900280736415786938
+      enemySpawEffect_45: -386453998848559867
+      enemySpawEffect_46: -6063084261989184180
+      enemySpawEffect_47: 1639606079647833542
+      enemySpawEffect_48: -4912608490307113629
+      enemySpawEffect_49: -2838102138425268250
+      enemySpawEffect_5: -6955114142375055416
+      enemySpawEffect_50: -3732150250001157367
+      enemySpawEffect_51: 372620126804339108
+      enemySpawEffect_52: 708882495492287748
+      enemySpawEffect_53: 3454901612071337591
+      enemySpawEffect_54: 6622867564414931048
+      enemySpawEffect_55: 4205355560858263483
+      enemySpawEffect_56: -881561995837214899
+      enemySpawEffect_57: 118713403057253529
+      enemySpawEffect_58: -186798051851511030
+      enemySpawEffect_59: 4416114254631544161
+      enemySpawEffect_6: 8759274495873245080
+      enemySpawEffect_60: -2065242729721388166
+      enemySpawEffect_61: 2362930355703142767
+      enemySpawEffect_62: -4178406879145801056
+      enemySpawEffect_63: 8809456814167129821
+      enemySpawEffect_64: -3729505493850574914
+      enemySpawEffect_65: -2348422867240060793
+      enemySpawEffect_66: -5095061702177822318
+      enemySpawEffect_67: 4368026040608796549
+      enemySpawEffect_68: -1980349597055615041
+      enemySpawEffect_69: -2270603724424058126
+      enemySpawEffect_7: -775390559186896592
+      enemySpawEffect_70: -2892147150725803337
+      enemySpawEffect_71: -9153487307158363244
+      enemySpawEffect_72: -5337570064524194310
+      enemySpawEffect_73: 6232937230126380628
+      enemySpawEffect_74: 3363149553932130781
+      enemySpawEffect_75: -94498520468616594
+      enemySpawEffect_76: -2858165222716315616
+      enemySpawEffect_77: 7005687527836170219
+      enemySpawEffect_78: -2846645612378776350
+      enemySpawEffect_79: 689793443902126608
+      enemySpawEffect_8: 6533418707968389703
+      enemySpawEffect_80: 9008711597375307167
+      enemySpawEffect_81: -7607170970082081577
+      enemySpawEffect_82: 8382704320163514483
+      enemySpawEffect_83: -7958221362476655850
+      enemySpawEffect_84: 3002467434135820461
+      enemySpawEffect_85: -2456909019843946797
+      enemySpawEffect_86: -176538279670739639
+      enemySpawEffect_87: -4211103795592076020
+      enemySpawEffect_88: 3509528609729837746
+      enemySpawEffect_89: -3997136972907854025
+      enemySpawEffect_9: -7613211542007326980
+      enemySpawEffect_90: 6512030124661956569
+      enemySpawEffect_91: -3827246027459711906
+      enemySpawEffect_92: 1973503492397232703
+      enemySpawEffect_93: -5072142997561884437
+      enemySpawEffect_94: -8631057075477177177
+      enemySpawEffect_95: 7344000058912774385
+      enemySpawEffect_96: -3667043336029740985
+      enemySpawEffect_97: -6443696204792257403
+      enemySpawEffect_98: 2210807618913116745
+      enemySpawEffect_99: 2243657418989116103
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

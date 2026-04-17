@@ -1,0 +1,2821 @@
+fileFormatVersion: 2
+guid: 76d40f177ac50f54196bf0e41d1ec4c0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5094247281951104667
+    second: breakable_platform_small_theBorder64px_0
+  - first:
+      213: 7036569941414175166
+    second: breakable_platform_small_theBorder64px_1
+  - first:
+      213: -2694488505303082802
+    second: breakable_platform_small_theBorder64px_2
+  - first:
+      213: -5167256576811368308
+    second: breakable_platform_small_theBorder64px_3
+  - first:
+      213: 8698937527023762740
+    second: breakable_platform_small_theBorder64px_4
+  - first:
+      213: -1033739736851842866
+    second: breakable_platform_small_theBorder64px_5
+  - first:
+      213: -7398215047808259500
+    second: breakable_platform_small_theBorder64px_6
+  - first:
+      213: 8333694187748752166
+    second: breakable_platform_small_theBorder64px_7
+  - first:
+      213: -8932282138295062700
+    second: breakable_platform_small_theBorder64px_8
+  - first:
+      213: -2330987268085829512
+    second: breakable_platform_small_theBorder64px_9
+  - first:
+      213: 8448656760817374497
+    second: breakable_platform_small_theBorder64px_10
+  - first:
+      213: -6064848118212173364
+    second: breakable_platform_small_theBorder64px_11
+  - first:
+      213: -5916719761920266637
+    second: breakable_platform_small_theBorder64px_12
+  - first:
+      213: 5303674072965676874
+    second: breakable_platform_small_theBorder64px_13
+  - first:
+      213: -987044365987539996
+    second: breakable_platform_small_theBorder64px_14
+  - first:
+      213: -7612908248813176755
+    second: breakable_platform_small_theBorder64px_15
+  - first:
+      213: 5626745668487300933
+    second: breakable_platform_small_theBorder64px_16
+  - first:
+      213: 3867991187808179046
+    second: breakable_platform_small_theBorder64px_17
+  - first:
+      213: -3047622784238521229
+    second: breakable_platform_small_theBorder64px_18
+  - first:
+      213: 6542508973917976005
+    second: breakable_platform_small_theBorder64px_19
+  - first:
+      213: 7208183317950503682
+    second: breakable_platform_small_theBorder64px_20
+  - first:
+      213: -2829858422589363314
+    second: breakable_platform_small_theBorder64px_21
+  - first:
+      213: -3553892834204525140
+    second: breakable_platform_small_theBorder64px_22
+  - first:
+      213: 4443580222188016706
+    second: breakable_platform_small_theBorder64px_23
+  - first:
+      213: -5434359742705205457
+    second: breakable_platform_small_theBorder64px_24
+  - first:
+      213: -63430745225925126
+    second: breakable_platform_small_theBorder64px_25
+  - first:
+      213: 77752216760328925
+    second: breakable_platform_small_theBorder64px_26
+  - first:
+      213: 7461307642080291338
+    second: breakable_platform_small_theBorder64px_27
+  - first:
+      213: 2119657968159985275
+    second: breakable_platform_small_theBorder64px_28
+  - first:
+      213: -1897433069069054109
+    second: breakable_platform_small_theBorder64px_29
+  - first:
+      213: 5475202035853770232
+    second: breakable_platform_small_theBorder64px_30
+  - first:
+      213: -7331660878114506171
+    second: breakable_platform_small_theBorder64px_31
+  - first:
+      213: 658063846007941219
+    second: breakable_platform_small_theBorder64px_32
+  - first:
+      213: 9147007216674605462
+    second: breakable_platform_small_theBorder64px_33
+  - first:
+      213: 4815849824616148036
+    second: breakable_platform_small_theBorder64px_34
+  - first:
+      213: -3779989422173478054
+    second: breakable_platform_small_theBorder64px_35
+  - first:
+      213: -6652590199252696255
+    second: breakable_platform_small_theBorder64px_36
+  - first:
+      213: 1735186856193579225
+    second: breakable_platform_small_theBorder64px_37
+  - first:
+      213: -6700240302222676938
+    second: breakable_platform_small_theBorder64px_38
+  - first:
+      213: 1095234431286118586
+    second: breakable_platform_small_theBorder64px_39
+  - first:
+      213: 3983027033692953859
+    second: breakable_platform_small_theBorder64px_40
+  - first:
+      213: -1181118333578460617
+    second: breakable_platform_small_theBorder64px_41
+  - first:
+      213: 8225368990879879570
+    second: breakable_platform_small_theBorder64px_42
+  - first:
+      213: 2771319118124270718
+    second: breakable_platform_small_theBorder64px_43
+  - first:
+      213: -9168430499263945684
+    second: breakable_platform_small_theBorder64px_44
+  - first:
+      213: 7881307476981157137
+    second: breakable_platform_small_theBorder64px_45
+  - first:
+      213: -2744833343754618198
+    second: breakable_platform_small_theBorder64px_46
+  - first:
+      213: 6529755173658904314
+    second: breakable_platform_small_theBorder64px_47
+  - first:
+      213: 2161201656710433691
+    second: breakable_platform_small_theBorder64px_48
+  - first:
+      213: -1465652865318066423
+    second: breakable_platform_small_theBorder64px_49
+  - first:
+      213: 2747841054416163292
+    second: breakable_platform_small_theBorder64px_50
+  - first:
+      213: 1250245128827608361
+    second: breakable_platform_small_theBorder64px_51
+  - first:
+      213: -8028890336252346729
+    second: breakable_platform_small_theBorder64px_52
+  - first:
+      213: -4384656197544554166
+    second: breakable_platform_small_theBorder64px_53
+  - first:
+      213: -6944124485327192933
+    second: breakable_platform_small_theBorder64px_54
+  - first:
+      213: 6780011699375999839
+    second: breakable_platform_small_theBorder64px_55
+  - first:
+      213: -3256178890474484447
+    second: breakable_platform_small_theBorder64px_56
+  - first:
+      213: -5220908882619251238
+    second: breakable_platform_small_theBorder64px_57
+  - first:
+      213: -4437895748986475238
+    second: breakable_platform_small_theBorder64px_58
+  - first:
+      213: 1346192243862578302
+    second: breakable_platform_small_theBorder64px_59
+  - first:
+      213: -7751858210951329705
+    second: breakable_platform_small_theBorder64px_60
+  - first:
+      213: 287711968194662835
+    second: breakable_platform_small_theBorder64px_61
+  - first:
+      213: 7375151672690034649
+    second: breakable_platform_small_theBorder64px_62
+  - first:
+      213: -7799446141280820946
+    second: breakable_platform_small_theBorder64px_63
+  - first:
+      213: 2791202627679064190
+    second: breakable_platform_small_theBorder64px_64
+  - first:
+      213: -6060710519142916453
+    second: breakable_platform_small_theBorder64px_65
+  - first:
+      213: -8107086934181263441
+    second: breakable_platform_small_theBorder64px_66
+  - first:
+      213: 8922612560926288031
+    second: breakable_platform_small_theBorder64px_67
+  - first:
+      213: 1058791793974597472
+    second: breakable_platform_small_theBorder64px_68
+  - first:
+      213: 8879618535057124779
+    second: breakable_platform_small_theBorder64px_69
+  - first:
+      213: -7499270089164414894
+    second: breakable_platform_small_theBorder64px_70
+  - first:
+      213: 8405747418214195560
+    second: breakable_platform_small_theBorder64px_71
+  - first:
+      213: 5253123468692973334
+    second: breakable_platform_small_theBorder64px_72
+  - first:
+      213: -7282278484295641509
+    second: breakable_platform_small_theBorder64px_73
+  - first:
+      213: 2578344375398615910
+    second: breakable_platform_small_theBorder64px_74
+  - first:
+      213: 3749785688635065911
+    second: breakable_platform_small_theBorder64px_75
+  - first:
+      213: 7414959928314136670
+    second: breakable_platform_small_theBorder64px_76
+  - first:
+      213: -2975535199046033108
+    second: breakable_platform_small_theBorder64px_77
+  - first:
+      213: -6276822832976898903
+    second: breakable_platform_small_theBorder64px_78
+  - first:
+      213: -3214655126838385263
+    second: breakable_platform_small_theBorder64px_79
+  - first:
+      213: 169923760828812286
+    second: breakable_platform_small_theBorder64px_80
+  - first:
+      213: 6441264894983152227
+    second: breakable_platform_small_theBorder64px_81
+  - first:
+      213: -7598249919945689776
+    second: breakable_platform_small_theBorder64px_82
+  - first:
+      213: -7797507685736249552
+    second: breakable_platform_small_theBorder64px_83
+  - first:
+      213: 2109572171484967505
+    second: breakable_platform_small_theBorder64px_84
+  - first:
+      213: 1421251007686559410
+    second: breakable_platform_small_theBorder64px_85
+  - first:
+      213: -5817838275775228817
+    second: breakable_platform_small_theBorder64px_86
+  - first:
+      213: 1056409086913064048
+    second: breakable_platform_small_theBorder64px_87
+  - first:
+      213: 3018175675643436239
+    second: breakable_platform_small_theBorder64px_88
+  - first:
+      213: 8837305510618762000
+    second: breakable_platform_small_theBorder64px_89
+  - first:
+      213: 1201256649264107249
+    second: breakable_platform_small_theBorder64px_90
+  - first:
+      213: 5134566629496888552
+    second: breakable_platform_small_theBorder64px_91
+  - first:
+      213: 4561557193710097141
+    second: breakable_platform_small_theBorder64px_92
+  - first:
+      213: 1456968157318546138
+    second: breakable_platform_small_theBorder64px_93
+  - first:
+      213: -4697038485575864184
+    second: breakable_platform_small_theBorder64px_94
+  - first:
+      213: 4321426061886850525
+    second: breakable_platform_small_theBorder64px_95
+  - first:
+      213: 3040354699420478135
+    second: breakable_platform_small_theBorder64px_96
+  - first:
+      213: 3823956786131671370
+    second: breakable_platform_small_theBorder64px_97
+  - first:
+      213: 1132839263724484423
+    second: breakable_platform_small_theBorder64px_98
+  - first:
+      213: -3946987809259849379
+    second: breakable_platform_small_theBorder64px_99
+  - first:
+      213: 2632298894345479272
+    second: breakable_platform_small_theBorder64px_100
+  - first:
+      213: -718939966261322063
+    second: breakable_platform_small_theBorder64px_101
+  - first:
+      213: 8806340518805200995
+    second: breakable_platform_small_theBorder64px_102
+  - first:
+      213: -4710161486342373989
+    second: breakable_platform_small_theBorder64px_103
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder64px_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 714
+        width: 66
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5612e4966199d49b0800000000000000
+      internalID: -5094247281951104667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder64px_1
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 713
+        width: 66
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb1ee23941be6a160800000000000000
+      internalID: 7036569941414175166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder64px_2
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 712
+        width: 66
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec8590efaf04b9ad0800000000000000
+      internalID: -2694488505303082802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder64px_3
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 710
+        width: 66
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c808bdb45873a48b0800000000000000
+      internalID: -5167256576811368308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder64px_4
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 707
+        width: 66
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43df0958795d8b870800000000000000
+      internalID: 8698937527023762740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder64px_5
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 702
+        width: 66
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec87db2bf2b67a1f0800000000000000
+      internalID: -1033739736851842866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder64px_6
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 697
+        width: 66
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45a60778c92445990800000000000000
+      internalID: -7398215047808259500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder64px_7
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 560
+        width: 66
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62b708fb5ba37a370800000000000000
+      internalID: 8333694187748752166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder64px_8
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 554
+        width: 66
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45f2b5178b82a0480800000000000000
+      internalID: -8932282138295062700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder64px_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 544
+        width: 66
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87039c50e6ba6afd0800000000000000
+      internalID: -2330987268085829512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder64px_10
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 552
+        width: 66
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 125d8b1af88af3570800000000000000
+      internalID: 8448656760817374497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder64px_11
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 581
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc16449f4c455dba0800000000000000
+      internalID: -6064848118212173364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder64px_12
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 546
+        width: 66
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37e653389b693eda0800000000000000
+      internalID: -5916719761920266637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder64px_13
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 545
+        width: 66
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4f7193287f6a9940800000000000000
+      internalID: 5303674072965676874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder64px_14
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 586
+        width: 66
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e313c3f0605d42f0800000000000000
+      internalID: -987044365987539996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder64px_15
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 573
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4879d95844895690800000000000000
+      internalID: -7612908248813176755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder64px_16
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 453
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54747abaf57361e40800000000000000
+      internalID: 5626745668487300933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder64px_17
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 450
+        width: 67
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 663d5a7ed7ddda530800000000000000
+      internalID: 3867991187808179046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder64px_18
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 447
+        width: 70
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3747318893ba4b5d0800000000000000
+      internalID: -3047622784238521229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder64px_19
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 441
+        width: 73
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c5bf228f39abca50800000000000000
+      internalID: 6542508973917976005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder64px_20
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 435
+        width: 77
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20b165e798c980460800000000000000
+      internalID: 7208183317950503682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder64px_21
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 425
+        width: 82
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8be9e402c25ab8d0800000000000000
+      internalID: -2829858422589363314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder64px_22
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 457
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cadde6feb490eaec0800000000000000
+      internalID: -3553892834204525140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder64px_23
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 431
+        width: 67
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 244d7724ba4caad30800000000000000
+      internalID: 4443580222188016706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder64px_24
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 464
+        width: 30
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2f7f524b964594b0800000000000000
+      internalID: -5434359742705205457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder64px_25
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 463
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afd68f2c216ae1ff0800000000000000
+      internalID: -63430745225925126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder64px_26
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 441
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd2af7caa3b341100800000000000000
+      internalID: 77752216760328925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder64px_27
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 436
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0a6a1ec4c3eb8760800000000000000
+      internalID: 7461307642080291338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder64px_28
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 429
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7e808d01b98a6d10800000000000000
+      internalID: 2119657968159985275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder64px_29
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 440
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36f4f0d3da6faa5e0800000000000000
+      internalID: -1897433069069054109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder64px_30
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 442
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fd3f842e33dbfb40800000000000000
+      internalID: 5475202035853770232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder64px_31
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 430
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54a3b52b645b04a90800000000000000
+      internalID: -7331660878114506171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder64px_32
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 426
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 368a4d4d499e12900800000000000000
+      internalID: 658063846007941219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder64px_33
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 358
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69903d3c992b0fe70800000000000000
+      internalID: 9147007216674605462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder64px_34
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 366
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44c6fd766e555d240800000000000000
+      internalID: 4815849824616148036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder64px_35
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 362
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a53ad94d5a7ca8bc0800000000000000
+      internalID: -3779989422173478054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder64px_36
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 361
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1434c41f5704da3a0800000000000000
+      internalID: -6652590199252696255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder64px_37
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 356
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d85856904f941810800000000000000
+      internalID: 1735186856193579225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder64px_38
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 363
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63ce24cc1f6f303a0800000000000000
+      internalID: -6700240302222676938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder64px_39
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 360
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab8069699ed033f00800000000000000
+      internalID: 1095234431286118586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder64px_40
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 358
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30ddb02fbfd864730800000000000000
+      internalID: 3983027033692953859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder64px_41
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 353
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 732ca592223db9fe0800000000000000
+      internalID: -1181118333578460617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder64px_42
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 358
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29198ef6481662270800000000000000
+      internalID: 8225368990879879570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder64px_43
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 354
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e74cb0b0e04b57620800000000000000
+      internalID: 2771319118124270718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder64px_44
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 354
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c24e38f890133c080800000000000000
+      internalID: -9168430499263945684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder64px_45
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 329
+        width: 44
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11d8713b467006d60800000000000000
+      internalID: 7881307476981157137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder64px_46
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 326
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaabbd9dd9468e9d0800000000000000
+      internalID: -2744833343754618198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder64px_47
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 318
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af6453cfbb95e9a50800000000000000
+      internalID: 6529755173658904314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder64px_48
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 328
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9b063cc4712efd10800000000000000
+      internalID: 2161201656710433691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder64px_49
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 314
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 907eeaefb74f8abe0800000000000000
+      internalID: -1465652865318066423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder64px_50
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 335
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd1d5bb51ea422620800000000000000
+      internalID: 2747841054416163292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder64px_51
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 329
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92d9ee11253c95110800000000000000
+      internalID: 1250245128827608361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder64px_52
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 316
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79ebc1f27c6a39090800000000000000
+      internalID: -8028890336252346729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder64px_53
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 335
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4154235b629623c0800000000000000
+      internalID: -4384656197544554166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder64px_54
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 331
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9cfaf7729381af90800000000000000
+      internalID: -6944124485327192933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder64px_55
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 319
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5b8c42f7b0771e50800000000000000
+      internalID: 6780011699375999839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder64px_56
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 318
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12d84241d8abfc2d0800000000000000
+      internalID: -3256178890474484447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder64px_57
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 319
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad54cc6680b9b87b0800000000000000
+      internalID: -5220908882619251238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder64px_58
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 335
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1de17b445d6962c0800000000000000
+      internalID: -4437895748986475238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder64px_59
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 327
+        width: 77
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e74a0de96b2aea210800000000000000
+      internalID: 1346192243862578302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder64px_60
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 323
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7580d0b370edb6490800000000000000
+      internalID: -7751858210951329705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder64px_61
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 318
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b11fddb2882ef300800000000000000
+      internalID: 287711968194662835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder64px_62
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 326
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d7415ffe5dc95660800000000000000
+      internalID: 7375151672690034649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder64px_63
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 312
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e216a28ce0dc2c390800000000000000
+      internalID: -7799446141280820946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder64px_64
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 311
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7092fe50085cb620800000000000000
+      internalID: 2791202627679064190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder64px_65
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 315
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9e5304d4e704eba0800000000000000
+      internalID: -6060710519142916453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder64px_66
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 313
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa74ae4f267dd7f80800000000000000
+      internalID: -8107086934181263441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder64px_67
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 315
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f982372a9dc73db70800000000000000
+      internalID: 8922612560926288031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder64px_68
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 313
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06754f2e68591be00800000000000000
+      internalID: 1058791793974597472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder64px_69
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 311
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baded0be20eba3b70800000000000000
+      internalID: 8879618535057124779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder64px_70
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 299
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 250a4a4369d3de790800000000000000
+      internalID: -7499270089164414894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder64px_71
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 307
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8616056cdb637a470800000000000000
+      internalID: 8405747418214195560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder64px_72
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 311
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61766b866f7d6e840800000000000000
+      internalID: 5253123468692973334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder64px_73
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 311
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b56961c3d4620fa90800000000000000
+      internalID: -7282278484295641509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder64px_74
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 294
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66bc24c7c8e18c320800000000000000
+      internalID: 2578344375398615910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder64px_75
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 299
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 736cfe2773ae90430800000000000000
+      internalID: 3749785688635065911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder64px_76
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 304
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e588be6c4ca37e660800000000000000
+      internalID: 7414959928314136670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder64px_77
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 289
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c21a0346086c4b6d0800000000000000
+      internalID: -2975535199046033108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder64px_78
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 301
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a4d952b3ee34e8a0800000000000000
+      internalID: -6276822832976898903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder64px_79
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 297
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 195e861b1304363d0800000000000000
+      internalID: -3214655126838385263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder64px_80
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 301
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efb891b92c0bb5200800000000000000
+      internalID: 169923760828812286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder64px_81
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 298
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3622aa17b48f36950800000000000000
+      internalID: 6441264894983152227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder64px_82
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 297
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0553ffe74f79d8690800000000000000
+      internalID: -7598249919945689776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder64px_83
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 303
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0370052a210b9c390800000000000000
+      internalID: -7797507685736249552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder64px_84
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 287
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 152396586b4b64d10800000000000000
+      internalID: 2109572171484967505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder64px_85
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 278
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b6c2d9e24c49b310800000000000000
+      internalID: 1421251007686559410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder64px_86
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 279
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f641fb399e2e24fa0800000000000000
+      internalID: -5817838275775228817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder64px_87
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 286
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07ca2faa77e19ae00800000000000000
+      internalID: 1056409086913064048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder64px_88
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 293
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcc937839c6b2e920800000000000000
+      internalID: 3018175675643436239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder64px_89
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 285
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01b88043a8a64aa70800000000000000
+      internalID: 8837305510618762000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder64px_90
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 286
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fe8677de88bba010800000000000000
+      internalID: 1201256649264107249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder64px_91
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 292
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ec9cba3525a14740800000000000000
+      internalID: 5134566629496888552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder64px_92
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 282
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f2d7b97918ed4f30800000000000000
+      internalID: 4561557193710097141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder64px_93
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 274
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad2070ad1d0383410800000000000000
+      internalID: 1456968157318546138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder64px_94
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 202
+        width: 66
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88079e22264c0deb0800000000000000
+      internalID: -4697038485575864184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder64px_95
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 200
+        width: 66
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd581ed7b1ac8fb30800000000000000
+      internalID: 4321426061886850525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder64px_96
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 200
+        width: 66
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7baa52a9d72813a20800000000000000
+      internalID: 3040354699420478135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder64px_97
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 198
+        width: 66
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4992d1df6c611530800000000000000
+      internalID: 3823956786131671370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder64px_98
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 195
+        width: 66
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 747b9edee47a8bf00800000000000000
+      internalID: 1132839263724484423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder64px_99
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 192
+        width: 66
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d59f440ef7b7939c0800000000000000
+      internalID: -3946987809259849379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder64px_100
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 187
+        width: 66
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 864ad1cd5edc78420800000000000000
+      internalID: 2632298894345479272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder64px_101
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 49
+        width: 66
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1be9928e8efc506f0800000000000000
+      internalID: -718939966261322063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder64px_102
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 42
+        width: 66
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 360638a3b08663a70800000000000000
+      internalID: 8806340518805200995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder64px_103
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 74
+        width: 66
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9d36db651522aeb0800000000000000
+      internalID: -4710161486342373989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      breakable_platform_small_theBorder64px_0: -5094247281951104667
+      breakable_platform_small_theBorder64px_1: 7036569941414175166
+      breakable_platform_small_theBorder64px_10: 8448656760817374497
+      breakable_platform_small_theBorder64px_100: 2632298894345479272
+      breakable_platform_small_theBorder64px_101: -718939966261322063
+      breakable_platform_small_theBorder64px_102: 8806340518805200995
+      breakable_platform_small_theBorder64px_103: -4710161486342373989
+      breakable_platform_small_theBorder64px_11: -6064848118212173364
+      breakable_platform_small_theBorder64px_12: -5916719761920266637
+      breakable_platform_small_theBorder64px_13: 5303674072965676874
+      breakable_platform_small_theBorder64px_14: -987044365987539996
+      breakable_platform_small_theBorder64px_15: -7612908248813176755
+      breakable_platform_small_theBorder64px_16: 5626745668487300933
+      breakable_platform_small_theBorder64px_17: 3867991187808179046
+      breakable_platform_small_theBorder64px_18: -3047622784238521229
+      breakable_platform_small_theBorder64px_19: 6542508973917976005
+      breakable_platform_small_theBorder64px_2: -2694488505303082802
+      breakable_platform_small_theBorder64px_20: 7208183317950503682
+      breakable_platform_small_theBorder64px_21: -2829858422589363314
+      breakable_platform_small_theBorder64px_22: -3553892834204525140
+      breakable_platform_small_theBorder64px_23: 4443580222188016706
+      breakable_platform_small_theBorder64px_24: -5434359742705205457
+      breakable_platform_small_theBorder64px_25: -63430745225925126
+      breakable_platform_small_theBorder64px_26: 77752216760328925
+      breakable_platform_small_theBorder64px_27: 7461307642080291338
+      breakable_platform_small_theBorder64px_28: 2119657968159985275
+      breakable_platform_small_theBorder64px_29: -1897433069069054109
+      breakable_platform_small_theBorder64px_3: -5167256576811368308
+      breakable_platform_small_theBorder64px_30: 5475202035853770232
+      breakable_platform_small_theBorder64px_31: -7331660878114506171
+      breakable_platform_small_theBorder64px_32: 658063846007941219
+      breakable_platform_small_theBorder64px_33: 9147007216674605462
+      breakable_platform_small_theBorder64px_34: 4815849824616148036
+      breakable_platform_small_theBorder64px_35: -3779989422173478054
+      breakable_platform_small_theBorder64px_36: -6652590199252696255
+      breakable_platform_small_theBorder64px_37: 1735186856193579225
+      breakable_platform_small_theBorder64px_38: -6700240302222676938
+      breakable_platform_small_theBorder64px_39: 1095234431286118586
+      breakable_platform_small_theBorder64px_4: 8698937527023762740
+      breakable_platform_small_theBorder64px_40: 3983027033692953859
+      breakable_platform_small_theBorder64px_41: -1181118333578460617
+      breakable_platform_small_theBorder64px_42: 8225368990879879570
+      breakable_platform_small_theBorder64px_43: 2771319118124270718
+      breakable_platform_small_theBorder64px_44: -9168430499263945684
+      breakable_platform_small_theBorder64px_45: 7881307476981157137
+      breakable_platform_small_theBorder64px_46: -2744833343754618198
+      breakable_platform_small_theBorder64px_47: 6529755173658904314
+      breakable_platform_small_theBorder64px_48: 2161201656710433691
+      breakable_platform_small_theBorder64px_49: -1465652865318066423
+      breakable_platform_small_theBorder64px_5: -1033739736851842866
+      breakable_platform_small_theBorder64px_50: 2747841054416163292
+      breakable_platform_small_theBorder64px_51: 1250245128827608361
+      breakable_platform_small_theBorder64px_52: -8028890336252346729
+      breakable_platform_small_theBorder64px_53: -4384656197544554166
+      breakable_platform_small_theBorder64px_54: -6944124485327192933
+      breakable_platform_small_theBorder64px_55: 6780011699375999839
+      breakable_platform_small_theBorder64px_56: -3256178890474484447
+      breakable_platform_small_theBorder64px_57: -5220908882619251238
+      breakable_platform_small_theBorder64px_58: -4437895748986475238
+      breakable_platform_small_theBorder64px_59: 1346192243862578302
+      breakable_platform_small_theBorder64px_6: -7398215047808259500
+      breakable_platform_small_theBorder64px_60: -7751858210951329705
+      breakable_platform_small_theBorder64px_61: 287711968194662835
+      breakable_platform_small_theBorder64px_62: 7375151672690034649
+      breakable_platform_small_theBorder64px_63: -7799446141280820946
+      breakable_platform_small_theBorder64px_64: 2791202627679064190
+      breakable_platform_small_theBorder64px_65: -6060710519142916453
+      breakable_platform_small_theBorder64px_66: -8107086934181263441
+      breakable_platform_small_theBorder64px_67: 8922612560926288031
+      breakable_platform_small_theBorder64px_68: 1058791793974597472
+      breakable_platform_small_theBorder64px_69: 8879618535057124779
+      breakable_platform_small_theBorder64px_7: 8333694187748752166
+      breakable_platform_small_theBorder64px_70: -7499270089164414894
+      breakable_platform_small_theBorder64px_71: 8405747418214195560
+      breakable_platform_small_theBorder64px_72: 5253123468692973334
+      breakable_platform_small_theBorder64px_73: -7282278484295641509
+      breakable_platform_small_theBorder64px_74: 2578344375398615910
+      breakable_platform_small_theBorder64px_75: 3749785688635065911
+      breakable_platform_small_theBorder64px_76: 7414959928314136670
+      breakable_platform_small_theBorder64px_77: -2975535199046033108
+      breakable_platform_small_theBorder64px_78: -6276822832976898903
+      breakable_platform_small_theBorder64px_79: -3214655126838385263
+      breakable_platform_small_theBorder64px_8: -8932282138295062700
+      breakable_platform_small_theBorder64px_80: 169923760828812286
+      breakable_platform_small_theBorder64px_81: 6441264894983152227
+      breakable_platform_small_theBorder64px_82: -7598249919945689776
+      breakable_platform_small_theBorder64px_83: -7797507685736249552
+      breakable_platform_small_theBorder64px_84: 2109572171484967505
+      breakable_platform_small_theBorder64px_85: 1421251007686559410
+      breakable_platform_small_theBorder64px_86: -5817838275775228817
+      breakable_platform_small_theBorder64px_87: 1056409086913064048
+      breakable_platform_small_theBorder64px_88: 3018175675643436239
+      breakable_platform_small_theBorder64px_89: 8837305510618762000
+      breakable_platform_small_theBorder64px_9: -2330987268085829512
+      breakable_platform_small_theBorder64px_90: 1201256649264107249
+      breakable_platform_small_theBorder64px_91: 5134566629496888552
+      breakable_platform_small_theBorder64px_92: 4561557193710097141
+      breakable_platform_small_theBorder64px_93: 1456968157318546138
+      breakable_platform_small_theBorder64px_94: -4697038485575864184
+      breakable_platform_small_theBorder64px_95: 4321426061886850525
+      breakable_platform_small_theBorder64px_96: 3040354699420478135
+      breakable_platform_small_theBorder64px_97: 3823956786131671370
+      breakable_platform_small_theBorder64px_98: 1132839263724484423
+      breakable_platform_small_theBorder64px_99: -3946987809259849379
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

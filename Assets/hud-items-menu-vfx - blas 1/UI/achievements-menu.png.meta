@@ -1,0 +1,1391 @@
+fileFormatVersion: 2
+guid: 70e7d2b86b0b9cb418cb3eeda81d5d5c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -530871186233032176
+    second: achievements-menu_0
+  - first:
+      213: 5401755591770272930
+    second: achievements-menu_1
+  - first:
+      213: 7048575367337102020
+    second: achievements-menu_2
+  - first:
+      213: -8152836050865448748
+    second: achievements-menu_3
+  - first:
+      213: 7681549660614049140
+    second: achievements-menu_4
+  - first:
+      213: 761882405852016180
+    second: achievements-menu_5
+  - first:
+      213: -5999990547750916162
+    second: achievements-menu_6
+  - first:
+      213: -6106299989816115392
+    second: achievements-menu_7
+  - first:
+      213: 8463067039465612047
+    second: achievements-menu_8
+  - first:
+      213: -2208425341708209770
+    second: achievements-menu_9
+  - first:
+      213: -1984401812947999514
+    second: achievements-menu_10
+  - first:
+      213: -7617550386563276522
+    second: achievements-menu_11
+  - first:
+      213: 7948097366895837638
+    second: achievements-menu_12
+  - first:
+      213: -5662168989662915247
+    second: achievements-menu_13
+  - first:
+      213: -3298439698438678075
+    second: achievements-menu_14
+  - first:
+      213: -1716051788954806981
+    second: achievements-menu_15
+  - first:
+      213: 8507481323707865066
+    second: achievements-menu_16
+  - first:
+      213: 1516187748684323184
+    second: achievements-menu_17
+  - first:
+      213: -5178298231015407695
+    second: achievements-menu_18
+  - first:
+      213: 988293548626686277
+    second: achievements-menu_19
+  - first:
+      213: 83222687669620435
+    second: achievements-menu_20
+  - first:
+      213: -1946900847164354285
+    second: achievements-menu_21
+  - first:
+      213: -2873608863441334877
+    second: achievements-menu_22
+  - first:
+      213: 8281058263224495155
+    second: achievements-menu_23
+  - first:
+      213: 6658218451336205299
+    second: achievements-menu_24
+  - first:
+      213: -2703761051019797350
+    second: achievements-menu_25
+  - first:
+      213: 388770976324244166
+    second: achievements-menu_26
+  - first:
+      213: -6490571648549774289
+    second: achievements-menu_27
+  - first:
+      213: 5442570126311912234
+    second: achievements-menu_28
+  - first:
+      213: -7955775097139203069
+    second: achievements-menu_29
+  - first:
+      213: 4321369083698933009
+    second: achievements-menu_30
+  - first:
+      213: 3542553659982844966
+    second: achievements-menu_31
+  - first:
+      213: 1633926957726775822
+    second: achievements-menu_32
+  - first:
+      213: 1245224127298120382
+    second: achievements-menu_33
+  - first:
+      213: -1807272684099726507
+    second: achievements-menu_34
+  - first:
+      213: 8192102760927453321
+    second: achievements-menu_35
+  - first:
+      213: -2941758658466108638
+    second: achievements-menu_36
+  - first:
+      213: 1325546036788768702
+    second: achievements-menu_37
+  - first:
+      213: -6200098363061364463
+    second: achievements-menu_38
+  - first:
+      213: 2109465333851025519
+    second: achievements-menu_39
+  - first:
+      213: 2911680450900192315
+    second: achievements-menu_40
+  - first:
+      213: 5521996703913781826
+    second: achievements-menu_41
+  - first:
+      213: -408086970365399622
+    second: achievements-menu_42
+  - first:
+      213: -1417320236695226833
+    second: achievements-menu_43
+  - first:
+      213: -7574476901532436339
+    second: achievements-menu_44
+  - first:
+      213: -1096718001393907912
+    second: achievements-menu_45
+  - first:
+      213: -3056040668544805890
+    second: achievements-menu_46
+  - first:
+      213: 291628056131240303
+    second: achievements-menu_47
+  - first:
+      213: 7313108290642757949
+    second: achievements-menu_48
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: achievements-menu_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 178
+        width: 485
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01207130877f1a8f0800000000000000
+      internalID: -530871186233032176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievements-menu_1
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 222
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a472fa4714e6fa40800000000000000
+      internalID: 5401755591770272930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievements-menu_2
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 188
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ca42be93f191d160800000000000000
+      internalID: 7048575367337102020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievements-menu_3
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 222
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d89a2caece4bde80800000000000000
+      internalID: -8152836050865448748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievements-menu_4
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 188
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47d3c6db7b85a9a60800000000000000
+      internalID: 7681549660614049140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievements-menu_5
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 222
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43eed61f200c29a00800000000000000
+      internalID: 761882405852016180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievements-menu_6
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 188
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebfea99d260cbbca0800000000000000
+      internalID: -5999990547750916162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievements-menu_7
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 222
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04ff9070380124ba0800000000000000
+      internalID: -6106299989816115392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievements-menu_8
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 188
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f032aa512aad27570800000000000000
+      internalID: 8463067039465612047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievements-menu_9
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 222
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 691f28a3ad81a51e0800000000000000
+      internalID: -2208425341708209770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievements-menu_10
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 188
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e4e79f901df574e0800000000000000
+      internalID: -1984401812947999514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievements-menu_11
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 222
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 611a14e6846094690800000000000000
+      internalID: -7617550386563276522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievements-menu_12
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 188
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c14b02c1705d4e60800000000000000
+      internalID: 7948097366895837638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievements-menu_13
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 222
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 155d8e8ad4feb61b0800000000000000
+      internalID: -5662168989662915247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievements-menu_14
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 188
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c91485f1969932d0800000000000000
+      internalID: -3298439698438678075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievements-menu_15
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 222
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b35dc2f6dfb5f28e0800000000000000
+      internalID: -1716051788954806981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievements-menu_16
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 188
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae790e87035a01670800000000000000
+      internalID: 8507481323707865066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievements-menu_17
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 222
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 079d02d69b49a0510800000000000000
+      internalID: 1516187748684323184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievements-menu_18
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 188
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bffa47d13df228b0800000000000000
+      internalID: -5178298231015407695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievements-menu_19
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 222
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54134bb0fbf17bd00800000000000000
+      internalID: 988293548626686277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievements-menu_20
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 188
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3de0dcfe79aa72100800000000000000
+      internalID: 83222687669620435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievements-menu_21
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 222
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3119cdf9ef73bf4e0800000000000000
+      internalID: -1946900847164354285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievements-menu_22
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 188
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ad4a27b6f3ee18d0800000000000000
+      internalID: -2873608863441334877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievements-menu_23
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 222
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33c2fcf8d9a3ce270800000000000000
+      internalID: 8281058263224495155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievements-menu_24
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 188
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f398dc976eb66c50800000000000000
+      internalID: 6658218451336205299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievements-menu_25
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 222
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9c9d6436af4a7ad0800000000000000
+      internalID: -2703761051019797350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievements-menu_26
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 188
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c2d9c6a421356500800000000000000
+      internalID: 388770976324244166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievements-menu_27
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 222
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2c18f2697bdce5a0800000000000000
+      internalID: -6490571648549774289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievements-menu_28
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 188
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2379f3a1b4e78b40800000000000000
+      internalID: 5442570126311912234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievements-menu_29
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 222
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3047e1e53b8679190800000000000000
+      internalID: -7955775097139203069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievements-menu_30
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 188
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11dea39394698fb30800000000000000
+      internalID: 4321369083698933009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievements-menu_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 94
+        width: 485
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6249905d8cda92130800000000000000
+      internalID: 3542553659982844966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievements-menu_32
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 154
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0a3d3049efdca610800000000000000
+      internalID: 1633926957726775822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievements-menu_33
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 120
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebaa95d0fbce74110800000000000000
+      internalID: 1245224127298120382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievements-menu_34
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 154
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55318f3b1174be6e0800000000000000
+      internalID: -1807272684099726507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievements-menu_35
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 120
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 980e394be0230b170800000000000000
+      internalID: 8192102760927453321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievements-menu_36
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 154
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22ba2331616cc27d0800000000000000
+      internalID: -2941758658466108638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievements-menu_37
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 154
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebfa830f819456210800000000000000
+      internalID: 1325546036788768702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievements-menu_38
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 154
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1191f396363d4f9a0800000000000000
+      internalID: -6200098363061364463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievements-menu_39
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 154
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f60f0327b83564d10800000000000000
+      internalID: 2109465333851025519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievements-menu_40
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 154
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3cea5f71fd586820800000000000000
+      internalID: 2911680450900192315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievements-menu_41
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 154
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24aa8a3deb212ac40800000000000000
+      internalID: 5521996703913781826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievements-menu_42
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 154
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abda7e5001f265af0800000000000000
+      internalID: -408086970365399622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievements-menu_43
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 154
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f26fec601caa45ce0800000000000000
+      internalID: -1417320236695226833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievements-menu_44
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 154
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d88f1cca36d02e690800000000000000
+      internalID: -7574476901532436339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievements-menu_45
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 154
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 837c324d9cca7c0f0800000000000000
+      internalID: -1096718001393907912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievements-menu_46
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 154
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef35d3c1433c695d0800000000000000
+      internalID: -3056040668544805890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievements-menu_47
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 154
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f618d340c221c0400800000000000000
+      internalID: 291628056131240303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievements-menu_48
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 154
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d39c9bb6e316d7560800000000000000
+      internalID: 7313108290642757949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      achievements-menu_0: -530871186233032176
+      achievements-menu_1: 5401755591770272930
+      achievements-menu_10: -1984401812947999514
+      achievements-menu_11: -7617550386563276522
+      achievements-menu_12: 7948097366895837638
+      achievements-menu_13: -5662168989662915247
+      achievements-menu_14: -3298439698438678075
+      achievements-menu_15: -1716051788954806981
+      achievements-menu_16: 8507481323707865066
+      achievements-menu_17: 1516187748684323184
+      achievements-menu_18: -5178298231015407695
+      achievements-menu_19: 988293548626686277
+      achievements-menu_2: 7048575367337102020
+      achievements-menu_20: 83222687669620435
+      achievements-menu_21: -1946900847164354285
+      achievements-menu_22: -2873608863441334877
+      achievements-menu_23: 8281058263224495155
+      achievements-menu_24: 6658218451336205299
+      achievements-menu_25: -2703761051019797350
+      achievements-menu_26: 388770976324244166
+      achievements-menu_27: -6490571648549774289
+      achievements-menu_28: 5442570126311912234
+      achievements-menu_29: -7955775097139203069
+      achievements-menu_3: -8152836050865448748
+      achievements-menu_30: 4321369083698933009
+      achievements-menu_31: 3542553659982844966
+      achievements-menu_32: 1633926957726775822
+      achievements-menu_33: 1245224127298120382
+      achievements-menu_34: -1807272684099726507
+      achievements-menu_35: 8192102760927453321
+      achievements-menu_36: -2941758658466108638
+      achievements-menu_37: 1325546036788768702
+      achievements-menu_38: -6200098363061364463
+      achievements-menu_39: 2109465333851025519
+      achievements-menu_4: 7681549660614049140
+      achievements-menu_40: 2911680450900192315
+      achievements-menu_41: 5521996703913781826
+      achievements-menu_42: -408086970365399622
+      achievements-menu_43: -1417320236695226833
+      achievements-menu_44: -7574476901532436339
+      achievements-menu_45: -1096718001393907912
+      achievements-menu_46: -3056040668544805890
+      achievements-menu_47: 291628056131240303
+      achievements-menu_48: 7313108290642757949
+      achievements-menu_5: 761882405852016180
+      achievements-menu_6: -5999990547750916162
+      achievements-menu_7: -6106299989816115392
+      achievements-menu_8: 8463067039465612047
+      achievements-menu_9: -2208425341708209770
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

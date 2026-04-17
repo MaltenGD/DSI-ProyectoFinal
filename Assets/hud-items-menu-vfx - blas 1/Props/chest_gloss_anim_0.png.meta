@@ -1,0 +1,507 @@
+fileFormatVersion: 2
+guid: 2ee37320d829fd54d87a067bbd8d38ea
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1650092508913972040
+    second: chest_gloss_anim_0_0
+  - first:
+      213: 286505787128076984
+    second: chest_gloss_anim_0_1
+  - first:
+      213: 3721763239760927215
+    second: chest_gloss_anim_0_2
+  - first:
+      213: -8511314685293509981
+    second: chest_gloss_anim_0_3
+  - first:
+      213: 1592832735494350522
+    second: chest_gloss_anim_0_4
+  - first:
+      213: 7569005300473874297
+    second: chest_gloss_anim_0_5
+  - first:
+      213: 2569587544475509037
+    second: chest_gloss_anim_0_6
+  - first:
+      213: 5533265046296615935
+    second: chest_gloss_anim_0_7
+  - first:
+      213: -3638075450212568754
+    second: chest_gloss_anim_0_8
+  - first:
+      213: -3775447983416564815
+    second: chest_gloss_anim_0_9
+  - first:
+      213: -3163055267374211143
+    second: chest_gloss_anim_0_10
+  - first:
+      213: 4790801515588386139
+    second: chest_gloss_anim_0_11
+  - first:
+      213: -2035867102879514720
+    second: chest_gloss_anim_0_12
+  - first:
+      213: 2552815834320849006
+    second: chest_gloss_anim_0_13
+  - first:
+      213: -4394752061041042264
+    second: chest_gloss_anim_0_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: chest_gloss_anim_0_0
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 142
+        width: 49
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bc46af0b91b919e0800000000000000
+      internalID: -1650092508913972040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_gloss_anim_0_1
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 142
+        width: 49
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8badcd3de7fd9f300800000000000000
+      internalID: 286505787128076984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_gloss_anim_0_2
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 142
+        width: 49
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe99e04a2fb56a330800000000000000
+      internalID: 3721763239760927215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_gloss_anim_0_3
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 142
+        width: 49
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a2c38b736cb1e980800000000000000
+      internalID: -8511314685293509981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_gloss_anim_0_4
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 142
+        width: 49
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab621c90fe0ea1610800000000000000
+      internalID: 1592832735494350522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_gloss_anim_0_5
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 142
+        width: 49
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9774bcde7328a0960800000000000000
+      internalID: 7569005300473874297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_gloss_anim_0_6
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 142
+        width: 49
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d212bb7e14209a320800000000000000
+      internalID: 2569587544475509037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_gloss_anim_0_7
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 142
+        width: 49
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffb589c3e3b1acc40800000000000000
+      internalID: 5533265046296615935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_gloss_anim_0_8
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 14
+        width: 49
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e41b20447a5f28dc0800000000000000
+      internalID: -3638075450212568754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_gloss_anim_0_9
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 14
+        width: 49
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b3ad70ff0aea9bc0800000000000000
+      internalID: -3775447983416564815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_gloss_anim_0_10
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 14
+        width: 49
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bf5b3f2ef19a14d0800000000000000
+      internalID: -3163055267374211143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_gloss_anim_0_11
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 14
+        width: 49
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5d7c0e78985c7240800000000000000
+      internalID: 4790801515588386139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_gloss_anim_0_12
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 14
+        width: 49
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0af76fa08a52fb3e0800000000000000
+      internalID: -2035867102879514720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_gloss_anim_0_13
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 14
+        width: 49
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e68cfa5d97c6d6320800000000000000
+      internalID: 2552815834320849006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_gloss_anim_0_14
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 14
+        width: 49
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ac9bbde844b203c0800000000000000
+      internalID: -4394752061041042264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      chest_gloss_anim_0_0: -1650092508913972040
+      chest_gloss_anim_0_1: 286505787128076984
+      chest_gloss_anim_0_10: -3163055267374211143
+      chest_gloss_anim_0_11: 4790801515588386139
+      chest_gloss_anim_0_12: -2035867102879514720
+      chest_gloss_anim_0_13: 2552815834320849006
+      chest_gloss_anim_0_14: -4394752061041042264
+      chest_gloss_anim_0_2: 3721763239760927215
+      chest_gloss_anim_0_3: -8511314685293509981
+      chest_gloss_anim_0_4: 1592832735494350522
+      chest_gloss_anim_0_5: 7569005300473874297
+      chest_gloss_anim_0_6: 2569587544475509037
+      chest_gloss_anim_0_7: 5533265046296615935
+      chest_gloss_anim_0_8: -3638075450212568754
+      chest_gloss_anim_0_9: -3775447983416564815
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

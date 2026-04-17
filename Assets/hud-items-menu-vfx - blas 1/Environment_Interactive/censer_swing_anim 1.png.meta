@@ -1,0 +1,949 @@
+fileFormatVersion: 2
+guid: b6fa9559f4f04b04bbe5a315e48bbfb6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -544417923850764554
+    second: censer_swing_anim 1_0
+  - first:
+      213: -4132195085157453922
+    second: censer_swing_anim 1_1
+  - first:
+      213: -7236947375890338700
+    second: censer_swing_anim 1_2
+  - first:
+      213: -2167840307300647158
+    second: censer_swing_anim 1_3
+  - first:
+      213: -6780299149736025027
+    second: censer_swing_anim 1_4
+  - first:
+      213: -5758077226458002514
+    second: censer_swing_anim 1_5
+  - first:
+      213: -231585839509866841
+    second: censer_swing_anim 1_6
+  - first:
+      213: 67469686889815175
+    second: censer_swing_anim 1_7
+  - first:
+      213: 2174491140826442157
+    second: censer_swing_anim 1_8
+  - first:
+      213: -2255846471300967026
+    second: censer_swing_anim 1_9
+  - first:
+      213: 1310625360769981924
+    second: censer_swing_anim 1_10
+  - first:
+      213: -8097877069225625224
+    second: censer_swing_anim 1_11
+  - first:
+      213: -6313340258212892047
+    second: censer_swing_anim 1_12
+  - first:
+      213: 7288070875162353766
+    second: censer_swing_anim 1_13
+  - first:
+      213: -2961490500095572670
+    second: censer_swing_anim 1_14
+  - first:
+      213: -609644083531799573
+    second: censer_swing_anim 1_15
+  - first:
+      213: 5573841543194834899
+    second: censer_swing_anim 1_16
+  - first:
+      213: 1587133497941316344
+    second: censer_swing_anim 1_17
+  - first:
+      213: 4634343373418757347
+    second: censer_swing_anim 1_18
+  - first:
+      213: 7260817934574660192
+    second: censer_swing_anim 1_19
+  - first:
+      213: -557531409043628050
+    second: censer_swing_anim 1_20
+  - first:
+      213: -7373254607265581734
+    second: censer_swing_anim 1_21
+  - first:
+      213: 1049884396183294219
+    second: censer_swing_anim 1_22
+  - first:
+      213: -8075293518563755551
+    second: censer_swing_anim 1_23
+  - first:
+      213: 3195287683370212073
+    second: censer_swing_anim 1_24
+  - first:
+      213: -4698642228089034912
+    second: censer_swing_anim 1_25
+  - first:
+      213: -6429052183786882502
+    second: censer_swing_anim 1_26
+  - first:
+      213: -8478426400174311763
+    second: censer_swing_anim 1_27
+  - first:
+      213: -3980121919912590690
+    second: censer_swing_anim 1_28
+  - first:
+      213: 4815839659685888378
+    second: censer_swing_anim 1_29
+  - first:
+      213: -4525829349849058720
+    second: censer_swing_anim 1_30
+  - first:
+      213: -5033153206676877004
+    second: censer_swing_anim 1_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: censer_swing_anim 1_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 291
+        width: 39
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fef48f58c6d178f0800000000000000
+      internalID: -544417923850764554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: censer_swing_anim 1_1
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 292
+        width: 39
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9f239e967e77a6c0800000000000000
+      internalID: -4132195085157453922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: censer_swing_anim 1_2
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 294
+        width: 39
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47c6cd164b2319b90800000000000000
+      internalID: -7236947375890338700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: censer_swing_anim 1_3
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 298
+        width: 39
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0f3299e9b84ae1e0800000000000000
+      internalID: -2167840307300647158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: censer_swing_anim 1_4
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 301
+        width: 37
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d34e91dc8d987e1a0800000000000000
+      internalID: -6780299149736025027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: censer_swing_anim 1_5
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 304
+        width: 37
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eab44b725433710b0800000000000000
+      internalID: -5758077226458002514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: censer_swing_anim 1_6
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 313
+        width: 35
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a6f00de7ed39ccf0800000000000000
+      internalID: -231585839509866841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: censer_swing_anim 1_7
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 320
+        width: 35
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78c9c20a253bfe000800000000000000
+      internalID: 67469686889815175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: censer_swing_anim 1_8
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 227
+        width: 35
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da9a130fb285d2e10800000000000000
+      internalID: 2174491140826442157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: censer_swing_anim 1_9
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 224
+        width: 35
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e85994a169f91b0e0800000000000000
+      internalID: -2255846471300967026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: censer_swing_anim 1_10
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 217
+        width: 35
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ed105652d6403210800000000000000
+      internalID: 1310625360769981924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: censer_swing_anim 1_11
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 208
+        width: 37
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 879760eb5bf8e9f80800000000000000
+      internalID: -8097877069225625224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: censer_swing_anim 1_12
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 205
+        width: 37
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1723c031c728268a0800000000000000
+      internalID: -6313340258212892047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: censer_swing_anim 1_13
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 202
+        width: 39
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6602cebd8dd642560800000000000000
+      internalID: 7288070875162353766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: censer_swing_anim 1_14
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 198
+        width: 39
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2450c10b41ca6e6d0800000000000000
+      internalID: -2961490500095572670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: censer_swing_anim 1_15
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 196
+        width: 39
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be32ba1afeb1a87f0800000000000000
+      internalID: -609644083531799573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: censer_swing_anim 1_16
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 99
+        width: 39
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d771702a534a5d40800000000000000
+      internalID: 5573841543194834899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: censer_swing_anim 1_17
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 101
+        width: 39
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f25ae3e181a60610800000000000000
+      internalID: 1587133497941316344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: censer_swing_anim 1_18
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 104
+        width: 39
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ec7fcb8ebe705040800000000000000
+      internalID: 4634343373418757347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: censer_swing_anim 1_19
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 108
+        width: 39
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06aab19217b93c460800000000000000
+      internalID: 7260817934574660192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: censer_swing_anim 1_20
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 110
+        width: 41
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eefd4dc23204348f0800000000000000
+      internalID: -557531409043628050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: censer_swing_anim 1_21
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 117
+        width: 41
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a553c67ffffeca990800000000000000
+      internalID: -7373254607265581734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: censer_swing_anim 1_22
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 122
+        width: 43
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b011bb9bb40f19e00800000000000000
+      internalID: 1049884396183294219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: censer_swing_anim 1_23
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 124
+        width: 43
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e93ef0645bceef80800000000000000
+      internalID: -8075293518563755551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: censer_swing_anim 1_24
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 32
+        width: 43
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ea567af731f75c20800000000000000
+      internalID: 3195287683370212073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: censer_swing_anim 1_25
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 28
+        width: 43
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0676a1cb9c11bceb0800000000000000
+      internalID: -4698642228089034912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: censer_swing_anim 1_26
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 26
+        width: 43
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3afee6f91b67c6a0800000000000000
+      internalID: -6429052183786882502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: censer_swing_anim 1_27
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 21
+        width: 41
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da6f0531c14965a80800000000000000
+      internalID: -8478426400174311763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: censer_swing_anim 1_28
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 14
+        width: 41
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e924dd09334c3c8c0800000000000000
+      internalID: -3980121919912590690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: censer_swing_anim 1_29
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 12
+        width: 39
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a71c0d2b7ac45d240800000000000000
+      internalID: 4815839659685888378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: censer_swing_anim 1_30
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 8
+        width: 39
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 062b5386f260131c0800000000000000
+      internalID: -4525829349849058720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: censer_swing_anim 1_31
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 5
+        width: 39
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43118e743d5a62ab0800000000000000
+      internalID: -5033153206676877004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      censer_swing_anim 1_0: -544417923850764554
+      censer_swing_anim 1_1: -4132195085157453922
+      censer_swing_anim 1_10: 1310625360769981924
+      censer_swing_anim 1_11: -8097877069225625224
+      censer_swing_anim 1_12: -6313340258212892047
+      censer_swing_anim 1_13: 7288070875162353766
+      censer_swing_anim 1_14: -2961490500095572670
+      censer_swing_anim 1_15: -609644083531799573
+      censer_swing_anim 1_16: 5573841543194834899
+      censer_swing_anim 1_17: 1587133497941316344
+      censer_swing_anim 1_18: 4634343373418757347
+      censer_swing_anim 1_19: 7260817934574660192
+      censer_swing_anim 1_2: -7236947375890338700
+      censer_swing_anim 1_20: -557531409043628050
+      censer_swing_anim 1_21: -7373254607265581734
+      censer_swing_anim 1_22: 1049884396183294219
+      censer_swing_anim 1_23: -8075293518563755551
+      censer_swing_anim 1_24: 3195287683370212073
+      censer_swing_anim 1_25: -4698642228089034912
+      censer_swing_anim 1_26: -6429052183786882502
+      censer_swing_anim 1_27: -8478426400174311763
+      censer_swing_anim 1_28: -3980121919912590690
+      censer_swing_anim 1_29: 4815839659685888378
+      censer_swing_anim 1_3: -2167840307300647158
+      censer_swing_anim 1_30: -4525829349849058720
+      censer_swing_anim 1_31: -5033153206676877004
+      censer_swing_anim 1_4: -6780299149736025027
+      censer_swing_anim 1_5: -5758077226458002514
+      censer_swing_anim 1_6: -231585839509866841
+      censer_swing_anim 1_7: 67469686889815175
+      censer_swing_anim 1_8: 2174491140826442157
+      censer_swing_anim 1_9: -2255846471300967026
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

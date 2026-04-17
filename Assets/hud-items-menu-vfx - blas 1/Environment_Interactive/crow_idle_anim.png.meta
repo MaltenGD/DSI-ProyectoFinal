@@ -1,0 +1,2769 @@
+fileFormatVersion: 2
+guid: ab10a5ae01a689842aad12b9cac6b5dc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1278847714261186328
+    second: crow_idle_anim_0
+  - first:
+      213: -2984444296251838485
+    second: crow_idle_anim_1
+  - first:
+      213: 5719544988405031947
+    second: crow_idle_anim_2
+  - first:
+      213: -8091181295169790540
+    second: crow_idle_anim_3
+  - first:
+      213: 7487111056542754492
+    second: crow_idle_anim_4
+  - first:
+      213: 426059080780135547
+    second: crow_idle_anim_5
+  - first:
+      213: 6274650558823471766
+    second: crow_idle_anim_6
+  - first:
+      213: 4501638094767226523
+    second: crow_idle_anim_7
+  - first:
+      213: -7172210759447813072
+    second: crow_idle_anim_8
+  - first:
+      213: 6144921514163152416
+    second: crow_idle_anim_9
+  - first:
+      213: 4299519252519203257
+    second: crow_idle_anim_10
+  - first:
+      213: -2326409739106818196
+    second: crow_idle_anim_11
+  - first:
+      213: -831325458978556633
+    second: crow_idle_anim_12
+  - first:
+      213: -6065838615797445621
+    second: crow_idle_anim_13
+  - first:
+      213: 6876527655992330192
+    second: crow_idle_anim_14
+  - first:
+      213: -9099490354164314649
+    second: crow_idle_anim_15
+  - first:
+      213: -8141621007643737897
+    second: crow_idle_anim_16
+  - first:
+      213: 6591948537405066317
+    second: crow_idle_anim_17
+  - first:
+      213: 802812029917766719
+    second: crow_idle_anim_18
+  - first:
+      213: 4102147559412477700
+    second: crow_idle_anim_19
+  - first:
+      213: -1635458217079254590
+    second: crow_idle_anim_20
+  - first:
+      213: 1364606921736867463
+    second: crow_idle_anim_21
+  - first:
+      213: -776838513752550756
+    second: crow_idle_anim_22
+  - first:
+      213: 6688201262705881558
+    second: crow_idle_anim_23
+  - first:
+      213: 7626124531539392563
+    second: crow_idle_anim_24
+  - first:
+      213: 8028744151080337969
+    second: crow_idle_anim_25
+  - first:
+      213: 6524782370026697157
+    second: crow_idle_anim_26
+  - first:
+      213: -208607000160071035
+    second: crow_idle_anim_27
+  - first:
+      213: 4040562959021724920
+    second: crow_idle_anim_28
+  - first:
+      213: 3294354185844703639
+    second: crow_idle_anim_29
+  - first:
+      213: -8814647567070667626
+    second: crow_idle_anim_30
+  - first:
+      213: -6164630581360490730
+    second: crow_idle_anim_31
+  - first:
+      213: 95351714600560111
+    second: crow_idle_anim_32
+  - first:
+      213: 5893237347301728327
+    second: crow_idle_anim_33
+  - first:
+      213: 5651247391278840188
+    second: crow_idle_anim_34
+  - first:
+      213: 7729374917298764525
+    second: crow_idle_anim_35
+  - first:
+      213: 3275613547025358378
+    second: crow_idle_anim_36
+  - first:
+      213: -3866072021424457096
+    second: crow_idle_anim_37
+  - first:
+      213: -7122244847798857298
+    second: crow_idle_anim_38
+  - first:
+      213: 4663395774069657565
+    second: crow_idle_anim_39
+  - first:
+      213: -8563275075482565385
+    second: crow_idle_anim_40
+  - first:
+      213: 5809278782375272240
+    second: crow_idle_anim_41
+  - first:
+      213: 6431907363015450104
+    second: crow_idle_anim_42
+  - first:
+      213: -7144381800260467053
+    second: crow_idle_anim_43
+  - first:
+      213: 8175055627580007043
+    second: crow_idle_anim_44
+  - first:
+      213: -9065081575531312152
+    second: crow_idle_anim_45
+  - first:
+      213: 235466654744045874
+    second: crow_idle_anim_46
+  - first:
+      213: -5895343472697481254
+    second: crow_idle_anim_47
+  - first:
+      213: -5065628077641886382
+    second: crow_idle_anim_48
+  - first:
+      213: 4482967019571091092
+    second: crow_idle_anim_49
+  - first:
+      213: -2906282360605772581
+    second: crow_idle_anim_50
+  - first:
+      213: -4696899085757943405
+    second: crow_idle_anim_51
+  - first:
+      213: 7143075685840029722
+    second: crow_idle_anim_52
+  - first:
+      213: -1327476890779159605
+    second: crow_idle_anim_53
+  - first:
+      213: 654056740356370684
+    second: crow_idle_anim_54
+  - first:
+      213: -8082286122276895684
+    second: crow_idle_anim_55
+  - first:
+      213: 517533049800815944
+    second: crow_idle_anim_56
+  - first:
+      213: 8121628136307254695
+    second: crow_idle_anim_57
+  - first:
+      213: 6358114872901040675
+    second: crow_idle_anim_58
+  - first:
+      213: -1478142711511531810
+    second: crow_idle_anim_59
+  - first:
+      213: -8253955274526913592
+    second: crow_idle_anim_60
+  - first:
+      213: -2251854202032410694
+    second: crow_idle_anim_61
+  - first:
+      213: -5423159255773865799
+    second: crow_idle_anim_62
+  - first:
+      213: -4820296761935018717
+    second: crow_idle_anim_63
+  - first:
+      213: -3292253965913968632
+    second: crow_idle_anim_64
+  - first:
+      213: 1548363099484166175
+    second: crow_idle_anim_65
+  - first:
+      213: 1618521699067547996
+    second: crow_idle_anim_66
+  - first:
+      213: 8963109107175910265
+    second: crow_idle_anim_67
+  - first:
+      213: -6515983117420073413
+    second: crow_idle_anim_68
+  - first:
+      213: 376830878795094253
+    second: crow_idle_anim_69
+  - first:
+      213: -7132841841998416357
+    second: crow_idle_anim_70
+  - first:
+      213: -7813830491346341890
+    second: crow_idle_anim_71
+  - first:
+      213: 26657993325530250
+    second: crow_idle_anim_72
+  - first:
+      213: 2102208520564822303
+    second: crow_idle_anim_73
+  - first:
+      213: 6030608517328132478
+    second: crow_idle_anim_74
+  - first:
+      213: 5361995154526988978
+    second: crow_idle_anim_75
+  - first:
+      213: 585647418881560264
+    second: crow_idle_anim_76
+  - first:
+      213: 2218149508333956125
+    second: crow_idle_anim_77
+  - first:
+      213: -2060058015163186749
+    second: crow_idle_anim_78
+  - first:
+      213: 521852976346823202
+    second: crow_idle_anim_79
+  - first:
+      213: 5045895847628898059
+    second: crow_idle_anim_80
+  - first:
+      213: 1234198841059946253
+    second: crow_idle_anim_81
+  - first:
+      213: 6165288355960299147
+    second: crow_idle_anim_82
+  - first:
+      213: -5712974735931249609
+    second: crow_idle_anim_83
+  - first:
+      213: -2708942419600833086
+    second: crow_idle_anim_84
+  - first:
+      213: 3539811459783966014
+    second: crow_idle_anim_85
+  - first:
+      213: 9158030055293547452
+    second: crow_idle_anim_86
+  - first:
+      213: -1735944735012017498
+    second: crow_idle_anim_87
+  - first:
+      213: 207742280923762314
+    second: crow_idle_anim_88
+  - first:
+      213: 7262837387516728129
+    second: crow_idle_anim_89
+  - first:
+      213: 4248173161122225855
+    second: crow_idle_anim_90
+  - first:
+      213: 2164833036303837252
+    second: crow_idle_anim_91
+  - first:
+      213: -1684976583526305402
+    second: crow_idle_anim_92
+  - first:
+      213: -5410315498614984032
+    second: crow_idle_anim_93
+  - first:
+      213: 4701372938894212557
+    second: crow_idle_anim_94
+  - first:
+      213: -8492580347996759978
+    second: crow_idle_anim_95
+  - first:
+      213: -3961766452787232476
+    second: crow_idle_anim_96
+  - first:
+      213: 8915057925680127559
+    second: crow_idle_anim_97
+  - first:
+      213: -9148226657751097451
+    second: crow_idle_anim_98
+  - first:
+      213: 3635344194658625985
+    second: crow_idle_anim_99
+  - first:
+      213: 6759420411576283443
+    second: crow_idle_anim_100
+  - first:
+      213: -3994455456908057307
+    second: crow_idle_anim_101
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: crow_idle_anim_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 785
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 817bb5278316fb110800000000000000
+      internalID: 1278847714261186328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crow_idle_anim_1
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 785
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: befe7fd89bf1596d0800000000000000
+      internalID: -2984444296251838485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crow_idle_anim_2
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 785
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b046fbe0dd7ef5f40800000000000000
+      internalID: 5719544988405031947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crow_idle_anim_3
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 785
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bd9e102b7956bf80800000000000000
+      internalID: -8091181295169790540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crow_idle_anim_4
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 785
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb6612766df87e760800000000000000
+      internalID: 7487111056542754492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crow_idle_anim_5
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 785
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7cba330a7aa9e500800000000000000
+      internalID: 426059080780135547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crow_idle_anim_6
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 785
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69a11605079041750800000000000000
+      internalID: 6274650558823471766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crow_idle_anim_7
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 785
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9e77f91ff7097e30800000000000000
+      internalID: 4501638094767226523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crow_idle_anim_8
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 721
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 034e0e47050377c90800000000000000
+      internalID: -7172210759447813072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crow_idle_anim_9
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 721
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 026a9585f85274550800000000000000
+      internalID: 6144921514163152416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crow_idle_anim_10
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 721
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b13c57faf5faab30800000000000000
+      internalID: 4299519252519203257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crow_idle_anim_11
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 721
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c67678a0baee6bfd0800000000000000
+      internalID: -2326409739106818196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crow_idle_anim_12
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 721
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72538dc46e98674f0800000000000000
+      internalID: -831325458978556633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crow_idle_anim_13
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 721
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0ccb88caefc1dba0800000000000000
+      internalID: -6065838615797445621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crow_idle_anim_14
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 721
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d7829f38755e6f50800000000000000
+      internalID: 6876527655992330192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crow_idle_anim_15
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 721
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ed41faebbd18b180800000000000000
+      internalID: -9099490354164314649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crow_idle_anim_16
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 657
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d0898764d6230f80800000000000000
+      internalID: -8141621007643737897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crow_idle_anim_17
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 657
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4c4fa5e44e4b7b50800000000000000
+      internalID: 6591948537405066317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crow_idle_anim_18
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 657
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f34a8a8a949242b00800000000000000
+      internalID: 802812029917766719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crow_idle_anim_19
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 657
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40f240f9871cde830800000000000000
+      internalID: 4102147559412477700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crow_idle_anim_20
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 657
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c15ff5aa6fad49e0800000000000000
+      internalID: -1635458217079254590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crow_idle_anim_21
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 657
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78e4a2ce3ce00f210800000000000000
+      internalID: 1364606921736867463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crow_idle_anim_22
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 657
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c92dfe3dc7d1835f0800000000000000
+      internalID: -776838513752550756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crow_idle_anim_23
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 657
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d137e1ec9341dc50800000000000000
+      internalID: 6688201262705881558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crow_idle_anim_24
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 593
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3383c434bdf65d960800000000000000
+      internalID: 7626124531539392563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crow_idle_anim_25
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 593
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13283ad6444db6f60800000000000000
+      internalID: 8028744151080337969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crow_idle_anim_26
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 593
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c13c2aeefeac8a50800000000000000
+      internalID: 6524782370026697157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crow_idle_anim_27
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 593
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5829cc1e901ea1df0800000000000000
+      internalID: -208607000160071035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crow_idle_anim_28
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 593
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f457197a96f21830800000000000000
+      internalID: 4040562959021724920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crow_idle_anim_29
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 593
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79148938da5e7bd20800000000000000
+      internalID: 3294354185844703639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crow_idle_anim_30
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 593
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69cdd706db41ca580800000000000000
+      internalID: -8814647567070667626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crow_idle_anim_31
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 593
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6178f7ad525d27aa0800000000000000
+      internalID: -6164630581360490730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crow_idle_anim_32
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 529
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe5ad7511e1c25100800000000000000
+      internalID: 95351714600560111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crow_idle_anim_33
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 529
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7402cf6c42cf8c150800000000000000
+      internalID: 5893237347301728327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crow_idle_anim_34
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 529
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c79370f8f834d6e40800000000000000
+      internalID: 5651247391278840188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crow_idle_anim_35
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 529
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dea38690981444b60800000000000000
+      internalID: 7729374917298764525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crow_idle_anim_36
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 529
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2e57e38a21557d20800000000000000
+      internalID: 3275613547025358378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crow_idle_anim_37
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 529
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87a3be6daf3f85ac0800000000000000
+      internalID: -3866072021424457096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crow_idle_anim_38
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 529
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea1d793db04b82d90800000000000000
+      internalID: -7122244847798857298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crow_idle_anim_39
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 529
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddfca70bfb5b7b040800000000000000
+      internalID: 4663395774069657565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crow_idle_anim_40
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 465
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f4c7e360b2292980800000000000000
+      internalID: -8563275075482565385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crow_idle_anim_41
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 465
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03f11b01644be9050800000000000000
+      internalID: 5809278782375272240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crow_idle_anim_42
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 465
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fd51c04ba9b24950800000000000000
+      internalID: 6431907363015450104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crow_idle_anim_43
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 465
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39685bfea9e0adc90800000000000000
+      internalID: -7144381800260467053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crow_idle_anim_44
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 465
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 382e6fca7c1a37170800000000000000
+      internalID: 8175055627580007043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crow_idle_anim_45
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 465
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eb848ef55c523280800000000000000
+      internalID: -9065081575531312152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crow_idle_anim_46
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 465
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 239e778ccab844300800000000000000
+      internalID: 235466654744045874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crow_idle_anim_47
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 465
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad7e2f0b8588f2ea0800000000000000
+      internalID: -5895343472697481254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crow_idle_anim_48
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 401
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25519eb2a1643b9b0800000000000000
+      internalID: -5065628077641886382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crow_idle_anim_49
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 401
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4969355a0c2b63e30800000000000000
+      internalID: 4482967019571091092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crow_idle_anim_50
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 401
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd4fb17579fcaa7d0800000000000000
+      internalID: -2906282360605772581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crow_idle_anim_51
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 401
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3917a8faa2341deb0800000000000000
+      internalID: -4696899085757943405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crow_idle_anim_52
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 401
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a18893a9d7d412360800000000000000
+      internalID: 7143075685840029722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crow_idle_anim_53
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 401
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc371951dcad39de0800000000000000
+      internalID: -1327476890779159605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crow_idle_anim_54
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 401
+        width: 43
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf034e7d32da31900800000000000000
+      internalID: 654056740356370684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crow_idle_anim_55
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 401
+        width: 60
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c34cd94f793f5df80800000000000000
+      internalID: -8082286122276895684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crow_idle_anim_56
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 337
+        width: 53
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 845f6e81195ae2700800000000000000
+      internalID: 517533049800815944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crow_idle_anim_57
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 337
+        width: 43
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a5696e72c1d5b070800000000000000
+      internalID: 8121628136307254695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crow_idle_anim_58
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 337
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32af4684acf8c3850800000000000000
+      internalID: 6358114872901040675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crow_idle_anim_59
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 337
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edeb50119059c7be0800000000000000
+      internalID: -1478142711511531810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crow_idle_anim_60
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 337
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cb8cddb86f047d80800000000000000
+      internalID: -8253955274526913592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crow_idle_anim_61
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 337
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abf23e9b88ecfb0e0800000000000000
+      internalID: -2251854202032410694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crow_idle_anim_62
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 337
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b81a37d3611db4b0800000000000000
+      internalID: -5423159255773865799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crow_idle_anim_63
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 337
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 325c5e052adda1db0800000000000000
+      internalID: -4820296761935018717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crow_idle_anim_64
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 273
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 800b35b06709f42d0800000000000000
+      internalID: -3292253965913968632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crow_idle_anim_65
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 273
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1893101904ec7510800000000000000
+      internalID: 1548363099484166175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crow_idle_anim_66
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 273
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c51de26f8e4267610800000000000000
+      internalID: 1618521699067547996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crow_idle_anim_67
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 273
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97be9409e3c536c70800000000000000
+      internalID: 8963109107175910265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crow_idle_anim_68
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 273
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3eebbbb0e39295a0800000000000000
+      internalID: -6515983117420073413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crow_idle_anim_69
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 273
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de8dafe00b5ca3500800000000000000
+      internalID: 376830878795094253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crow_idle_anim_70
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 273
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1634a8d22e030d90800000000000000
+      internalID: -7132841841998416357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crow_idle_anim_71
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 273
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eff6f2c4192bf8390800000000000000
+      internalID: -7813830491346341890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crow_idle_anim_72
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 209
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8cc79ebd45be5000800000000000000
+      internalID: 26657993325530250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crow_idle_anim_73
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 209
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f11d010f28b8c2d10800000000000000
+      internalID: 2102208520564822303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crow_idle_anim_74
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 209
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e79d9c6be7601b350800000000000000
+      internalID: 6030608517328132478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crow_idle_anim_75
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 209
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ba62f81f22a96a40800000000000000
+      internalID: 5361995154526988978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crow_idle_anim_76
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 209
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ce4f0e7933a02800800000000000000
+      internalID: 585647418881560264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crow_idle_anim_77
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 209
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1ce3feb93378ce10800000000000000
+      internalID: 2218149508333956125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crow_idle_anim_78
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 209
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c1808d56243963e0800000000000000
+      internalID: -2060058015163186749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crow_idle_anim_79
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 209
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22af120648efd3700800000000000000
+      internalID: 521852976346823202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crow_idle_anim_80
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 145
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0ff9830a8f960640800000000000000
+      internalID: 5045895847628898059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crow_idle_anim_81
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 145
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0fa39f8e41c02110800000000000000
+      internalID: 1234198841059946253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crow_idle_anim_82
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 145
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8e9dda38118f8550800000000000000
+      internalID: 6165288355960299147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crow_idle_anim_83
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 145
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73c690e0fbf67b0b0800000000000000
+      internalID: -5712974735931249609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crow_idle_anim_84
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 145
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c584b2d837e76ad0800000000000000
+      internalID: -2708942419600833086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crow_idle_anim_85
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 145
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3db74894cfef1130800000000000000
+      internalID: 3539811459783966014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crow_idle_anim_86
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 145
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb37f1060dbd71f70800000000000000
+      internalID: 9158030055293547452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crow_idle_anim_87
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 145
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aa26eff57fa8e7e0800000000000000
+      internalID: -1735944735012017498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crow_idle_anim_88
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 81
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8e4a4bf08c02e200800000000000000
+      internalID: 207742280923762314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crow_idle_anim_89
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 81
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1435c50bf18cac460800000000000000
+      internalID: 7262837387516728129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crow_idle_anim_90
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 81
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbed9057bfa84fa30800000000000000
+      internalID: 4248173161122225855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crow_idle_anim_91
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 81
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 448abee3d280b0e10800000000000000
+      internalID: 2164833036303837252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crow_idle_anim_92
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 81
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 681301489b2cd98e0800000000000000
+      internalID: -1684976583526305402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crow_idle_anim_93
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 81
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a2734618b2bae4b0800000000000000
+      internalID: -5410315498614984032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crow_idle_anim_94
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 81
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcd7c6b67c1ae3140800000000000000
+      internalID: 4701372938894212557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crow_idle_anim_95
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 81
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 658903b4b2b442a80800000000000000
+      internalID: -8492580347996759978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crow_idle_anim_96
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 17
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 421ce8ac66af409c0800000000000000
+      internalID: -3961766452787232476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crow_idle_anim_97
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 17
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74ed13c03f5a8bb70800000000000000
+      internalID: 8915057925680127559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crow_idle_anim_98
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 17
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59f9cfbf258fa0180800000000000000
+      internalID: -9148226657751097451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crow_idle_anim_99
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 17
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c9e7eeb846537230800000000000000
+      internalID: 3635344194658625985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crow_idle_anim_100
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 17
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33177872d094ecd50800000000000000
+      internalID: 6759420411576283443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crow_idle_anim_101
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 17
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 525efdbece7d098c0800000000000000
+      internalID: -3994455456908057307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      crow_idle_anim_0: 1278847714261186328
+      crow_idle_anim_1: -2984444296251838485
+      crow_idle_anim_10: 4299519252519203257
+      crow_idle_anim_100: 6759420411576283443
+      crow_idle_anim_101: -3994455456908057307
+      crow_idle_anim_11: -2326409739106818196
+      crow_idle_anim_12: -831325458978556633
+      crow_idle_anim_13: -6065838615797445621
+      crow_idle_anim_14: 6876527655992330192
+      crow_idle_anim_15: -9099490354164314649
+      crow_idle_anim_16: -8141621007643737897
+      crow_idle_anim_17: 6591948537405066317
+      crow_idle_anim_18: 802812029917766719
+      crow_idle_anim_19: 4102147559412477700
+      crow_idle_anim_2: 5719544988405031947
+      crow_idle_anim_20: -1635458217079254590
+      crow_idle_anim_21: 1364606921736867463
+      crow_idle_anim_22: -776838513752550756
+      crow_idle_anim_23: 6688201262705881558
+      crow_idle_anim_24: 7626124531539392563
+      crow_idle_anim_25: 8028744151080337969
+      crow_idle_anim_26: 6524782370026697157
+      crow_idle_anim_27: -208607000160071035
+      crow_idle_anim_28: 4040562959021724920
+      crow_idle_anim_29: 3294354185844703639
+      crow_idle_anim_3: -8091181295169790540
+      crow_idle_anim_30: -8814647567070667626
+      crow_idle_anim_31: -6164630581360490730
+      crow_idle_anim_32: 95351714600560111
+      crow_idle_anim_33: 5893237347301728327
+      crow_idle_anim_34: 5651247391278840188
+      crow_idle_anim_35: 7729374917298764525
+      crow_idle_anim_36: 3275613547025358378
+      crow_idle_anim_37: -3866072021424457096
+      crow_idle_anim_38: -7122244847798857298
+      crow_idle_anim_39: 4663395774069657565
+      crow_idle_anim_4: 7487111056542754492
+      crow_idle_anim_40: -8563275075482565385
+      crow_idle_anim_41: 5809278782375272240
+      crow_idle_anim_42: 6431907363015450104
+      crow_idle_anim_43: -7144381800260467053
+      crow_idle_anim_44: 8175055627580007043
+      crow_idle_anim_45: -9065081575531312152
+      crow_idle_anim_46: 235466654744045874
+      crow_idle_anim_47: -5895343472697481254
+      crow_idle_anim_48: -5065628077641886382
+      crow_idle_anim_49: 4482967019571091092
+      crow_idle_anim_5: 426059080780135547
+      crow_idle_anim_50: -2906282360605772581
+      crow_idle_anim_51: -4696899085757943405
+      crow_idle_anim_52: 7143075685840029722
+      crow_idle_anim_53: -1327476890779159605
+      crow_idle_anim_54: 654056740356370684
+      crow_idle_anim_55: -8082286122276895684
+      crow_idle_anim_56: 517533049800815944
+      crow_idle_anim_57: 8121628136307254695
+      crow_idle_anim_58: 6358114872901040675
+      crow_idle_anim_59: -1478142711511531810
+      crow_idle_anim_6: 6274650558823471766
+      crow_idle_anim_60: -8253955274526913592
+      crow_idle_anim_61: -2251854202032410694
+      crow_idle_anim_62: -5423159255773865799
+      crow_idle_anim_63: -4820296761935018717
+      crow_idle_anim_64: -3292253965913968632
+      crow_idle_anim_65: 1548363099484166175
+      crow_idle_anim_66: 1618521699067547996
+      crow_idle_anim_67: 8963109107175910265
+      crow_idle_anim_68: -6515983117420073413
+      crow_idle_anim_69: 376830878795094253
+      crow_idle_anim_7: 4501638094767226523
+      crow_idle_anim_70: -7132841841998416357
+      crow_idle_anim_71: -7813830491346341890
+      crow_idle_anim_72: 26657993325530250
+      crow_idle_anim_73: 2102208520564822303
+      crow_idle_anim_74: 6030608517328132478
+      crow_idle_anim_75: 5361995154526988978
+      crow_idle_anim_76: 585647418881560264
+      crow_idle_anim_77: 2218149508333956125
+      crow_idle_anim_78: -2060058015163186749
+      crow_idle_anim_79: 521852976346823202
+      crow_idle_anim_8: -7172210759447813072
+      crow_idle_anim_80: 5045895847628898059
+      crow_idle_anim_81: 1234198841059946253
+      crow_idle_anim_82: 6165288355960299147
+      crow_idle_anim_83: -5712974735931249609
+      crow_idle_anim_84: -2708942419600833086
+      crow_idle_anim_85: 3539811459783966014
+      crow_idle_anim_86: 9158030055293547452
+      crow_idle_anim_87: -1735944735012017498
+      crow_idle_anim_88: 207742280923762314
+      crow_idle_anim_89: 7262837387516728129
+      crow_idle_anim_9: 6144921514163152416
+      crow_idle_anim_90: 4248173161122225855
+      crow_idle_anim_91: 2164833036303837252
+      crow_idle_anim_92: -1684976583526305402
+      crow_idle_anim_93: -5410315498614984032
+      crow_idle_anim_94: 4701372938894212557
+      crow_idle_anim_95: -8492580347996759978
+      crow_idle_anim_96: -3961766452787232476
+      crow_idle_anim_97: 8915057925680127559
+      crow_idle_anim_98: -9148226657751097451
+      crow_idle_anim_99: 3635344194658625985
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

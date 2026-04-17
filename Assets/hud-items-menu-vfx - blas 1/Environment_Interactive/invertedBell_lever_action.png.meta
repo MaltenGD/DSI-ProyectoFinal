@@ -1,0 +1,1027 @@
+fileFormatVersion: 2
+guid: 746d26d5de858c446a482f7d0b958ce0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 431812501004100123
+    second: invertedBell_lever_action_0
+  - first:
+      213: 3797170341281795130
+    second: invertedBell_lever_action_1
+  - first:
+      213: -1431248915582549892
+    second: invertedBell_lever_action_2
+  - first:
+      213: 3863651895911802776
+    second: invertedBell_lever_action_3
+  - first:
+      213: 1572806766410320063
+    second: invertedBell_lever_action_4
+  - first:
+      213: 9159041143390650430
+    second: invertedBell_lever_action_5
+  - first:
+      213: -105557702543754750
+    second: invertedBell_lever_action_6
+  - first:
+      213: -6169367267228613729
+    second: invertedBell_lever_action_7
+  - first:
+      213: 1183234212117889390
+    second: invertedBell_lever_action_8
+  - first:
+      213: 169159150257272176
+    second: invertedBell_lever_action_9
+  - first:
+      213: 5031067458289122448
+    second: invertedBell_lever_action_10
+  - first:
+      213: 4864402848626898624
+    second: invertedBell_lever_action_11
+  - first:
+      213: 8303473550508441681
+    second: invertedBell_lever_action_12
+  - first:
+      213: 6197834308876945188
+    second: invertedBell_lever_action_13
+  - first:
+      213: -5631392678000508318
+    second: invertedBell_lever_action_14
+  - first:
+      213: -8634356791123787094
+    second: invertedBell_lever_action_15
+  - first:
+      213: 3883635090224966242
+    second: invertedBell_lever_action_16
+  - first:
+      213: 68991042908754933
+    second: invertedBell_lever_action_17
+  - first:
+      213: -8448047243124171973
+    second: invertedBell_lever_action_18
+  - first:
+      213: -2862855959258619928
+    second: invertedBell_lever_action_19
+  - first:
+      213: 8599032367196373569
+    second: invertedBell_lever_action_20
+  - first:
+      213: 8724080575164298366
+    second: invertedBell_lever_action_21
+  - first:
+      213: 5219992712689099979
+    second: invertedBell_lever_action_22
+  - first:
+      213: -1371530166620934718
+    second: invertedBell_lever_action_23
+  - first:
+      213: 45995690772083164
+    second: invertedBell_lever_action_24
+  - first:
+      213: 6802896260121126212
+    second: invertedBell_lever_action_25
+  - first:
+      213: -6852311897488126328
+    second: invertedBell_lever_action_26
+  - first:
+      213: -2555533885334632730
+    second: invertedBell_lever_action_27
+  - first:
+      213: 201954738894519249
+    second: invertedBell_lever_action_28
+  - first:
+      213: -6787521335225877449
+    second: invertedBell_lever_action_29
+  - first:
+      213: 6043611518189238567
+    second: invertedBell_lever_action_30
+  - first:
+      213: -4745988722736445542
+    second: invertedBell_lever_action_31
+  - first:
+      213: -7165243495865567051
+    second: invertedBell_lever_action_32
+  - first:
+      213: -1055350568252493932
+    second: invertedBell_lever_action_33
+  - first:
+      213: 8119821131854393915
+    second: invertedBell_lever_action_34
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: invertedBell_lever_action_0
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 658
+        width: 37
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b122ceb8e2b1ef500800000000000000
+      internalID: 431812501004100123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: invertedBell_lever_action_1
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 658
+        width: 37
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3c00cf9e4242b430800000000000000
+      internalID: 3797170341281795130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: invertedBell_lever_action_2
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 658
+        width: 37
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c700a81c1be232ce0800000000000000
+      internalID: -1431248915582549892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: invertedBell_lever_action_3
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 658
+        width: 37
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8976697cde27e9530800000000000000
+      internalID: 3863651895911802776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: invertedBell_lever_action_4
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 658
+        width: 37
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb8c734cb6bb3d510800000000000000
+      internalID: 1572806766410320063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: invertedBell_lever_action_5
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 658
+        width: 37
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e30ccfaa4637b1f70800000000000000
+      internalID: 9159041143390650430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: invertedBell_lever_action_6
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 530
+        width: 37
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20ab29c24dbf88ef0800000000000000
+      internalID: -105557702543754750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: invertedBell_lever_action_7
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 530
+        width: 37
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f938aeb3821026aa0800000000000000
+      internalID: -6169367267228613729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: invertedBell_lever_action_8
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 530
+        width: 37
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6140633f31bb6010800000000000000
+      internalID: 1183234212117889390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: invertedBell_lever_action_9
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 530
+        width: 37
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0757795d959f85200800000000000000
+      internalID: 169159150257272176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: invertedBell_lever_action_10
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 530
+        width: 37
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09cb9549231f1d540800000000000000
+      internalID: 5031067458289122448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: invertedBell_lever_action_11
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 530
+        width: 37
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c6fdcc3e94d18340800000000000000
+      internalID: 4864402848626898624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: invertedBell_lever_action_12
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 402
+        width: 37
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15048e3533ddb3370800000000000000
+      internalID: 8303473550508441681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: invertedBell_lever_action_13
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 402
+        width: 37
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 427c6556771230650800000000000000
+      internalID: 6197834308876945188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: invertedBell_lever_action_14
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 402
+        width: 37
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2624b0d123649d1b0800000000000000
+      internalID: -5631392678000508318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: invertedBell_lever_action_15
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 402
+        width: 37
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa2c519ce3a9c2880800000000000000
+      internalID: -8634356791123787094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: invertedBell_lever_action_16
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 402
+        width: 37
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26ae916c98175e530800000000000000
+      internalID: 3883635090224966242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: invertedBell_lever_action_17
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 402
+        width: 37
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f3924decfa15f000800000000000000
+      internalID: 68991042908754933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: invertedBell_lever_action_18
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 274
+        width: 37
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3b9dd3cac182ca80800000000000000
+      internalID: -8448047243124171973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: invertedBell_lever_action_19
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 274
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ef97415ca71548d0800000000000000
+      internalID: -2862855959258619928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: invertedBell_lever_action_20
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 274
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14283dad066e55770800000000000000
+      internalID: 8599032367196373569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: invertedBell_lever_action_21
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 274
+        width: 48
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e74bd8a9f09221970800000000000000
+      internalID: 8724080575164298366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: invertedBell_lever_action_22
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 274
+        width: 51
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc426f927b3217840800000000000000
+      internalID: 5219992712689099979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: invertedBell_lever_action_23
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 274
+        width: 51
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cda3d3849857fce0800000000000000
+      internalID: -1371530166620934718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: invertedBell_lever_action_24
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 146
+        width: 51
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd13ba946d863a000800000000000000
+      internalID: 45995690772083164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: invertedBell_lever_action_25
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 146
+        width: 51
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4456a54fa1eb86e50800000000000000
+      internalID: 6802896260121126212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: invertedBell_lever_action_26
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 146
+        width: 51
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88e890462a2b7e0a0800000000000000
+      internalID: -6852311897488126328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: invertedBell_lever_action_27
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 146
+        width: 51
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e6c729987be88cd0800000000000000
+      internalID: -2555533885334632730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: invertedBell_lever_action_28
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 146
+        width: 51
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dbb388d3cc7dc200800000000000000
+      internalID: 201954738894519249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: invertedBell_lever_action_29
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 146
+        width: 51
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73cf974be41edc1a0800000000000000
+      internalID: -6787521335225877449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: invertedBell_lever_action_30
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 18
+        width: 51
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 729f026c7a83fd350800000000000000
+      internalID: 6043611518189238567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: invertedBell_lever_action_31
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 18
+        width: 51
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a97c849e66cd22eb0800000000000000
+      internalID: -4745988722736445542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: invertedBell_lever_action_32
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 18
+        width: 51
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b831cbe001ff8c90800000000000000
+      internalID: -7165243495865567051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: invertedBell_lever_action_33
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 18
+        width: 51
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49fadc9ef34aa51f0800000000000000
+      internalID: -1055350568252493932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: invertedBell_lever_action_34
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 18
+        width: 51
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3234eb7c466fa070800000000000000
+      internalID: 8119821131854393915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      invertedBell_lever_action_0: 431812501004100123
+      invertedBell_lever_action_1: 3797170341281795130
+      invertedBell_lever_action_10: 5031067458289122448
+      invertedBell_lever_action_11: 4864402848626898624
+      invertedBell_lever_action_12: 8303473550508441681
+      invertedBell_lever_action_13: 6197834308876945188
+      invertedBell_lever_action_14: -5631392678000508318
+      invertedBell_lever_action_15: -8634356791123787094
+      invertedBell_lever_action_16: 3883635090224966242
+      invertedBell_lever_action_17: 68991042908754933
+      invertedBell_lever_action_18: -8448047243124171973
+      invertedBell_lever_action_19: -2862855959258619928
+      invertedBell_lever_action_2: -1431248915582549892
+      invertedBell_lever_action_20: 8599032367196373569
+      invertedBell_lever_action_21: 8724080575164298366
+      invertedBell_lever_action_22: 5219992712689099979
+      invertedBell_lever_action_23: -1371530166620934718
+      invertedBell_lever_action_24: 45995690772083164
+      invertedBell_lever_action_25: 6802896260121126212
+      invertedBell_lever_action_26: -6852311897488126328
+      invertedBell_lever_action_27: -2555533885334632730
+      invertedBell_lever_action_28: 201954738894519249
+      invertedBell_lever_action_29: -6787521335225877449
+      invertedBell_lever_action_3: 3863651895911802776
+      invertedBell_lever_action_30: 6043611518189238567
+      invertedBell_lever_action_31: -4745988722736445542
+      invertedBell_lever_action_32: -7165243495865567051
+      invertedBell_lever_action_33: -1055350568252493932
+      invertedBell_lever_action_34: 8119821131854393915
+      invertedBell_lever_action_4: 1572806766410320063
+      invertedBell_lever_action_5: 9159041143390650430
+      invertedBell_lever_action_6: -105557702543754750
+      invertedBell_lever_action_7: -6169367267228613729
+      invertedBell_lever_action_8: 1183234212117889390
+      invertedBell_lever_action_9: 169159150257272176
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

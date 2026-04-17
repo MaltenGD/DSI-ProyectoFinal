@@ -1,0 +1,585 @@
+fileFormatVersion: 2
+guid: 9998305e99b94314b84114d30518d79b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2052818268593684522
+    second: Arcade_spritesheet_0
+  - first:
+      213: -7040193801418444459
+    second: Arcade_spritesheet_1
+  - first:
+      213: 214613327120894674
+    second: Arcade_spritesheet_2
+  - first:
+      213: 3411901788568659162
+    second: Arcade_spritesheet_3
+  - first:
+      213: 6212956269386577249
+    second: Arcade_spritesheet_4
+  - first:
+      213: -3621646817290958435
+    second: Arcade_spritesheet_5
+  - first:
+      213: 6920413321140046166
+    second: Arcade_spritesheet_6
+  - first:
+      213: -6487438208373863859
+    second: Arcade_spritesheet_7
+  - first:
+      213: 5298692805055325723
+    second: Arcade_spritesheet_8
+  - first:
+      213: -2996848634906732016
+    second: Arcade_spritesheet_9
+  - first:
+      213: 7367250446282448968
+    second: Arcade_spritesheet_10
+  - first:
+      213: -7695167781095552846
+    second: Arcade_spritesheet_11
+  - first:
+      213: -7928384285204904414
+    second: Arcade_spritesheet_12
+  - first:
+      213: 2468919888800756649
+    second: Arcade_spritesheet_13
+  - first:
+      213: -2524785994551012622
+    second: Arcade_spritesheet_14
+  - first:
+      213: 6103302564975492374
+    second: Arcade_spritesheet_15
+  - first:
+      213: 8436117456836303598
+    second: Arcade_spritesheet_16
+  - first:
+      213: -8509716621731160431
+    second: Arcade_spritesheet_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Arcade_spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 270
+        width: 95
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2085f7c6531d7c10800000000000000
+      internalID: 2052818268593684522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade_spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 180
+        width: 95
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 551fb84c9053c4e90800000000000000
+      internalID: -7040193801418444459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade_spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 270
+        width: 96
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2da0b171fa57af200800000000000000
+      internalID: 214613327120894674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade_spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 180
+        width: 96
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad4a7248992895f20800000000000000
+      internalID: 3411901788568659162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade_spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 270
+        width: 96
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 165b2d13fcad83650800000000000000
+      internalID: 6212956269386577249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade_spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 180
+        width: 96
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d99c27178635dbdc0800000000000000
+      internalID: -3621646817290958435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade_spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 270
+        width: 96
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6590f69ef3f3a0060800000000000000
+      internalID: 6920413321140046166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade_spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 180
+        width: 96
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4a4497425df7f5a0800000000000000
+      internalID: -6487438208373863859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade_spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 270
+        width: 95
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b16ad33580db88940800000000000000
+      internalID: 5298692805055325723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade_spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 180
+        width: 95
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01a15c66b0e0966d0800000000000000
+      internalID: -2996848634906732016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade_spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 90
+        width: 95
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 840e00e5f3bbd3660800000000000000
+      internalID: 7367250446282448968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade_spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 95
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b8c4c08ca5453590800000000000000
+      internalID: -7695167781095552846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade_spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 90
+        width: 96
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 226829dbf78b8f190800000000000000
+      internalID: -7928384285204904414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade_spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 0
+        width: 96
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a3bdd6de8d534220800000000000000
+      internalID: 2468919888800756649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade_spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 90
+        width: 96
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f2d7ecc38826fcd0800000000000000
+      internalID: -2524785994551012622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade_spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 0
+        width: 96
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61d381e985943b450800000000000000
+      internalID: 6103302564975492374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade_spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 90
+        width: 96
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eea133a612c131570800000000000000
+      internalID: 8436117456836303598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade_spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 90
+        width: 95
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19e1a76a1d967e980800000000000000
+      internalID: -8509716621731160431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Arcade_spritesheet_0: 2052818268593684522
+      Arcade_spritesheet_1: -7040193801418444459
+      Arcade_spritesheet_10: 7367250446282448968
+      Arcade_spritesheet_11: -7695167781095552846
+      Arcade_spritesheet_12: -7928384285204904414
+      Arcade_spritesheet_13: 2468919888800756649
+      Arcade_spritesheet_14: -2524785994551012622
+      Arcade_spritesheet_15: 6103302564975492374
+      Arcade_spritesheet_16: 8436117456836303598
+      Arcade_spritesheet_17: -8509716621731160431
+      Arcade_spritesheet_2: 214613327120894674
+      Arcade_spritesheet_3: 3411901788568659162
+      Arcade_spritesheet_4: 6212956269386577249
+      Arcade_spritesheet_5: -3621646817290958435
+      Arcade_spritesheet_6: 6920413321140046166
+      Arcade_spritesheet_7: -6487438208373863859
+      Arcade_spritesheet_8: 5298692805055325723
+      Arcade_spritesheet_9: -2996848634906732016
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

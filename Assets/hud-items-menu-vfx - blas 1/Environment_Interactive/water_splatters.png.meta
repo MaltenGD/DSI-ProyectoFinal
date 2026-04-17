@@ -1,0 +1,715 @@
+fileFormatVersion: 2
+guid: 64c5065c85afc1940b1f3894a8a64ff3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4809743854905798364
+    second: water_splatters_0
+  - first:
+      213: 5452025956649640451
+    second: water_splatters_1
+  - first:
+      213: 596303528159717633
+    second: water_splatters_2
+  - first:
+      213: -7417689714915415809
+    second: water_splatters_3
+  - first:
+      213: -1489399484822735006
+    second: water_splatters_4
+  - first:
+      213: -5657721307453355465
+    second: water_splatters_5
+  - first:
+      213: 5519031428665186058
+    second: water_splatters_6
+  - first:
+      213: -2728236352278185756
+    second: water_splatters_7
+  - first:
+      213: 4736532903794132380
+    second: water_splatters_8
+  - first:
+      213: -2184021581375193945
+    second: water_splatters_9
+  - first:
+      213: -3940602800504454953
+    second: water_splatters_10
+  - first:
+      213: 7066846646955097088
+    second: water_splatters_11
+  - first:
+      213: 3266429491510627601
+    second: water_splatters_12
+  - first:
+      213: 1346654664420814662
+    second: water_splatters_13
+  - first:
+      213: -2133421607475394062
+    second: water_splatters_14
+  - first:
+      213: 8137467172069471437
+    second: water_splatters_15
+  - first:
+      213: -8667016981334451308
+    second: water_splatters_16
+  - first:
+      213: -9151799780465300675
+    second: water_splatters_17
+  - first:
+      213: -7703012691855707486
+    second: water_splatters_18
+  - first:
+      213: -8227625214990918189
+    second: water_splatters_19
+  - first:
+      213: 3577074106181951272
+    second: water_splatters_20
+  - first:
+      213: -3822386915437609363
+    second: water_splatters_21
+  - first:
+      213: 4196994525188523377
+    second: water_splatters_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: water_splatters_0
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 193
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cde274c8d84afb240800000000000000
+      internalID: 4809743854905798364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_splatters_1
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 193
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 302af44b8bc79ab40800000000000000
+      internalID: 5452025956649640451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_splatters_2
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 193
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 109a54646ee764800800000000000000
+      internalID: 596303528159717633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_splatters_3
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 215
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff8e56041821f0990800000000000000
+      internalID: -7417689714915415809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_splatters_4
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 193
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 267bd7a4f07945be0800000000000000
+      internalID: -1489399484822735006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_splatters_5
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 219
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73a851f527cbb71b0800000000000000
+      internalID: -5657721307453355465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_splatters_6
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 219
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a071ec1e7d9879c40800000000000000
+      internalID: 5519031428665186058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_splatters_7
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 193
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e8b62f0e7b532ad0800000000000000
+      internalID: -2728236352278185756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_splatters_8
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 129
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c95499da49b8bb140800000000000000
+      internalID: 4736532903794132380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_splatters_9
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 129
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ac385471fbc0b1e0800000000000000
+      internalID: -2184021581375193945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_splatters_10
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 129
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d0c50391aa2059c0800000000000000
+      internalID: -3940602800504454953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_splatters_11
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 134
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00c3be9659b721260800000000000000
+      internalID: 7066846646955097088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_splatters_12
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 133
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11dc955f050b45d20800000000000000
+      internalID: 3266429491510627601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_splatters_13
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 132
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64feceb484740b210800000000000000
+      internalID: 1346654664420814662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_splatters_14
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 129
+        width: 43
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f94942f9509462e0800000000000000
+      internalID: -2133421607475394062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_splatters_15
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 3
+        width: 48
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc47a9267471ee070800000000000000
+      internalID: 8137467172069471437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_splatters_16
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 63
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49b184da9f198b780800000000000000
+      internalID: -8667016981334451308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_splatters_17
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1
+        width: 81
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3b2ed586964ef080800000000000000
+      internalID: -9151799780465300675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_splatters_18
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 68
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a27d91e4c6691590800000000000000
+      internalID: -7703012691855707486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_splatters_19
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 63
+        width: 26
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dd5b63757a91dd80800000000000000
+      internalID: -8227625214990918189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_splatters_20
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 63
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82f193a82f154a130800000000000000
+      internalID: 3577074106181951272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_splatters_21
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 1
+        width: 117
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6e7d3f2a5724fac0800000000000000
+      internalID: -3822386915437609363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_splatters_22
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 63
+        width: 32
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1750f16b848be3a30800000000000000
+      internalID: 4196994525188523377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      water_splatters_0: 4809743854905798364
+      water_splatters_1: 5452025956649640451
+      water_splatters_10: -3940602800504454953
+      water_splatters_11: 7066846646955097088
+      water_splatters_12: 3266429491510627601
+      water_splatters_13: 1346654664420814662
+      water_splatters_14: -2133421607475394062
+      water_splatters_15: 8137467172069471437
+      water_splatters_16: -8667016981334451308
+      water_splatters_17: -9151799780465300675
+      water_splatters_18: -7703012691855707486
+      water_splatters_19: -8227625214990918189
+      water_splatters_2: 596303528159717633
+      water_splatters_20: 3577074106181951272
+      water_splatters_21: -3822386915437609363
+      water_splatters_22: 4196994525188523377
+      water_splatters_3: -7417689714915415809
+      water_splatters_4: -1489399484822735006
+      water_splatters_5: -5657721307453355465
+      water_splatters_6: 5519031428665186058
+      water_splatters_7: -2728236352278185756
+      water_splatters_8: 4736532903794132380
+      water_splatters_9: -2184021581375193945
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

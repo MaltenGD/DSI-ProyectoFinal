@@ -1,0 +1,2743 @@
+fileFormatVersion: 2
+guid: 7da9e50700024ce4ead81609d91ccb2e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9220079178338870206
+    second: cemetery-relics-spritesheet_0
+  - first:
+      213: 965725459488064769
+    second: cemetery-relics-spritesheet_1
+  - first:
+      213: 3881953198968797530
+    second: cemetery-relics-spritesheet_2
+  - first:
+      213: -8747393875378867942
+    second: cemetery-relics-spritesheet_3
+  - first:
+      213: 3469665001366991500
+    second: cemetery-relics-spritesheet_4
+  - first:
+      213: -1565656283054989517
+    second: cemetery-relics-spritesheet_5
+  - first:
+      213: 3596349253599201412
+    second: cemetery-relics-spritesheet_6
+  - first:
+      213: -5674280543375813995
+    second: cemetery-relics-spritesheet_7
+  - first:
+      213: 4056903148404016997
+    second: cemetery-relics-spritesheet_8
+  - first:
+      213: -6497260121781497669
+    second: cemetery-relics-spritesheet_9
+  - first:
+      213: -6918730114204988250
+    second: cemetery-relics-spritesheet_10
+  - first:
+      213: 1161168649378434216
+    second: cemetery-relics-spritesheet_11
+  - first:
+      213: 347561640578401972
+    second: cemetery-relics-spritesheet_12
+  - first:
+      213: -6597122730360721333
+    second: cemetery-relics-spritesheet_13
+  - first:
+      213: -2288969600428313997
+    second: cemetery-relics-spritesheet_14
+  - first:
+      213: -3985860173309389333
+    second: cemetery-relics-spritesheet_15
+  - first:
+      213: -8930116916603220173
+    second: cemetery-relics-spritesheet_16
+  - first:
+      213: -3025775670954078120
+    second: cemetery-relics-spritesheet_17
+  - first:
+      213: -3734167926110855351
+    second: cemetery-relics-spritesheet_18
+  - first:
+      213: 3846001276358134889
+    second: cemetery-relics-spritesheet_19
+  - first:
+      213: -5459240179228926996
+    second: cemetery-relics-spritesheet_20
+  - first:
+      213: -2823820020600018595
+    second: cemetery-relics-spritesheet_21
+  - first:
+      213: -3534628317137451145
+    second: cemetery-relics-spritesheet_22
+  - first:
+      213: -6916091286690240766
+    second: cemetery-relics-spritesheet_23
+  - first:
+      213: -7120602082615933016
+    second: cemetery-relics-spritesheet_24
+  - first:
+      213: -243562584607994526
+    second: cemetery-relics-spritesheet_25
+  - first:
+      213: -2982711786433214019
+    second: cemetery-relics-spritesheet_26
+  - first:
+      213: 1117086521619227104
+    second: cemetery-relics-spritesheet_27
+  - first:
+      213: 7275603520104459045
+    second: cemetery-relics-spritesheet_28
+  - first:
+      213: 3488397027628508975
+    second: cemetery-relics-spritesheet_29
+  - first:
+      213: -3128462672431182405
+    second: cemetery-relics-spritesheet_30
+  - first:
+      213: -7805551934435257178
+    second: cemetery-relics-spritesheet_31
+  - first:
+      213: 3675922234687985410
+    second: cemetery-relics-spritesheet_32
+  - first:
+      213: -2010262447092594329
+    second: cemetery-relics-spritesheet_33
+  - first:
+      213: 4584672587951911730
+    second: cemetery-relics-spritesheet_34
+  - first:
+      213: -1232600625784069805
+    second: cemetery-relics-spritesheet_35
+  - first:
+      213: 2322757645340621738
+    second: cemetery-relics-spritesheet_36
+  - first:
+      213: 4639835738205035542
+    second: cemetery-relics-spritesheet_37
+  - first:
+      213: -4325048819389818478
+    second: cemetery-relics-spritesheet_38
+  - first:
+      213: -8256918014970910557
+    second: cemetery-relics-spritesheet_39
+  - first:
+      213: 6440582318548486757
+    second: cemetery-relics-spritesheet_40
+  - first:
+      213: 5713679895517730407
+    second: cemetery-relics-spritesheet_41
+  - first:
+      213: -4968244941315783930
+    second: cemetery-relics-spritesheet_42
+  - first:
+      213: 7658853199715092352
+    second: cemetery-relics-spritesheet_43
+  - first:
+      213: 323892970970343194
+    second: cemetery-relics-spritesheet_44
+  - first:
+      213: -3004997017933975663
+    second: cemetery-relics-spritesheet_45
+  - first:
+      213: 1139336940414175870
+    second: cemetery-relics-spritesheet_46
+  - first:
+      213: 7104532649797319268
+    second: cemetery-relics-spritesheet_47
+  - first:
+      213: -9129379050893136630
+    second: cemetery-relics-spritesheet_48
+  - first:
+      213: -2226585178069850961
+    second: cemetery-relics-spritesheet_49
+  - first:
+      213: -4483186795760018055
+    second: cemetery-relics-spritesheet_50
+  - first:
+      213: -7066488495123568912
+    second: cemetery-relics-spritesheet_51
+  - first:
+      213: 6123769638002999650
+    second: cemetery-relics-spritesheet_52
+  - first:
+      213: -4891586538665835181
+    second: cemetery-relics-spritesheet_53
+  - first:
+      213: -594098457640434164
+    second: cemetery-relics-spritesheet_54
+  - first:
+      213: 9005024067740690368
+    second: cemetery-relics-spritesheet_55
+  - first:
+      213: 7356573644854893093
+    second: cemetery-relics-spritesheet_56
+  - first:
+      213: 5296851147999877711
+    second: cemetery-relics-spritesheet_57
+  - first:
+      213: -2085993264407532385
+    second: cemetery-relics-spritesheet_58
+  - first:
+      213: 4068439663666576658
+    second: cemetery-relics-spritesheet_59
+  - first:
+      213: 5634250186302009624
+    second: cemetery-relics-spritesheet_60
+  - first:
+      213: -3184782469202355631
+    second: cemetery-relics-spritesheet_61
+  - first:
+      213: 8193779152021347580
+    second: cemetery-relics-spritesheet_62
+  - first:
+      213: -2233255317036120489
+    second: cemetery-relics-spritesheet_63
+  - first:
+      213: -2999660426041670057
+    second: cemetery-relics-spritesheet_64
+  - first:
+      213: -6783370212467824612
+    second: cemetery-relics-spritesheet_65
+  - first:
+      213: 4209875884313165238
+    second: cemetery-relics-spritesheet_66
+  - first:
+      213: 5601570700806387250
+    second: cemetery-relics-spritesheet_67
+  - first:
+      213: 2965368558404898661
+    second: cemetery-relics-spritesheet_68
+  - first:
+      213: -2712096086667510953
+    second: cemetery-relics-spritesheet_69
+  - first:
+      213: -6591183210457440932
+    second: cemetery-relics-spritesheet_70
+  - first:
+      213: -6250444679665672007
+    second: cemetery-relics-spritesheet_71
+  - first:
+      213: -3258838236655929047
+    second: cemetery-relics-spritesheet_72
+  - first:
+      213: 5322757445614399486
+    second: cemetery-relics-spritesheet_73
+  - first:
+      213: 7274376670760838774
+    second: cemetery-relics-spritesheet_74
+  - first:
+      213: -865075947647489697
+    second: cemetery-relics-spritesheet_75
+  - first:
+      213: 6603468945749662742
+    second: cemetery-relics-spritesheet_76
+  - first:
+      213: -3949203075093535512
+    second: cemetery-relics-spritesheet_77
+  - first:
+      213: -3322545697163454423
+    second: cemetery-relics-spritesheet_78
+  - first:
+      213: 7798024935277727423
+    second: cemetery-relics-spritesheet_79
+  - first:
+      213: -3092457551003009825
+    second: cemetery-relics-spritesheet_80
+  - first:
+      213: -7531663223890579878
+    second: cemetery-relics-spritesheet_81
+  - first:
+      213: 6981155020718918340
+    second: cemetery-relics-spritesheet_82
+  - first:
+      213: -4029252827334374082
+    second: cemetery-relics-spritesheet_83
+  - first:
+      213: -166669341351458455
+    second: cemetery-relics-spritesheet_84
+  - first:
+      213: 50351371548197995
+    second: cemetery-relics-spritesheet_85
+  - first:
+      213: -2608876578816943782
+    second: cemetery-relics-spritesheet_86
+  - first:
+      213: 8613590643159217931
+    second: cemetery-relics-spritesheet_87
+  - first:
+      213: 66166954771948250
+    second: cemetery-relics-spritesheet_88
+  - first:
+      213: -8910402293994305891
+    second: cemetery-relics-spritesheet_89
+  - first:
+      213: -3877368794740879057
+    second: cemetery-relics-spritesheet_90
+  - first:
+      213: 8322110779996183228
+    second: cemetery-relics-spritesheet_91
+  - first:
+      213: -4185666663199672091
+    second: cemetery-relics-spritesheet_92
+  - first:
+      213: -4840042299552919412
+    second: cemetery-relics-spritesheet_93
+  - first:
+      213: -2935163095680365606
+    second: cemetery-relics-spritesheet_94
+  - first:
+      213: -3926660499635209094
+    second: cemetery-relics-spritesheet_95
+  - first:
+      213: 7295801857242855235
+    second: cemetery-relics-spritesheet_96
+  - first:
+      213: 5966086678216379837
+    second: cemetery-relics-spritesheet_97
+  - first:
+      213: 4238183357932487414
+    second: cemetery-relics-spritesheet_98
+  - first:
+      213: 704592691551362242
+    second: cemetery-relics-spritesheet_99
+  - first:
+      213: 2057253593694361841
+    second: cemetery-relics-spritesheet_100
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cemetery-relics-spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 872
+        width: 132
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb32dd1a92d44ff70800000000000000
+      internalID: 9220079178338870206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cemetery-relics-spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 872
+        width: 130
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10546535032f66d00800000000000000
+      internalID: 965725459488064769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cemetery-relics-spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 857
+        width: 49
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a59f933fdd77fd530800000000000000
+      internalID: 3881953198968797530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cemetery-relics-spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 882
+        width: 50
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a117d93bd930b9680800000000000000
+      internalID: -8747393875378867942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cemetery-relics-spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 887
+        width: 41
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c82b5188fe9b62030800000000000000
+      internalID: 3469665001366991500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cemetery-relics-spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 915
+        width: 32
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33f1620e7eba54ae0800000000000000
+      internalID: -1565656283054989517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cemetery-relics-spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 913
+        width: 29
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4888505879cc8e130800000000000000
+      internalID: 3596349253599201412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cemetery-relics-spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 912
+        width: 66
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5929c20d8e7e041b0800000000000000
+      internalID: -5674280543375813995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cemetery-relics-spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 870
+        width: 119
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56709c84be30d4830800000000000000
+      internalID: 4056903148404016997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cemetery-relics-spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 871
+        width: 125
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb017ebd75815d5a0800000000000000
+      internalID: -6497260121781497669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cemetery-relics-spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 862
+        width: 117
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ac830e3e9bbbff90800000000000000
+      internalID: -6918730114204988250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cemetery-relics-spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 830
+        width: 59
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ac85860cbc4d1010800000000000000
+      internalID: 1161168649378434216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cemetery-relics-spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 736
+        width: 132
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b64a3c7879c2d400800000000000000
+      internalID: 347561640578401972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cemetery-relics-spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 736
+        width: 130
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b40b13d64df4274a0800000000000000
+      internalID: -6597122730360721333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cemetery-relics-spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 732
+        width: 45
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3727dc0a642fb30e0800000000000000
+      internalID: -2288969600428313997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cemetery-relics-spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 749
+        width: 61
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be554855a416fa8c0800000000000000
+      internalID: -3985860173309389333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cemetery-relics-spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 805
+        width: 58
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33f88276af9d11480800000000000000
+      internalID: -8930116916603220173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cemetery-relics-spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 773
+        width: 124
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85053cafe094206d0800000000000000
+      internalID: -3025775670954078120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cemetery-relics-spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 730
+        width: 200
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94f51804e029d2cc0800000000000000
+      internalID: -3734167926110855351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cemetery-relics-spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 736
+        width: 108
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96c860ba8cdbf5530800000000000000
+      internalID: 3846001276358134889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cemetery-relics-spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 726
+        width: 65
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceb15853bf1ec34b0800000000000000
+      internalID: -5459240179228926996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cemetery-relics-spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 787
+        width: 59
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d59ef7a07a6cfc8d0800000000000000
+      internalID: -2823820020600018595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cemetery-relics-spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 627
+        width: 132
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7774cf7d54a72fec0800000000000000
+      internalID: -3534628317137451145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cemetery-relics-spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 627
+        width: 130
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20767a62e9b1500a0800000000000000
+      internalID: -6916091286690240766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cemetery-relics-spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 564
+        width: 66
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a745c6e12a8e2d90800000000000000
+      internalID: -7120602082615933016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cemetery-relics-spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 697
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26d4dd7ae11be9cf0800000000000000
+      internalID: -243562584607994526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cemetery-relics-spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 655
+        width: 168
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db9074eee674b96d0800000000000000
+      internalID: -2982711786433214019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cemetery-relics-spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 636
+        width: 84
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e1ad78d540b08f00800000000000000
+      internalID: 1117086521619227104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cemetery-relics-spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 615
+        width: 91
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52b686e8ad228f460800000000000000
+      internalID: 7275603520104459045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cemetery-relics-spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 672
+        width: 65
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2763534d96496030800000000000000
+      internalID: 3488397027628508975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cemetery-relics-spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 659
+        width: 61
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbd8ba456c77594d0800000000000000
+      internalID: -3128462672431182405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cemetery-relics-spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 562
+        width: 49
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a49f180fdb1da390800000000000000
+      internalID: -7805551934435257178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cemetery-relics-spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 631
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 207998cebcf730330800000000000000
+      internalID: 3675922234687985410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cemetery-relics-spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 659
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7690db784fc1a14e0800000000000000
+      internalID: -2010262447092594329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cemetery-relics-spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 556
+        width: 102
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23338589d6700af30800000000000000
+      internalID: 4584672587951911730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cemetery-relics-spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 370
+        width: 132
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 351673ee24ce4eee0800000000000000
+      internalID: -1232600625784069805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cemetery-relics-spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 560
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aabb9dd95c71c3020800000000000000
+      internalID: 2322757645340621738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cemetery-relics-spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 557
+        width: 66
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61c9fdf5502046040800000000000000
+      internalID: 4639835738205035542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cemetery-relics-spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 592
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2991c0c83075af3c0800000000000000
+      internalID: -4325048819389818478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cemetery-relics-spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 588
+        width: 66
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a8a22affc8896d80800000000000000
+      internalID: -8256918014970910557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cemetery-relics-spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 588
+        width: 66
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56a8ebbbe7b816950800000000000000
+      internalID: 6440582318548486757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cemetery-relics-spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 589
+        width: 60
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76610a4b7911b4f40800000000000000
+      internalID: 5713679895517730407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cemetery-relics-spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 572
+        width: 68
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 603cdbb7c8f3d0bb0800000000000000
+      internalID: -4968244941315783930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cemetery-relics-spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 498
+        width: 102
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 087c1e32866b94a60800000000000000
+      internalID: 7658853199715092352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cemetery-relics-spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 562
+        width: 74
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a17eee7e0f2be7400800000000000000
+      internalID: 323892970970343194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cemetery-relics-spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 493
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19fefe2222b1c46d0800000000000000
+      internalID: -3004997017933975663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cemetery-relics-spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 487
+        width: 66
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7a0edc29ecbfcf00800000000000000
+      internalID: 1139336940414175870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cemetery-relics-spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 362
+        width: 59
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46a7556bdce589260800000000000000
+      internalID: 7104532649797319268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cemetery-relics-spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 534
+        width: 69
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0d2f9b6f1eed4180800000000000000
+      internalID: -9129379050893136630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cemetery-relics-spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 552
+        width: 66
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa42ff6d3949911e0800000000000000
+      internalID: -2226585178069850961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cemetery-relics-spritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 539
+        width: 11
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97d9009bc5588c1c0800000000000000
+      internalID: -4483186795760018055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cemetery-relics-spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 459
+        width: 102
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f666ce472aceed90800000000000000
+      internalID: -7066488495123568912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cemetery-relics-spritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 447
+        width: 100
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 261cd776a000cf450800000000000000
+      internalID: 6123769638002999650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cemetery-relics-spritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 449
+        width: 102
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3558db6b5f79d1cb0800000000000000
+      internalID: -4891586538665835181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cemetery-relics-spritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 433
+        width: 67
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c060cb6b99651c7f0800000000000000
+      internalID: -594098457640434164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cemetery-relics-spritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 433
+        width: 66
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c7e68fcda548fc70800000000000000
+      internalID: 9005024067740690368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cemetery-relics-spritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 427
+        width: 21
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52a9391d0ccc71660800000000000000
+      internalID: 7356573644854893093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cemetery-relics-spritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 463
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4a17a02e02328940800000000000000
+      internalID: 5296851147999877711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cemetery-relics-spritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 475
+        width: 7
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9ca1279d201d03e0800000000000000
+      internalID: -2085993264407532385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cemetery-relics-spritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 459
+        width: 97
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21db4fe8150067830800000000000000
+      internalID: 4068439663666576658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cemetery-relics-spritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 444
+        width: 73
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 811b53261b0e03e40800000000000000
+      internalID: 5634250186302009624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cemetery-relics-spritesheet_61
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 188
+        width: 422
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15a5d4cc7316dc3d0800000000000000
+      internalID: -3184782469202355631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cemetery-relics-spritesheet_62
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 381
+        width: 66
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfcdb3ce9b626b170800000000000000
+      internalID: 8193779152021347580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cemetery-relics-spritesheet_63
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 381
+        width: 67
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7564f471f12e101e0800000000000000
+      internalID: -2233255317036120489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cemetery-relics-spritesheet_64
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 344
+        width: 125
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7564df24cb01f56d0800000000000000
+      internalID: -2999660426041670057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cemetery-relics-spritesheet_65
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 412
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c18a3e94bb0acd1a0800000000000000
+      internalID: -6783370212467824612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cemetery-relics-spritesheet_66
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 388
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bd38f8dfcb7c6a30800000000000000
+      internalID: 4209875884313165238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cemetery-relics-spritesheet_67
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 349
+        width: 132
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 236fccdbfd6ccbd40800000000000000
+      internalID: 5601570700806387250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cemetery-relics-spritesheet_68
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 329
+        width: 6
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56f06df1efa172920800000000000000
+      internalID: 2965368558404898661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cemetery-relics-spritesheet_69
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 341
+        width: 9
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75bb47d7af2bc5ad0800000000000000
+      internalID: -2712096086667510953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cemetery-relics-spritesheet_70
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 318
+        width: 13
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5d5a2baac96784a0800000000000000
+      internalID: -6591183210457440932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cemetery-relics-spritesheet_71
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 339
+        width: 10
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b02c4c1ea5f149a0800000000000000
+      internalID: -6250444679665672007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cemetery-relics-spritesheet_72
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 317
+        width: 11
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 929b9abc3e746c2d0800000000000000
+      internalID: -3258838236655929047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cemetery-relics-spritesheet_73
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 354
+        width: 6
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eff696312bb3ed940800000000000000
+      internalID: 5322757445614399486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cemetery-relics-spritesheet_74
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 327
+        width: 11
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 676a61f6a07c3f460800000000000000
+      internalID: 7274376670760838774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cemetery-relics-spritesheet_75
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 317
+        width: 12
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f59acbc4202aef3f0800000000000000
+      internalID: -865075947647489697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cemetery-relics-spritesheet_76
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 318
+        width: 16
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61c5bbcf40c34ab50800000000000000
+      internalID: 6603468945749662742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cemetery-relics-spritesheet_77
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 359
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e46b2b1abc9139c0800000000000000
+      internalID: -3949203075093535512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cemetery-relics-spritesheet_78
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 341
+        width: 9
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 928d192ca42f3e1d0800000000000000
+      internalID: -3322545697163454423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cemetery-relics-spritesheet_79
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 328
+        width: 14
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbe0ed8ec56283c60800000000000000
+      internalID: 7798024935277727423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cemetery-relics-spritesheet_80
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 316
+        width: 26
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdcbd7ded326515d0800000000000000
+      internalID: -3092457551003009825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cemetery-relics-spritesheet_81
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 241
+        width: 105
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5ee02cc3382a7790800000000000000
+      internalID: -7531663223890579878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cemetery-relics-spritesheet_82
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 322
+        width: 6
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cac2ebe08b02e060800000000000000
+      internalID: 6981155020718918340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cemetery-relics-spritesheet_83
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 316
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3d0f74c6e73518c0800000000000000
+      internalID: -4029252827334374082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cemetery-relics-spritesheet_84
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 325
+        width: 6
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9694cc9fd1fdfadf0800000000000000
+      internalID: -166669341351458455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cemetery-relics-spritesheet_85
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 320
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b64851f3e42e2b000800000000000000
+      internalID: 50351371548197995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cemetery-relics-spritesheet_86
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 212
+        width: 112
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5997c0f2986bcbd0800000000000000
+      internalID: -2608876578816943782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cemetery-relics-spritesheet_87
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 199
+        width: 96
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b07322e9d0f998770800000000000000
+      internalID: 8613590643159217931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cemetery-relics-spritesheet_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 115
+        width: 92
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad22d0bae721be000800000000000000
+      internalID: 66166954771948250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cemetery-relics-spritesheet_89
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 188
+        width: 112
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d96c4aca254e75480800000000000000
+      internalID: -8910402293994305891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cemetery-relics-spritesheet_90
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 203
+        width: 105
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f211946df91d03ac0800000000000000
+      internalID: -3877368794740879057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cemetery-relics-spritesheet_91
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 36
+        width: 107
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cba1f1779a31e7370800000000000000
+      internalID: 8322110779996183228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cemetery-relics-spritesheet_92
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 66
+        width: 112
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e8f9cfa85689e5c0800000000000000
+      internalID: -4185666663199672091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cemetery-relics-spritesheet_93
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 165
+        width: 66
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8098451c27b4dcb0800000000000000
+      internalID: -4840042299552919412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cemetery-relics-spritesheet_94
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 165
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adbc22437b43447d0800000000000000
+      internalID: -2935163095680365606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cemetery-relics-spritesheet_95
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 48
+        width: 128
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7c7fa57413b189c0800000000000000
+      internalID: -3926660499635209094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cemetery-relics-spritesheet_96
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 20
+        width: 74
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34778946225ef3560800000000000000
+      internalID: 7295801857242855235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cemetery-relics-spritesheet_97
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 48
+        width: 127
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbd0742693ccbc250800000000000000
+      internalID: 5966086678216379837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cemetery-relics-spritesheet_98
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 30
+        width: 167
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f2c9862f4d01da30800000000000000
+      internalID: 4238183357932487414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cemetery-relics-spritesheet_99
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 127
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cc5143e15737c900800000000000000
+      internalID: 704592691551362242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cemetery-relics-spritesheet_100
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 47
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f85c016e35dc8c10800000000000000
+      internalID: 2057253593694361841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      cemetery-relics-spritesheet_0: 9220079178338870206
+      cemetery-relics-spritesheet_1: 965725459488064769
+      cemetery-relics-spritesheet_10: -6918730114204988250
+      cemetery-relics-spritesheet_100: 2057253593694361841
+      cemetery-relics-spritesheet_11: 1161168649378434216
+      cemetery-relics-spritesheet_12: 347561640578401972
+      cemetery-relics-spritesheet_13: -6597122730360721333
+      cemetery-relics-spritesheet_14: -2288969600428313997
+      cemetery-relics-spritesheet_15: -3985860173309389333
+      cemetery-relics-spritesheet_16: -8930116916603220173
+      cemetery-relics-spritesheet_17: -3025775670954078120
+      cemetery-relics-spritesheet_18: -3734167926110855351
+      cemetery-relics-spritesheet_19: 3846001276358134889
+      cemetery-relics-spritesheet_2: 3881953198968797530
+      cemetery-relics-spritesheet_20: -5459240179228926996
+      cemetery-relics-spritesheet_21: -2823820020600018595
+      cemetery-relics-spritesheet_22: -3534628317137451145
+      cemetery-relics-spritesheet_23: -6916091286690240766
+      cemetery-relics-spritesheet_24: -7120602082615933016
+      cemetery-relics-spritesheet_25: -243562584607994526
+      cemetery-relics-spritesheet_26: -2982711786433214019
+      cemetery-relics-spritesheet_27: 1117086521619227104
+      cemetery-relics-spritesheet_28: 7275603520104459045
+      cemetery-relics-spritesheet_29: 3488397027628508975
+      cemetery-relics-spritesheet_3: -8747393875378867942
+      cemetery-relics-spritesheet_30: -3128462672431182405
+      cemetery-relics-spritesheet_31: -7805551934435257178
+      cemetery-relics-spritesheet_32: 3675922234687985410
+      cemetery-relics-spritesheet_33: -2010262447092594329
+      cemetery-relics-spritesheet_34: 4584672587951911730
+      cemetery-relics-spritesheet_35: -1232600625784069805
+      cemetery-relics-spritesheet_36: 2322757645340621738
+      cemetery-relics-spritesheet_37: 4639835738205035542
+      cemetery-relics-spritesheet_38: -4325048819389818478
+      cemetery-relics-spritesheet_39: -8256918014970910557
+      cemetery-relics-spritesheet_4: 3469665001366991500
+      cemetery-relics-spritesheet_40: 6440582318548486757
+      cemetery-relics-spritesheet_41: 5713679895517730407
+      cemetery-relics-spritesheet_42: -4968244941315783930
+      cemetery-relics-spritesheet_43: 7658853199715092352
+      cemetery-relics-spritesheet_44: 323892970970343194
+      cemetery-relics-spritesheet_45: -3004997017933975663
+      cemetery-relics-spritesheet_46: 1139336940414175870
+      cemetery-relics-spritesheet_47: 7104532649797319268
+      cemetery-relics-spritesheet_48: -9129379050893136630
+      cemetery-relics-spritesheet_49: -2226585178069850961
+      cemetery-relics-spritesheet_5: -1565656283054989517
+      cemetery-relics-spritesheet_50: -4483186795760018055
+      cemetery-relics-spritesheet_51: -7066488495123568912
+      cemetery-relics-spritesheet_52: 6123769638002999650
+      cemetery-relics-spritesheet_53: -4891586538665835181
+      cemetery-relics-spritesheet_54: -594098457640434164
+      cemetery-relics-spritesheet_55: 9005024067740690368
+      cemetery-relics-spritesheet_56: 7356573644854893093
+      cemetery-relics-spritesheet_57: 5296851147999877711
+      cemetery-relics-spritesheet_58: -2085993264407532385
+      cemetery-relics-spritesheet_59: 4068439663666576658
+      cemetery-relics-spritesheet_6: 3596349253599201412
+      cemetery-relics-spritesheet_60: 5634250186302009624
+      cemetery-relics-spritesheet_61: -3184782469202355631
+      cemetery-relics-spritesheet_62: 8193779152021347580
+      cemetery-relics-spritesheet_63: -2233255317036120489
+      cemetery-relics-spritesheet_64: -2999660426041670057
+      cemetery-relics-spritesheet_65: -6783370212467824612
+      cemetery-relics-spritesheet_66: 4209875884313165238
+      cemetery-relics-spritesheet_67: 5601570700806387250
+      cemetery-relics-spritesheet_68: 2965368558404898661
+      cemetery-relics-spritesheet_69: -2712096086667510953
+      cemetery-relics-spritesheet_7: -5674280543375813995
+      cemetery-relics-spritesheet_70: -6591183210457440932
+      cemetery-relics-spritesheet_71: -6250444679665672007
+      cemetery-relics-spritesheet_72: -3258838236655929047
+      cemetery-relics-spritesheet_73: 5322757445614399486
+      cemetery-relics-spritesheet_74: 7274376670760838774
+      cemetery-relics-spritesheet_75: -865075947647489697
+      cemetery-relics-spritesheet_76: 6603468945749662742
+      cemetery-relics-spritesheet_77: -3949203075093535512
+      cemetery-relics-spritesheet_78: -3322545697163454423
+      cemetery-relics-spritesheet_79: 7798024935277727423
+      cemetery-relics-spritesheet_8: 4056903148404016997
+      cemetery-relics-spritesheet_80: -3092457551003009825
+      cemetery-relics-spritesheet_81: -7531663223890579878
+      cemetery-relics-spritesheet_82: 6981155020718918340
+      cemetery-relics-spritesheet_83: -4029252827334374082
+      cemetery-relics-spritesheet_84: -166669341351458455
+      cemetery-relics-spritesheet_85: 50351371548197995
+      cemetery-relics-spritesheet_86: -2608876578816943782
+      cemetery-relics-spritesheet_87: 8613590643159217931
+      cemetery-relics-spritesheet_88: 66166954771948250
+      cemetery-relics-spritesheet_89: -8910402293994305891
+      cemetery-relics-spritesheet_9: -6497260121781497669
+      cemetery-relics-spritesheet_90: -3877368794740879057
+      cemetery-relics-spritesheet_91: 8322110779996183228
+      cemetery-relics-spritesheet_92: -4185666663199672091
+      cemetery-relics-spritesheet_93: -4840042299552919412
+      cemetery-relics-spritesheet_94: -2935163095680365606
+      cemetery-relics-spritesheet_95: -3926660499635209094
+      cemetery-relics-spritesheet_96: 7295801857242855235
+      cemetery-relics-spritesheet_97: 5966086678216379837
+      cemetery-relics-spritesheet_98: 4238183357932487414
+      cemetery-relics-spritesheet_99: 704592691551362242
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

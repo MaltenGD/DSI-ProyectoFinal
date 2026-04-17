@@ -1,0 +1,2353 @@
+fileFormatVersion: 2
+guid: 9e93af3b308f5574fa644d7d24ab87b9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8303201107252353469
+    second: prision-spritesheet_0
+  - first:
+      213: -8603900702689468624
+    second: prision-spritesheet_1
+  - first:
+      213: 3493828837196753035
+    second: prision-spritesheet_2
+  - first:
+      213: -5332618213470752872
+    second: prision-spritesheet_3
+  - first:
+      213: 1281773869904575447
+    second: prision-spritesheet_4
+  - first:
+      213: -7047694270402027062
+    second: prision-spritesheet_5
+  - first:
+      213: -8684023292249756502
+    second: prision-spritesheet_6
+  - first:
+      213: -5382613575866641622
+    second: prision-spritesheet_7
+  - first:
+      213: -3442422943583600066
+    second: prision-spritesheet_8
+  - first:
+      213: 7883511785036610249
+    second: prision-spritesheet_9
+  - first:
+      213: 3074396188787594654
+    second: prision-spritesheet_10
+  - first:
+      213: -7706849045995994514
+    second: prision-spritesheet_11
+  - first:
+      213: 4286588751623634695
+    second: prision-spritesheet_12
+  - first:
+      213: -6483618171940965772
+    second: prision-spritesheet_13
+  - first:
+      213: -442370717314908341
+    second: prision-spritesheet_14
+  - first:
+      213: 6610919611892888383
+    second: prision-spritesheet_15
+  - first:
+      213: 4591316470675353982
+    second: prision-spritesheet_16
+  - first:
+      213: -1311004979728425716
+    second: prision-spritesheet_17
+  - first:
+      213: -8890229641855170500
+    second: prision-spritesheet_18
+  - first:
+      213: -8436898331583195583
+    second: prision-spritesheet_19
+  - first:
+      213: -249271245667709506
+    second: prision-spritesheet_20
+  - first:
+      213: 3496796208702430089
+    second: prision-spritesheet_21
+  - first:
+      213: -7678971868040692043
+    second: prision-spritesheet_22
+  - first:
+      213: 1046038962154719239
+    second: prision-spritesheet_23
+  - first:
+      213: 1598707869560407411
+    second: prision-spritesheet_24
+  - first:
+      213: 2483306385409369740
+    second: prision-spritesheet_25
+  - first:
+      213: 7214944240377160568
+    second: prision-spritesheet_26
+  - first:
+      213: -5207137156194827868
+    second: prision-spritesheet_27
+  - first:
+      213: 4321177108757304417
+    second: prision-spritesheet_28
+  - first:
+      213: -3632257353062153914
+    second: prision-spritesheet_29
+  - first:
+      213: -2561052043659281256
+    second: prision-spritesheet_30
+  - first:
+      213: 2601019709485699223
+    second: prision-spritesheet_31
+  - first:
+      213: 5487282151290269060
+    second: prision-spritesheet_32
+  - first:
+      213: 7258330898188062759
+    second: prision-spritesheet_33
+  - first:
+      213: 355650734019121570
+    second: prision-spritesheet_34
+  - first:
+      213: 980622208112040209
+    second: prision-spritesheet_35
+  - first:
+      213: 2461222164538396113
+    second: prision-spritesheet_36
+  - first:
+      213: 3410660469625993522
+    second: prision-spritesheet_37
+  - first:
+      213: 9152881416555927424
+    second: prision-spritesheet_38
+  - first:
+      213: -4227546898976728994
+    second: prision-spritesheet_39
+  - first:
+      213: 1162225051295248122
+    second: prision-spritesheet_40
+  - first:
+      213: 6410371958408435268
+    second: prision-spritesheet_41
+  - first:
+      213: -560330256578786114
+    second: prision-spritesheet_42
+  - first:
+      213: -3093863516683907773
+    second: prision-spritesheet_43
+  - first:
+      213: -7548496316114428468
+    second: prision-spritesheet_44
+  - first:
+      213: 3222163236992007085
+    second: prision-spritesheet_45
+  - first:
+      213: 6897897946750441372
+    second: prision-spritesheet_46
+  - first:
+      213: 7897655612882707863
+    second: prision-spritesheet_47
+  - first:
+      213: -768391158676512371
+    second: prision-spritesheet_48
+  - first:
+      213: -775980879128032939
+    second: prision-spritesheet_49
+  - first:
+      213: 4817892439299418944
+    second: prision-spritesheet_50
+  - first:
+      213: -7832142510117970666
+    second: prision-spritesheet_51
+  - first:
+      213: -417649178842368982
+    second: prision-spritesheet_52
+  - first:
+      213: 8990219169481373083
+    second: prision-spritesheet_53
+  - first:
+      213: 5096453419927768955
+    second: prision-spritesheet_54
+  - first:
+      213: 2477253010944587273
+    second: prision-spritesheet_55
+  - first:
+      213: -2741779806588421652
+    second: prision-spritesheet_56
+  - first:
+      213: 2194161469989852641
+    second: prision-spritesheet_57
+  - first:
+      213: -1573684129900264299
+    second: prision-spritesheet_58
+  - first:
+      213: 481607908332198557
+    second: prision-spritesheet_59
+  - first:
+      213: 4120812028804376417
+    second: prision-spritesheet_60
+  - first:
+      213: 8528513390863960438
+    second: prision-spritesheet_61
+  - first:
+      213: -7955698629605569944
+    second: prision-spritesheet_62
+  - first:
+      213: -3972037378699827869
+    second: prision-spritesheet_63
+  - first:
+      213: 6837951693435701689
+    second: prision-spritesheet_64
+  - first:
+      213: -5511583776007485000
+    second: prision-spritesheet_65
+  - first:
+      213: 4644870996833104792
+    second: prision-spritesheet_66
+  - first:
+      213: -7993826286283957130
+    second: prision-spritesheet_67
+  - first:
+      213: -9019872382493019230
+    second: prision-spritesheet_68
+  - first:
+      213: -6420233993133036612
+    second: prision-spritesheet_69
+  - first:
+      213: 5238543062848394850
+    second: prision-spritesheet_70
+  - first:
+      213: 7265208142742584598
+    second: prision-spritesheet_71
+  - first:
+      213: 3354114473647885483
+    second: prision-spritesheet_72
+  - first:
+      213: -3768698445029839289
+    second: prision-spritesheet_73
+  - first:
+      213: 7832508189409168906
+    second: prision-spritesheet_74
+  - first:
+      213: -2715600834218092689
+    second: prision-spritesheet_75
+  - first:
+      213: 8747679329016628180
+    second: prision-spritesheet_76
+  - first:
+      213: -8495043101936554104
+    second: prision-spritesheet_77
+  - first:
+      213: 2513658003864956070
+    second: prision-spritesheet_78
+  - first:
+      213: -9088831041688250511
+    second: prision-spritesheet_79
+  - first:
+      213: 1109292631989734082
+    second: prision-spritesheet_80
+  - first:
+      213: -6251877915900844472
+    second: prision-spritesheet_81
+  - first:
+      213: 8808792718445558131
+    second: prision-spritesheet_82
+  - first:
+      213: 7241584227613884289
+    second: prision-spritesheet_83
+  - first:
+      213: -7561437765433449556
+    second: prision-spritesheet_84
+  - first:
+      213: -897086256224423620
+    second: prision-spritesheet_85
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: prision-spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 974
+        width: 66
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db918603a65ea3370800000000000000
+      internalID: 8303201107252353469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prision-spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 974
+        width: 66
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03fd57575edc89880800000000000000
+      internalID: -8603900702689468624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prision-spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 974
+        width: 66
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b88e02bf0d29c7030800000000000000
+      internalID: 3493828837196753035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prision-spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 979
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89f2c4ffcfbbef5b0800000000000000
+      internalID: -5332618213470752872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prision-spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 974
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7db3a062b86c9c110800000000000000
+      internalID: 1281773869904575447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prision-spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 938
+        width: 67
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac1a12fb66f813e90800000000000000
+      internalID: -7047694270402027062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prision-spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 938
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aac2c3c53d62c7780800000000000000
+      internalID: -8684023292249756502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prision-spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 735
+        width: 142
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a231647987d1d45b0800000000000000
+      internalID: -5382613575866641622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prision-spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 736
+        width: 142
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e328b01529e0a30d0800000000000000
+      internalID: -3442422943583600066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prision-spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 838
+        width: 54
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ca76b9233cd76d60800000000000000
+      internalID: 7883511785036610249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prision-spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 921
+        width: 85
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e95df7b7b037aaa20800000000000000
+      internalID: 3074396188787594654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prision-spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 954
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e62c9d310a5cb0590800000000000000
+      internalID: -7706849045995994514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prision-spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 941
+        width: 68
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70f36be12c50d7b30800000000000000
+      internalID: 4286588751623634695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prision-spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 936
+        width: 66
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 472f032df9f8506a0800000000000000
+      internalID: -6483618171940965772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prision-spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 935
+        width: 66
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4ff8672d226cd9f0800000000000000
+      internalID: -442370717314908341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prision-spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 937
+        width: 66
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f33f9816c54bebb50800000000000000
+      internalID: 6610919611892888383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prision-spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 941
+        width: 54
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7131061102a7bf30800000000000000
+      internalID: 4591316470675353982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prision-spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 920
+        width: 66
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0dd48cbaef5ecde0800000000000000
+      internalID: -1311004979728425716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prision-spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 889
+        width: 66
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3803914e3f8f9480800000000000000
+      internalID: -8890229641855170500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prision-spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 892
+        width: 66
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 146d5e30bad1aea80800000000000000
+      internalID: -8436898331583195583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prision-spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 887
+        width: 66
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebdc14d6f196a8cf0800000000000000
+      internalID: -249271245667709506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prision-spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 917
+        width: 48
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98b14afff9d178030800000000000000
+      internalID: 3496796208702430089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prision-spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 897
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5be773d55cfce6590800000000000000
+      internalID: -7678971868040692043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prision-spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 884
+        width: 13
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7084378d4e6448e00800000000000000
+      internalID: 1046038962154719239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prision-spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 862
+        width: 13
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37505c84650cf2610800000000000000
+      internalID: 1598707869560407411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prision-spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 917
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c86e8ca100a767220800000000000000
+      internalID: 2483306385409369740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prision-spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 836
+        width: 85
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8736ee96f81a02460800000000000000
+      internalID: 7214944240377160568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prision-spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 923
+        width: 51
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a1054458588cb7b0800000000000000
+      internalID: -5207137156194827868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prision-spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 894
+        width: 49
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16457039fa7e7fb30800000000000000
+      internalID: 4321177108757304417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prision-spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 840
+        width: 44
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6410ee19e21a79dc0800000000000000
+      internalID: -3632257353062153914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prision-spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 906
+        width: 66
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89c766e3cb0557cd0800000000000000
+      internalID: -2561052043659281256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prision-spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 905
+        width: 66
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7905fad15ada81420800000000000000
+      internalID: 2601019709485699223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prision-spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 891
+        width: 65
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48d6ff13b0eb62c40800000000000000
+      internalID: 5487282151290269060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prision-spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 820
+        width: 73
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 720ddb0ee75cab460800000000000000
+      internalID: 7258330898188062759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prision-spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 700
+        width: 40
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a1115155768fe400800000000000000
+      internalID: 355650734019121570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prision-spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 700
+        width: 67
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1199065e3bedb9d00800000000000000
+      internalID: 980622208112040209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prision-spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 771
+        width: 25
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dd01aeb484082220800000000000000
+      internalID: 2461222164538396113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prision-spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 789
+        width: 32
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 239368d60a9155f20800000000000000
+      internalID: 3410660469625993522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prision-spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 802
+        width: 27
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08717118721950f70800000000000000
+      internalID: 9152881416555927424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prision-spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 842
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e58103f6e7cb455c0800000000000000
+      internalID: -4227546898976728994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prision-spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 874
+        width: 31
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afe6383c68d012010800000000000000
+      internalID: 1162225051295248122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prision-spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 827
+        width: 50
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4465f03255736f850800000000000000
+      internalID: 6410371958408435268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prision-spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 857
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebcc7b3b99e4938f0800000000000000
+      internalID: -560330256578786114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prision-spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 859
+        width: 31
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34dc38806836015d0800000000000000
+      internalID: -3093863516683907773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prision-spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 858
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccd97a9189a5e3790800000000000000
+      internalID: -7548496316114428468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prision-spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 776
+        width: 21
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dab3b3d646c67bc20800000000000000
+      internalID: 3222163236992007085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prision-spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 771
+        width: 73
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c97d4fcc2a14abf50800000000000000
+      internalID: 6897897946750441372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prision-spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 780
+        width: 105
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7956e34bfeb1a9d60800000000000000
+      internalID: 7897655612882707863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prision-spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 823
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d812982ff402655f0800000000000000
+      internalID: -768391158676512371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prision-spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 837
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 559041370892b35f0800000000000000
+      internalID: -775980879128032939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prision-spritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 752
+        width: 73
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04b6b72b5a79cd240800000000000000
+      internalID: 4817892439299418944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prision-spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 691
+        width: 102
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61d9e2e22e3ae4390800000000000000
+      internalID: -7832142510117970666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prision-spritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 778
+        width: 33
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a24fd5ed846343af0800000000000000
+      internalID: -417649178842368982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prision-spritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 644
+        width: 76
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9538d1d3bca3cc70800000000000000
+      internalID: 8990219169481373083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prision-spritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 710
+        width: 87
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7f8e1d126d3ab640800000000000000
+      internalID: 5096453419927768955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prision-spritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 630
+        width: 65
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9067e180d78f06220800000000000000
+      internalID: 2477253010944587273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prision-spritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 734
+        width: 77
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce935ffdacd33f9d0800000000000000
+      internalID: -2741779806588421652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prision-spritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 641
+        width: 61
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e518965b3a337e10800000000000000
+      internalID: 2194161469989852641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prision-spritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 640
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59400a02f96292ae0800000000000000
+      internalID: -1573684129900264299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prision-spritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 640
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9ad82947d30fa600800000000000000
+      internalID: 481607908332198557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prision-spritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 672
+        width: 61
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 167aa0b05b0103930800000000000000
+      internalID: 4120812028804376417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prision-spritesheet_61
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 640
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 679cb943ebd5b5670800000000000000
+      internalID: 8528513390863960438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prision-spritesheet_62
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 642
+        width: 68
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86a4c4a5f3ea79190800000000000000
+      internalID: -7955698629605569944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prision-spritesheet_63
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 642
+        width: 68
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 365e5008c0d70e8c0800000000000000
+      internalID: -3972037378699827869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prision-spritesheet_64
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 649
+        width: 153
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b9048e06d845ee50800000000000000
+      internalID: 6837951693435701689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prision-spritesheet_65
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 631
+        width: 85
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b98441e1cbe283b0800000000000000
+      internalID: -5511583776007485000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prision-spritesheet_66
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 631
+        width: 85
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89370c1ef85e57040800000000000000
+      internalID: 4644870996833104792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prision-spritesheet_67
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 631
+        width: 85
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67c5dd18859301190800000000000000
+      internalID: -7993826286283957130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prision-spritesheet_68
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 508
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a3b5228bd9f2d280800000000000000
+      internalID: -9019872382493019230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prision-spritesheet_69
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 508
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbbea68f23fb6e6a0800000000000000
+      internalID: -6420233993133036612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prision-spritesheet_70
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 508
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2665aa1292b03b840800000000000000
+      internalID: 5238543062848394850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prision-spritesheet_71
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 546
+        width: 50
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61d7277205433d460800000000000000
+      internalID: 7265208142742584598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prision-spritesheet_72
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 630
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bac47c9c7553c8e20800000000000000
+      internalID: 3354114473647885483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prision-spritesheet_73
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 516
+        width: 114
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74eed6e4bb4e2bbc0800000000000000
+      internalID: -3768698445029839289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prision-spritesheet_74
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 517
+        width: 108
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0e421a23b8a2bc60800000000000000
+      internalID: 7832508189409168906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prision-spritesheet_75
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 376
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f671dacdd6f305ad0800000000000000
+      internalID: -2715600834218092689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prision-spritesheet_76
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 375
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d34017a000066970800000000000000
+      internalID: 8747679329016628180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prision-spritesheet_77
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 375
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88f6075be4b8b1a80800000000000000
+      internalID: -8495043101936554104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prision-spritesheet_78
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 413
+        width: 63
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ac2037f2ae42e220800000000000000
+      internalID: 2513658003864956070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prision-spritesheet_79
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 244
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 177d0a0825cfdd180800000000000000
+      internalID: -9088831041688250511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prision-spritesheet_80
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 244
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cac4b185cff46f00800000000000000
+      internalID: 1109292631989734082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prision-spritesheet_81
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 244
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 846ee9bc82edc39a0800000000000000
+      internalID: -6251877915900844472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prision-spritesheet_82
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 229
+        width: 197
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 379bef27e4e1f3a70800000000000000
+      internalID: 8808792718445558131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prision-spritesheet_83
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 113
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18f3ff9cc764f7460800000000000000
+      internalID: 7241584227613884289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prision-spritesheet_84
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 113
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca3ad102a60601790800000000000000
+      internalID: -7561437765433449556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prision-spritesheet_85
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 113
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c31bbdc8dc8ec83f0800000000000000
+      internalID: -897086256224423620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      prision-spritesheet_0: 8303201107252353469
+      prision-spritesheet_1: -8603900702689468624
+      prision-spritesheet_10: 3074396188787594654
+      prision-spritesheet_11: -7706849045995994514
+      prision-spritesheet_12: 4286588751623634695
+      prision-spritesheet_13: -6483618171940965772
+      prision-spritesheet_14: -442370717314908341
+      prision-spritesheet_15: 6610919611892888383
+      prision-spritesheet_16: 4591316470675353982
+      prision-spritesheet_17: -1311004979728425716
+      prision-spritesheet_18: -8890229641855170500
+      prision-spritesheet_19: -8436898331583195583
+      prision-spritesheet_2: 3493828837196753035
+      prision-spritesheet_20: -249271245667709506
+      prision-spritesheet_21: 3496796208702430089
+      prision-spritesheet_22: -7678971868040692043
+      prision-spritesheet_23: 1046038962154719239
+      prision-spritesheet_24: 1598707869560407411
+      prision-spritesheet_25: 2483306385409369740
+      prision-spritesheet_26: 7214944240377160568
+      prision-spritesheet_27: -5207137156194827868
+      prision-spritesheet_28: 4321177108757304417
+      prision-spritesheet_29: -3632257353062153914
+      prision-spritesheet_3: -5332618213470752872
+      prision-spritesheet_30: -2561052043659281256
+      prision-spritesheet_31: 2601019709485699223
+      prision-spritesheet_32: 5487282151290269060
+      prision-spritesheet_33: 7258330898188062759
+      prision-spritesheet_34: 355650734019121570
+      prision-spritesheet_35: 980622208112040209
+      prision-spritesheet_36: 2461222164538396113
+      prision-spritesheet_37: 3410660469625993522
+      prision-spritesheet_38: 9152881416555927424
+      prision-spritesheet_39: -4227546898976728994
+      prision-spritesheet_4: 1281773869904575447
+      prision-spritesheet_40: 1162225051295248122
+      prision-spritesheet_41: 6410371958408435268
+      prision-spritesheet_42: -560330256578786114
+      prision-spritesheet_43: -3093863516683907773
+      prision-spritesheet_44: -7548496316114428468
+      prision-spritesheet_45: 3222163236992007085
+      prision-spritesheet_46: 6897897946750441372
+      prision-spritesheet_47: 7897655612882707863
+      prision-spritesheet_48: -768391158676512371
+      prision-spritesheet_49: -775980879128032939
+      prision-spritesheet_5: -7047694270402027062
+      prision-spritesheet_50: 4817892439299418944
+      prision-spritesheet_51: -7832142510117970666
+      prision-spritesheet_52: -417649178842368982
+      prision-spritesheet_53: 8990219169481373083
+      prision-spritesheet_54: 5096453419927768955
+      prision-spritesheet_55: 2477253010944587273
+      prision-spritesheet_56: -2741779806588421652
+      prision-spritesheet_57: 2194161469989852641
+      prision-spritesheet_58: -1573684129900264299
+      prision-spritesheet_59: 481607908332198557
+      prision-spritesheet_6: -8684023292249756502
+      prision-spritesheet_60: 4120812028804376417
+      prision-spritesheet_61: 8528513390863960438
+      prision-spritesheet_62: -7955698629605569944
+      prision-spritesheet_63: -3972037378699827869
+      prision-spritesheet_64: 6837951693435701689
+      prision-spritesheet_65: -5511583776007485000
+      prision-spritesheet_66: 4644870996833104792
+      prision-spritesheet_67: -7993826286283957130
+      prision-spritesheet_68: -9019872382493019230
+      prision-spritesheet_69: -6420233993133036612
+      prision-spritesheet_7: -5382613575866641622
+      prision-spritesheet_70: 5238543062848394850
+      prision-spritesheet_71: 7265208142742584598
+      prision-spritesheet_72: 3354114473647885483
+      prision-spritesheet_73: -3768698445029839289
+      prision-spritesheet_74: 7832508189409168906
+      prision-spritesheet_75: -2715600834218092689
+      prision-spritesheet_76: 8747679329016628180
+      prision-spritesheet_77: -8495043101936554104
+      prision-spritesheet_78: 2513658003864956070
+      prision-spritesheet_79: -9088831041688250511
+      prision-spritesheet_8: -3442422943583600066
+      prision-spritesheet_80: 1109292631989734082
+      prision-spritesheet_81: -6251877915900844472
+      prision-spritesheet_82: 8808792718445558131
+      prision-spritesheet_83: 7241584227613884289
+      prision-spritesheet_84: -7561437765433449556
+      prision-spritesheet_85: -897086256224423620
+      prision-spritesheet_9: 7883511785036610249
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

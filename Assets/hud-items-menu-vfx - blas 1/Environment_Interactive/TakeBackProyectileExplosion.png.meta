@@ -1,0 +1,975 @@
+fileFormatVersion: 2
+guid: 0ec1da5328a301f49a19c6279be09f59
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1007111448010319636
+    second: TakeBackProyectileExplosion_0
+  - first:
+      213: -155767542417547696
+    second: TakeBackProyectileExplosion_1
+  - first:
+      213: -7235807614300169893
+    second: TakeBackProyectileExplosion_2
+  - first:
+      213: 4717993365021976127
+    second: TakeBackProyectileExplosion_3
+  - first:
+      213: 2597992509752936670
+    second: TakeBackProyectileExplosion_4
+  - first:
+      213: 5256009040920340905
+    second: TakeBackProyectileExplosion_5
+  - first:
+      213: 7123167813283277413
+    second: TakeBackProyectileExplosion_6
+  - first:
+      213: 2483439557055356036
+    second: TakeBackProyectileExplosion_7
+  - first:
+      213: -6831356272406048695
+    second: TakeBackProyectileExplosion_8
+  - first:
+      213: 837684943899189150
+    second: TakeBackProyectileExplosion_9
+  - first:
+      213: 1711012397668315761
+    second: TakeBackProyectileExplosion_10
+  - first:
+      213: -4671778158863138907
+    second: TakeBackProyectileExplosion_11
+  - first:
+      213: 1602281595072696541
+    second: TakeBackProyectileExplosion_12
+  - first:
+      213: 6320850818417783218
+    second: TakeBackProyectileExplosion_13
+  - first:
+      213: -1259312238393387426
+    second: TakeBackProyectileExplosion_14
+  - first:
+      213: -6545858547270177670
+    second: TakeBackProyectileExplosion_15
+  - first:
+      213: -5325842157711201717
+    second: TakeBackProyectileExplosion_16
+  - first:
+      213: 8459699084044517518
+    second: TakeBackProyectileExplosion_17
+  - first:
+      213: 3659290006726455653
+    second: TakeBackProyectileExplosion_18
+  - first:
+      213: -8717141287715022263
+    second: TakeBackProyectileExplosion_19
+  - first:
+      213: -6538223012598772936
+    second: TakeBackProyectileExplosion_20
+  - first:
+      213: -5180270950270319876
+    second: TakeBackProyectileExplosion_21
+  - first:
+      213: 4652615273565033387
+    second: TakeBackProyectileExplosion_22
+  - first:
+      213: 8962207460479058810
+    second: TakeBackProyectileExplosion_23
+  - first:
+      213: 6933021241496746215
+    second: TakeBackProyectileExplosion_24
+  - first:
+      213: -5817685533342826637
+    second: TakeBackProyectileExplosion_25
+  - first:
+      213: -1979086807658055049
+    second: TakeBackProyectileExplosion_26
+  - first:
+      213: 5085875878886188123
+    second: TakeBackProyectileExplosion_27
+  - first:
+      213: 5933678739208280184
+    second: TakeBackProyectileExplosion_28
+  - first:
+      213: 1809835347940002151
+    second: TakeBackProyectileExplosion_29
+  - first:
+      213: -7368369221157960777
+    second: TakeBackProyectileExplosion_30
+  - first:
+      213: 3746429585023782604
+    second: TakeBackProyectileExplosion_31
+  - first:
+      213: -705923859535667447
+    second: TakeBackProyectileExplosion_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TakeBackProyectileExplosion_0
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 409
+        width: 78
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41762eba68af9fd00800000000000000
+      internalID: 1007111448010319636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeBackProyectileExplosion_1
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 412
+        width: 82
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05e9aa6de3a96ddf0800000000000000
+      internalID: -155767542417547696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeBackProyectileExplosion_2
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 516
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b59529ecf4f359b90800000000000000
+      internalID: -7235807614300169893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeBackProyectileExplosion_3
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 413
+        width: 103
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f36e8cee7fda97140800000000000000
+      internalID: 4717993365021976127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeBackProyectileExplosion_4
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 425
+        width: 94
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed803f04c6ced0420800000000000000
+      internalID: 2597992509752936670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeBackProyectileExplosion_5
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 419
+        width: 104
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a96c4c006811f840800000000000000
+      internalID: 5256009040920340905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeBackProyectileExplosion_6
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 498
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56aee32d2639ad260800000000000000
+      internalID: 7123167813283277413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeBackProyectileExplosion_7
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 431
+        width: 81
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48c107b8e13f67220800000000000000
+      internalID: 2483439557055356036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeBackProyectileExplosion_8
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 506
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 940d9111aa52231a0800000000000000
+      internalID: -6831356272406048695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeBackProyectileExplosion_9
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 484
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9fddcaa40e00ab00800000000000000
+      internalID: 837684943899189150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeBackProyectileExplosion_10
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 438
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1723f49d5bcbeb710800000000000000
+      internalID: 1711012397668315761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeBackProyectileExplosion_11
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 428
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5afb88344828a2fb0800000000000000
+      internalID: -4671778158863138907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeBackProyectileExplosion_12
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 229
+        width: 106
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd054781f927c3610800000000000000
+      internalID: 1602281595072696541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeBackProyectileExplosion_13
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 34
+        width: 128
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b1770e745c28b750800000000000000
+      internalID: 6320850818417783218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeBackProyectileExplosion_14
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 230
+        width: 131
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e569249f036068ee0800000000000000
+      internalID: -1259312238393387426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeBackProyectileExplosion_15
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 229
+        width: 144
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7ca10c25507825a0800000000000000
+      internalID: -6545858547270177670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeBackProyectileExplosion_16
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 226
+        width: 116
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4ae2db66cec616b0800000000000000
+      internalID: -5325842157711201717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeBackProyectileExplosion_17
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 332
+        width: 34
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e80cb2bde73e66570800000000000000
+      internalID: 8459699084044517518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeBackProyectileExplosion_18
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 331
+        width: 29
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56131159fd868c230800000000000000
+      internalID: 3659290006726455653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeBackProyectileExplosion_19
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 306
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94adad82f2e760780800000000000000
+      internalID: -8717141287715022263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeBackProyectileExplosion_20
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 296
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83b04cf9fc09345a0800000000000000
+      internalID: -6538223012598772936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeBackProyectileExplosion_21
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 253
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf2ccd8540bfb18b0800000000000000
+      internalID: -5180270950270319876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeBackProyectileExplosion_22
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 261
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba39661d0f8619040800000000000000
+      internalID: 4652615273565033387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeBackProyectileExplosion_23
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 256
+        width: 10
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a73c5359338206c70800000000000000
+      internalID: 8962207460479058810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeBackProyectileExplosion_24
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 235
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e8b6af161a073060800000000000000
+      internalID: 6933021241496746215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeBackProyectileExplosion_25
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 224
+        width: 53
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37ffb22b4dd634fa0800000000000000
+      internalID: -5817685533342826637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeBackProyectileExplosion_26
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 235
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77a31e9b80fd884e0800000000000000
+      internalID: -1979086807658055049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeBackProyectileExplosion_27
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 146
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b542dbc6a29a49640800000000000000
+      internalID: 5085875878886188123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeBackProyectileExplosion_28
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 146
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8781cc51069a85250800000000000000
+      internalID: 5933678739208280184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeBackProyectileExplosion_29
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 123
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 769c8e7f8a3dd1910800000000000000
+      internalID: 1809835347940002151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeBackProyectileExplosion_30
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 116
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b345fe8b3b4eb990800000000000000
+      internalID: -7368369221157960777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeBackProyectileExplosion_31
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 48
+        width: 24
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cce4b5fabddfdf330800000000000000
+      internalID: 3746429585023782604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeBackProyectileExplosion_32
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 34
+        width: 60
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90f57e96dfd0436f0800000000000000
+      internalID: -705923859535667447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      TakeBackProyectileExplosion_0: 1007111448010319636
+      TakeBackProyectileExplosion_1: -155767542417547696
+      TakeBackProyectileExplosion_10: 1711012397668315761
+      TakeBackProyectileExplosion_11: -4671778158863138907
+      TakeBackProyectileExplosion_12: 1602281595072696541
+      TakeBackProyectileExplosion_13: 6320850818417783218
+      TakeBackProyectileExplosion_14: -1259312238393387426
+      TakeBackProyectileExplosion_15: -6545858547270177670
+      TakeBackProyectileExplosion_16: -5325842157711201717
+      TakeBackProyectileExplosion_17: 8459699084044517518
+      TakeBackProyectileExplosion_18: 3659290006726455653
+      TakeBackProyectileExplosion_19: -8717141287715022263
+      TakeBackProyectileExplosion_2: -7235807614300169893
+      TakeBackProyectileExplosion_20: -6538223012598772936
+      TakeBackProyectileExplosion_21: -5180270950270319876
+      TakeBackProyectileExplosion_22: 4652615273565033387
+      TakeBackProyectileExplosion_23: 8962207460479058810
+      TakeBackProyectileExplosion_24: 6933021241496746215
+      TakeBackProyectileExplosion_25: -5817685533342826637
+      TakeBackProyectileExplosion_26: -1979086807658055049
+      TakeBackProyectileExplosion_27: 5085875878886188123
+      TakeBackProyectileExplosion_28: 5933678739208280184
+      TakeBackProyectileExplosion_29: 1809835347940002151
+      TakeBackProyectileExplosion_3: 4717993365021976127
+      TakeBackProyectileExplosion_30: -7368369221157960777
+      TakeBackProyectileExplosion_31: 3746429585023782604
+      TakeBackProyectileExplosion_32: -705923859535667447
+      TakeBackProyectileExplosion_4: 2597992509752936670
+      TakeBackProyectileExplosion_5: 5256009040920340905
+      TakeBackProyectileExplosion_6: 7123167813283277413
+      TakeBackProyectileExplosion_7: 2483439557055356036
+      TakeBackProyectileExplosion_8: -6831356272406048695
+      TakeBackProyectileExplosion_9: 837684943899189150
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

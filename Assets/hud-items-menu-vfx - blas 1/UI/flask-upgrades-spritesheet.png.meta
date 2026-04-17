@@ -1,0 +1,611 @@
+fileFormatVersion: 2
+guid: f3dd8b27e2fd87d478bd04bd737e8994
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2708802892191193140
+    second: flask-upgrades-spritesheet_0
+  - first:
+      213: 1831847427166934580
+    second: flask-upgrades-spritesheet_1
+  - first:
+      213: -5298551751813165320
+    second: flask-upgrades-spritesheet_2
+  - first:
+      213: 7815423140016594289
+    second: flask-upgrades-spritesheet_3
+  - first:
+      213: -8427142919721630412
+    second: flask-upgrades-spritesheet_4
+  - first:
+      213: -5211569963797640211
+    second: flask-upgrades-spritesheet_5
+  - first:
+      213: 6404388280852339174
+    second: flask-upgrades-spritesheet_6
+  - first:
+      213: 3273369208768615880
+    second: flask-upgrades-spritesheet_7
+  - first:
+      213: 9106407090518233252
+    second: flask-upgrades-spritesheet_8
+  - first:
+      213: -6879228161526624739
+    second: flask-upgrades-spritesheet_9
+  - first:
+      213: 8380930955221859011
+    second: flask-upgrades-spritesheet_10
+  - first:
+      213: -8311130858005848741
+    second: flask-upgrades-spritesheet_11
+  - first:
+      213: 6390509471464774957
+    second: flask-upgrades-spritesheet_12
+  - first:
+      213: 4428349286622032883
+    second: flask-upgrades-spritesheet_13
+  - first:
+      213: -149108030869262681
+    second: flask-upgrades-spritesheet_14
+  - first:
+      213: 3351712219427805101
+    second: flask-upgrades-spritesheet_15
+  - first:
+      213: -4292975335544153568
+    second: flask-upgrades-spritesheet_16
+  - first:
+      213: 4653772539999327957
+    second: flask-upgrades-spritesheet_17
+  - first:
+      213: 5298462928906436171
+    second: flask-upgrades-spritesheet_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: flask-upgrades-spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 108
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4385b9be0e9979520800000000000000
+      internalID: 2708802892191193140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flask-upgrades-spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 106
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4369ffa87870c6910800000000000000
+      internalID: 1831847427166934580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flask-upgrades-spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 106
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fe07213143c776b0800000000000000
+      internalID: -5298551751813165320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flask-upgrades-spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 105
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17d9e0e10f5f57c60800000000000000
+      internalID: 7815423140016594289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flask-upgrades-spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 105
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4354b86d926cc0b80800000000000000
+      internalID: -8427142919721630412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flask-upgrades-spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 105
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deb0fb1eab8cca7b0800000000000000
+      internalID: -5211569963797640211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flask-upgrades-spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 86
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e9d0e3a535f0e850800000000000000
+      internalID: 6404388280852339174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flask-upgrades-spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 84
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c5da5bc3f75d6d20800000000000000
+      internalID: 3273369208768615880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flask-upgrades-spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 84
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a010724005706e70800000000000000
+      internalID: 9106407090518233252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flask-upgrades-spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 83
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1e875f4f621880a0800000000000000
+      internalID: -6879228161526624739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flask-upgrades-spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 83
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3caf219bc4c0f4470800000000000000
+      internalID: 8380930955221859011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flask-upgrades-spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 83
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5d16c6d48ee8ac80800000000000000
+      internalID: -8311130858005848741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flask-upgrades-spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 64
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2d5d648186afa850800000000000000
+      internalID: 6390509471464774957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flask-upgrades-spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 62
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f3f57ab638a47d30800000000000000
+      internalID: 4428349286622032883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flask-upgrades-spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 62
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ae21e239034eedf0800000000000000
+      internalID: -149108030869262681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flask-upgrades-spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 61
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da79454618ca38e20800000000000000
+      internalID: 3351712219427805101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flask-upgrades-spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 61
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02a906f6da94c64c0800000000000000
+      internalID: -4292975335544153568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flask-upgrades-spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 61
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d69028e775859040800000000000000
+      internalID: 4653772539999327957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flask-upgrades-spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 31
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4e3b0d16fbe78940800000000000000
+      internalID: 5298462928906436171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      flask-upgrades-spritesheet_0: 2708802892191193140
+      flask-upgrades-spritesheet_1: 1831847427166934580
+      flask-upgrades-spritesheet_10: 8380930955221859011
+      flask-upgrades-spritesheet_11: -8311130858005848741
+      flask-upgrades-spritesheet_12: 6390509471464774957
+      flask-upgrades-spritesheet_13: 4428349286622032883
+      flask-upgrades-spritesheet_14: -149108030869262681
+      flask-upgrades-spritesheet_15: 3351712219427805101
+      flask-upgrades-spritesheet_16: -4292975335544153568
+      flask-upgrades-spritesheet_17: 4653772539999327957
+      flask-upgrades-spritesheet_18: 5298462928906436171
+      flask-upgrades-spritesheet_2: -5298551751813165320
+      flask-upgrades-spritesheet_3: 7815423140016594289
+      flask-upgrades-spritesheet_4: -8427142919721630412
+      flask-upgrades-spritesheet_5: -5211569963797640211
+      flask-upgrades-spritesheet_6: 6404388280852339174
+      flask-upgrades-spritesheet_7: 3273369208768615880
+      flask-upgrades-spritesheet_8: 9106407090518233252
+      flask-upgrades-spritesheet_9: -6879228161526624739
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,481 @@
+fileFormatVersion: 2
+guid: d6772de4e270a6b43b52fecc25d64613
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 418627418126150115
+    second: merchantTent_lamp01_0
+  - first:
+      213: -4423409737770250974
+    second: merchantTent_lamp01_1
+  - first:
+      213: -7231188239007495282
+    second: merchantTent_lamp01_2
+  - first:
+      213: -3658700055143205964
+    second: merchantTent_lamp01_3
+  - first:
+      213: -3515308274145289597
+    second: merchantTent_lamp01_4
+  - first:
+      213: -2240404126758329867
+    second: merchantTent_lamp01_5
+  - first:
+      213: -7648393198329749628
+    second: merchantTent_lamp01_6
+  - first:
+      213: 298569428015656555
+    second: merchantTent_lamp01_7
+  - first:
+      213: 3113768242543015103
+    second: merchantTent_lamp01_8
+  - first:
+      213: -8405189910792597204
+    second: merchantTent_lamp01_9
+  - first:
+      213: -8434871572310139794
+    second: merchantTent_lamp01_10
+  - first:
+      213: -2048731957265828685
+    second: merchantTent_lamp01_11
+  - first:
+      213: 6619454726816917048
+    second: merchantTent_lamp01_12
+  - first:
+      213: -1152131076041812949
+    second: merchantTent_lamp01_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: merchantTent_lamp01_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 288
+        width: 41
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e9e5a63b634fc500800000000000000
+      internalID: 418627418126150115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: merchantTent_lamp01_1
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 288
+        width: 41
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22d433c9744ec92c0800000000000000
+      internalID: -4423409737770250974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: merchantTent_lamp01_2
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 288
+        width: 41
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8bc9fdeb98a5ab90800000000000000
+      internalID: -7231188239007495282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: merchantTent_lamp01_3
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 288
+        width: 41
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b3bc793fafa93dc0800000000000000
+      internalID: -3658700055143205964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: merchantTent_lamp01_4
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 289
+        width: 41
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38a1493efbd173fc0800000000000000
+      internalID: -3515308274145289597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: merchantTent_lamp01_5
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 289
+        width: 41
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f1204f115c78e0e0800000000000000
+      internalID: -2240404126758329867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: merchantTent_lamp01_6
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 162
+        width: 41
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48f9a07b8e27bd590800000000000000
+      internalID: -7648393198329749628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: merchantTent_lamp01_7
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 162
+        width: 41
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6e2aa9105bb42400800000000000000
+      internalID: 298569428015656555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: merchantTent_lamp01_8
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 161
+        width: 41
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb43ba918b3563b20800000000000000
+      internalID: 3113768242543015103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: merchantTent_lamp01_9
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 161
+        width: 41
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2192890f44ca5b80800000000000000
+      internalID: -8405189910792597204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: merchantTent_lamp01_10
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 161
+        width: 41
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6cd96eaef051fa80800000000000000
+      internalID: -8434871572310139794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: merchantTent_lamp01_11
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 160
+        width: 41
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b4fd27b3217193e0800000000000000
+      internalID: -2048731957265828685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: merchantTent_lamp01_12
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 33
+        width: 41
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 836e3bea0070ddb50800000000000000
+      internalID: 6619454726816917048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: merchantTent_lamp01_13
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 33
+        width: 41
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b24d6ddf3eec200f0800000000000000
+      internalID: -1152131076041812949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      merchantTent_lamp01_0: 418627418126150115
+      merchantTent_lamp01_1: -4423409737770250974
+      merchantTent_lamp01_10: -8434871572310139794
+      merchantTent_lamp01_11: -2048731957265828685
+      merchantTent_lamp01_12: 6619454726816917048
+      merchantTent_lamp01_13: -1152131076041812949
+      merchantTent_lamp01_2: -7231188239007495282
+      merchantTent_lamp01_3: -3658700055143205964
+      merchantTent_lamp01_4: -3515308274145289597
+      merchantTent_lamp01_5: -2240404126758329867
+      merchantTent_lamp01_6: -7648393198329749628
+      merchantTent_lamp01_7: 298569428015656555
+      merchantTent_lamp01_8: 3113768242543015103
+      merchantTent_lamp01_9: -8405189910792597204
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

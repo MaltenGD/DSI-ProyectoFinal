@@ -1,0 +1,2821 @@
+fileFormatVersion: 2
+guid: 7ac00dba0e7a47240af4fe57fdd0cb96
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3506581592820353211
+    second: breakable_platform_small_theBorder_0
+  - first:
+      213: 586548082546436323
+    second: breakable_platform_small_theBorder_1
+  - first:
+      213: 9022109039554633420
+    second: breakable_platform_small_theBorder_2
+  - first:
+      213: -8191310273481587937
+    second: breakable_platform_small_theBorder_3
+  - first:
+      213: 5865061716840144300
+    second: breakable_platform_small_theBorder_4
+  - first:
+      213: 7188527730881221548
+    second: breakable_platform_small_theBorder_5
+  - first:
+      213: 903994966567691257
+    second: breakable_platform_small_theBorder_6
+  - first:
+      213: -822689069496902792
+    second: breakable_platform_small_theBorder_7
+  - first:
+      213: 582183886130022942
+    second: breakable_platform_small_theBorder_8
+  - first:
+      213: 8412044990017798073
+    second: breakable_platform_small_theBorder_9
+  - first:
+      213: 8503156101582895299
+    second: breakable_platform_small_theBorder_10
+  - first:
+      213: 4394863413457825233
+    second: breakable_platform_small_theBorder_11
+  - first:
+      213: 5984907715292519010
+    second: breakable_platform_small_theBorder_12
+  - first:
+      213: -8947112395442499113
+    second: breakable_platform_small_theBorder_13
+  - first:
+      213: 7954336814004580545
+    second: breakable_platform_small_theBorder_14
+  - first:
+      213: -6367304937924877780
+    second: breakable_platform_small_theBorder_15
+  - first:
+      213: -3812297255274900050
+    second: breakable_platform_small_theBorder_16
+  - first:
+      213: -2111640547637060646
+    second: breakable_platform_small_theBorder_17
+  - first:
+      213: -4946447570232522918
+    second: breakable_platform_small_theBorder_18
+  - first:
+      213: -3902205978169220077
+    second: breakable_platform_small_theBorder_19
+  - first:
+      213: -9153133766036088209
+    second: breakable_platform_small_theBorder_20
+  - first:
+      213: 8657071176908187532
+    second: breakable_platform_small_theBorder_21
+  - first:
+      213: -733869993157608184
+    second: breakable_platform_small_theBorder_22
+  - first:
+      213: 2429003789944414463
+    second: breakable_platform_small_theBorder_23
+  - first:
+      213: 3270780443463480551
+    second: breakable_platform_small_theBorder_24
+  - first:
+      213: -256441256970941693
+    second: breakable_platform_small_theBorder_25
+  - first:
+      213: 5726972974889443991
+    second: breakable_platform_small_theBorder_26
+  - first:
+      213: -7509358981909566497
+    second: breakable_platform_small_theBorder_27
+  - first:
+      213: -147447826899135813
+    second: breakable_platform_small_theBorder_28
+  - first:
+      213: -6617391777379794057
+    second: breakable_platform_small_theBorder_29
+  - first:
+      213: -8069334763549672836
+    second: breakable_platform_small_theBorder_30
+  - first:
+      213: 4730764882068205741
+    second: breakable_platform_small_theBorder_31
+  - first:
+      213: -5551507971542315256
+    second: breakable_platform_small_theBorder_32
+  - first:
+      213: -9115524884362301850
+    second: breakable_platform_small_theBorder_33
+  - first:
+      213: -8113843675661981009
+    second: breakable_platform_small_theBorder_34
+  - first:
+      213: -5173912176923983549
+    second: breakable_platform_small_theBorder_35
+  - first:
+      213: 6398874344149815666
+    second: breakable_platform_small_theBorder_36
+  - first:
+      213: -5266447374395774770
+    second: breakable_platform_small_theBorder_37
+  - first:
+      213: -7089026652414674403
+    second: breakable_platform_small_theBorder_38
+  - first:
+      213: 943006683006997754
+    second: breakable_platform_small_theBorder_39
+  - first:
+      213: 238824280675251282
+    second: breakable_platform_small_theBorder_40
+  - first:
+      213: 5617936370977725232
+    second: breakable_platform_small_theBorder_41
+  - first:
+      213: 7590713250844916870
+    second: breakable_platform_small_theBorder_42
+  - first:
+      213: 6901143613859920374
+    second: breakable_platform_small_theBorder_43
+  - first:
+      213: -1599849730776939457
+    second: breakable_platform_small_theBorder_44
+  - first:
+      213: -5686897825447099384
+    second: breakable_platform_small_theBorder_45
+  - first:
+      213: 7317087706797158489
+    second: breakable_platform_small_theBorder_46
+  - first:
+      213: 9012856934755824939
+    second: breakable_platform_small_theBorder_47
+  - first:
+      213: 6157166024258361518
+    second: breakable_platform_small_theBorder_48
+  - first:
+      213: -8702711530451274725
+    second: breakable_platform_small_theBorder_49
+  - first:
+      213: -7182451499209131461
+    second: breakable_platform_small_theBorder_50
+  - first:
+      213: 7930547821803797717
+    second: breakable_platform_small_theBorder_51
+  - first:
+      213: 696838293980021962
+    second: breakable_platform_small_theBorder_52
+  - first:
+      213: -2461893695091882777
+    second: breakable_platform_small_theBorder_53
+  - first:
+      213: 477026940990293341
+    second: breakable_platform_small_theBorder_54
+  - first:
+      213: -7772678614132978019
+    second: breakable_platform_small_theBorder_55
+  - first:
+      213: -6241874454314130701
+    second: breakable_platform_small_theBorder_56
+  - first:
+      213: -3162873463581110671
+    second: breakable_platform_small_theBorder_57
+  - first:
+      213: 3312592985488250723
+    second: breakable_platform_small_theBorder_58
+  - first:
+      213: 5837539524991116984
+    second: breakable_platform_small_theBorder_59
+  - first:
+      213: 1864973694374687962
+    second: breakable_platform_small_theBorder_60
+  - first:
+      213: 2386882352422363711
+    second: breakable_platform_small_theBorder_61
+  - first:
+      213: 2825636860043954559
+    second: breakable_platform_small_theBorder_62
+  - first:
+      213: -3324623264249008245
+    second: breakable_platform_small_theBorder_63
+  - first:
+      213: -2072589485316858166
+    second: breakable_platform_small_theBorder_64
+  - first:
+      213: -3769513405897453919
+    second: breakable_platform_small_theBorder_65
+  - first:
+      213: -8450404859506584341
+    second: breakable_platform_small_theBorder_66
+  - first:
+      213: -1711508872431479548
+    second: breakable_platform_small_theBorder_67
+  - first:
+      213: -732718148170560748
+    second: breakable_platform_small_theBorder_68
+  - first:
+      213: -8105139914936555252
+    second: breakable_platform_small_theBorder_69
+  - first:
+      213: -2225779492442670361
+    second: breakable_platform_small_theBorder_70
+  - first:
+      213: 9015690984924578319
+    second: breakable_platform_small_theBorder_71
+  - first:
+      213: 110256089896468901
+    second: breakable_platform_small_theBorder_72
+  - first:
+      213: 2870125674153428315
+    second: breakable_platform_small_theBorder_73
+  - first:
+      213: -4178662562391339881
+    second: breakable_platform_small_theBorder_74
+  - first:
+      213: 5067981887356609235
+    second: breakable_platform_small_theBorder_75
+  - first:
+      213: -1431104011372312624
+    second: breakable_platform_small_theBorder_76
+  - first:
+      213: 122687502032834838
+    second: breakable_platform_small_theBorder_77
+  - first:
+      213: -2770063582374194336
+    second: breakable_platform_small_theBorder_78
+  - first:
+      213: -8736499458840876161
+    second: breakable_platform_small_theBorder_79
+  - first:
+      213: -2327235022920927912
+    second: breakable_platform_small_theBorder_80
+  - first:
+      213: -9106128183531124813
+    second: breakable_platform_small_theBorder_81
+  - first:
+      213: 589114301777280012
+    second: breakable_platform_small_theBorder_82
+  - first:
+      213: -1775553050890864899
+    second: breakable_platform_small_theBorder_83
+  - first:
+      213: -8022951045002356597
+    second: breakable_platform_small_theBorder_84
+  - first:
+      213: 366163829608457433
+    second: breakable_platform_small_theBorder_85
+  - first:
+      213: -5742112022101365029
+    second: breakable_platform_small_theBorder_86
+  - first:
+      213: -3147110266092218804
+    second: breakable_platform_small_theBorder_87
+  - first:
+      213: -4929120612522671957
+    second: breakable_platform_small_theBorder_88
+  - first:
+      213: 7786231966073295695
+    second: breakable_platform_small_theBorder_89
+  - first:
+      213: -3378213804887715521
+    second: breakable_platform_small_theBorder_90
+  - first:
+      213: -6061909980940932059
+    second: breakable_platform_small_theBorder_91
+  - first:
+      213: -5908286230537391517
+    second: breakable_platform_small_theBorder_92
+  - first:
+      213: -4321805243698379380
+    second: breakable_platform_small_theBorder_93
+  - first:
+      213: 8660773013098431115
+    second: breakable_platform_small_theBorder_94
+  - first:
+      213: -1503129218388852353
+    second: breakable_platform_small_theBorder_95
+  - first:
+      213: -6126817721422946526
+    second: breakable_platform_small_theBorder_96
+  - first:
+      213: -1044541782831662366
+    second: breakable_platform_small_theBorder_97
+  - first:
+      213: -4117007285810309551
+    second: breakable_platform_small_theBorder_98
+  - first:
+      213: 2454066630511980365
+    second: breakable_platform_small_theBorder_99
+  - first:
+      213: -8410939057581556455
+    second: breakable_platform_small_theBorder_100
+  - first:
+      213: -6624176403367527012
+    second: breakable_platform_small_theBorder_101
+  - first:
+      213: 6796959713388959079
+    second: breakable_platform_small_theBorder_102
+  - first:
+      213: 1788144979312993502
+    second: breakable_platform_small_theBorder_103
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder_0
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 714
+        width: 69
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb80bf74161e9a030800000000000000
+      internalID: 3506581592820353211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder_1
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 713
+        width: 69
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e8edd79f56d32800800000000000000
+      internalID: 586548082546436323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder_2
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 712
+        width: 69
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cce9e7bce58f43d70800000000000000
+      internalID: 9022109039554633420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder_3
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 710
+        width: 69
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f134f18a4be925e80800000000000000
+      internalID: -8191310273481587937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder_4
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 707
+        width: 69
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caddff99e82e46150800000000000000
+      internalID: 5865061716840144300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder_5
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 702
+        width: 69
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca3583182e7c2c360800000000000000
+      internalID: 7188527730881221548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder_6
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 697
+        width: 69
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f3220de1a2ab8c00800000000000000
+      internalID: 903994966567691257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder_7
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 560
+        width: 69
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87b5a0c66a83594f0800000000000000
+      internalID: -822689069496902792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder_8
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 554
+        width: 69
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1a8cbee825541800800000000000000
+      internalID: 582183886130022942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder_9
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 544
+        width: 69
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bf7d9879569db470800000000000000
+      internalID: 8412044990017798073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder_10
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 552
+        width: 69
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c83b883c67410670800000000000000
+      internalID: 8503156101582895299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder_11
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 581
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dda3835df0bdfc30800000000000000
+      internalID: 4394863413457825233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder_12
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 546
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26a518f8bd9ae0350800000000000000
+      internalID: 5984907715292519010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder_13
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 545
+        width: 69
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d1d7202ea875d380800000000000000
+      internalID: -8947112395442499113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder_14
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 586
+        width: 69
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c03e8e303b736e60800000000000000
+      internalID: 7954336814004580545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder_15
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 573
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c22a566f4e9c2a7a0800000000000000
+      internalID: -6367304937924877780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder_16
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 453
+        width: 69
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea5942148dff71bc0800000000000000
+      internalID: -3812297255274900050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder_17
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 450
+        width: 69
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adb18c02c12f1b2e0800000000000000
+      internalID: -2111640547637060646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder_18
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 447
+        width: 70
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a57423c6420ba5bb0800000000000000
+      internalID: -4946447570232522918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder_19
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 441
+        width: 73
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31461de665498d9c0800000000000000
+      internalID: -3902205978169220077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder_20
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 435
+        width: 77
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6a19cdc55989f080800000000000000
+      internalID: -9153133766036088209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder_21
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 425
+        width: 82
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c87a2e64e58142870800000000000000
+      internalID: 8657071176908187532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder_22
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 457
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80db5822125c0d5f0800000000000000
+      internalID: -733869993157608184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder_23
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 431
+        width: 67
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff0e6b9d31e85b120800000000000000
+      internalID: 2429003789944414463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder_24
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 464
+        width: 30
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e47fe6eb75246d20800000000000000
+      internalID: 3270780443463480551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder_25
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 463
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30b0e741900f07cf0800000000000000
+      internalID: -256441256970941693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder_26
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 441
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7922c8ee39b4a7f40800000000000000
+      internalID: 5726972974889443991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder_27
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 436
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdb2460dac569c790800000000000000
+      internalID: -7509358981909566497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder_28
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 429
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb216ce8bf824fdf0800000000000000
+      internalID: -147447826899135813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder_29
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 440
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 773cfa92d3d4a24a0800000000000000
+      internalID: -6617391777379794057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder_30
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 442
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7a39e429c6f30090800000000000000
+      internalID: -8069334763549672836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder_31
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 430
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da07197789d07a140800000000000000
+      internalID: 4730764882068205741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder_32
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 426
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80f887cb9e415f2b0800000000000000
+      internalID: -5551507971542315256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder_33
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 358
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66ee95ee9662f7180800000000000000
+      internalID: -9115524884362301850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder_34
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 366
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faa2e1d7a26d56f80800000000000000
+      internalID: -8113843675661981009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder_35
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 362
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 341c063a9429238b0800000000000000
+      internalID: -5173912176923983549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder_36
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 361
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2711965305e5dc850800000000000000
+      internalID: 6398874344149815666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder_37
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 356
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec8e9dc0402d9e6b0800000000000000
+      internalID: -5266447374395774770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder_38
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 363
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1afb83a1d7be9d90800000000000000
+      internalID: -7089026652414674403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder_39
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 360
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af49379f49b361d00800000000000000
+      internalID: 943006683006997754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder_40
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 358
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 254f26dfa69705300800000000000000
+      internalID: 238824280675251282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder_41
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 353
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03bdfd24d5be6fd40800000000000000
+      internalID: 5617936370977725232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder_42
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 358
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68c367cfb71a75960800000000000000
+      internalID: 7590713250844916870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder_43
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 354
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f973109d89c5cf50800000000000000
+      internalID: 6901143613859920374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder_44
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 354
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f34490f65213cc9e0800000000000000
+      internalID: -1599849730776939457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder_45
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 329
+        width: 44
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 804c848ee841411b0800000000000000
+      internalID: -5686897825447099384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder_46
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 326
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 950b50270848b8560800000000000000
+      internalID: 7317087706797158489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder_47
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 318
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b25798741a9141d70800000000000000
+      internalID: 9012856934755824939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder_48
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 328
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea8160380e5a27550800000000000000
+      internalID: 6157166024258361518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder_49
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 314
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1471c4d8f1c93780800000000000000
+      internalID: -8702711530451274725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder_50
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 335
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3afa2d6a6ec25c90800000000000000
+      internalID: -7182451499209131461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder_51
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 329
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dcfcd0e937fe0e60800000000000000
+      internalID: 7930547821803797717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder_52
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 316
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac481928cbaaba900800000000000000
+      internalID: 696838293980021962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder_53
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 335
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e4464d5ab895ddd0800000000000000
+      internalID: -2461893695091882777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder_54
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 331
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d558406b97dbe9600800000000000000
+      internalID: 477026940990293341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder_55
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 319
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9e045b5bf5e12490800000000000000
+      internalID: -7772678614132978019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder_56
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 318
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f2650231486069a0800000000000000
+      internalID: -6241874454314130701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder_57
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 319
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17e0dbda7573b14d0800000000000000
+      internalID: -3162873463581110671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder_58
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 335
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3675a79f4c1b8fd20800000000000000
+      internalID: 3312592985488250723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder_59
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 327
+        width: 77
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b6e565f44b130150800000000000000
+      internalID: 5837539524991116984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder_60
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 323
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad4b6a8a1b7b1e910800000000000000
+      internalID: 1864973694374687962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder_61
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 318
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f32a8c07ad8ef1120800000000000000
+      internalID: 2386882352422363711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder_62
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 326
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f798b2bd0cda63720800000000000000
+      internalID: 2825636860043954559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder_63
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 312
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8f207a71c09cd1d0800000000000000
+      internalID: -3324623264249008245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder_64
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 311
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ace9a7a18deac33e0800000000000000
+      internalID: -2072589485316858166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder_65
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 315
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aec861778fffabc0800000000000000
+      internalID: -3769513405897453919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder_66
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 313
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be410ec6d812aba80800000000000000
+      internalID: -8450404859506584341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder_67
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 315
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 405dacc9fbf7f38e0800000000000000
+      internalID: -1711508872431479548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder_68
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 313
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41bcfc1f9bcd4d5f0800000000000000
+      internalID: -732718148170560748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder_69
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 311
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c09ed53b032c48f80800000000000000
+      internalID: -8105139914936555252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder_70
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 299
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eafa9428517c11e0800000000000000
+      internalID: -2225779492442670361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder_71
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 307
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f020f110f2b2e1d70800000000000000
+      internalID: 9015690984924578319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder_72
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 311
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a14a906455b78100800000000000000
+      internalID: 110256089896468901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder_73
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 311
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b55c4a4181cb4d720800000000000000
+      internalID: 2870125674153428315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder_74
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 294
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79cc07cf9886206c0800000000000000
+      internalID: -4178662562391339881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder_75
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 299
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d2210cdca6155640800000000000000
+      internalID: 5067981887356609235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder_76
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 304
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d74485eb72b32ce0800000000000000
+      internalID: -1431104011372312624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder_77
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 289
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6111c0112afd3b100800000000000000
+      internalID: 122687502032834838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder_78
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 301
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 063175729d1ce89d0800000000000000
+      internalID: -2770063582374194336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder_79
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 297
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7ba567b708b1c680800000000000000
+      internalID: -8736499458840876161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder_80
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 301
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85533fda31004bfd0800000000000000
+      internalID: -2327235022920927912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder_81
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 298
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b74475d9a880a180800000000000000
+      internalID: -9106128183531124813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder_82
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 297
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0c79811654fc2800800000000000000
+      internalID: 589114301777280012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder_83
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 303
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df6f9c158e7fb57e0800000000000000
+      internalID: -1775553050890864899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder_84
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 287
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8819403880c8a090800000000000000
+      internalID: -8022951045002356597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder_85
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 278
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d4a8612010e41500800000000000000
+      internalID: 366163829608457433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder_86
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 279
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdee526f98bef40b0800000000000000
+      internalID: -5742112022101365029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder_87
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 286
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c46969813e73354d0800000000000000
+      internalID: -3147110266092218804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder_88
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 293
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba0c7832bee389bb0800000000000000
+      internalID: -4929120612522671957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder_89
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 285
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f43179c48b04e0c60800000000000000
+      internalID: 7786231966073295695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder_90
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 286
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f31d858617c2e11d0800000000000000
+      internalID: -3378213804887715521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder_91
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 292
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52cee9d5df4cfdba0800000000000000
+      internalID: -6061909980940932059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder_92
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 282
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 362bc7d0afc810ea0800000000000000
+      internalID: -5908286230537391517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder_93
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 274
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8500fc570dd504c0800000000000000
+      internalID: -4321805243698379380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder_94
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 202
+        width: 69
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b82850e2b2f313870800000000000000
+      internalID: 8660773013098431115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder_95
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 200
+        width: 69
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f710c6690ffc32be0800000000000000
+      internalID: -1503129218388852353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder_96
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 200
+        width: 69
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22f540f5ebb29faa0800000000000000
+      internalID: -6126817721422946526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder_97
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 198
+        width: 69
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eaf34168ca0181f0800000000000000
+      internalID: -1044541782831662366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder_98
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 195
+        width: 69
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 156d497bfa37dd6c0800000000000000
+      internalID: -4117007285810309551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder_99
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 192
+        width: 69
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4f6ec629989e0220800000000000000
+      internalID: 2454066630511980365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder_100
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 187
+        width: 69
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91d746d7d77564b80800000000000000
+      internalID: -8410939057581556455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder_101
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 49
+        width: 69
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9df0c358a23214a0800000000000000
+      internalID: -6624176403367527012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder_102
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 42
+        width: 69
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7659035f8d6a35e50800000000000000
+      internalID: 6796959713388959079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breakable_platform_small_theBorder_103
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 74
+        width: 69
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed469da7264c0d810800000000000000
+      internalID: 1788144979312993502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      breakable_platform_small_theBorder_0: 3506581592820353211
+      breakable_platform_small_theBorder_1: 586548082546436323
+      breakable_platform_small_theBorder_10: 8503156101582895299
+      breakable_platform_small_theBorder_100: -8410939057581556455
+      breakable_platform_small_theBorder_101: -6624176403367527012
+      breakable_platform_small_theBorder_102: 6796959713388959079
+      breakable_platform_small_theBorder_103: 1788144979312993502
+      breakable_platform_small_theBorder_11: 4394863413457825233
+      breakable_platform_small_theBorder_12: 5984907715292519010
+      breakable_platform_small_theBorder_13: -8947112395442499113
+      breakable_platform_small_theBorder_14: 7954336814004580545
+      breakable_platform_small_theBorder_15: -6367304937924877780
+      breakable_platform_small_theBorder_16: -3812297255274900050
+      breakable_platform_small_theBorder_17: -2111640547637060646
+      breakable_platform_small_theBorder_18: -4946447570232522918
+      breakable_platform_small_theBorder_19: -3902205978169220077
+      breakable_platform_small_theBorder_2: 9022109039554633420
+      breakable_platform_small_theBorder_20: -9153133766036088209
+      breakable_platform_small_theBorder_21: 8657071176908187532
+      breakable_platform_small_theBorder_22: -733869993157608184
+      breakable_platform_small_theBorder_23: 2429003789944414463
+      breakable_platform_small_theBorder_24: 3270780443463480551
+      breakable_platform_small_theBorder_25: -256441256970941693
+      breakable_platform_small_theBorder_26: 5726972974889443991
+      breakable_platform_small_theBorder_27: -7509358981909566497
+      breakable_platform_small_theBorder_28: -147447826899135813
+      breakable_platform_small_theBorder_29: -6617391777379794057
+      breakable_platform_small_theBorder_3: -8191310273481587937
+      breakable_platform_small_theBorder_30: -8069334763549672836
+      breakable_platform_small_theBorder_31: 4730764882068205741
+      breakable_platform_small_theBorder_32: -5551507971542315256
+      breakable_platform_small_theBorder_33: -9115524884362301850
+      breakable_platform_small_theBorder_34: -8113843675661981009
+      breakable_platform_small_theBorder_35: -5173912176923983549
+      breakable_platform_small_theBorder_36: 6398874344149815666
+      breakable_platform_small_theBorder_37: -5266447374395774770
+      breakable_platform_small_theBorder_38: -7089026652414674403
+      breakable_platform_small_theBorder_39: 943006683006997754
+      breakable_platform_small_theBorder_4: 5865061716840144300
+      breakable_platform_small_theBorder_40: 238824280675251282
+      breakable_platform_small_theBorder_41: 5617936370977725232
+      breakable_platform_small_theBorder_42: 7590713250844916870
+      breakable_platform_small_theBorder_43: 6901143613859920374
+      breakable_platform_small_theBorder_44: -1599849730776939457
+      breakable_platform_small_theBorder_45: -5686897825447099384
+      breakable_platform_small_theBorder_46: 7317087706797158489
+      breakable_platform_small_theBorder_47: 9012856934755824939
+      breakable_platform_small_theBorder_48: 6157166024258361518
+      breakable_platform_small_theBorder_49: -8702711530451274725
+      breakable_platform_small_theBorder_5: 7188527730881221548
+      breakable_platform_small_theBorder_50: -7182451499209131461
+      breakable_platform_small_theBorder_51: 7930547821803797717
+      breakable_platform_small_theBorder_52: 696838293980021962
+      breakable_platform_small_theBorder_53: -2461893695091882777
+      breakable_platform_small_theBorder_54: 477026940990293341
+      breakable_platform_small_theBorder_55: -7772678614132978019
+      breakable_platform_small_theBorder_56: -6241874454314130701
+      breakable_platform_small_theBorder_57: -3162873463581110671
+      breakable_platform_small_theBorder_58: 3312592985488250723
+      breakable_platform_small_theBorder_59: 5837539524991116984
+      breakable_platform_small_theBorder_6: 903994966567691257
+      breakable_platform_small_theBorder_60: 1864973694374687962
+      breakable_platform_small_theBorder_61: 2386882352422363711
+      breakable_platform_small_theBorder_62: 2825636860043954559
+      breakable_platform_small_theBorder_63: -3324623264249008245
+      breakable_platform_small_theBorder_64: -2072589485316858166
+      breakable_platform_small_theBorder_65: -3769513405897453919
+      breakable_platform_small_theBorder_66: -8450404859506584341
+      breakable_platform_small_theBorder_67: -1711508872431479548
+      breakable_platform_small_theBorder_68: -732718148170560748
+      breakable_platform_small_theBorder_69: -8105139914936555252
+      breakable_platform_small_theBorder_7: -822689069496902792
+      breakable_platform_small_theBorder_70: -2225779492442670361
+      breakable_platform_small_theBorder_71: 9015690984924578319
+      breakable_platform_small_theBorder_72: 110256089896468901
+      breakable_platform_small_theBorder_73: 2870125674153428315
+      breakable_platform_small_theBorder_74: -4178662562391339881
+      breakable_platform_small_theBorder_75: 5067981887356609235
+      breakable_platform_small_theBorder_76: -1431104011372312624
+      breakable_platform_small_theBorder_77: 122687502032834838
+      breakable_platform_small_theBorder_78: -2770063582374194336
+      breakable_platform_small_theBorder_79: -8736499458840876161
+      breakable_platform_small_theBorder_8: 582183886130022942
+      breakable_platform_small_theBorder_80: -2327235022920927912
+      breakable_platform_small_theBorder_81: -9106128183531124813
+      breakable_platform_small_theBorder_82: 589114301777280012
+      breakable_platform_small_theBorder_83: -1775553050890864899
+      breakable_platform_small_theBorder_84: -8022951045002356597
+      breakable_platform_small_theBorder_85: 366163829608457433
+      breakable_platform_small_theBorder_86: -5742112022101365029
+      breakable_platform_small_theBorder_87: -3147110266092218804
+      breakable_platform_small_theBorder_88: -4929120612522671957
+      breakable_platform_small_theBorder_89: 7786231966073295695
+      breakable_platform_small_theBorder_9: 8412044990017798073
+      breakable_platform_small_theBorder_90: -3378213804887715521
+      breakable_platform_small_theBorder_91: -6061909980940932059
+      breakable_platform_small_theBorder_92: -5908286230537391517
+      breakable_platform_small_theBorder_93: -4321805243698379380
+      breakable_platform_small_theBorder_94: 8660773013098431115
+      breakable_platform_small_theBorder_95: -1503129218388852353
+      breakable_platform_small_theBorder_96: -6126817721422946526
+      breakable_platform_small_theBorder_97: -1044541782831662366
+      breakable_platform_small_theBorder_98: -4117007285810309551
+      breakable_platform_small_theBorder_99: 2454066630511980365
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

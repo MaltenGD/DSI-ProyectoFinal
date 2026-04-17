@@ -1,0 +1,715 @@
+fileFormatVersion: 2
+guid: 9bf5a001aca474848b60b1285f7afb66
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -956643850281137892
+    second: golden-face-room-spritesheet_0
+  - first:
+      213: -6290855688800085118
+    second: golden-face-room-spritesheet_1
+  - first:
+      213: 5864846003497896025
+    second: golden-face-room-spritesheet_2
+  - first:
+      213: -6703342979521837953
+    second: golden-face-room-spritesheet_3
+  - first:
+      213: 5408029382672827357
+    second: golden-face-room-spritesheet_4
+  - first:
+      213: 7969146960773650468
+    second: golden-face-room-spritesheet_5
+  - first:
+      213: 2325473740673948292
+    second: golden-face-room-spritesheet_6
+  - first:
+      213: 9119909125276306888
+    second: golden-face-room-spritesheet_7
+  - first:
+      213: -7068034380281386386
+    second: golden-face-room-spritesheet_8
+  - first:
+      213: -6807570940489171560
+    second: golden-face-room-spritesheet_9
+  - first:
+      213: -3105838655095072750
+    second: golden-face-room-spritesheet_10
+  - first:
+      213: 7456303283145955785
+    second: golden-face-room-spritesheet_11
+  - first:
+      213: -3351722402113785189
+    second: golden-face-room-spritesheet_12
+  - first:
+      213: 1715117756150043880
+    second: golden-face-room-spritesheet_13
+  - first:
+      213: -1667148977952444561
+    second: golden-face-room-spritesheet_14
+  - first:
+      213: -6047147633714528809
+    second: golden-face-room-spritesheet_15
+  - first:
+      213: -1610360138849471257
+    second: golden-face-room-spritesheet_16
+  - first:
+      213: -3120350684874214139
+    second: golden-face-room-spritesheet_17
+  - first:
+      213: 8609711595137015170
+    second: golden-face-room-spritesheet_18
+  - first:
+      213: 3569037817692700878
+    second: golden-face-room-spritesheet_19
+  - first:
+      213: 6512614631679170743
+    second: golden-face-room-spritesheet_20
+  - first:
+      213: -6302672624030573365
+    second: golden-face-room-spritesheet_21
+  - first:
+      213: -8282142619020172912
+    second: golden-face-room-spritesheet_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: golden-face-room-spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 683
+        width: 136
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c194e679c7159b2f0800000000000000
+      internalID: -956643850281137892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden-face-room-spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 1000
+        width: 66
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28b53d7d41462b8a0800000000000000
+      internalID: -6290855688800085118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden-face-room-spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 1000
+        width: 66
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9588cdced5e146150800000000000000
+      internalID: 5864846003497896025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden-face-room-spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 1000
+        width: 66
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f740ef17311f8f2a0800000000000000
+      internalID: -6703342979521837953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden-face-room-spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 933
+        width: 130
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd3c611121e2d0b40800000000000000
+      internalID: 5408029382672827357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden-face-room-spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 827
+        width: 109
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4281ccf30f8189e60800000000000000
+      internalID: 7969146960773650468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden-face-room-spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 720
+        width: 160
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48a9e57db0eb54020800000000000000
+      internalID: 2325473740673948292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden-face-room-spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 603
+        width: 174
+        height: 362
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cd00f3b70d609e70800000000000000
+      internalID: 9119909125276306888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden-face-room-spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 827
+        width: 103
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6a641fdd2c49ed90800000000000000
+      internalID: -7068034380281386386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden-face-room-spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 927
+        width: 73
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89dfed43c46a681a0800000000000000
+      internalID: -6807570940489171560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden-face-room-spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 803
+        width: 40
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2189169d238d5e4d0800000000000000
+      internalID: -3105838655095072750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden-face-room-spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 803
+        width: 67
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c95e71b45c1a7760800000000000000
+      internalID: 7456303283145955785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden-face-room-spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 864
+        width: 247
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b92f944cb3a4c71d0800000000000000
+      internalID: -3351722402113785189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden-face-room-spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 859
+        width: 73
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e4d94b13825dc710800000000000000
+      internalID: 1715117756150043880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden-face-room-spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 843
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6f2d7566d81dd8e0800000000000000
+      internalID: -1667148977952444561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden-face-room-spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 842
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ddf91c2447341ca0800000000000000
+      internalID: -6047147633714528809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden-face-room-spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 751
+        width: 76
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e4bd6b5cf9d6a9e0800000000000000
+      internalID: -1610360138849471257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden-face-room-spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 749
+        width: 167
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 505fc6d959942b4d0800000000000000
+      internalID: -3120350684874214139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden-face-room-spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 692
+        width: 101
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28d14be5417db7770800000000000000
+      internalID: 8609711595137015170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden-face-room-spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 343
+        width: 452
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec042815cf4c78130800000000000000
+      internalID: 3569037817692700878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden-face-room-spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 364
+        width: 282
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b89f309084716a50800000000000000
+      internalID: 6512614631679170743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden-face-room-spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 310
+        width: 280
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcc141534a86888a0800000000000000
+      internalID: -6302672624030573365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden-face-room-spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 251
+        width: 951
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 091ed2e2b2bef0d80800000000000000
+      internalID: -8282142619020172912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      golden-face-room-spritesheet_0: -956643850281137892
+      golden-face-room-spritesheet_1: -6290855688800085118
+      golden-face-room-spritesheet_10: -3105838655095072750
+      golden-face-room-spritesheet_11: 7456303283145955785
+      golden-face-room-spritesheet_12: -3351722402113785189
+      golden-face-room-spritesheet_13: 1715117756150043880
+      golden-face-room-spritesheet_14: -1667148977952444561
+      golden-face-room-spritesheet_15: -6047147633714528809
+      golden-face-room-spritesheet_16: -1610360138849471257
+      golden-face-room-spritesheet_17: -3120350684874214139
+      golden-face-room-spritesheet_18: 8609711595137015170
+      golden-face-room-spritesheet_19: 3569037817692700878
+      golden-face-room-spritesheet_2: 5864846003497896025
+      golden-face-room-spritesheet_20: 6512614631679170743
+      golden-face-room-spritesheet_21: -6302672624030573365
+      golden-face-room-spritesheet_22: -8282142619020172912
+      golden-face-room-spritesheet_3: -6703342979521837953
+      golden-face-room-spritesheet_4: 5408029382672827357
+      golden-face-room-spritesheet_5: 7969146960773650468
+      golden-face-room-spritesheet_6: 2325473740673948292
+      golden-face-room-spritesheet_7: 9119909125276306888
+      golden-face-room-spritesheet_8: -7068034380281386386
+      golden-face-room-spritesheet_9: -6807570940489171560
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

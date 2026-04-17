@@ -1,0 +1,663 @@
+fileFormatVersion: 2
+guid: 11ec29b839be6a34b94338b3d8c10bf1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2216686122215255460
+    second: DMK_death_0
+  - first:
+      213: 9000124889609946051
+    second: DMK_death_1
+  - first:
+      213: 8682620899807072002
+    second: DMK_death_2
+  - first:
+      213: -3855109873835876241
+    second: DMK_death_3
+  - first:
+      213: 1720922837832178273
+    second: DMK_death_4
+  - first:
+      213: 7784982052942912804
+    second: DMK_death_5
+  - first:
+      213: 2015757183549832686
+    second: DMK_death_6
+  - first:
+      213: 3732831883163038431
+    second: DMK_death_7
+  - first:
+      213: -1649379252550823924
+    second: DMK_death_8
+  - first:
+      213: -4854704702156173360
+    second: DMK_death_9
+  - first:
+      213: 6725650347940559398
+    second: DMK_death_10
+  - first:
+      213: -164427270549154128
+    second: DMK_death_11
+  - first:
+      213: -667302589171200526
+    second: DMK_death_12
+  - first:
+      213: -729919449259236512
+    second: DMK_death_13
+  - first:
+      213: 4061886559397617760
+    second: DMK_death_14
+  - first:
+      213: 1534167191900642493
+    second: DMK_death_15
+  - first:
+      213: -3991588063780166895
+    second: DMK_death_16
+  - first:
+      213: 2601267907015686615
+    second: DMK_death_17
+  - first:
+      213: -5478884087194965578
+    second: DMK_death_18
+  - first:
+      213: -8039246832010248939
+    second: DMK_death_19
+  - first:
+      213: -6278326012644309240
+    second: DMK_death_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DMK_death_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 199
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4adad2d984043ce10800000000000000
+      internalID: 2216686122215255460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DMK_death_1
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 201
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c34a5307edd6ec70800000000000000
+      internalID: 9000124889609946051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DMK_death_2
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 201
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20f0264b4bdde7870800000000000000
+      internalID: 8682620899807072002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DMK_death_3
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 201
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6069e7bef5ef7ac0800000000000000
+      internalID: -3855109873835876241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DMK_death_4
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 137
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16a18d20432f1e710800000000000000
+      internalID: 1720922837832178273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DMK_death_5
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 137
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42d14783eefc90c60800000000000000
+      internalID: 7784982052942912804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DMK_death_6
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 136
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eedfdee7a7869fb10800000000000000
+      internalID: 2015757183549832686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DMK_death_7
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 136
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd27f2202deadc330800000000000000
+      internalID: 3732831883163038431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DMK_death_8
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 85
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c001fcffe4a3c19e0800000000000000
+      internalID: -1649379252550823924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DMK_death_9
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 97
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0df00927bcf90acb0800000000000000
+      internalID: -4854704702156173360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DMK_death_10
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 85
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62aba708b5f465d50800000000000000
+      internalID: 6725650347940559398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DMK_death_11
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 97
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b6d783c446d7bdf0800000000000000
+      internalID: -164427270549154128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DMK_death_12
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 87
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fd80c6a4d34db6f0800000000000000
+      internalID: -667302589171200526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DMK_death_13
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 100
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0632140d02eced5f0800000000000000
+      internalID: -729919449259236512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DMK_death_14
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 85
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06024d21e48be5830800000000000000
+      internalID: 4061886559397617760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DMK_death_15
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 87
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbcdb43cee47a4510800000000000000
+      internalID: 1534167191900642493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DMK_death_16
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 100
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 113a1b8edc70b98c0800000000000000
+      internalID: -3991588063780166895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DMK_death_17
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 79
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d93b4b116f891420800000000000000
+      internalID: 2601267907015686615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DMK_death_18
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 17
+        width: 18
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b9243973f717f3b0800000000000000
+      internalID: -5478884087194965578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DMK_death_19
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 74
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51d385c999bde6090800000000000000
+      internalID: -8039246832010248939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DMK_death_20
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 79
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 807cd3861c7eed8a0800000000000000
+      internalID: -6278326012644309240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      DMK_death_0: 2216686122215255460
+      DMK_death_1: 9000124889609946051
+      DMK_death_10: 6725650347940559398
+      DMK_death_11: -164427270549154128
+      DMK_death_12: -667302589171200526
+      DMK_death_13: -729919449259236512
+      DMK_death_14: 4061886559397617760
+      DMK_death_15: 1534167191900642493
+      DMK_death_16: -3991588063780166895
+      DMK_death_17: 2601267907015686615
+      DMK_death_18: -5478884087194965578
+      DMK_death_19: -8039246832010248939
+      DMK_death_2: 8682620899807072002
+      DMK_death_20: -6278326012644309240
+      DMK_death_3: -3855109873835876241
+      DMK_death_4: 1720922837832178273
+      DMK_death_5: 7784982052942912804
+      DMK_death_6: 2015757183549832686
+      DMK_death_7: 3732831883163038431
+      DMK_death_8: -1649379252550823924
+      DMK_death_9: -4854704702156173360
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
