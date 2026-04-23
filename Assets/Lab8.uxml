@@ -28,26 +28,29 @@
         <ui:VisualElement name="Contenido" class="content-area">
             <ui:VisualElement name="Rosary_Beads-content" class="content-panel" style="display: flex;">
                 <ui:Label text="ROSARY BEADS" name="Rosary_Beds_Title" class="tab-label" style="-unity-text-align: upper-center; align-self: auto; white-space: pre; width: 583px; display: flex; right: 35%;"/>
-                <ui:VisualElement name="LeftSide" style="flex-grow: 1; background-color: rgba(201, 0, 0, 0.71);">
-                    <ui:VisualElement name="ShortDescr" class="description-panel" style="background-color: rgb(20, 12, 4);">
+                <ui:VisualElement name="LeftSide" style="flex-grow: 1; background-color: rgba(201, 0, 0, 0.71); margin-left: 184px;">
+                    <ui:VisualElement name="ShortDescr" class="description-panel" style="background-image: url(&quot;project://database/Assets/Sprites/inventory-spritesheet.png?fileID=-6714542825492375905&amp;guid=b85be68a78869e44b854d0e206629917&amp;type=3#inventory-spritesheet_98&quot;); -unity-slice-left: 0; -unity-slice-top: 0; -unity-slice-right: 0; -unity-slice-bottom: 0;">
                         <ui:VisualElement name="ItemName" style="flex-grow: 1; height: 30%; min-height: 30%; max-height: 30%; margin-top: 5%; margin-right: 5%; margin-bottom: 5%; margin-left: 5%; flex-direction: row; align-items: center; justify-content: space-between; align-self: stretch; display: flex;">
-                            <ui:VisualElement name="ItemIco" style="flex-grow: 1; width: 10%; height: 30%; min-width: 20%; min-height: 80%; background-color: rgba(0, 0, 0, 0.67); flex-direction: row; max-width: 20%; max-height: 80%; margin-right: 5%;"/>
-                            <ui:Label text="Label" style="min-width: 30%;"/>
+                            <ui:VisualElement name="ItemIco" class="item-slot" style="justify-content: center; align-items: center; flex-grow: 1; background-size: 100% 100%; max-height: 91px; max-width: 91px; min-height: 91px; min-width: 91px;"/>
+                            <ui:Label text="Item description" class="item-name" style="-unity-font-definition: url(&quot;project://database/Assets/hud-items-menu-vfx%20-%20blas%201/Fonts/blasphemous.otf?fileID=12800000&amp;guid=43ac5bc94e74bc146a2c730fe84017d2&amp;type=3#blasphemous&quot;); font-size: 50px;"/>
                         </ui:VisualElement>
                         <ui:ScrollView style="padding-bottom: 2%;">
                             <ui:Label text="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum." class="description-label"/>
                         </ui:ScrollView>
                     </ui:VisualElement>
-                    <ui:VisualElement name="ItemSlots" style="flex-grow: 1; background-color: rgb(69, 116, 50); height: 100%; min-height: 40%; max-height: 40%; flex-direction: row; width: 100%; min-width: 100%; max-width: 100%; padding-top: 5%; padding-right: 5%; padding-bottom: 5%; padding-left: 5%;">
-                        <ui:VisualElement name="Item" class="item-slot"/>
-                        <ui:VisualElement name="Item" style="flex-grow: 1; width: 10%; min-width: 15%; max-width: 10%; height: 20%; min-height: 35%; max-height: 10%; background-color: rgb(0, 0, 0); margin-right: 5px; margin-bottom: 5px;"/>
-                        <ui:VisualElement name="Item" style="flex-grow: 1; width: 10%; min-width: 15%; max-width: 10%; height: 20%; min-height: 35%; max-height: 10%; background-color: rgb(0, 0, 0); margin-right: 5px; margin-bottom: 5px;"/>
-                        <ui:VisualElement name="Item" style="flex-grow: 1; width: 10%; min-width: 15%; max-width: 10%; height: 20%; min-height: 35%; max-height: 10%; background-color: rgb(0, 0, 0); margin-right: 5px; margin-bottom: 5px;"/>
-                        <ui:VisualElement name="Item" style="flex-grow: 1; width: 10%; min-width: 15%; max-width: 10%; height: 20%; min-height: 35%; max-height: 10%; background-color: rgb(0, 0, 0); margin-right: 5px; margin-bottom: 5px;"/>
-                        <ui:VisualElement name="Item" style="flex-grow: 1; width: 10%; min-width: 15%; max-width: 10%; height: 20%; min-height: 35%; max-height: 10%; background-color: rgb(0, 0, 0); margin-right: 5px; margin-bottom: 5px;"/>
+                    <ui:VisualElement name="ItemSlots" style="flex-grow: 1; background-color: rgb(20, 16, 12); height: 100%; min-height: 40%; max-height: 40%; flex-direction: row; width: 100%; min-width: 100%; max-width: 100%; padding-top: 0%; padding-right: 0%; padding-bottom: 0%; padding-left: 1%; white-space: normal; align-content: auto; flex-wrap: wrap;">
+                        <ui:VisualElement name="Item" enabled="true" class="item-slot" style="font-size: 0; align-items: flex-end; justify-content: center; background-size: 85% 100%; align-content: auto;"/>
+                        <ui:VisualElement name="Item" enabled="true" class="item-slot" style="font-size: 0; align-items: flex-end; justify-content: center; background-size: 85% 100%;"/>
+                        <ui:VisualElement name="Item" enabled="true" class="item-slot" style="font-size: 0; align-items: flex-end; justify-content: center; background-size: 85% 100%;"/>
+                        <ui:VisualElement name="Item" enabled="true" class="item-slot" style="font-size: 0; align-items: flex-end; justify-content: center; background-size: 85% 100%;"/>
+                        <ui:VisualElement name="Item" enabled="true" class="item-slot" style="font-size: 0; align-items: flex-end; justify-content: center; background-size: 85% 100%;"/>
+                        <ui:VisualElement name="Item" enabled="true" class="item-slot" style="font-size: 0; align-items: flex-end; justify-content: center; background-size: 85% 100%;"/>
+                        <ui:VisualElement name="Item" enabled="true" class="item-slot" style="font-size: 0; align-items: flex-end; justify-content: center; background-size: 85% 100%;"/>
+                        <ui:VisualElement name="Item" enabled="true" class="item-slot" style="font-size: 0; align-items: flex-end; justify-content: center; background-size: 85% 100%;"/>
+                        <ui:VisualElement name="Item" enabled="true" class="item-slot" style="font-size: 0; align-items: flex-end; justify-content: center; background-size: 85% 100%;"/>
                     </ui:VisualElement>
                 </ui:VisualElement>
-                <ui:VisualElement name="Equipped" style="flex-grow: 1; background-color: rgba(96, 80, 116, 0.71); width: 10%; min-width: 10%; max-width: 10%; flex-direction: column-reverse; padding-top: 1%; padding-right: 1%; padding-bottom: 12%; padding-left: 1%;">
+                <ui:VisualElement name="Equipped" style="flex-grow: 1; background-color: rgba(20, 16, 12, 0.71); width: 10%; min-width: 10%; max-width: 10%; flex-direction: column-reverse; padding-top: 1%; padding-right: 1%; padding-bottom: 12%; padding-left: 1%;">
                     <ui:VisualElement name="Decor" style="flex-grow: 1; width: 100%; min-width: 100%; max-width: 100%; height: 30%; min-height: 10%; max-height: 10%; background-color: rgb(97, 91, 50);"/>
                     <ui:VisualElement name="Item" style="flex-grow: 1; width: 100%; min-width: 100%; max-width: 100%; height: 30%; min-height: 15%; max-height: 10%; background-color: rgb(0, 0, 0);"/>
                     <ui:VisualElement name="Decor" style="flex-grow: 1; width: 100%; min-width: 100%; max-width: 100%; height: 30%; min-height: 10%; max-height: 10%; background-color: rgb(97, 91, 50);"/>
