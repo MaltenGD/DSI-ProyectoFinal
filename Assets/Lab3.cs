@@ -10,7 +10,7 @@ public class Lab3 : MonoBehaviour
     {
         VisualElement root = GetComponent<UIDocument>().rootVisualElement;
 
-        VisualElement izda = root.Q("ItemInfo");
+        VisualElement izda = root.Q("ItemSlots");
         VisualElement dcha = root.Q("Equipped");
 
         izda.AddManipulator(new Lab3Manipulator());
