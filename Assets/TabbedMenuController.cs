@@ -128,7 +128,11 @@ namespace UIToolkitDemo
 
             // unhide the content
             VisualElement content = FindContent(tab);
-            content?.RemoveFromClassList(m_IDs.unselectedContentClassName);
+            if (content != null)
+            {
+                content.RemoveFromClassList(m_IDs.unselectedContentClassName);
+                content.style.display = DisplayStyle.Flex;
+            }
 
             // notify other objects 
             TabSelected?.Invoke();
@@ -159,7 +163,11 @@ namespace UIToolkitDemo
 
             // hide corresponding content
             VisualElement content = FindContent(tab);
-            content?.AddToClassList(m_IDs.unselectedContentClassName);
+            if (content != null)
+            {
+                content.AddToClassList(m_IDs.unselectedContentClassName);
+                content.style.display = DisplayStyle.None;
+            }
         }
 
         public void StartMenu()

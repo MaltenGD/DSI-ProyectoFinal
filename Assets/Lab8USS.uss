@@ -219,14 +219,28 @@
     align-items: center;
     align-content: auto;
     align-self: auto;
-    justify-content: space-evenly;
+    justify-content: center;
     background-image: url("project://database/Assets/Sprites/inventory-spritesheet.png?fileID=-8628712618898103002&guid=b85be68a78869e44b854d0e206629917&type=3#inventory-spritesheet_46");
     margin-right: 0;
     flex-shrink: 0;
     scale: 1 1;
     aspect-ratio: 1;
     -unity-background-scale-mode: stretch-to-fill;
-    margin-bottom: 10px;
+    overflow: hidden;
+    -unity-picking-mode: ignore;
+}
+
+.item-slot-image {
+    width: 65%;
+    height: 65%;
+    max-width: 65%;
+    max-height: 65%;
+    flex-grow: 0;
+    margin: 0;
+    padding: 0;
+    align-self: center;
+    justify-self: center;
+    -unity-background-scale-mode: scale-to-fit;
 }
 
 .item-name {
@@ -234,5 +248,3 @@
     color: rgb(241, 208, 71);
     font-size: 96px;
 }
-
-
