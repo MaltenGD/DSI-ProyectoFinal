@@ -67,6 +67,11 @@ public class Lab3Dragger : PointerManipulator
         target.style.position = Position.Absolute;
         target.style.left = target.worldBound.xMin;
         target.style.top = target.worldBound.yMin;
+        
+        Vector2 pointerPosition = target.parent.WorldToLocal(evt.position);
+        target.style.left = pointerPosition.x - m_PointerOffset.x;
+        target.style.top = pointerPosition.y - m_PointerOffset.y;
+        
         target.BringToFront();
         target.CapturePointer(m_PointerId);
         evt.StopPropagation();
