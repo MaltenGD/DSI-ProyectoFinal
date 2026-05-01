@@ -2682,10 +2682,10 @@ TextureImporter:
       name: inventory-spritesheet_89
       rect:
         serializedVersion: 2
-        x: 49
-        y: 346
-        width: 45
-        height: 74
+        x: 50
+        y: 341
+        width: 22
+        height: 20
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3386,9 +3386,9 @@ TextureImporter:
       name: inventory-spritesheet_121
       rect:
         serializedVersion: 2
-        x: 78
+        x: 75
         y: 342
-        width: 7
+        width: 14
         height: 20
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -3628,9 +3628,9 @@ TextureImporter:
       name: inventory-spritesheet_132
       rect:
         serializedVersion: 2
-        x: 76
+        x: 72
         y: 320
-        width: 11
+        width: 19
         height: 20
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -3650,9 +3650,9 @@ TextureImporter:
       name: inventory-spritesheet_133
       rect:
         serializedVersion: 2
-        x: 86
+        x: 94
         y: 321
-        width: 27
+        width: 19
         height: 19
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -5318,6 +5318,28 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: inventory-spritesheet_209
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 361
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b9895b4f1877394ea482b728f53b462
+      internalID: -426576155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
@@ -5455,6 +5477,7 @@ TextureImporter:
       inventory-spritesheet_206: 2750273288430552741
       inventory-spritesheet_207: -8713136440814753742
       inventory-spritesheet_208: -602571898
+      inventory-spritesheet_209: -426576155
       inventory-spritesheet_21: -5584183150946900416
       inventory-spritesheet_22: -4768418213661892150
       inventory-spritesheet_23: -5037467116111728895
