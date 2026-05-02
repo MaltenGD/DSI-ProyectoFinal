@@ -299,14 +299,37 @@
     font-size: 0;
     align-items: flex-end;
     justify-content: center;
-    background-size: 85% 100%;
+    background-size: 100% 100%;
     min-width: 80%;
     max-width: 80%;
     max-height: 17%;
     min-height: 17%;
     -unity-background-scale-mode: scale-to-fit;
     flex-direction: row;
-    background-image: url("project://database/Assets/Sprites/inventory-spritesheet.png?fileID=5626832499270552019&guid=b85be68a78869e44b854d0e206629917&type=3#inventory-spritesheet_87");
+    background-image: none;
     top: 0%;
     position: relative;
+}
+
+.skill-deactivated {
+    background-size: 100% 100%;
+    background-image: url("project://database/Assets/Sprites/inventory-spritesheet.png?fileID=5626832499270552019&guid=b85be68a78869e44b854d0e206629917&type=3#inventory-spritesheet_87");
+}
+
+.skill-activated {
+    background-size: 100% 100%;
+    background-image: url("project://database/Assets/Sprites/inventory-spritesheet.png?fileID=-261853387&guid=b85be68a78869e44b854d0e206629917&type=3#inventory-spritesheet_210");
+}
+
+.skill-image {
+    width: 65%;
+    height: 65%;
+    max-width: 65%;
+    max-height: 65%;
+    flex-grow: 0;
+    margin: 0;
+    padding: 0;
+    align-self: center;
+    justify-self: center;
+    -unity-background-scale-mode: scale-to-fit;
 }
