@@ -2638,10 +2638,10 @@ TextureImporter:
       name: inventory-spritesheet_87
       rect:
         serializedVersion: 2
-        x: 1
-        y: 389
-        width: 29
-        height: 29
+        x: 2
+        y: 390
+        width: 27
+        height: 27
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2880,13 +2880,13 @@ TextureImporter:
       name: inventory-spritesheet_98
       rect:
         serializedVersion: 2
-        x: 238
-        y: 183
-        width: 274
-        height: 234
+        x: 239
+        y: 184
+        width: 272
+        height: 232
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 28, y: 23, z: 28, w: 23}
       customData: 
       outline: []
       physicsShape: []
@@ -4597,12 +4597,12 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 238
-        y: 18
+        y: 30
         width: 274
-        height: 165
+        height: 153
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 22, y: 34, z: 25, w: 22}
       customData: 
       outline: []
       physicsShape: []
@@ -5340,6 +5340,50 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: inventory-spritesheet_210
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 388
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b48e414496ebd4438f2eb0ebe659ede
+      internalID: -261853387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inventory-spritesheet_211
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 389
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02d9d81a42674514f815709d1f86c677
+      internalID: -1739319154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
@@ -5479,6 +5523,8 @@ TextureImporter:
       inventory-spritesheet_208: -602571898
       inventory-spritesheet_209: -426576155
       inventory-spritesheet_21: -5584183150946900416
+      inventory-spritesheet_210: -261853387
+      inventory-spritesheet_211: -1739319154
       inventory-spritesheet_22: -4768418213661892150
       inventory-spritesheet_23: -5037467116111728895
       inventory-spritesheet_24: -3011339951707021593

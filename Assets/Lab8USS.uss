@@ -249,14 +249,6 @@
     font-size: 96px;
 }
 
-
-
-
-
-
-
-
-
 .custom-scroll .unity-scroll-view__vertical-scroller {
     scale: 2 1;
 }
@@ -265,17 +257,18 @@
     background-color: rgba(255, 0, 0, 0);
     background-image: url("project://database/Assets/hud-items-menu-vfx%20-%20blas%201/UI/inventory-spritesheet.png?fileID=6401756201851412609&guid=63c3e18ce35ce1945a205c9f8ba20f42&type=3#inventory-spritesheet_2");
     border-color: rgba(0, 0, 0, 0);
-    -unity-background-scale-mode: stretch-to-fill;
+    -unity-background-scale-mode: scale-to-fit;
     -unity-background-image-tint-color: rgb(255, 255, 255);
     background-position: center;
     width: 100%;
     height: 30%;
     translate: 0 -21px;
+    background-size: 100% 100%;
 }
 
 .custom-scroll #unity-high-button {
     background-image: url("project://database/Assets/hud-items-menu-vfx%20-%20blas%201/UI/inventory-spritesheet.png?fileID=6401756201851412609&guid=63c3e18ce35ce1945a205c9f8ba20f42&type=3#inventory-spritesheet_2");
-    -unity-background-scale-mode: stretch-to-fill;
+    -unity-background-scale-mode: scale-to-fit;
     -unity-background-image-tint-color: rgb(255, 255, 255);
     background-color: rgba(0, 0, 0, 0);
     border-color: rgba(0, 0, 0, 0);
@@ -283,6 +276,7 @@
     translate: 0 21px;
     height: 30%;
     width: 100%;
+    background-size: 100% 100%;
 }
 
 .custom-scroll #unity-dragger {
@@ -290,7 +284,7 @@
     background-color: rgba(255, 0, 0, 0);
     -unity-background-scale-mode: scale-to-fit;
     background-position: center;
-    background-size: 109% 63%;
+    background-size: 109% 50%;
 }
 
 .custom-scroll #unity-tracker {
