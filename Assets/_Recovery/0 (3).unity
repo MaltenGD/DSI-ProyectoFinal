@@ -431,10 +431,9 @@ GameObject:
   - component: {fileID: 1132251044}
   - component: {fileID: 1132251046}
   - component: {fileID: 1132251047}
-  - component: {fileID: 1132251050}
   - component: {fileID: 1132251048}
   - component: {fileID: 1132251049}
-  - component: {fileID: 1132251051}
+  - component: {fileID: 1132251050}
   m_Layer: 5
   m_Name: UIDocument
   m_TagString: Untagged
@@ -531,7 +530,7 @@ MonoBehaviour:
   m_UiScaleMode: 1
   m_ReferencePixelsPerUnit: 100
   m_ScaleFactor: 1
-  m_ReferenceResolution: {x: 1920, y: 1080}
+  m_ReferenceResolution: {x: 2560, y: 1440}
   m_ScreenMatchMode: 0
   m_MatchWidthOrHeight: 1
   m_PhysicalUnit: 3
@@ -571,23 +570,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 1132251043}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6be87e7d6591bb549b8fd100d8268cda, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::SkillToggle
-  uiDocument: {fileID: 1132251044}
---- !u!114 &1132251051
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1132251043}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 73d3d4e336c97a64199ed4d4a68e4867, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Laboratorio6
-  uiDocument: {fileID: 1132251044}
+  uiDocument: {fileID: 0}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0

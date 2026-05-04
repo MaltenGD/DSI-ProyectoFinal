@@ -1,0 +1,24 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <Style src="project://database/Assets/Lab6/header.uss?fileID=7433441132597879392&amp;guid=2778d49720d2b8940952158796c7ec72&amp;type=3#header" />
+    <ui:VisualElement name="Contenedor" style="flex-grow: 1; flex-direction: row; width: auto; background-color: rgb(3, 0, 39);">
+        <ui:VisualElement name="Izda" style="flex-grow: 1; width: 60%; max-width: 40%; min-width: 40%; background-color: rgb(178, 137, 0);">
+            <ui:VisualElement name="headerImg" class="cabeza" style="flex-grow: 1; flex-direction: row;">
+                <ui:VisualElement style="flex-grow: 1; background-image: url(&quot;project://database/Assets/Resources/Goomba.png?fileID=2800000&amp;guid=bd3198930ae6caf4887bde573f7f576c&amp;type=3#Goomba&quot;);" />
+                <ui:VisualElement name="VisualElement" style="flex-grow: 1; background-image: url(&quot;project://database/Assets/Resources/Koopa.png?fileID=2800000&amp;guid=5f57770f82f90cf46a5d0b8cba9d5fe1&amp;type=3#Koopa&quot;);" />
+                <ui:VisualElement style="flex-grow: 1; background-image: url(&quot;project://database/Assets/Resources/Hades.png?fileID=2800000&amp;guid=f93a93772344ee14dbf71a718ed8c095&amp;type=3#Hades&quot;);" />
+            </ui:VisualElement>
+            <ui:VisualElement name="mid-nombre" style="flex-grow: 1; align-items: center;">
+                <ui:TextField picking-mode="Ignore" label="Nombre" value="escribe aquí tu nombre" name="InputNombre" style="-unity-font-style: bold; -unity-text-outline-color: rgba(0, 0, 0, 0); align-items: center; justify-content: space-around; align-self: flex-end; width: 100%;" />
+            </ui:VisualElement>
+            <ui:VisualElement name="mid-apellido" style="flex-grow: 1; align-items: center;">
+                <ui:TextField picking-mode="Ignore" label="Apellido" value="escribe aquí tu apellido" name="InputApellido" style="-unity-font-style: bold; -unity-text-outline-color: rgba(0, 0, 0, 0); align-items: center; justify-content: space-around; align-self: flex-end; width: 100%;" />
+            </ui:VisualElement>
+            <ui:VisualElement name="bottom" style="flex-grow: 1; align-items: center;">
+                <ui:Toggle label="Modificar" name="ToggleModificar" style="width: 100%;" />
+                <ui:Button text="Crear" parse-escape-sequences="true" display-tooltip-when-elided="true" name="BotonCrear" />
+                <ui:Button text="GUARDAR" parse-escape-sequences="true" display-tooltip-when-elided="true" name="BotonGuardar" style="background-color: rgb(185, 228, 207);" />
+            </ui:VisualElement>
+        </ui:VisualElement>
+        <ui:VisualElement name="Dcha" style="flex-grow: 1; min-height: 100%; max-height: 100%; height: 100px; background-color: rgba(7, 105, 0, 0); width: 60%; max-width: 60%; min-width: 60%; flex-direction: row; flex-wrap: wrap; align-items: flex-start; justify-content: flex-start; align-self: center; flex-basis: 0%; flex-shrink: 1;" />
+    </ui:VisualElement>
+</ui:UXML>

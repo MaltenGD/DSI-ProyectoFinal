@@ -5,21 +5,25 @@ using UnityEngine.UIElements;
 
 public class Lab3Manipulator : MouseManipulator
 {
-    public Lab3Manipulator()
+    private Laboratorio6 controller;
+
+    public Lab3Manipulator(Laboratorio6 controller)
     {
-        //activators.Add(new ManipulatorActivationFilter { button = MouseButton.RightMouse });
+        this.controller = controller;
     }
 
     // Start is called before the first frame update
     protected override void RegisterCallbacksOnTarget()
     {
         target.RegisterCallback<MouseEnterEvent>(OnMouseEnter);
+        target.RegisterCallback<ClickEvent>(OnClick);
     }
 
     // Update is called once per frame
     protected override void UnregisterCallbacksFromTarget()
     {
         target.UnregisterCallback<MouseEnterEvent>(OnMouseEnter);
+        target.UnregisterCallback<ClickEvent>(OnClick);
     }
 
     private void OnMouseEnter(MouseEnterEvent mev)
@@ -40,5 +44,26 @@ public class Lab3Manipulator : MouseManipulator
         target.style.borderLeftColor = Color.white;
         target.style.borderRightColor = Color.white;
         target.style.borderTopColor = Color.white;
+
+
+        Debug.Log(target.name + ": Click en Elemento");
+
+        var item = target.userData as ItemDataJSON;
+        if (item == null) return;
+
+        // Aquí necesitas referencia al script principal
+        controller.OnItemClicked(target);
+    }
+
+    private void OnClick(ClickEvent evt)
+    {
+        Debug.Log(target.name + ": Click en Elemento");
+
+        var item = target.userData as ItemDataJSON;
+        if (item == null) return;
+
+        // Aquí necesitas referencia al script principal
+        controller.OnItemClicked(target);
+
     }
 }

@@ -1,0 +1,22 @@
+{
+  "items": [
+    {
+      "id": "bead_red",
+      "name": "Bead of Red Wax",
+      "description": "Increases maximum vitality.",
+      "iconName": "items-icons-spritesheet_114"
+    },
+    {
+      "id": "relic_eye",
+      "name": "Eye of the Traitor",
+      "description": "Reveals hidden paths.",
+      "iconName": "items-icons-spritesheet_115"
+    },
+    {
+      "id": "prayer_light",
+      "name": "Light Prayer",
+      "description": "Emits a sacred beam.",
+      "iconName": "items-icons-spritesheet_116"
+    }
+  ]
+}
